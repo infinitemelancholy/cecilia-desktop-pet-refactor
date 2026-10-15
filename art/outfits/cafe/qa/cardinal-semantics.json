@@ -1,0 +1,11 @@
+{
+  "review_size": "192x208 per extracted cell",
+  "directions": [
+    {"expected":"000 up","observed":"up","verdict":"pass","evidence":"Chin is lifted, the nose/mouth sits higher in the face, both irises aim toward the upper eyelids; anchored apron and feet stay frontal."},
+    {"expected":"090 screen-right","observed":"screen-right","verdict":"pass","evidence":"Head yaws right, nose/mouth projects right of skull center, both eye surfaces aim toward the image right edge; body remains front-facing."},
+    {"expected":"180 down","observed":"down","verdict":"pass","evidence":"Chin tucks, visible green irises sit low under lowered eyelids and bangs, mouth sits lower; eyes are not fully closed."},
+    {"expected":"270 screen-left","observed":"screen-left","verdict":"pass","evidence":"Head yaws left, nose/mouth projects left of skull center, green eye surfaces aim to image left edge. Low ponytail and blue bow stay anchored on screen-left."}
+  ],
+  "rejected_source": "exec-d75266d4-69c5-40f0-b436-20b39d1d888f.png: leftmost hair touched canvas edge and left-looking anchor mirrored the low ponytail to screen-right",
+  "accepted_source": "exec-04f640fb-16d7-433d-93b2-1f77d00c1685.png"
+}

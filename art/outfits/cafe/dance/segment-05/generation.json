@@ -1,0 +1,92 @@
+{
+  "source": "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-a8df-76e2-a6e5-5394410b188c\\exec-46d086c1-252e-47e5-8a75-4cdee980b10f.png",
+  "sourceArchive": "work/art-runs/cafe/dance/sources/segment-05-raw.png",
+  "prompt": "work/art-runs/cafe/prompts/dance-05.txt",
+  "reference": "classic/dance/segment-05-final",
+  "poseEvidence": "work/references/user-op/dance-grid-05.jpg",
+  "durationMs": 40.54977,
+  "visualReview": "Continuous viewer-left high hand in06\u201311, no arm-drop frame; eye closure only final10\u201311; profile returns frontal.",
+  "actualFrames": 12,
+  "transparentBackground": true,
+  "actualInspectionPassed": true,
+  "bundledReview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-05\\review.json",
+  "finalCellBboxes": [
+    [
+      29,
+      9,
+      161,
+      203
+    ],
+    [
+      30,
+      10,
+      161,
+      203
+    ],
+    [
+      34,
+      10,
+      157,
+      203
+    ],
+    [
+      19,
+      10,
+      172,
+      203
+    ],
+    [
+      25,
+      10,
+      165,
+      203
+    ],
+    [
+      31,
+      10,
+      160,
+      203
+    ],
+    [
+      23,
+      7,
+      168,
+      203
+    ],
+    [
+      24,
+      7,
+      166,
+      203
+    ],
+    [
+      24,
+      6,
+      166,
+      203
+    ],
+    [
+      26,
+      5,
+      165,
+      203
+    ],
+    [
+      24,
+      5,
+      167,
+      203
+    ],
+    [
+      26,
+      5,
+      165,
+      203
+    ]
+  ],
+  "sourceFile": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-05\\qa\\source-raw.png",
+  "promptFile": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-05\\qa\\prompt.txt",
+  "fps": 24.66105233149288,
+  "singleSegmentPreview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-05\\preview.mp4",
+  "finalBatchRegistration": "Pending parent combined registration and joint continuity review; preserve source-flat pixels for that step."
+}

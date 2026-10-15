@@ -1,0 +1,25 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FFFF",
+    "rgb": [
+      0,
+      255,
+      255
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "jumping",
+      "frames": [
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\jumping\\00.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\jumping\\01.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\jumping\\02.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\jumping\\03.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\jumping\\04.png"
+      ],
+      "method": "components"
+    }
+  ]
+}

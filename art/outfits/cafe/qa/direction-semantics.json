@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "review_size": "192x208 final encoded cells and labeled direction QA sheet",
+  "reviewer": "cafe visual worker",
+  "directions": [
+    {"label":"000","expected":"up","observed":"up","verdict":"pass","evidence":"Head pitches upward with raised chin and upward irises; apron, legs and ponytail remain anchored."},
+    {"label":"022.5","expected":"up-right","observed":"up-right","verdict":"warning","evidence":"Head and nose yaw gently toward screen-right and irises aim upper-right. Horizontal turn is subtle and similar to 045; vertical lift remains visible at normal size."},
+    {"label":"045","expected":"up-right","observed":"up-right","verdict":"warning","evidence":"Nose projects right with visible rightward head yaw, irises gaze upward-right. The neighboring 022.5 pose is close, but the quadrant and ordered arc are coherent."},
+    {"label":"067.5","expected":"up-right","observed":"up-right","verdict":"pass","evidence":"More pronounced rightward nose/head yaw with upper-right irises and slightly raised chin; torso and feet are anchored."},
+    {"label":"090","expected":"right","observed":"right","verdict":"pass","evidence":"Nose and mouth project toward screen-right, far eye is foreshortened and both eyes aim right; chin remains near level."},
+    {"label":"112.5","expected":"down-right","observed":"down-right","verdict":"pass","evidence":"Head retains rightward yaw while chin lowers and gaze aims diagonally lower-right."},
+    {"label":"135","expected":"down-right","observed":"down-right","verdict":"pass","evidence":"Head pitches downward beneath bangs with rightward nose projection and lower-right irises."},
+    {"label":"157.5","expected":"down-right","observed":"down-right","verdict":"warning","evidence":"Downward pitch and lower irises are pronounced; nose/mouth retain a slight rightward yaw. Horizontal cue is subtle near the downward cardinal but does not reverse."},
+    {"label":"180","expected":"down","observed":"down","verdict":"pass","evidence":"Head tucks straight down, face narrows vertically below bangs, eyelids and very low irises follow the downward pitch. Body stays front-facing."},
+    {"label":"202.5","expected":"down-left","observed":"down-left","verdict":"warning","evidence":"Downward pitched face and low irises are clear; slight leftward nose/mouth projection and head yaw distinguish the diagonal. Horizontal cue is intentionally small near 180."},
+    {"label":"225","expected":"down-left","observed":"down-left","verdict":"pass","evidence":"Head and nose yaw left, far eye narrows, chin lowers and gaze points lower-left."},
+    {"label":"247.5","expected":"down-left","observed":"down-left","verdict":"pass","evidence":"Nose and near eye point screen-left, with lower chin and down-left gaze. Apron and long ponytail attachment are unchanged."},
+    {"label":"270","expected":"left","observed":"left","verdict":"pass","evidence":"Strong leftward nose and mouth projection, far eye foreshortening, and leftward green irises; near-level chin. Ponytail remains on screen-left rather than mirrored."},
+    {"label":"292.5","expected":"up-left","observed":"up-left","verdict":"pass","evidence":"Head yaws left and lifts its chin, irises aim upper-left with coherent eyelids and brow."},
+    {"label":"315","expected":"up-left","observed":"up-left","verdict":"pass","evidence":"Raised chin and upper irises accompany leftward nose projection and head yaw; torso remains frontal."},
+    {"label":"337.5","expected":"up-left","observed":"up-left","verdict":"warning","evidence":"Strong upward pitch and upper irises with a gentle leftward nose/head yaw; close to up cardinal as intended, with subtle horizontal cue."}
+  ],
+  "continuity_review": "Script alpha-hole warnings at y168-170 occur below the skirt between legs and ponytail silhouette. They are natural negative space, not cut bands through the face, torso, or apron. Shared source-family scale and bundled registration preserve full feet and ponytail. No wrong quadrant or reversed cardinal observed. Independent final review requested from parent."
+}

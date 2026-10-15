@@ -1,0 +1,196 @@
+{
+  "state": "segment-04",
+  "expected_frames": 12,
+  "actual_frames": 12,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17367,
+      "bbox": [
+        26,
+        5,
+        166,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16850,
+      "bbox": [
+        28,
+        6,
+        164,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16993,
+      "bbox": [
+        29,
+        6,
+        164,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16884,
+      "bbox": [
+        26,
+        6,
+        166,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16747,
+      "bbox": [
+        23,
+        6,
+        169,
+        201
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15921,
+      "bbox": [
+        26,
+        6,
+        165,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 6,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\06.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16935,
+      "bbox": [
+        20,
+        10,
+        172,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 7,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\07.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16318,
+      "bbox": [
+        24,
+        9,
+        169,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 8,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\08.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15969,
+      "bbox": [
+        30,
+        10,
+        159,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 9,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\09.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16359,
+      "bbox": [
+        22,
+        10,
+        169,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 10,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\10.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16094,
+      "bbox": [
+        23,
+        10,
+        169,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 11,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\11.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15540,
+      "bbox": [
+        21,
+        10,
+        171,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ],
+  "source": "<本机路径已省略>\\xia\\work\\art-runs\\travel\\decoded\\dance-segment-04.png",
+  "cutY": 474,
+  "rowBaselineOffset": 402,
+  "sharedRegistration": "Bundled component extraction, one shared transform for all12; whole source rows aligned by median shoe baseline.",
+  "neonEdgePixelsRemoved": 0
+}

@@ -1,0 +1,162 @@
+{
+  "state": "cafe-bean",
+  "expected_frames": 6,
+  "actual_frames": 6,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\bean\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15753,
+      "bbox": [
+        29,
+        4,
+        162,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\bean\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15275,
+      "bbox": [
+        31,
+        5,
+        160,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\bean\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15729,
+      "bbox": [
+        28,
+        6,
+        163,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\bean\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 14883,
+      "bbox": [
+        28,
+        19,
+        163,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\bean\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 14728,
+      "bbox": [
+        30,
+        16,
+        161,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\bean\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15343,
+      "bbox": [
+        28,
+        15,
+        163,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ],
+  "source_bounds": [
+    [
+      202,
+      15,
+      506,
+      475
+    ],
+    [
+      684,
+      19,
+      980,
+      476
+    ],
+    [
+      1173,
+      21,
+      1485,
+      477
+    ],
+    [
+      1913,
+      51,
+      2225,
+      477
+    ],
+    [
+      2402,
+      45,
+      2701,
+      477
+    ],
+    [
+      2895,
+      44,
+      3207,
+      477
+    ]
+  ],
+  "source_files": [
+    "work/art-runs/cafe/q/sources/bean-clean.png"
+  ],
+  "strict_contour_chroma_pixels_removed": 4179,
+  "source_row_registration": {
+    "gap_cut_y": 478,
+    "top_row_shift_y": 0,
+    "bottom_row_shift_y": 43,
+    "source_ground_baselines": [
+      477,
+      912
+    ],
+    "method": "Whole rows moved only; no per-character scaling or cropping"
+  },
+  "grounded_pose_y_adjustments": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "shared_registration": "bundled fit_registered_component_groups; one scale for complete row; vertical displacement preserved"
+}

@@ -1,0 +1,119 @@
+{
+  "reviewed_at_native_size": true,
+  "sheet": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\qa\\direction-qa.png",
+  "background_check": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\qa\\opaque-background-edge-check.png",
+  "directions": [
+    {
+      "direction": "000",
+      "expected": "up",
+      "observed": "up",
+      "verdict": "pass",
+      "evidence": "Face remains frontal, chin lifted, open green pupil centers high with visible lower white rims; body/bow/feet frontal."
+    },
+    {
+      "direction": "022.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "Raised chin with pupils and nose beginning viewer-right offset; frontal body follows approved up/right arc."
+    },
+    {
+      "direction": "045",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "Both green pupil centers toward upper-right of eye openings, nose offset right; chin elevated."
+    },
+    {
+      "direction": "067.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "Anatomical face turn farther viewer-right with elevated gaze; bow/feet remain frontal."
+    },
+    {
+      "direction": "090",
+      "expected": "right",
+      "observed": "right",
+      "verdict": "pass",
+      "evidence": "Nose/leading cheek clearly toward screen-right and visible green pupils at right eye corners; torso and blue bow stay front."
+    },
+    {
+      "direction": "112.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "Rightward nose/pupils remain, head/chin starts to lower toward bottom-right."
+    },
+    {
+      "direction": "135",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "Head and eyelids lowered, pupil/nose retain rightward cue, near face visible; planted frontal body."
+    },
+    {
+      "direction": "157.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "Near-frontal tucked chin with small remaining right nose/pupil cue; approaches next down frame."
+    },
+    {
+      "direction": "180",
+      "expected": "down",
+      "observed": "down",
+      "verdict": "pass",
+      "evidence": "Chin/nose tucked directly toward bottom, frontal head, green eye slivers remain visible below lowered lids; body stays front-facing."
+    },
+    {
+      "direction": "202.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Tucked chin and lower pupils with small viewer-left nose/eye displacement; frontal cape/bow."
+    },
+    {
+      "direction": "225",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Face/nose points image-left while pitched down, green pupils visible toward lower-left."
+    },
+    {
+      "direction": "247.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Leftward cheek/nose and iris positions with head still pitched slightly down; frontal hips/shoes."
+    },
+    {
+      "direction": "270",
+      "expected": "left",
+      "observed": "left",
+      "verdict": "pass",
+      "evidence": "Nose/leading face edge and green eye centers clearly toward image-left; bow, torso and feet remain front."
+    },
+    {
+      "direction": "292.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Left-pointing nose/pupils kept from270 while chin lifts; right cheek remains trailing, face pitched up-left."
+    },
+    {
+      "direction": "315",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Nose tip remains image-left of head center; both green pupil centers oriented high-left and chin raised, matches approved cafe directional family."
+    },
+    {
+      "direction": "337.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Raised chin and upper-left pupils, small left leading nose cue while face begins return toward frontal up; no reversal to right."
+    }
+  ]
+}

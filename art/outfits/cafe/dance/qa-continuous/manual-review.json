@@ -1,0 +1,210 @@
+{
+  "reviewer": "lawrence_canonical",
+  "status": "usable-with-visible-pose-steps",
+  "reviewed_asset": "art/runtime/cafe-dance.png",
+  "asset_modified_local": "2026-10-10T10:45:49",
+  "cell_size": [
+    192,
+    208
+  ],
+  "authored_frames": 108,
+  "verified_repair_segments": [
+    "segment-06-seam",
+    "return-01-seam",
+    "return-02-seam"
+  ],
+  "method": "Independent manual sequential inspection of all108 final runtime cells, all nine seams with last3/first3 native-size neighbor sheets, and separate native six-cell turn-exit and raised-arm strips. Full224x243 GIF/WebP assembled from the same final runtime pixels and timing; no claim of fluency based only on hashes, frame count or fps.",
+  "continuous_preview": "art/outfits/cafe/dance/qa-continuous/preview-224x243-108.gif",
+  "single_cycle_duration_ms": 4421.083333334835,
+  "seams": [
+    {
+      "from": "entry/11",
+      "to": "segment-01/00",
+      "result": "minor-stance-reset",
+      "observation": "Head and outfit stay consistent. Entry ends with crossed feet and the next first frame resets to parallel feet. The next two frames begin crossing again. A small stance reset remains, without a size or floor pop.",
+      "solid_bbox_before_xywh": [
+        36,
+        8,
+        118,
+        193
+      ],
+      "solid_bbox_after_xywh": [
+        36,
+        7,
+        119,
+        194
+      ]
+    },
+    {
+      "from": "segment-01/11",
+      "to": "segment-02/00",
+      "result": "minor-stance-step",
+      "observation": "Clasped-hands frontal body and face agree. Parallel feet become a crossed ankle stance at the next first frame. Head crown stays close and the step is smaller than a body-height discontinuity.",
+      "solid_bbox_before_xywh": [
+        38,
+        10,
+        115,
+        191
+      ],
+      "solid_bbox_after_xywh": [
+        33,
+        8,
+        125,
+        193
+      ]
+    },
+    {
+      "from": "segment-02/11",
+      "to": "segment-03/00",
+      "result": "minor-posture-step",
+      "observation": "Leaning/crossed stance straightens into the front neutral with both shoes parallel. Head tilt, skirt/ponytail width and arm linework change slightly across the cut; identity remains stable.",
+      "solid_bbox_before_xywh": [
+        42,
+        11,
+        108,
+        189
+      ],
+      "solid_bbox_after_xywh": [
+        33,
+        7,
+        124,
+        194
+      ]
+    },
+    {
+      "from": "segment-03/11",
+      "to": "segment-04/00",
+      "result": "minor-drawing-change",
+      "observation": "Both front clasped-hands poses and parallel feet agree. The head straightens slightly and the hair/skirt silhouette changes with a few-pixel crown difference. There is no conspicuous whole-character scale change.",
+      "solid_bbox_before_xywh": [
+        36,
+        14,
+        119,
+        187
+      ],
+      "solid_bbox_after_xywh": [
+        34,
+        9,
+        123,
+        192
+      ]
+    },
+    {
+      "from": "segment-04/11",
+      "to": "segment-05/00",
+      "result": "visible-angle-step",
+      "observation": "Segment04/11 exits the turn as a screen-right three-quarter face with extended arms; segment05/00 goes back to a screen-right profile and clasped hands, then segment05/01–02 returns to the front. This is a visible brief yaw back-step at the turn exit rather than a fully monotonic turn continuation. Bbox heights stay close, so it is a pose/direction step, not a scale pop.",
+      "solid_bbox_before_xywh": [
+        27,
+        13,
+        138,
+        188
+      ],
+      "solid_bbox_after_xywh": [
+        32,
+        11,
+        127,
+        190
+      ]
+    },
+    {
+      "from": "segment-05/11",
+      "to": "segment-06-seam/00",
+      "result": "visible-limb-angle-step",
+      "observation": "Closed-eye smile, screen-left raised arm, screen-right lifted leg and costume remain correct across the cut. The raised arm shifts from a steeper angle to a diagonal and the lifted shoe becomes more horizontal/outward in the next cell. This is a visible one-cell hand/foot position step, with no left/right leg exchange or head-height collapse.",
+      "solid_bbox_before_xywh": [
+        28,
+        7,
+        135,
+        194
+      ],
+      "solid_bbox_after_xywh": [
+        14,
+        8,
+        162,
+        192
+      ]
+    },
+    {
+      "from": "segment-06-seam/11",
+      "to": "return-01-seam/00",
+      "result": "coherent-with-minor-drawing-change",
+      "observation": "Same open-eye face, raised screen-left arm and outward screen-right leg continue into the return family. Return01 then lowers that arm and draws the lifted foot inward in actual successive poses. Minor head tilt/frill/ponytail linework changes remain.",
+      "solid_bbox_before_xywh": [
+        15,
+        11,
+        161,
+        190
+      ],
+      "solid_bbox_after_xywh": [
+        15,
+        7,
+        161,
+        194
+      ]
+    },
+    {
+      "from": "return-01-seam/11",
+      "to": "return-02-seam/00",
+      "result": "minor-arm-step",
+      "observation": "Both shoes are grounded and parallel at the boundary. The screen-left arm begins Return02 a little higher than the final Return01 arm, then lowers to neutral. Face size and ground plane remain consistent.",
+      "solid_bbox_before_xywh": [
+        18,
+        8,
+        154,
+        193
+      ],
+      "solid_bbox_after_xywh": [
+        24,
+        7,
+        144,
+        194
+      ]
+    },
+    {
+      "from": "return-02-seam/11",
+      "to": "entry/00",
+      "result": "matching-height-neutral-with-minor-silhouette-change",
+      "observation": "Both cells are neutral front standing with matching head/body height: solid194/193px, crownY7/8. There is no former shortened return figure or large vertical pop. The ponytail/hair and skirt silhouette is wider in the return cell (solid140px versus121px in entry), and foot spacing/facial shading differ slightly between independent drawings. Not a pixel-identical neutral bookend.",
+      "solid_bbox_before_xywh": [
+        26,
+        7,
+        140,
+        194
+      ],
+      "solid_bbox_after_xywh": [
+        35,
+        8,
+        121,
+        193
+      ]
+    }
+  ],
+  "remaining_visible_pose_steps": [
+    "Segment04/11→segment05/00 temporarily returns from right three-quarter face to right profile before finishing the turn.",
+    "Segment05/11→segment06-seam/00 changes raised-arm and outward-foot angles in one cell."
+  ],
+  "remaining_minor": [
+    "Entry crossed-to-parallel foot reset.",
+    "Other early stage transitions have slight stance/head-tilt or linework changes.",
+    "Return01→Return02 small raised-arm position step.",
+    "Loop neutral has wider ponytail/skirt silhouette and slightly different foot spacing/shading."
+  ],
+  "overall": "All108 cells are complete and maintain Cecilia identity and the cafe maid costume. The three repaired continuation/return segments preserve the same outward screen-right foot and comparable head/body scale, with actual progressive arm lowering and leg recovery. No major scale collapse, blank actor or foot-phase swap is seen. The two visible pose steps above remain, so this review accepts the assets as usable but does not call the loop perfectly seamless.",
+  "technical_support": {
+    "all_108_cells_populated": true,
+    "alpha0_floor_exclusive_bounds_px": [
+      203
+    ],
+    "last_nontransparent_y_px": [
+      202
+    ],
+    "minimum_solid_edge_distance_px": 6,
+    "loop_standing_solid_height_px": [
+      194,
+      193
+    ],
+    "registration_note": "BBox bottom203 is the exclusive bound and corresponds to last nontransparent pixel y202. Final runtime cells only were reviewed. Sources, actor scale, runtime assets and parent manifest were not changed."
+  },
+  "scope_limit": "Rendered continuity, character identity and clothing only; no fresh official-OP timecode/choreography audit. The optional visible-step polish must use genuinely matching drawn pose endpoints, not per-character raster scaling."
+}

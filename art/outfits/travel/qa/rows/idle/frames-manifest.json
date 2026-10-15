@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FFFF",
+    "rgb": [
+      0,
+      255,
+      255
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "frames": [
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\idle\\00.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\idle\\01.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\idle\\02.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\idle\\03.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\idle\\04.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\idle\\05.png"
+      ],
+      "method": "components"
+    }
+  ]
+}

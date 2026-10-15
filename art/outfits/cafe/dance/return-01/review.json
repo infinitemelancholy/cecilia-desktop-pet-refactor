@@ -1,0 +1,196 @@
+{
+  "state": "return-01",
+  "expected_frames": 12,
+  "actual_frames": 12,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-01\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16729,
+      "bbox": [
+        14,
+        5,
+        178,
+        201
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-01\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17106,
+      "bbox": [
+        14,
+        5,
+        178,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-01\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17286,
+      "bbox": [
+        13,
+        6,
+        179,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-01\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17253,
+      "bbox": [
+        11,
+        6,
+        181,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-01\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17144,
+      "bbox": [
+        9,
+        6,
+        183,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-01\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17240,
+      "bbox": [
+        7,
+        7,
+        184,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 6,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-01\\06.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16977,
+      "bbox": [
+        7,
+        8,
+        185,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 7,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-01\\07.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17033,
+      "bbox": [
+        6,
+        8,
+        186,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 8,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-01\\08.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17078,
+      "bbox": [
+        5,
+        8,
+        187,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 9,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-01\\09.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17166,
+      "bbox": [
+        5,
+        8,
+        187,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 10,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-01\\10.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17102,
+      "bbox": [
+        5,
+        8,
+        187,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 11,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-01\\11.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17045,
+      "bbox": [
+        5,
+        8,
+        187,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ],
+  "source": "work\\art-runs\\cafe\\dance\\sources\\return-01-raw.png",
+  "cutY": 371,
+  "rowBaselineOffset": 355,
+  "sharedRegistration": "Bundled component extraction, one shared transform for all12; whole source rows aligned by median shoe baseline.",
+  "neonEdgePixelsRemoved": 3770
+}

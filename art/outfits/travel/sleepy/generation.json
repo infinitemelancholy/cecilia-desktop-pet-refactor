@@ -1,0 +1,19 @@
+{
+  "tool": "image_gen__imagegen (built-in)",
+  "prompt": "Use case: identity-preserve.\nReference 1 is the exact established classic action poses; redraw those poses with reference 2's approved travel canonical identity and complete costume. Reference 3 is the existing original pet atlas for consistent delicate anime chibi construction, and reference 4 is official episode-05 travel cloak evidence, not adult proportions.\nIn ALL SIX figures keep mint-green long hair, green eyes, SAME LARGE HEAD size and petite 2.5-head body; bare hair (NO saint veil), raspberry red short hooded cape with burgundy trim, white blouse/collar, narrow blue ribbon tie, navy pleated skirt with simple clean hem, dark stockings and navy shoes. No saint cape, navy hood, lace hem, apron or outfit change.\nExactly TWO ROWS × THREE complete isolated figures in reading order top left→right then bottom left→right. Draw each pose independently; do not shrink whole people. The physical head remains the same size for sitting/nodding and standing. Standing first/last have identical body/head height. Full hair/cape/shoes fit generously inside each cell. Standing figures have the same row-relative shoe baseline; all grounded poses touch it. Compact hair ends kept beside the body so complete width stays below 85% of the standing height. Rows separated by a wide transparent gap and sides by wide clear gutters.\nTruly transparent RGBA background only, no backdrop, floor, shadows, haze, stars, symbols, effects, blur, words, labels, guide marks, borders, props, scene or other people. Six complete separated drawings only.\nSLEEPY sequence preserving the choreography of reference 1:\n1 calm alert front standing neutral, open green eyes, arms relaxed;\n2 heavy half-lidded eyes, head begins a small forward nod, hands relaxed;\n3 eyes closed, chin lower, hands softly together in front at waist;\n4 deeper sleepy nod, closed eyes, shoulders relax, SAME real large head/body size rather than shrinking;\n5 head lifting and half-open eyes recovering, hands still softly together;\n6 EXACT same alert standing size/pose/face baseline as frame 1, open green eyes and relaxed arms.\nThis is a sweet sleepy nod and recovery, not a jump, not walking. Delicate cape and long hair settle naturally.",
+  "original_path": "C:/Users/Jiang Haoyu/.codex/generated_images/01a11ff4-d8b2-7091-a034-1733e570287b/exec-62f37a52-5086-4d2b-a823-d057594fb85e.png",
+  "source_grid": "1 row x 6 (generator chose horizontal layout)",
+  "references": [
+    "art/outfits/classic/sleepy-strip.png",
+    "art/outfits/travel/canonical.png",
+    "work/references/current-pet.png",
+    "work/references/official/episode-05-01.png"
+  ],
+  "status": "accepted-five-unique-poses-plus-neutral-reuse",
+  "accepted_source_original_path": "C:/Users/Jiang Haoyu/.codex/generated_images/01a11ff4-d8b2-7091-a034-1733e570287b/exec-16a46893-db4b-467c-8fba-592007e47a7e.png",
+  "accepted_source_prompt_record": "repair-generation.json",
+  "initial_source_status": "rejected; retained as documented",
+  "runtime_frames": "00.png through 05.png,192x208",
+  "qa_record": "manual-qa.json",
+  "neutral_reuse": "Runtime05 repeats generated00 under explicit parent authorization; original generated05 retained in unaccepted/05-generated-recovery.png. This is five unique generated poses plus same-neutral closure."
+}

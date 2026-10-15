@@ -1,0 +1,154 @@
+{
+  "state": "sleepy",
+  "expected_frames": 6,
+  "actual_frames": 6,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\sleepy\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17226,
+      "bbox": [
+        22,
+        5,
+        170,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\sleepy\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16698,
+      "bbox": [
+        23,
+        8,
+        169,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\sleepy\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16182,
+      "bbox": [
+        24,
+        10,
+        168,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\sleepy\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 14112,
+      "bbox": [
+        27,
+        32,
+        165,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\sleepy\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15870,
+      "bbox": [
+        25,
+        18,
+        167,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\sleepy\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16571,
+      "bbox": [
+        22,
+        15,
+        170,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ],
+  "source_bounds": [
+    [
+      135,
+      23,
+      510,
+      527
+    ],
+    [
+      593,
+      34,
+      958,
+      528
+    ],
+    [
+      1051,
+      37,
+      1412,
+      526
+    ],
+    [
+      1695,
+      94,
+      2040,
+      527
+    ],
+    [
+      2144,
+      58,
+      2498,
+      528
+    ],
+    [
+      2596,
+      52,
+      2966,
+      528
+    ]
+  ],
+  "source_files": [
+    "C:/Users/Jiang Haoyu/.codex/generated_images/01a11ff4-d8b2-7091-a034-1733e570287b/exec-73b731e2-514d-4d2c-a92b-13335124c987.png"
+  ],
+  "strict_contour_chroma_pixels_removed": 0,
+  "source_row_registration": {
+    "gap_cut_y": 533,
+    "top_row_shift_y": 0,
+    "bottom_row_shift_y": 47,
+    "source_ground_baselines": [
+      528,
+      1014
+    ],
+    "method": "Whole rows moved only; no per-character scaling or cropping"
+  },
+  "shared_registration": "bundled fit_registered_component_groups; one scale for complete row; vertical displacement preserved"
+}

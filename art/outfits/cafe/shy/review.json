@@ -1,0 +1,162 @@
+{
+  "state": "cafe-shy",
+  "expected_frames": 6,
+  "actual_frames": 6,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\shy\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 14731,
+      "bbox": [
+        33,
+        4,
+        159,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\shy\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 13783,
+      "bbox": [
+        37,
+        8,
+        155,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\shy\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 14274,
+      "bbox": [
+        34,
+        5,
+        158,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\shy\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 12802,
+      "bbox": [
+        35,
+        23,
+        157,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\shy\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 12390,
+      "bbox": [
+        38,
+        28,
+        154,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\shy\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 14225,
+      "bbox": [
+        33,
+        14,
+        159,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ],
+  "source_bounds": [
+    [
+      220,
+      13,
+      507,
+      469
+    ],
+    [
+      706,
+      23,
+      970,
+      469
+    ],
+    [
+      1148,
+      17,
+      1427,
+      467
+    ],
+    [
+      1956,
+      59,
+      2231,
+      468
+    ],
+    [
+      2424,
+      71,
+      2685,
+      469
+    ],
+    [
+      2895,
+      39,
+      3179,
+      469
+    ]
+  ],
+  "source_files": [
+    "work/art-runs/cafe/q/sources/shy-raw.png"
+  ],
+  "strict_contour_chroma_pixels_removed": 1032,
+  "source_row_registration": {
+    "gap_cut_y": 474,
+    "top_row_shift_y": 0,
+    "bottom_row_shift_y": 33,
+    "source_ground_baselines": [
+      469,
+      910
+    ],
+    "method": "Whole rows moved only; no per-character scaling or cropping"
+  },
+  "grounded_pose_y_adjustments": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "shared_registration": "bundled fit_registered_component_groups; one scale for complete row; vertical displacement preserved"
+}

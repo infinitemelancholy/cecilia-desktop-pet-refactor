@@ -1,0 +1,8 @@
+{
+  "source": "segment-06-raw.png",
+  "output": "segment-06-clean.png",
+  "solidActorCount": 12,
+  "cleanActorCount": 12,
+  "alphaPixelsRemoved": 189447,
+  "method": "Retain twelve already-isolated solid actor cores and one-pixel antialias envelope. Remove faint synthesis matte islands/bridges only; no figure scale, recoloring or redraw. All alpha>150 source pixels in the twelve cores are unchanged."
+}

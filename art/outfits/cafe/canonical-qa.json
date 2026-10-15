@@ -1,0 +1,37 @@
+{
+  "generated_source": "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-a8df-76e2-a6e5-5394410b188c\\exec-54d81398-84cf-4ae4-bc6e-0d8ba5e65b23.png",
+  "source_size": [
+    1205,
+    1305
+  ],
+  "source_subject_bbox": [
+    202,
+    89,
+    908,
+    1262
+  ],
+  "canonical_size": [
+    1024,
+    1024
+  ],
+  "canonical_alpha_bbox": [
+    278,
+    127,
+    745,
+    901
+  ],
+  "normalization": "Deterministic removal of detached alpha noise and saturated yellow/green chroma pixels only within 12 pixels of transparent silhouette edge; standard yellow-edge despill; uniform resize and transparent canvas layout. No character redrawing.",
+  "removed_chroma_edge_pixels": 977,
+  "subject_height_fraction": 0.75,
+  "foot_baseline_fraction": 0.8798828125,
+  "visual_checks": {
+    "identity": "mint long hair, green eyes, approved large-head small-body pet style",
+    "outfit": "episode 6 pinstripe red maid uniform with white frills, bib and apron, dark skirt, low ponytail with pale blue bow",
+    "cropping": "full headband, hair, skirt and both shoes visible",
+    "transparency": "RGBA with transparent corners and generous transparent padding"
+  },
+  "official_sources": [
+    "https://shiroseijyo-anime.com/story/?id=06"
+  ],
+  "tool": "built-in image_gen"
+}

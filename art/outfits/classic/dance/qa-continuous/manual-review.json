@@ -1,0 +1,111 @@
+{
+  "reviewer": "lawrence_canonical",
+  "status": "major-seam-issues-resolved-with-minor-drawing-changes",
+  "previous_review_retained": "manual-review-before-seam-repair.json",
+  "reviewed_asset": "art/runtime/classic-dance.png",
+  "asset_modified_local": "2026-10-10T10:37:15",
+  "cell_size": [
+    192,
+    208
+  ],
+  "authored_frames": 108,
+  "method": "Manual sequential inspection of the final 108-cell contact sheet, each newly drawn 12-cell continuation/return strip at native size, and six-neighbor native contact sheets around the four requested cuts. A continuous 224x243 GIF/WebP is assembled from the final runtime cells and exact timing. This review does not infer smoothness from hashes, unique counts or fps alone.",
+  "continuous_preview": "art/outfits/classic/dance/qa-continuous/preview-224x243-108.gif",
+  "single_cycle_duration_ms": 4421.083333334835,
+  "repair_segments": [
+    "segment-06-seam",
+    "return-01-seam",
+    "return-02-seam"
+  ],
+  "seams": [
+    {
+      "from": "entry/11",
+      "to": "segment-01/00",
+      "result": "minor-pose-reset",
+      "observation": "Head/face size remains close, and the eye opening is a plausible blink. The previous crossed feet reset to parallel feet at the cut instead of visibly uncrossing. This unchanged small stance reset remains; it is not the prior large height pop.",
+      "solid_bbox_before_xywh": [
+        23,
+        10,
+        145,
+        191
+      ],
+      "solid_bbox_after_xywh": [
+        27,
+        8,
+        137,
+        192
+      ]
+    },
+    {
+      "from": "segment-03-v3/11",
+      "to": "segment-04/00",
+      "result": "minor-hair-silhouette-pop",
+      "observation": "Forward-facing head, clasped hands and grounded feet agree. Hair fan width contracts from 151px to 138px across the cut and cape/collar details change slightly. Crown Y differs only 1px. A small drawing/silhouette change remains, without a large head or floor jump.",
+      "solid_bbox_before_xywh": [
+        20,
+        11,
+        151,
+        190
+      ],
+      "solid_bbox_after_xywh": [
+        27,
+        10,
+        138,
+        190
+      ]
+    },
+    {
+      "from": "segment-05-final/11",
+      "to": "segment-06-seam/00",
+      "result": "major-issue-resolved-with-minor-drawing-change",
+      "observation": "The new continuation now preserves the closed-eye smile, raised screen-left arm and outward screen-right foot rather than suddenly crossing the feet. Face/veil no longer drops into the old smaller drawing. Adjacent crown/face positions are close at native size. Remaining minor: raised-hand finger shape, veil/lace details and hair width change slightly. The 189→192px solid bbox difference partly includes arm/foot posture and does not establish a head scale jump.",
+      "solid_bbox_before_xywh": [
+        11,
+        11,
+        170,
+        189
+      ],
+      "solid_bbox_after_xywh": [
+        8,
+        9,
+        174,
+        192
+      ]
+    },
+    {
+      "from": "return-02-seam/11",
+      "to": "entry/00",
+      "result": "major-issue-resolved-with-minor-drawing-change",
+      "observation": "Both neutral standing cells now share crown Y7 and virtually the same standing silhouette height (194px versus 193px). The former roughly 14px crown jump and much shorter return figure are removed. Remaining minor: hair curls, skirt/lace shading, facial rendering and foot spacing differ slightly between independently drawn neutral images. This is not a pixel-identical bookend, but the conspicuous size pop has been repaired.",
+      "solid_bbox_before_xywh": [
+        23,
+        7,
+        146,
+        194
+      ],
+      "solid_bbox_after_xywh": [
+        21,
+        7,
+        150,
+        193
+      ]
+    }
+  ],
+  "return_motion": "Return01 now draws the lifted screen-right leg inward through intermediate foot positions while the raised arm comes down. Return02 continues lowering the arm into a matching-height neutral stance. The old smaller continuation/return family is no longer visible in this final strip.",
+  "remaining_minor": [
+    "Entry11→segment01/00 crossed-to-parallel stance reset.",
+    "Segment03v3/11→segment04/00 hair silhouette/collar linework change.",
+    "Segment05final/11→segment06seam/00 finger/lace/hair outline variation.",
+    "Return02seam/11→entry/00 small hair/shading/foot-spacing differences between two independent neutral drawings."
+  ],
+  "overall": "The two formerly conspicuous face/height/foot discontinuities have been repaired. The final cells form a much more coherent continuation and loop at native size. Acceptable for integration with the explicitly listed minor illustration/stance differences retained; no claim of a perfectly seamless or hand-interpolated animation.",
+  "technical_support": {
+    "all_108_cells_populated": true,
+    "alpha0_floor_extents_px": [
+      203
+    ],
+    "minimum_solid_edge_distance_px": 5,
+    "registration_note": "The final asset has alpha0 floor extent203 in this saved revision; solid shoe edges are slightly inside. The review used the actual final pixels, not an assumed floor value. No source, actor scaling, runtime strip or parent manifest was changed by the reviewer."
+  },
+  "scope_limit": "Rendered continuity and identity/proportions only. No new official-OP timecode audit or inference that108 cells alone prove faithful dance choreography."
+}

@@ -1,0 +1,48 @@
+{
+  "owner": "lawrence_canonical",
+  "actions": [
+    {
+      "action": "hop",
+      "directory": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\hop",
+      "frame_count": 6,
+      "unique_generated_poses_used": 5,
+      "standing_height_px": [
+        195,
+        195
+      ],
+      "inspection_ok": true,
+      "normal_preview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\hop\\preview-224x243.gif",
+      "qa": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\hop\\manual-qa.json",
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\hop\\source.png"
+    },
+    {
+      "action": "sleepy",
+      "directory": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\sleepy",
+      "frame_count": 6,
+      "unique_generated_poses_used": 5,
+      "standing_height_px": [
+        196,
+        196
+      ],
+      "inspection_ok": true,
+      "normal_preview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\sleepy\\preview-224x243.gif",
+      "qa": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\sleepy\\manual-qa.json",
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\sleepy\\source.png"
+    },
+    {
+      "action": "lump",
+      "directory": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\lump",
+      "frame_count": 6,
+      "unique_generated_poses_used": 5,
+      "standing_height_px": [
+        194,
+        194
+      ],
+      "inspection_ok": true,
+      "normal_preview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\lump\\preview-224x243.gif",
+      "qa": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\lump\\manual-qa.json",
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\lump\\source.png"
+    }
+  ],
+  "parent_runtime_changed": false
+}

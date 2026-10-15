@@ -1,0 +1,8 @@
+{
+  "state": "waiting",
+  "approved": true,
+  "native_cell_size": [192, 208],
+  "frame_count": 6,
+  "evidence": "Two attached hands clasp below the chin throughout; expectant eyes, gentle side tilts and a blink communicate waiting for input. Full hair and feet retained, same scale and planted baseline, no loose effects or chroma fringe.",
+  "extraction_correction": "Only a 43-pixel weak alpha bridge in an otherwise empty core gap was removed before actual bundled component extraction. No strong-alpha subject pixels changed. See boundary-cleanup.json."
+}

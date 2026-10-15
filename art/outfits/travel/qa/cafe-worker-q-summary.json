@@ -1,0 +1,155 @@
+{
+  "completedDeliveredFrames": 18,
+  "uniqueGeneratedPoses": 15,
+  "allActualReviewsPass": true,
+  "rows": [
+    {
+      "clip": "bean",
+      "folder": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\bean",
+      "frames": 6,
+      "uniquePoses": 5,
+      "ok": true,
+      "firstLastHeight": 198,
+      "floor": 202,
+      "normalPreview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\bean\\preview.gif",
+      "generation": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\bean\\generation.json"
+    },
+    {
+      "clip": "pout",
+      "folder": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\pout",
+      "frames": 6,
+      "uniquePoses": 5,
+      "ok": true,
+      "firstLastHeight": 198,
+      "floor": 202,
+      "normalPreview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\pout\\preview.gif",
+      "generation": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\pout\\generation.json"
+    },
+    {
+      "clip": "shy",
+      "folder": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\shy",
+      "frames": 6,
+      "uniquePoses": 5,
+      "ok": true,
+      "firstLastHeight": 198,
+      "floor": 202,
+      "normalPreview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\shy\\preview.gif",
+      "generation": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\shy\\generation.json"
+    }
+  ],
+  "normalSize": [
+    224,
+    244
+  ],
+  "frames": [
+    {
+      "clip": "bean",
+      "frame": 0,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\bean\\00.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "bean",
+      "frame": 1,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\bean\\01.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "bean",
+      "frame": 2,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\bean\\02.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "bean",
+      "frame": 3,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\bean\\03.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "bean",
+      "frame": 4,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\bean\\04.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "bean",
+      "frame": 5,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\bean\\05.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "pout",
+      "frame": 0,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\pout\\00.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "pout",
+      "frame": 1,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\pout\\01.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "pout",
+      "frame": 2,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\pout\\02.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "pout",
+      "frame": 3,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\pout\\03.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "pout",
+      "frame": 4,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\pout\\04.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "pout",
+      "frame": 5,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\pout\\05.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "shy",
+      "frame": 0,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\shy\\00.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "shy",
+      "frame": 1,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\shy\\01.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "shy",
+      "frame": 2,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\shy\\02.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "shy",
+      "frame": 3,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\shy\\03.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "shy",
+      "frame": 4,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\shy\\04.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "shy",
+      "frame": 5,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\shy\\05.png",
+      "durationMs": 180
+    }
+  ],
+  "mp4Timing": "180ms holds approximated to5 frames at30fps; GIF exact180ms."
+}

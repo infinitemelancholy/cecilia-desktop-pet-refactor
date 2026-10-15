@@ -1,0 +1,54 @@
+{
+  "originalImageGenPath": "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-a8df-76e2-a6e5-5394410b188c\\exec-40e23cca-df56-443a-8aaa-249bc417e954.png",
+  "sourceArchive": "work/art-runs/cafe/q/sources/pout-raw.png",
+  "prompt": "work/art-runs/cafe/prompts/q-pout-final.txt",
+  "transparentBackground": true,
+  "poseReference": "outputs/cecilia-qpet/art/outfits/classic/pout/contact.png",
+  "costumeSource": "work/references/official/episode-06-01.png",
+  "description": "relaxed\u2192fists\u2192inflated cheeks\u2192stronger pout\u2192soften\u2192relaxed",
+  "visualWarnings": [],
+  "actualFrames": 6,
+  "bundledFrameInspection": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\pout\\review.json",
+  "inspectionPassed": true,
+  "normalSizeContact": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\pout\\contact.png",
+  "motionPreview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\pout\\preview.gif",
+  "finalCellBboxes": [
+    [
+      27,
+      4,
+      164,
+      202
+    ],
+    [
+      27,
+      4,
+      164,
+      202
+    ],
+    [
+      27,
+      4,
+      164,
+      202
+    ],
+    [
+      26,
+      8,
+      165,
+      202
+    ],
+    [
+      26,
+      7,
+      165,
+      202
+    ],
+    [
+      27,
+      6,
+      164,
+      202
+    ]
+  ],
+  "registration": "One bundled family scale, no per-pose resize. Grounded poses translated to shared floor; hop vertical displacement preserved."
+}

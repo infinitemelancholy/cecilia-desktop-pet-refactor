@@ -1,0 +1,101 @@
+{
+  "state": "travel-sleepy-final",
+  "expected_frames": 6,
+  "actual_frames": 6,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\sleepy\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 18795,
+      "bbox": [
+        13,
+        4,
+        179,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\sleepy\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 18512,
+      "bbox": [
+        15,
+        4,
+        177,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\sleepy\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 18079,
+      "bbox": [
+        16,
+        8,
+        176,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\sleepy\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17592,
+      "bbox": [
+        15,
+        16,
+        177,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\sleepy\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17973,
+      "bbox": [
+        15,
+        11,
+        177,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\sleepy\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 18795,
+      "bbox": [
+        13,
+        4,
+        179,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ]
+}

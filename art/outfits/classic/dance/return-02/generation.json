@@ -1,0 +1,9 @@
+{
+  "prompt": "Create exactly TWELVE independently drawn sequential animation frames, organized 2 rows of 6 evenly spaced full body characters on transparent background, wide 3:1 image. This continues the FIRST reference final pose (last bottom-right frame): Cecilia's RIGHT arm on viewer LEFT at shoulder horizontal, opposite hand low, feet now uncrossed. Over these 12 ordered frames smoothly lower that same viewer-left arm from horizontal through diagonal downward, relax the opposite hand to side, straighten head/body gradually, settle long mint hair and navy/ivory saint dress, ending precisely the neutral upright hands-at-sides pose of SECOND reference first top-left frame. Big head small body, original classic ivory hood, mint hair green eyes. Keep BOTH eyes OPEN gentle smile all12; no blinking/winking here. Equal same head/body size, stable shoe baseline, full silhouette within each slot with 20px clear gap; no connected figures/no shadows/no labels. Clothing exactly reference, no replacement outfits. Draw real gradual elbow/wrist changes, hair and skirt softly lag then settle. Do not repeat identical images or rotate whole sprite; no jump. Transparent RGBA. Third image canonical identity. First/last pose continuity is essential.",
+  "refs": [
+    "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-01-grid.png",
+    "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\entry-grid.png",
+    "<本机路径已省略>\\xia\\work\\references\\cecilia-canonical.png"
+  ],
+  "accepted": true
+}

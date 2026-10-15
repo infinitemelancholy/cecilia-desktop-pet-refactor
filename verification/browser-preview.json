@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "observedOutfits": [
+    "classic",
+    "travel",
+    "cafe"
+  ],
+  "travelCompactLieVisible": true,
+  "cafeLawrenceSleeveVisible": true,
+  "normalSingleDisplayWidth": 224,
+  "normalDuoDisplayWidth": 448,
+  "consoleErrors": [],
+  "method": "CUA browser DOM selections and screenshots of embedded local HTML preview"
+}

@@ -1,0 +1,6 @@
+{
+  "state": "running",
+  "approved": false,
+  "structural_qa": "Passed",
+  "reason": "The fourth figure raises the opposite hand from the cheek-supporting hand in frames 1-3 and the raised finger in frame 5. This produces a hand-side snap across the idea gesture. Repair the complete source strip with only the fourth figure's arm gesture corrected; keep scale, identity and other frames."
+}

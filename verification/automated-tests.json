@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "nodeTests": 33,
+  "pythonTests": 24,
+  "total": 57,
+  "nodeCommand": "node --test tests/gaze.test.cjs tests/scheduler.test.cjs tests/renderer.test.cjs",
+  "pythonCommand": "python -m unittest discover -s tests -p test_*.py"
+}

@@ -1,0 +1,10 @@
+{
+  "tool": "Built-in ImageGen",
+  "key": "classicDanceEntry",
+  "prompt": "Create twelve very subtle sequential full-body Cecilia chibi poses for entry into her approved OP dance. TWO ROWS of SIX in wide3:1 landscape, isolated complete hair/hands/shoes with at least40px transparentgap. Reference1 is neutral existingpet,2 is dance01 firstpose and choreography/bodytype. Readtoprowthenbottom. Pose00 neutral standing hands relaxed at sides, bothfeet planted, mint hair calm. Over next10 frames she gently brings BOTHhands down together in FRONT of lower skirt, slightly bends knees to shift weight, chin lowers just a little, skirt and longhair softly lag. Lastpose11 matchesdance01 firstpose: hands relaxedlowtogether, crossed/angled knees subtle, no largerbody/head than canonical, classic ivory hood/navyivory saint outfit. Every adjacent frame has a tiny real arm/wrist/skirt/hair change, no abrupt hand teleport or jump, no shrinking wholeperson. Same baseline/proportion across12, still standing. Transparent no background/shadows/text/effects. This is a0.5second transition, NOT waving, clapping or raising arms.",
+  "refs": [
+    "work/references/cecilia-canonical.png",
+    "outputs/cecilia-qpet/art/outfits/classic/dance/segment-01/qa/frames-strip.png"
+  ],
+  "processing": "Deterministic extracted generated pixels, transparent edge cleanup, fitted without person redraw."
+}

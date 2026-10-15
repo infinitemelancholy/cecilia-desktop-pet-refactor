@@ -1,0 +1,97 @@
+{
+  "passed": true,
+  "simulatedVisibleHours": 2,
+  "allElevenScenesSeen": [
+    "lie",
+    "pout",
+    "lump",
+    "lawrence-care",
+    "bean",
+    "hazelita-chat",
+    "hop",
+    "lawrence-sleeve",
+    "sleepy",
+    "shy",
+    "hazelita-showcase"
+  ],
+  "sceneCount": 301,
+  "outfitChanges": [
+    {
+      "outfit": "cafe",
+      "visibleMs": 557300,
+      "deadline": 548679.3614923954
+    },
+    {
+      "outfit": "classic",
+      "visibleMs": 1114500,
+      "deadline": 1109955.1226569018
+    },
+    {
+      "outfit": "travel",
+      "visibleMs": 1617600,
+      "deadline": 1611220.1271470159
+    },
+    {
+      "outfit": "cafe",
+      "visibleMs": 2033800,
+      "deadline": 2028987.678337254
+    },
+    {
+      "outfit": "travel",
+      "visibleMs": 2346200,
+      "deadline": 2339045.178274867
+    },
+    {
+      "outfit": "classic",
+      "visibleMs": 2721600,
+      "deadline": 2721260.751424381
+    },
+    {
+      "outfit": "cafe",
+      "visibleMs": 3218100,
+      "deadline": 3216879.7075833525
+    },
+    {
+      "outfit": "classic",
+      "visibleMs": 3673500,
+      "deadline": 3668488.954311381
+    },
+    {
+      "outfit": "travel",
+      "visibleMs": 3977000,
+      "deadline": 3976154.3695345623
+    },
+    {
+      "outfit": "cafe",
+      "visibleMs": 4337100,
+      "deadline": 4334778.498215223
+    },
+    {
+      "outfit": "classic",
+      "visibleMs": 4927000,
+      "deadline": 4926140.139143841
+    },
+    {
+      "outfit": "travel",
+      "visibleMs": 5390900,
+      "deadline": 5390366.34629785
+    },
+    {
+      "outfit": "classic",
+      "visibleMs": 5917900,
+      "deadline": 5917595.580294286
+    },
+    {
+      "outfit": "travel",
+      "visibleMs": 6358300,
+      "deadline": 6356348.139399036
+    },
+    {
+      "outfit": "cafe",
+      "visibleMs": 6733300,
+      "deadline": 6730199.8116921475
+    }
+  ],
+  "hiddenHourLeavesStateIdentical": true,
+  "method": "Virtual visible-time integration using the final manifest; this is not a two-hour real desktop soak."
+}

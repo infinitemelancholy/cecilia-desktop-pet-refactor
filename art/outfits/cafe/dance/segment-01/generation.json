@@ -1,0 +1,92 @@
+{
+  "source": "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-a8df-76e2-a6e5-5394410b188c\\exec-cabefd10-161c-470b-ade6-b570290e689c.png",
+  "sourceArchive": "work/art-runs/cafe/dance/sources/segment-01-raw.png",
+  "prompt": "work/art-runs/cafe/prompts/dance-01.txt",
+  "reference": "classic/dance/segment-01",
+  "poseEvidence": "work/references/user-op/dance-grid-01.jpg",
+  "durationMs": 40.54977,
+  "visualReview": "Lowhands weightshift and knee cross/uncross, hair/apron intact. Source matte islands removed, no character redraw.",
+  "actualFrames": 12,
+  "transparentBackground": true,
+  "actualInspectionPassed": true,
+  "bundledReview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-01\\review.json",
+  "finalCellBboxes": [
+    [
+      34,
+      5,
+      157,
+      203
+    ],
+    [
+      33,
+      8,
+      158,
+      203
+    ],
+    [
+      35,
+      7,
+      156,
+      203
+    ],
+    [
+      34,
+      6,
+      157,
+      203
+    ],
+    [
+      36,
+      9,
+      154,
+      203
+    ],
+    [
+      37,
+      7,
+      153,
+      203
+    ],
+    [
+      36,
+      8,
+      155,
+      203
+    ],
+    [
+      33,
+      9,
+      158,
+      203
+    ],
+    [
+      37,
+      8,
+      154,
+      203
+    ],
+    [
+      36,
+      9,
+      155,
+      203
+    ],
+    [
+      38,
+      9,
+      154,
+      203
+    ],
+    [
+      36,
+      8,
+      155,
+      203
+    ]
+  ],
+  "sourceFile": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-01\\qa\\source-raw.png",
+  "promptFile": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-01\\qa\\prompt.txt",
+  "fps": 24.66105233149288,
+  "singleSegmentPreview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-01\\preview.mp4",
+  "finalBatchRegistration": "Pending parent combined registration and joint continuity review; preserve source-flat pixels for that step."
+}

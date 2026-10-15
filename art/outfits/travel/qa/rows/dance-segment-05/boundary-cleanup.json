@@ -1,0 +1,21 @@
+{
+  "source": "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-6d0e-78e3-85ab-a12f726b91c7\\exec-30145c5e-5938-4b96-b78b-4c43478e96e2.png",
+  "state": "dance-segment-05",
+  "significant_components": 10,
+  "bundled_despill_report": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\qa\\rows\\dance-segment-05\\despill.json",
+  "removed_chroma_edge_pixels": 2312,
+  "removed_detached_alpha_noise": 34259,
+  "removed_weak_alpha_pixels": 55066,
+  "low_alpha_separators": [
+    {
+      "method": "2D nearest-disjoint-alpha64-core boundary",
+      "removed_pixels": 94,
+      "maximum_alpha_removed": 63,
+      "core_alpha64_pixels_changed": 0
+    }
+  ],
+  "deep_interior_alpha_threshold": 128,
+  "deep_interior_pixels_changed": 0,
+  "weak_alpha_background_bridge_in_soft_alpha_interior_changed": 0,
+  "technique": "Bundled chroma despill plus only transparent-boundary saturated yellow/magenta alpha cleanup. When two otherwise disjoint strong-alpha poses are connected solely by weak alpha, remove one empty-core gap column below alpha 128. All opaque subject pixels preserved. No character drawing or geometric changes."
+}

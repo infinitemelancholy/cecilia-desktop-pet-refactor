@@ -1,0 +1,60 @@
+{
+  "source": "<本机路径已省略>\\xia\\work\\art-runs\\cafe\\decoded\\running-left-mirrored-source.png",
+  "size": [
+    2158,
+    729
+  ],
+  "component_boxes_xywh": [
+    [
+      7,
+      228,
+      240,
+      303
+    ],
+    [
+      289,
+      225,
+      228,
+      308
+    ],
+    [
+      552,
+      225,
+      223,
+      308
+    ],
+    [
+      820,
+      227,
+      226,
+      305
+    ],
+    [
+      1073,
+      226,
+      249,
+      307
+    ],
+    [
+      1365,
+      225,
+      223,
+      307
+    ],
+    [
+      1614,
+      226,
+      245,
+      306
+    ],
+    [
+      1919,
+      226,
+      221,
+      308
+    ]
+  ],
+  "cleanup": "Detached alpha noise and saturated yellow/green chroma pixels only within 6 px of transparent edges; no character drawing or per-frame resizing.",
+  "removed_chroma_edge_pixels": 0,
+  "full_silhouettes_inside_canvas": true
+}

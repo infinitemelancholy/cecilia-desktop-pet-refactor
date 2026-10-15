@@ -1,0 +1,94 @@
+{
+  "source": "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-a8df-76e2-a6e5-5394410b188c\\exec-7d7c402a-7306-4033-a569-5eafe51b4104.png",
+  "sourceArchive": "work/art-runs/cafe/dance/sources/segment-06-raw.png",
+  "prompt": "work/art-runs/cafe/prompts/dance-06.txt",
+  "reference": "classic/dance/segment-06-open",
+  "poseEvidence": "work/references/user-op/dance-grid-06.jpg",
+  "durationMs": 40.54977,
+  "visualReview": "All12greeneyesopen, raisedarmretained and softopenmouthsmile. Weakmatte bridges removedwith12solidactorcore+1pxAAenvelope, no scale/redraw, then truebundledextractionpassed.",
+  "processedSourceArchive": "work/art-runs/cafe/dance/sources/segment-06-clean.png",
+  "sourceCleanup": "work/art-runs/cafe/dance/sources/segment-06-cleanup.json",
+  "actualFrames": 12,
+  "transparentBackground": true,
+  "actualInspectionPassed": true,
+  "bundledReview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-06\\review.json",
+  "finalCellBboxes": [
+    [
+      21,
+      11,
+      169,
+      203
+    ],
+    [
+      24,
+      12,
+      167,
+      203
+    ],
+    [
+      22,
+      13,
+      169,
+      201
+    ],
+    [
+      21,
+      11,
+      169,
+      201
+    ],
+    [
+      23,
+      5,
+      168,
+      203
+    ],
+    [
+      24,
+      8,
+      167,
+      202
+    ],
+    [
+      26,
+      11,
+      165,
+      203
+    ],
+    [
+      25,
+      7,
+      166,
+      203
+    ],
+    [
+      22,
+      14,
+      169,
+      203
+    ],
+    [
+      21,
+      13,
+      170,
+      203
+    ],
+    [
+      21,
+      13,
+      170,
+      203
+    ],
+    [
+      23,
+      8,
+      168,
+      203
+    ]
+  ],
+  "sourceFile": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-06\\qa\\source-raw.png",
+  "promptFile": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-06\\qa\\prompt.txt",
+  "fps": 24.66105233149288,
+  "singleSegmentPreview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-06\\preview.mp4",
+  "finalBatchRegistration": "Pending parent combined registration and joint continuity review; preserve source-flat pixels for that step."
+}

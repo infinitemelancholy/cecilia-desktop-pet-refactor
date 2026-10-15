@@ -1,0 +1,101 @@
+{
+  "state": "travel-lump-final",
+  "expected_frames": 6,
+  "actual_frames": 6,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\lump\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 19541,
+      "bbox": [
+        15,
+        4,
+        177,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\lump\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 18076,
+      "bbox": [
+        10,
+        39,
+        181,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\lump\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17686,
+      "bbox": [
+        7,
+        49,
+        185,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\lump\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 14970,
+      "bbox": [
+        14,
+        64,
+        179,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\lump\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15212,
+      "bbox": [
+        17,
+        53,
+        174,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\lump\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 19541,
+      "bbox": [
+        15,
+        4,
+        177,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ]
+}

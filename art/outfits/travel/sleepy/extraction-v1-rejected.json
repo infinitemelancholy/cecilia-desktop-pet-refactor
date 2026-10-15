@@ -1,0 +1,163 @@
+{
+  "state": "travel-sleepy",
+  "expected_frames": 6,
+  "actual_frames": 6,
+  "extraction_method": "components",
+  "ok": false,
+  "errors": [
+    "travel-sleepy frame 00 is empty or too sparse (2 pixels)",
+    "travel-sleepy frame 04 is empty or too sparse (4 pixels)",
+    "travel-sleepy frame 05 is empty or too sparse (2 pixels)"
+  ],
+  "warnings": [
+    "travel-sleepy frame 00 is much smaller than the row median (2 vs 1624)",
+    "travel-sleepy frame 01 is much larger than the row median (11074 vs 1624)",
+    "travel-sleepy frame 03 is much larger than the row median (7188 vs 1624)",
+    "travel-sleepy frame 04 is much smaller than the row median (4 vs 1624)",
+    "travel-sleepy frame 05 is much smaller than the row median (2 vs 1624)"
+  ],
+  "frames": [
+    {
+      "index": 0,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\sleepy\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 2,
+      "bbox": [
+        95,
+        201,
+        97,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\sleepy\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 11074,
+      "bbox": [
+        5,
+        110,
+        187,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\sleepy\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 3245,
+      "bbox": [
+        65,
+        119,
+        127,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\sleepy\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 7188,
+      "bbox": [
+        36,
+        110,
+        156,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\sleepy\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 4,
+      "bbox": [
+        95,
+        200,
+        97,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\sleepy\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 2,
+      "bbox": [
+        95,
+        201,
+        97,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ],
+  "source_bounds": [
+    [
+      392,
+      464,
+      393,
+      468
+    ],
+    [
+      11,
+      121,
+      1106,
+      670
+    ],
+    [
+      1115,
+      187,
+      1466,
+      669
+    ],
+    [
+      1471,
+      123,
+      2166,
+      669
+    ],
+    [
+      1866,
+      279,
+      1867,
+      282
+    ],
+    [
+      1872,
+      313,
+      1873,
+      317
+    ]
+  ],
+  "source_files": [
+    "outputs/cecilia-qpet/art/outfits/travel/sleepy/source.png"
+  ],
+  "strict_contour_chroma_pixels_removed": 1142,
+  "source_row_registration": null,
+  "grounded_pose_y_adjustments": [
+    86,
+    52,
+    52,
+    52,
+    116,
+    111
+  ],
+  "shared_registration": "bundled fit_registered_component_groups; one scale for complete row; vertical displacement preserved"
+}

@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "reviewed_at_native_size": true,
+  "boundary_pairs": [
+    "157.5->180",
+    "337.5->000"
+  ],
+  "actual_continuity_report": "outputs\\cecilia-qpet\\art\\outfits\\travel\\qa\\look-continuity.json",
+  "findings": "No direction hole or reversal; 180 keeps down chin and small visible green iris slivers.337.5 approaches frontal up from image-left. Family boundary hair footprint changes about8-12percent; lower registration center maximum drift3px, ground baseline unchanged. These nonfatal measured image-diff outliers need parent independent review before final acceptance.",
+  "parent_review": "passed independently 2026-10-10; exact finaldirection sheet/classification accepted; root manages3-reviewblindvalidator"
+}

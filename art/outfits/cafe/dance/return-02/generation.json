@@ -1,0 +1,92 @@
+{
+  "source": "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-a8df-76e2-a6e5-5394410b188c\\exec-00974bfd-6ca7-487f-b3ce-b96f465589f9.png",
+  "sourceArchive": "work/art-runs/cafe/dance/sources/return-02-raw.png",
+  "prompt": "work/art-runs/cafe/prompts/dance-return-02.txt",
+  "reference": "classic/dance/return-02",
+  "poseEvidence": "New desktop exit staging, not claimed OP footage",
+  "durationMs": 41.70833,
+  "visualReview": "Viewerleft horizontalarm lowers toside, feet settleparallel andhands relax toneutral; eyes remainopen.",
+  "actualFrames": 12,
+  "transparentBackground": true,
+  "actualInspectionPassed": true,
+  "bundledReview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-02\\review.json",
+  "finalCellBboxes": [
+    [
+      13,
+      5,
+      177,
+      203
+    ],
+    [
+      13,
+      5,
+      178,
+      203
+    ],
+    [
+      15,
+      5,
+      176,
+      203
+    ],
+    [
+      19,
+      5,
+      172,
+      203
+    ],
+    [
+      22,
+      5,
+      169,
+      203
+    ],
+    [
+      31,
+      5,
+      160,
+      203
+    ],
+    [
+      30,
+      6,
+      160,
+      203
+    ],
+    [
+      31,
+      6,
+      160,
+      203
+    ],
+    [
+      31,
+      6,
+      159,
+      203
+    ],
+    [
+      33,
+      7,
+      158,
+      203
+    ],
+    [
+      34,
+      7,
+      156,
+      203
+    ],
+    [
+      34,
+      6,
+      156,
+      203
+    ]
+  ],
+  "sourceFile": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-02\\qa\\source-raw.png",
+  "promptFile": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-02\\qa\\prompt.txt",
+  "fps": 23.976025892189885,
+  "singleSegmentPreview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-02\\preview.mp4",
+  "finalBatchRegistration": "Pending parent combined registration and joint continuity review; preserve source-flat pixels for that step."
+}

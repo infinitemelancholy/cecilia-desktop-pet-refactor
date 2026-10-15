@@ -1,0 +1,1 @@
+Parent independently inspected direction-qa.png at normal pet size. Passed: clockwise order, up/down/right/left cardinals, all intermediate quadrants, fixed screen-left low ponytail, stable cafe uniform, foot baseline, and full-body scale. Minor adjacent same-quadrant similarities were reviewed and accepted; no hemisphere reversal was observed.

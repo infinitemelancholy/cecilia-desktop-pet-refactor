@@ -1,0 +1,17 @@
+{
+  "tool": "image_gen__imagegen (built-in)",
+  "prompt": "Use case: identity-preserve.\nReference 1 is the exact established classic action poses; redraw those poses with reference 2's approved travel canonical identity and complete costume. Reference 3 is the existing original pet atlas for consistent delicate anime chibi construction, and reference 4 is official episode-05 travel cloak evidence, not adult proportions.\nIn ALL SIX figures keep mint-green long hair, green eyes, SAME LARGE HEAD size and petite 2.5-head body; bare hair (NO saint veil), raspberry red short hooded cape with burgundy trim, white blouse/collar, narrow blue ribbon tie, navy pleated skirt with simple clean hem, dark stockings and navy shoes. No saint cape, navy hood, lace hem, apron or outfit change.\nExactly TWO ROWS × THREE complete isolated figures in reading order top left→right then bottom left→right. Draw each pose independently; do not shrink whole people. The physical head remains the same size for sitting/nodding and standing. Standing first/last have identical body/head height. Full hair/cape/shoes fit generously inside each cell. Standing figures have the same row-relative shoe baseline; all grounded poses touch it. Compact hair ends kept beside the body so complete width stays below 85% of the standing height. Rows separated by a wide transparent gap and sides by wide clear gutters.\nTruly transparent RGBA background only, no backdrop, floor, shadows, haze, stars, symbols, effects, blur, words, labels, guide marks, borders, props, scene or other people. Six complete separated drawings only.\nCOMPACT SITTING BUN sequence preserving reference 1:\n1 calm front standing neutral, open green eyes, arms relaxed;\n2 bend knees into a small seated crouch, hands rest on gathered knees;\n3 independently drawn compact seated bun with legs fully folded inside skirt, head unchanged in size, open green eyes, hands resting on skirt in front;\n4 the same compact seated bun with a closed-eye smiling blink;\n5 unfolding from the seat into a small crouch, head unchanged, hands still resting on knees;\n6 EXACT same standing pose/height/head/face as frame 1.\nSmall body must genuinely fold its legs while the head stays full-sized. Do not scale the whole character down. Her cloak gathers around shoulders, skirt folds over hidden knees, long hair curves in compact soft curls beside the small seated body. Seated pose full width must stay under 85% of first standing height. No horizontal sprawling hair.",
+  "original_path": "C:/Users/Jiang Haoyu/.codex/generated_images/01a11ff4-d8b2-7091-a034-1733e570287b/exec-980d6093-b436-4205-9b85-4962a5c59465.png",
+  "source_grid": "2 rows x 3",
+  "references": [
+    "art/outfits/classic/lump-strip.png",
+    "art/outfits/travel/canonical.png",
+    "work/references/current-pet.png",
+    "work/references/official/episode-05-01.png"
+  ],
+  "status": "accepted-five-unique-poses-plus-neutral-reuse",
+  "accepted_source_original_path": "C:/Users/Jiang Haoyu/.codex/generated_images/01a11ff4-d8b2-7091-a034-1733e570287b/exec-980d6093-b436-4205-9b85-4962a5c59465.png",
+  "runtime_frames": "00.png through 05.png,192x208",
+  "qa_record": "manual-qa.json",
+  "neutral_reuse": "Runtime05 repeats generated00 under explicit parent authorization; original generated05 retained in unaccepted/05-generated-recovery.png. This is five unique generated poses plus same-neutral closure."
+}

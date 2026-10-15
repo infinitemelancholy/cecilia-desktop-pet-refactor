@@ -1,0 +1,40 @@
+{
+  "stage": "S3-original-style",
+  "currentWork": "Human-selected original cafe/three-outfit style locked. Restyled pilots rejected. Verify depth rendering on byte-identical original assets before new authored poses.",
+  "stylePolicy": {
+    "status": "original-style-locked",
+    "primaryReference": "用户指定的原画风格.png",
+    "authority": "Human selected the currently installed cafe screenshot as the drawing-style standard.",
+    "required": [
+      "原来的精致Q版脸型与头身比例",
+      "原有浅绿色头发及原稿高光配色",
+      "原有绿眼结构和神态",
+      "清晰细线、分束发丝、衣褶与蕾丝细节",
+      "三套服装各自原稿为主参考"
+    ],
+    "forbidden": [
+      "以本轮改画风的待机或OP作为参考",
+      "重新设计角色或换画风",
+      "强制统一成新的冷薄荷绿RGB配色",
+      "用技术通过代替原稿风格一致性"
+    ],
+    "rejectedPilotScope": "All restyled idle and OP0–29 artwork. Prior technical recordings are retained as rejected-style evidence, not accepted artistic progress."
+  },
+  "fullRebuildComplete": false,
+  "newArtworkInstalled": false,
+  "retainedCode": [
+    "timing/probe isolation",
+    "native first-frame recording",
+    "bounded projection and grounded feet",
+    "artwork validation tooling"
+  ],
+  "outstanding": [
+    "original-style complete idle/blink",
+    "OP72 exposures +entry12 +return24 in original style",
+    "other two dances and three outfits",
+    "all60 action/outfit rows",
+    "duets/contact",
+    "transitions/input",
+    "performance/DPI/displays/cold start"
+  ]
+}

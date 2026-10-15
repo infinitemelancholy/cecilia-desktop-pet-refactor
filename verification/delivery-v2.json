@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "deliveredAtUnix": 1791611408.129037,
+  "petId": "pet_6ac71429ba50819188d4388111562bbd",
+  "automatedTests": {
+    "node": 37,
+    "pythonPackage": 25,
+    "pythonV2Migration": 3,
+    "total": 65,
+    "passed": true
+  },
+  "native": {
+    "passed": true,
+    "danceCombinations": 9,
+    "duetCombinations": 12,
+    "gazeDirections": 48,
+    "taskModes": 4
+  },
+  "launcher": {
+    "passed": true,
+    "routes": [
+      "desktop",
+      "taskbar-file",
+      "unified-vbs"
+    ],
+    "helperCount": 1,
+    "canvasCount": 1
+  },
+  "previews": {
+    "timelines": 21,
+    "mediaFiles": 42
+  },
+  "limits": [
+    "Full Codex exit and cold relaunch must be performed by the user.",
+    "Multiple OS display scales and all screen edges were not manually exercised.",
+    "Face stability was visually reviewed; strict face-size 3% and DeltaE00 3 thresholds were not established.",
+    "Dance in-betweens use optical flow; 144 timeline frames are not 144 independent drawings.",
+    "The embedded browser refused file URLs; direct MP4/GIF playback was reviewed."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "tool": "image_gen__imagegen (built-in)",
+  "prompt": "Use case: identity-preserve.\nEdit reference 1, the SIX Cecilia sleepy-nod poses in a TWO-ROW × THREE-COLUMN source sheet, changing clothing to reference 2's approved travel cloak outfit. KEEP THE EXACT TWO-ROW LAYOUT of reference 1, never flatten to six across. Canvas landscape 3:2. This must be six complete separated figures with wide gutters, like the first reference.\nPreserve the six poses and identical large head size, delicate anime chibi linework/proportions, mint green long hair and green eyes. Use reference 2 for the precise travel face and bare-hair head (no veil).\nReplace ALL saint costume pieces with: raspberry-red short hooded cloak with burgundy trim, white blouse and collar, blue narrow ribbon tie, simple navy pleated skirt hem without lace, dark stockings/navy shoes. Keep hood down behind neck, mint long hair bare and loose. Official episode 05 (reference 4) is clothing evidence, not adult proportions.\nExact frame sequence, reading top left, top center, top right, bottom left, bottom center, bottom right:\n1 neutral alert front standing, eyes open and arms down;\n2 heavy half lids, slight forward nod, arms relaxed;\n3 closed eyes and gently bowed head, hands softly together at waist;\n4 deepest gentle sleepy nod, head/neck bowed while retaining large unchanged physical head, hands softly together;\n5 recovering with half-open eyes and chin lifting;\n6 identical normal open-eye standing as first, same size/pose/head height.\nEvery grounded sole at each row's common baseline. Same physical head and body size for all six drawings; do not shrink bowed figures. First and last standing heights exactly match.\nGive each complete actor generous transparent safety margins. Long hair stays within about 80% of standing height in full width. There must be at least 10% of a cell width of completely empty transparent space between adjacent hair curls, and a wide empty gap between the rows. No touching actors, no cropped ends.\nTruly transparent RGBA background and clean alpha edges. No background haze, shadow, text, Z letters, symbols, effects, borders, guide marks, scene, prop or other people.",
+  "original_path": "C:/Users/Jiang Haoyu/.codex/generated_images/01a11ff4-d8b2-7091-a034-1733e570287b/exec-16a46893-db4b-467c-8fba-592007e47a7e.png",
+  "source_grid": "2 rows x 3",
+  "references": [
+    "original classic sleepy 2-row source exec-73b731e2-514d-4d2c-a92b-13335124c987.png",
+    "art/outfits/travel/canonical.png",
+    "work/references/current-pet.png",
+    "work/references/official/episode-05-01.png"
+  ],
+  "status": "redrawn-from-original-two-row-classic-reference"
+}

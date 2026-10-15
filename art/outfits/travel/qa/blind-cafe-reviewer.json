@@ -1,0 +1,21 @@
+{
+  "reviewer": "cafe visual worker",
+  "inputs": ["work/travel-blind-horizontal.png", "work/travel-blind-vertical.png"],
+  "review_method": "Classified from the two unlabeled randomized A/B sheets at their native 384-pixel width. Direction labels and key were not inspected.",
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-left","B":"screen-right","reason":"A nose/chin projects left with green irises toward image-left; B face is closer frontal but nose and irises lean image-right."},
+    {"pair":"horizontal-2","A":"screen-left","B":"screen-right","reason":"A shows leftward head yaw and leftward pupils; B near eye is fuller on the image-left side while nose/mouth project right."},
+    {"pair":"horizontal-3","A":"screen-right","B":"screen-left","reason":"A nose tip lies right of skull center and right far eye is narrowed; B nose tip projects left and the image-right near eye is more exposed."},
+    {"pair":"horizontal-4","A":"screen-right","B":"screen-left","reason":"Both are stronger sideways turns: A face/nose projects right, B face/nose projects left, with coherent opposite eye foreshortening."},
+    {"pair":"horizontal-5","A":"screen-left","B":"screen-right","reason":"A lowered face has leftward nose projection and lower-left irises; B lowered face has rightward projection with larger image-left near eye."},
+    {"pair":"horizontal-6","A":"screen-left","B":"screen-right","reason":"A chin/nose and visible irises angle slightly left under bangs; B chin/nose angles right, with the image-right eye compressed. Both horizontal cues are subtle because of strong downward pitch."},
+    {"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"A very low face retains slight leftward nose projection and a fuller image-right eye; B retains slight rightward projection and fuller image-left eye. Subtle cues near downward pose, but no opposite turn observed."},
+    {"pair":"vertical-1","A":"up","B":"down","reason":"A raised chin and exposed upper-looking irises aim above; B chin is tucked under bangs, eyes and lower face aim down."},
+    {"pair":"vertical-2","A":"up","B":"down","reason":"A chin lifts and pupils rise toward upper lids; B forehead/bangs overlap more of the eyes and the chin/irises point down."},
+    {"pair":"vertical-3","A":"down","B":"up","reason":"A tucked chin and low irises produce a downward face; B has lifted chin and eyes raised toward the upper edge."},
+    {"pair":"vertical-4","A":"up","B":"down","reason":"A raised chin and upper pupils accompany its sideways yaw; B lowers chin and looks below with lowered eyelids."},
+    {"pair":"vertical-5","A":"down","B":"up","reason":"A bangs overlap low-looking eyes and the nose/chin tuck toward apron; B exposes an upward tilted face with upper irises."},
+    {"pair":"vertical-6","A":"down","B":"up","reason":"A face angles down-left and chin tucks; B chin rises and green eyes look above while yawing sideways."},
+    {"pair":"vertical-7","A":"down","B":"up","reason":"A gaze is below eye level with lowered chin; B gaze rises toward upper lids with clearly raised chin."}
+  ]
+}

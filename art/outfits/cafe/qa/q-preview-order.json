@@ -1,0 +1,262 @@
+{
+  "source": "Exact final generated/extracted Q frame PNGs, not alternate source art",
+  "displaySize": [
+    224,
+    244
+  ],
+  "frames": [
+    {
+      "clip": "bean",
+      "frame": 0,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\bean\\00.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "bean",
+      "frame": 1,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\bean\\01.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "bean",
+      "frame": 2,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\bean\\02.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "bean",
+      "frame": 3,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\bean\\03.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "bean",
+      "frame": 4,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\bean\\04.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "bean",
+      "frame": 5,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\bean\\05.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "pout",
+      "frame": 0,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\pout\\00.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "pout",
+      "frame": 1,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\pout\\01.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "pout",
+      "frame": 2,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\pout\\02.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "pout",
+      "frame": 3,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\pout\\03.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "pout",
+      "frame": 4,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\pout\\04.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "pout",
+      "frame": 5,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\pout\\05.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "shy",
+      "frame": 0,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\shy\\00.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "shy",
+      "frame": 1,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\shy\\01.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "shy",
+      "frame": 2,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\shy\\02.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "shy",
+      "frame": 3,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\shy\\03.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "shy",
+      "frame": 4,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\shy\\04.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "shy",
+      "frame": 5,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\shy\\05.png",
+      "durationMs": 180
+    },
+    {
+      "clip": "hop",
+      "frame": 0,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\hop\\00.png",
+      "durationMs": 130
+    },
+    {
+      "clip": "hop",
+      "frame": 1,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\hop\\01.png",
+      "durationMs": 130
+    },
+    {
+      "clip": "hop",
+      "frame": 2,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\hop\\02.png",
+      "durationMs": 130
+    },
+    {
+      "clip": "hop",
+      "frame": 3,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\hop\\03.png",
+      "durationMs": 130
+    },
+    {
+      "clip": "hop",
+      "frame": 4,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\hop\\04.png",
+      "durationMs": 130
+    },
+    {
+      "clip": "hop",
+      "frame": 5,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\hop\\05.png",
+      "durationMs": 130
+    },
+    {
+      "clip": "sleepy",
+      "frame": 0,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\sleepy\\00.png",
+      "durationMs": 220
+    },
+    {
+      "clip": "sleepy",
+      "frame": 1,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\sleepy\\01.png",
+      "durationMs": 220
+    },
+    {
+      "clip": "sleepy",
+      "frame": 2,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\sleepy\\02.png",
+      "durationMs": 220
+    },
+    {
+      "clip": "sleepy",
+      "frame": 3,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\sleepy\\03.png",
+      "durationMs": 220
+    },
+    {
+      "clip": "sleepy",
+      "frame": 4,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\sleepy\\04.png",
+      "durationMs": 220
+    },
+    {
+      "clip": "sleepy",
+      "frame": 5,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\sleepy\\05.png",
+      "durationMs": 220
+    },
+    {
+      "clip": "lie",
+      "frame": 0,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\lie-compact\\00.png",
+      "durationMs": 250
+    },
+    {
+      "clip": "lie",
+      "frame": 1,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\lie-compact\\01.png",
+      "durationMs": 250
+    },
+    {
+      "clip": "lie",
+      "frame": 2,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\lie-compact\\02.png",
+      "durationMs": 250
+    },
+    {
+      "clip": "lie",
+      "frame": 3,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\lie-compact\\03.png",
+      "durationMs": 250
+    },
+    {
+      "clip": "lie",
+      "frame": 4,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\lie-compact\\04.png",
+      "durationMs": 250
+    },
+    {
+      "clip": "lie",
+      "frame": 5,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\lie-compact\\05.png",
+      "durationMs": 250
+    },
+    {
+      "clip": "lump",
+      "frame": 0,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\lump\\00.png",
+      "durationMs": 230
+    },
+    {
+      "clip": "lump",
+      "frame": 1,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\lump\\01.png",
+      "durationMs": 230
+    },
+    {
+      "clip": "lump",
+      "frame": 2,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\lump\\02.png",
+      "durationMs": 230
+    },
+    {
+      "clip": "lump",
+      "frame": 3,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\lump\\03.png",
+      "durationMs": 230
+    },
+    {
+      "clip": "lump",
+      "frame": 4,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\lump\\04.png",
+      "durationMs": 230
+    },
+    {
+      "clip": "lump",
+      "frame": 5,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\lump\\05.png",
+      "durationMs": 230
+    }
+  ],
+  "mp4Timing": "Frame holds quantized to30fps for preview only."
+}

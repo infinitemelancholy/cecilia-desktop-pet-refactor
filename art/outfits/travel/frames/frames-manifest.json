@@ -1,0 +1,128 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FFFF",
+    "rgb": [
+      0,
+      255,
+      255
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "frames": [
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\idle\\00.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\idle\\01.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\idle\\02.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\idle\\03.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\idle\\04.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\idle\\05.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "running-right",
+      "frames": [
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\running-right\\00.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\running-right\\01.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\running-right\\02.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\running-right\\03.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\running-right\\04.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\running-right\\05.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\running-right\\06.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\running-right\\07.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "running-left",
+      "frames": [
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\running-left\\00.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\running-left\\01.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\running-left\\02.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\running-left\\03.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\running-left\\04.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\running-left\\05.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\running-left\\06.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\running-left\\07.png"
+      ],
+      "method": "components",
+      "derivation": "framewise-horizontal-mirror-of-approved-component-extracted-running-right",
+      "source_manifest": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\qa\\rows\\running-right\\frames-manifest.json",
+      "temporal_order_preserved": true
+    },
+    {
+      "state": "waving",
+      "frames": [
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\waving\\00.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\waving\\01.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\waving\\02.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\waving\\03.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "jumping",
+      "frames": [
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\jumping\\00.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\jumping\\01.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\jumping\\02.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\jumping\\03.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\jumping\\04.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "failed",
+      "frames": [
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\failed\\00.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\failed\\01.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\failed\\02.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\failed\\03.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\failed\\04.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\failed\\05.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\failed\\06.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\failed\\07.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "waiting",
+      "frames": [
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\waiting\\00.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\waiting\\01.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\waiting\\02.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\waiting\\03.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\waiting\\04.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\waiting\\05.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "running",
+      "frames": [
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\running\\00.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\running\\01.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\running\\02.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\running\\03.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\running\\04.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\running\\05.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "review",
+      "frames": [
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\review\\00.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\review\\01.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\review\\02.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\review\\03.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\review\\04.png",
+        "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\review\\05.png"
+      ],
+      "method": "components"
+    }
+  ]
+}

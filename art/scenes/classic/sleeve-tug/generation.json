@@ -1,0 +1,21 @@
+{
+  "tool": "built-in ImageGen",
+  "selected_original_path": "C:/Users/Jiang Haoyu/.codex/generated_images/01a11ff4-d8b2-7091-a034-1733e570287b/exec-8fcd0deb-8d44-4e3b-8a63-4693bc771924.png",
+  "prompt": "Use case: identity-preserve.\nEdit image 1, this existing SIX-frame sleeve-pinch interaction sprite source. Change only Lawrence's physical pose in each pair to LOWER HIS HEAD naturally. Cecilia must remain pixel-composition equivalent in every pair: same full standing height, same large head/body proportions, same face/mint hair/lace classic clothing, same LEFT coordinates, same shoes on the ground. Image2 locks her approved canonical; Image3 Lawrence identity and chibi head/body proportions.\nCritical silhouette rule: in ALL six frames Lawrence's hair crown is almost level with Cecilia's veil crown, at most THREE percent of her total standing height above it. Both shoe soles share the same ground baseline. His physical head width and height equal hers; no oversize male head. Achieve this with a naturally drawn mild crouch: bent knees beneath cassock, shortened vertical torso projection and a forward bow at waist/neck. He is politely lowering himself to her level to hear her. Keep his canonical big head and little body, dark high-collar pastor cassock, golden cross chain, brown short hair and eyes, dark shoes. DO NOT solve it by shrinking Cecilia, by scaling the full picture, or by making Lawrence a tiny-headed adult. Visible knee bend/cassock folded at knee and slight forward lean should explain equal effective standing heights.\nSame exact TWO ROWS of THREE entire paired scenes, same full-body safe margins and clear transparent gaps. Characters always Cecilia on LEFT, Lawrence on RIGHT.\nSix sequence: (1) she watches, he looks right but already has mild knee bend; (2) she reaches sideways at waist level to his near dark sleeve cuff, he bends closer; (3) her thumb and index finger visibly PINCH his near dark sleeve CUFF, with small taut fabric folds pulled left, he begins looking LEFT; (4) fingers still physically gripping cuff, she blushes, he bows closer and turns LEFT to meet her eyes; (5) grip remains attached, she shyly blushes, he smiles kindly toward her, free hand opens; (6) she releases and lowers her hand, he stays mildly crouched / gently inclined left, both calm. Absolutely preserve real fabric pinch in frames3-5 and the complete characters.\nCecilia's veil-to-shoe height is the registration anchor. Lawrence's hair crown-to-shoe height must not exceed it by more than 3 percent in any pose. Do not make Cecil smaller. Keep all hair and hands and shoes intact. Transparent background with clean alpha; no haze, backdrop, ground shadow, text, numbers, labels, frames, hearts, effect lines or extra people. Draw only the six whole pairs.",
+  "references": [
+    "source-v2-height-mismatch.png",
+    "work/references/cecilia-canonical.png",
+    "art/guests/lawrence/canonical-clean.png"
+  ],
+  "earlier_unaccepted_sources": [
+    {
+      "file": "source-v1-height-mismatch.png",
+      "reason": "Lo approximately16percent taller; shared fit shrinksCeci"
+    },
+    {
+      "file": "source-v2-height-mismatch.png",
+      "reason": "8–10percent taller afterheight-only edit; changed strategy to physically bow and bend knees"
+    }
+  ],
+  "source_provenance": "Generated character art only. Bundled connected extraction/registration/one-pass despill; scratch pixel processing for384x208 custom pair frames. No procedural character redraw."
+}

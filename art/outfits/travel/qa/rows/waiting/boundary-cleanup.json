@@ -1,0 +1,20 @@
+{
+  "source": "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-6d0e-78e3-85ab-a12f726b91c7\\exec-522a56d2-59e7-4b8a-8816-5274066c1030.png",
+  "state": "waiting",
+  "significant_components": 4,
+  "bundled_despill_report": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\qa\\rows\\waiting\\despill.json",
+  "removed_chroma_edge_pixels": 2510,
+  "removed_detached_alpha_noise": 18069,
+  "removed_weak_alpha_pixels": 39282,
+  "low_alpha_separators": [
+    {
+      "column": 1093,
+      "removed_low_alpha_pixels": 43,
+      "preserved_alpha_at_least_128": true
+    }
+  ],
+  "deep_interior_alpha_threshold": 128,
+  "deep_interior_pixels_changed": 0,
+  "weak_alpha_background_bridge_in_soft_alpha_interior_changed": 3,
+  "technique": "Bundled chroma despill plus only transparent-boundary saturated yellow/magenta alpha cleanup. When two otherwise disjoint strong-alpha poses are connected solely by weak alpha, remove one empty-core gap column below alpha 128. All opaque subject pixels preserved. No character drawing or geometric changes."
+}

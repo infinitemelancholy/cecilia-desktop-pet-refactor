@@ -1,0 +1,92 @@
+{
+  "source": "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-a8df-76e2-a6e5-5394410b188c\\exec-b0073adf-e4d5-4141-8f55-feaf3626c1e9.png",
+  "sourceArchive": "work/art-runs/cafe/dance/sources/segment-03-raw.png",
+  "prompt": "work/art-runs/cafe/prompts/dance-03.txt",
+  "reference": "classic/dance/segment-03-v3",
+  "poseEvidence": "work/references/user-op/dance-grid-03.jpg",
+  "durationMs": 40.54977,
+  "visualReview": "Shallow dip and gradual upright recovery retained; final headtop12px vs following04first6px, batch joint review parent-owned.",
+  "actualFrames": 12,
+  "transparentBackground": true,
+  "actualInspectionPassed": true,
+  "bundledReview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-03\\review.json",
+  "finalCellBboxes": [
+    [
+      31,
+      5,
+      160,
+      203
+    ],
+    [
+      26,
+      15,
+      164,
+      203
+    ],
+    [
+      29,
+      15,
+      162,
+      203
+    ],
+    [
+      28,
+      21,
+      163,
+      203
+    ],
+    [
+      28,
+      24,
+      163,
+      203
+    ],
+    [
+      29,
+      12,
+      162,
+      203
+    ],
+    [
+      28,
+      22,
+      163,
+      203
+    ],
+    [
+      26,
+      25,
+      165,
+      203
+    ],
+    [
+      27,
+      23,
+      163,
+      203
+    ],
+    [
+      29,
+      21,
+      162,
+      203
+    ],
+    [
+      31,
+      17,
+      160,
+      203
+    ],
+    [
+      34,
+      12,
+      157,
+      203
+    ]
+  ],
+  "sourceFile": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-03\\qa\\source-raw.png",
+  "promptFile": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-03\\qa\\prompt.txt",
+  "fps": 24.66105233149288,
+  "singleSegmentPreview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-03\\preview.mp4",
+  "finalBatchRegistration": "Pending parent combined registration and joint continuity review; preserve source-flat pixels for that step."
+}

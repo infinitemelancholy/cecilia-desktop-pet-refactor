@@ -1,0 +1,64 @@
+{
+  "source_grid": "decoded/look-row-10-grid-clean.png",
+  "source_family": "exec-d7f9307c-3a5a-4808-ac1a-25b07b806dfa.png",
+  "pose_order": "top row left to right, then bottom row left to right",
+  "foreground_components": 8,
+  "component_bboxes": [
+    [
+      36,
+      38,
+      326,
+      490
+    ],
+    [
+      424,
+      42,
+      713,
+      490
+    ],
+    [
+      795,
+      43,
+      1081,
+      490
+    ],
+    [
+      1173,
+      39,
+      1460,
+      490
+    ],
+    [
+      41,
+      538,
+      325,
+      995
+    ],
+    [
+      417,
+      540,
+      701,
+      995
+    ],
+    [
+      788,
+      539,
+      1075,
+      995
+    ],
+    [
+      1173,
+      539,
+      1459,
+      995
+    ]
+  ],
+  "source_family_max_height": 457,
+  "row9_reference_max_height": 412,
+  "global_family_calibration_scale": 0.9015317286652079,
+  "output_size": [
+    2322,
+    419
+  ],
+  "processing": "Bundled connected_components and component_group_image primitives. Only recover existing generated pixels, reflow eight complete groups, and apply one uniform family-wide source scale; no individual pose scaling or new drawing. Final atlas remains assembled by bundled assemble_extended_atlas.py with row9 registration factor."
+}

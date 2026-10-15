@@ -1,0 +1,12 @@
+{
+  "frame_durations_ms": [
+    420,
+    220,
+    260,
+    400,
+    540,
+    440
+  ],
+  "total_ms": 2280,
+  "scene": "reach, pinch, turn, blush, response, release"
+}

@@ -1,0 +1,1 @@
+{"verdict":"fail","root_cause":"source geometry/connectivity","evidence":"Eight long-hair silhouettes touch, outer hair source edges clipped. Bundled assembly selected a large connected group plus detached components causing tiny eight-person image in one cell. Rejected after direct native registered-row visual inspection; do not accept assembler exit code alone."}

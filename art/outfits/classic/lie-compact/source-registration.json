@@ -1,0 +1,123 @@
+{
+  "method": "Generated component pixels only, no resize/redraw. Whole poses rearranged with ample vertical space. First neutral repeated as last;5unique generated poses+same-neutral closure.",
+  "source_canvas": [
+    1536,
+    1152
+  ],
+  "registrations": [
+    {
+      "index": 0,
+      "input_component_bbox": [
+        74,
+        16,
+        442,
+        543
+      ],
+      "output_translation_from_bbox": [
+        -2,
+        -3
+      ],
+      "source_pose_index": 0,
+      "physical_pose_pixel_size": [
+        368,
+        527
+      ],
+      "note": "Original independently generated pose preserved; translation only"
+    },
+    {
+      "index": 1,
+      "input_component_bbox": [
+        536,
+        128,
+        950,
+        518
+      ],
+      "output_translation_from_bbox": [
+        25,
+        22
+      ],
+      "source_pose_index": 1,
+      "physical_pose_pixel_size": [
+        414,
+        390
+      ],
+      "note": "Original independently generated pose preserved; translation only"
+    },
+    {
+      "index": 2,
+      "input_component_bbox": [
+        1022,
+        209,
+        1495,
+        510
+      ],
+      "output_translation_from_bbox": [
+        22,
+        30
+      ],
+      "source_pose_index": 2,
+      "physical_pose_pixel_size": [
+        473,
+        301
+      ],
+      "note": "Original independently generated pose preserved; translation only"
+    },
+    {
+      "index": 3,
+      "input_component_bbox": [
+        42,
+        700,
+        527,
+        993
+      ],
+      "output_translation_from_bbox": [
+        -28,
+        107
+      ],
+      "source_pose_index": 3,
+      "physical_pose_pixel_size": [
+        485,
+        293
+      ],
+      "note": "Original independently generated pose preserved; translation only"
+    },
+    {
+      "index": 4,
+      "input_component_bbox": [
+        597,
+        590,
+        987,
+        986
+      ],
+      "output_translation_from_bbox": [
+        -24,
+        114
+      ],
+      "source_pose_index": 4,
+      "physical_pose_pixel_size": [
+        390,
+        396
+      ],
+      "note": "Original independently generated pose preserved; translation only"
+    },
+    {
+      "index": 5,
+      "input_component_bbox": [
+        74,
+        16,
+        442,
+        543
+      ],
+      "output_translation_from_bbox": [
+        1022,
+        557
+      ],
+      "source_pose_index": 0,
+      "physical_pose_pixel_size": [
+        368,
+        527
+      ],
+      "note": "Generated standing pose00 repeated as identical neutral recovery bookend"
+    }
+  ]
+}

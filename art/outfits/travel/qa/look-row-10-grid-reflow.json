@@ -1,0 +1,64 @@
+{
+  "source_grid": "<本机路径已省略>\\xia\\work\\art-runs\\travel\\decoded\\look-row-10-grid.png",
+  "source_family": "exec-f4f91314-45e7-4e83-9556-683d7a3ad38e.png",
+  "pose_order": "top row left to right, then bottom row left to right",
+  "foreground_components": 8,
+  "component_bboxes": [
+    [
+      30,
+      37,
+      369,
+      484
+    ],
+    [
+      421,
+      36,
+      757,
+      484
+    ],
+    [
+      788,
+      36,
+      1128,
+      484
+    ],
+    [
+      1174,
+      36,
+      1517,
+      484
+    ],
+    [
+      32,
+      552,
+      371,
+      995
+    ],
+    [
+      409,
+      551,
+      755,
+      995
+    ],
+    [
+      784,
+      558,
+      1126,
+      995
+    ],
+    [
+      1171,
+      556,
+      1515,
+      995
+    ]
+  ],
+  "source_family_max_height": 448,
+  "row9_reference_max_height": 357,
+  "global_family_calibration_scale": 0.796875,
+  "output_size": [
+    2496,
+    383
+  ],
+  "processing": "Bundled connected_components and component_group_image recover existing generated pixels, reflow8complete groups and apply1uniform family-wide source scale. No per-pose scaling or character drawing. Final atlas assembled by actual bundled assemble_extended_atlas.py with approved row9registration factor."
+}

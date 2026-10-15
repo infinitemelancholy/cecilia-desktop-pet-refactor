@@ -1,0 +1,52 @@
+{
+  "passed": true,
+  "restoredShortcuts": [
+    "<本机路径已省略>",
+    "C:\\Users\\Jiang Haoyu\\AppData\\Roaming\\Microsoft\\Internet Explorer\\Quick Launch\\User Pinned\\TaskBar\\Codex.lnk"
+  ],
+  "originalHelperPids": [
+    55804
+  ],
+  "originalFilesUnchanged": true,
+  "reactivatedNewPlayer": {
+    "status": {
+      "stopped": false,
+      "mode": "daily",
+      "renderFrames": 2,
+      "slowFrames": 0,
+      "clip": "idle",
+      "elapsed": 6768.833333339251,
+      "phase": "interlude",
+      "outfit": "classic",
+      "duo": false,
+      "lookDirection": null,
+      "measurementWidth": 224
+    },
+    "state": {
+      "version": 1,
+      "outfit": "classic",
+      "visibleMs": 88671.40000001807,
+      "nextOutfitAt": 484057.94710677257,
+      "phase": "interlude",
+      "phaseElapsed": 6768.833333339251,
+      "scene": "bean",
+      "sceneBag": [
+        "sleepy",
+        "hazelita-showcase",
+        "shy",
+        "pout",
+        "hazelita-chat",
+        "lie",
+        "hop"
+      ],
+      "outfitBag": [],
+      "lastScene": "bean",
+      "lastMode": "daily",
+      "lastTask": null,
+      "taskElapsed": 0,
+      "recoveryRemaining": 0,
+      "resume": null
+    },
+    "canvasCount": 1
+  }
+}

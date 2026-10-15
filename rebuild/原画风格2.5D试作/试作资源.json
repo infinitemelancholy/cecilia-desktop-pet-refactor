@@ -1,0 +1,1310 @@
+{
+  "assets": {
+    "original_style_identity_face": "art/runtime/original-style-pilot/original_style_identity_face.png",
+    "original_style_painted_cafe": "art/runtime/original-style-pilot/original_style_painted_cafe.png",
+    "original_style_painted_classic": "art/runtime/original-style-pilot/original_style_painted_classic.png",
+    "original_style_painted_travel": "art/runtime/original-style-pilot/original_style_painted_travel.png",
+    "original_style_portrait_cafe": "art/runtime/original-style-pilot/original_style_portrait_cafe.png",
+    "original_style_portrait_classic": "art/runtime/original-style-pilot/original_style_portrait_classic.png",
+    "original_style_portrait_travel": "art/runtime/original-style-pilot/original_style_portrait_travel.png"
+  },
+  "assetMetadata": {
+    "original_style_identity_face": {
+      "width": 390,
+      "height": 195,
+      "decodedBytes": 304200,
+      "kind": "canonical-painted"
+    },
+    "original_style_painted_cafe": {
+      "width": 1024,
+      "height": 1536,
+      "decodedBytes": 6291456,
+      "kind": "canonical-painted"
+    },
+    "original_style_painted_classic": {
+      "width": 1024,
+      "height": 1536,
+      "decodedBytes": 6291456,
+      "kind": "canonical-painted"
+    },
+    "original_style_painted_travel": {
+      "width": 1024,
+      "height": 1536,
+      "decodedBytes": 6291456,
+      "kind": "canonical-painted"
+    },
+    "original_style_portrait_cafe": {
+      "width": 1024,
+      "height": 1536,
+      "decodedBytes": 6291456,
+      "kind": "canonical-painted"
+    },
+    "original_style_portrait_classic": {
+      "width": 1024,
+      "height": 1536,
+      "decodedBytes": 6291456,
+      "kind": "canonical-painted"
+    },
+    "original_style_portrait_travel": {
+      "width": 1024,
+      "height": 1536,
+      "decodedBytes": 6291456,
+      "kind": "canonical-painted"
+    }
+  },
+  "clips": {
+    "original-style-cafe": {
+      "outfit": "cafe",
+      "frames": [
+        {
+          "duration": 6000,
+          "layers": [
+            {
+              "asset": "original_style_portrait_cafe",
+              "source": [
+                0,
+                0,
+                1024,
+                1536
+              ],
+              "target": [
+                26,
+                5,
+                140,
+                202
+              ],
+              "volume": {
+                "bodyYaw": 0,
+                "headYaw": 0,
+                "time": 0,
+                "spatial": {
+                  "headDepth": 0.13,
+                  "bodyDepth": 0.08,
+                  "rearHairDepth": 0.055,
+                  "cameraDistance": 1.75,
+                  "lighting": 0.3
+                }
+              },
+              "skeleton": {
+                "limbs": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "torso": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "legs": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "matrix": [
+                0.9677767776777678,
+                0,
+                0,
+                0.9677767776777678,
+                3.0934293429342894,
+                7.533843384338439
+              ],
+              "blink": 0,
+              "face": {
+                "asset": "original_style_identity_face",
+                "transform": {
+                  "matrix": [
+                    2.608053037892542,
+                    0.015489295529309862,
+                    -0.020652394039079817,
+                    7.824159113677627
+                  ],
+                  "offset": [
+                    -0.8425106573785487,
+                    -1.3865104274883189
+                  ]
+                }
+              },
+              "legSpacing": 0.018,
+              "bootGap": 0.003,
+              "opacity": 1,
+              "actor": "cafe"
+            },
+            {
+              "asset": "original_style_painted_cafe",
+              "source": [
+                0,
+                0,
+                1024,
+                1536
+              ],
+              "target": [
+                26,
+                5,
+                140,
+                202
+              ],
+              "partMask": {
+                "polygon": [
+                  [
+                    0.355,
+                    0.34
+                  ],
+                  [
+                    0.4,
+                    0.35
+                  ],
+                  [
+                    0.39,
+                    0.46
+                  ],
+                  [
+                    0.325,
+                    0.59
+                  ],
+                  [
+                    0.195,
+                    0.655
+                  ],
+                  [
+                    0.18,
+                    0.595
+                  ],
+                  [
+                    0.28,
+                    0.49
+                  ],
+                  [
+                    0.315,
+                    0.39
+                  ]
+                ],
+                "yBounds": [
+                  0,
+                  0.526
+                ],
+                "excludeHair": true
+              },
+              "matrix": [
+                0.9677767776777678,
+                0,
+                0,
+                0.9677767776777678,
+                3.0934293429342894,
+                7.533843384338439
+              ],
+              "opacity": 1,
+              "actor": "cafe",
+              "volume": {
+                "bodyYaw": 0,
+                "headYaw": 0,
+                "time": 0,
+                "spatial": {
+                  "headDepth": 0.13,
+                  "bodyDepth": 0.08,
+                  "rearHairDepth": 0.055,
+                  "cameraDistance": 1.75,
+                  "lighting": 0.3
+                }
+              }
+            },
+            {
+              "asset": "original_style_painted_cafe",
+              "source": [
+                0,
+                0,
+                1024,
+                1536
+              ],
+              "target": [
+                26,
+                5,
+                140,
+                202
+              ],
+              "partMask": {
+                "polygon": [
+                  [
+                    0.355,
+                    0.34
+                  ],
+                  [
+                    0.4,
+                    0.35
+                  ],
+                  [
+                    0.39,
+                    0.46
+                  ],
+                  [
+                    0.325,
+                    0.59
+                  ],
+                  [
+                    0.195,
+                    0.655
+                  ],
+                  [
+                    0.18,
+                    0.595
+                  ],
+                  [
+                    0.28,
+                    0.49
+                  ],
+                  [
+                    0.315,
+                    0.39
+                  ]
+                ],
+                "yBounds": [
+                  0.514,
+                  1
+                ],
+                "excludeHair": true
+              },
+              "matrix": [
+                0.9677767776777678,
+                0,
+                0,
+                0.9677767776777678,
+                3.0934293429342894,
+                7.533843384338439
+              ],
+              "opacity": 1,
+              "actor": "cafe",
+              "volume": {
+                "bodyYaw": 0,
+                "headYaw": 0,
+                "time": 0,
+                "spatial": {
+                  "headDepth": 0.13,
+                  "bodyDepth": 0.08,
+                  "rearHairDepth": 0.055,
+                  "cameraDistance": 1.75,
+                  "lighting": 0.3
+                }
+              }
+            },
+            {
+              "asset": "original_style_painted_cafe",
+              "source": [
+                0,
+                0,
+                1024,
+                1536
+              ],
+              "target": [
+                26,
+                5,
+                140,
+                202
+              ],
+              "partMask": {
+                "polygon": [
+                  [
+                    0.645,
+                    0.34
+                  ],
+                  [
+                    0.6,
+                    0.35
+                  ],
+                  [
+                    0.61,
+                    0.46
+                  ],
+                  [
+                    0.675,
+                    0.59
+                  ],
+                  [
+                    0.8049999999999999,
+                    0.655
+                  ],
+                  [
+                    0.8200000000000001,
+                    0.595
+                  ],
+                  [
+                    0.72,
+                    0.49
+                  ],
+                  [
+                    0.685,
+                    0.39
+                  ]
+                ],
+                "yBounds": [
+                  0,
+                  0.526
+                ],
+                "excludeHair": true
+              },
+              "matrix": [
+                0.9677767776777678,
+                0,
+                0,
+                0.9677767776777678,
+                3.0934293429342894,
+                7.533843384338439
+              ],
+              "opacity": 1,
+              "actor": "cafe",
+              "volume": {
+                "bodyYaw": 0,
+                "headYaw": 0,
+                "time": 0,
+                "spatial": {
+                  "headDepth": 0.13,
+                  "bodyDepth": 0.08,
+                  "rearHairDepth": 0.055,
+                  "cameraDistance": 1.75,
+                  "lighting": 0.3
+                }
+              }
+            },
+            {
+              "asset": "original_style_painted_cafe",
+              "source": [
+                0,
+                0,
+                1024,
+                1536
+              ],
+              "target": [
+                26,
+                5,
+                140,
+                202
+              ],
+              "partMask": {
+                "polygon": [
+                  [
+                    0.645,
+                    0.34
+                  ],
+                  [
+                    0.6,
+                    0.35
+                  ],
+                  [
+                    0.61,
+                    0.46
+                  ],
+                  [
+                    0.675,
+                    0.59
+                  ],
+                  [
+                    0.8049999999999999,
+                    0.655
+                  ],
+                  [
+                    0.8200000000000001,
+                    0.595
+                  ],
+                  [
+                    0.72,
+                    0.49
+                  ],
+                  [
+                    0.685,
+                    0.39
+                  ]
+                ],
+                "yBounds": [
+                  0.514,
+                  1
+                ],
+                "excludeHair": true
+              },
+              "matrix": [
+                0.9677767776777678,
+                0,
+                0,
+                0.9677767776777678,
+                3.0934293429342894,
+                7.533843384338439
+              ],
+              "opacity": 1,
+              "actor": "cafe",
+              "volume": {
+                "bodyYaw": 0,
+                "headYaw": 0,
+                "time": 0,
+                "spatial": {
+                  "headDepth": 0.13,
+                  "bodyDepth": 0.08,
+                  "rearHairDepth": 0.055,
+                  "cameraDistance": 1.75,
+                  "lighting": 0.3
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "loop": [
+        0,
+        1
+      ],
+      "playbackRate": 1,
+      "motionModel": "authored-cel-depth25-v1",
+      "secondaryMotion": {
+        "bodyYaw": 0.12,
+        "headYaw": 0.16
+      },
+      "pilot": true,
+      "review": {
+        "status": "original-source-locked-depth-preview-pending",
+        "scope": "Original artwork byte-identical; new depth rendering only. Not complete idle animation or final visual acceptance."
+      }
+    },
+    "original-style-classic": {
+      "outfit": "classic",
+      "frames": [
+        {
+          "duration": 6000,
+          "layers": [
+            {
+              "asset": "original_style_portrait_classic",
+              "source": [
+                0,
+                0,
+                1024,
+                1536
+              ],
+              "target": [
+                26,
+                1.5807291666666665,
+                140,
+                202
+              ],
+              "volume": {
+                "bodyYaw": 0,
+                "headYaw": 0,
+                "time": 0,
+                "spatial": {
+                  "headDepth": 0.13,
+                  "bodyDepth": 0.08,
+                  "rearHairDepth": 0.055,
+                  "cameraDistance": 1.75,
+                  "lighting": 0.3
+                }
+              },
+              "skeleton": {
+                "limbs": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "torso": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "legs": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "matrix": [
+                0.9645292045983122,
+                0,
+                0,
+                0.9645292045983122,
+                3.4051963585620335,
+                7.931045252176233
+              ],
+              "blink": 0,
+              "face": {
+                "asset": "original_style_identity_face",
+                "transform": {
+                  "matrix": [
+                    2.710404694254901,
+                    -0.014344909622239652,
+                    0.019126546162986202,
+                    8.131214082764703
+                  ],
+                  "offset": [
+                    -0.886304171742969,
+                    -1.5957324694481427
+                  ]
+                }
+              },
+              "legSpacing": 0.018,
+              "bootGap": 0.003,
+              "opacity": 1,
+              "actor": "classic"
+            },
+            {
+              "asset": "original_style_painted_classic",
+              "source": [
+                0,
+                0,
+                1024,
+                1536
+              ],
+              "target": [
+                26,
+                1.5807291666666665,
+                140,
+                202
+              ],
+              "partMask": {
+                "polygon": [
+                  [
+                    0.355,
+                    0.34
+                  ],
+                  [
+                    0.4,
+                    0.35
+                  ],
+                  [
+                    0.39,
+                    0.46
+                  ],
+                  [
+                    0.325,
+                    0.59
+                  ],
+                  [
+                    0.195,
+                    0.655
+                  ],
+                  [
+                    0.18,
+                    0.595
+                  ],
+                  [
+                    0.28,
+                    0.49
+                  ],
+                  [
+                    0.315,
+                    0.39
+                  ]
+                ],
+                "yBounds": [
+                  0,
+                  0.526
+                ],
+                "excludeHair": true
+              },
+              "matrix": [
+                0.9645292045983122,
+                0,
+                0,
+                0.9645292045983122,
+                3.4051963585620335,
+                7.931045252176233
+              ],
+              "opacity": 1,
+              "actor": "classic",
+              "volume": {
+                "bodyYaw": 0,
+                "headYaw": 0,
+                "time": 0,
+                "spatial": {
+                  "headDepth": 0.13,
+                  "bodyDepth": 0.08,
+                  "rearHairDepth": 0.055,
+                  "cameraDistance": 1.75,
+                  "lighting": 0.3
+                }
+              }
+            },
+            {
+              "asset": "original_style_painted_classic",
+              "source": [
+                0,
+                0,
+                1024,
+                1536
+              ],
+              "target": [
+                26,
+                1.5807291666666665,
+                140,
+                202
+              ],
+              "partMask": {
+                "polygon": [
+                  [
+                    0.355,
+                    0.34
+                  ],
+                  [
+                    0.4,
+                    0.35
+                  ],
+                  [
+                    0.39,
+                    0.46
+                  ],
+                  [
+                    0.325,
+                    0.59
+                  ],
+                  [
+                    0.195,
+                    0.655
+                  ],
+                  [
+                    0.18,
+                    0.595
+                  ],
+                  [
+                    0.28,
+                    0.49
+                  ],
+                  [
+                    0.315,
+                    0.39
+                  ]
+                ],
+                "yBounds": [
+                  0.514,
+                  1
+                ],
+                "excludeHair": true
+              },
+              "matrix": [
+                0.9645292045983122,
+                0,
+                0,
+                0.9645292045983122,
+                3.4051963585620335,
+                7.931045252176233
+              ],
+              "opacity": 1,
+              "actor": "classic",
+              "volume": {
+                "bodyYaw": 0,
+                "headYaw": 0,
+                "time": 0,
+                "spatial": {
+                  "headDepth": 0.13,
+                  "bodyDepth": 0.08,
+                  "rearHairDepth": 0.055,
+                  "cameraDistance": 1.75,
+                  "lighting": 0.3
+                }
+              }
+            },
+            {
+              "asset": "original_style_painted_classic",
+              "source": [
+                0,
+                0,
+                1024,
+                1536
+              ],
+              "target": [
+                26,
+                1.5807291666666665,
+                140,
+                202
+              ],
+              "partMask": {
+                "polygon": [
+                  [
+                    0.645,
+                    0.34
+                  ],
+                  [
+                    0.6,
+                    0.35
+                  ],
+                  [
+                    0.61,
+                    0.46
+                  ],
+                  [
+                    0.675,
+                    0.59
+                  ],
+                  [
+                    0.8049999999999999,
+                    0.655
+                  ],
+                  [
+                    0.8200000000000001,
+                    0.595
+                  ],
+                  [
+                    0.72,
+                    0.49
+                  ],
+                  [
+                    0.685,
+                    0.39
+                  ]
+                ],
+                "yBounds": [
+                  0,
+                  0.526
+                ],
+                "excludeHair": true
+              },
+              "matrix": [
+                0.9645292045983122,
+                0,
+                0,
+                0.9645292045983122,
+                3.4051963585620335,
+                7.931045252176233
+              ],
+              "opacity": 1,
+              "actor": "classic",
+              "volume": {
+                "bodyYaw": 0,
+                "headYaw": 0,
+                "time": 0,
+                "spatial": {
+                  "headDepth": 0.13,
+                  "bodyDepth": 0.08,
+                  "rearHairDepth": 0.055,
+                  "cameraDistance": 1.75,
+                  "lighting": 0.3
+                }
+              }
+            },
+            {
+              "asset": "original_style_painted_classic",
+              "source": [
+                0,
+                0,
+                1024,
+                1536
+              ],
+              "target": [
+                26,
+                1.5807291666666665,
+                140,
+                202
+              ],
+              "partMask": {
+                "polygon": [
+                  [
+                    0.645,
+                    0.34
+                  ],
+                  [
+                    0.6,
+                    0.35
+                  ],
+                  [
+                    0.61,
+                    0.46
+                  ],
+                  [
+                    0.675,
+                    0.59
+                  ],
+                  [
+                    0.8049999999999999,
+                    0.655
+                  ],
+                  [
+                    0.8200000000000001,
+                    0.595
+                  ],
+                  [
+                    0.72,
+                    0.49
+                  ],
+                  [
+                    0.685,
+                    0.39
+                  ]
+                ],
+                "yBounds": [
+                  0.514,
+                  1
+                ],
+                "excludeHair": true
+              },
+              "matrix": [
+                0.9645292045983122,
+                0,
+                0,
+                0.9645292045983122,
+                3.4051963585620335,
+                7.931045252176233
+              ],
+              "opacity": 1,
+              "actor": "classic",
+              "volume": {
+                "bodyYaw": 0,
+                "headYaw": 0,
+                "time": 0,
+                "spatial": {
+                  "headDepth": 0.13,
+                  "bodyDepth": 0.08,
+                  "rearHairDepth": 0.055,
+                  "cameraDistance": 1.75,
+                  "lighting": 0.3
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "loop": [
+        0,
+        1
+      ],
+      "playbackRate": 1,
+      "motionModel": "authored-cel-depth25-v1",
+      "secondaryMotion": {
+        "bodyYaw": 0.12,
+        "headYaw": 0.16
+      },
+      "pilot": true,
+      "review": {
+        "status": "original-source-locked-depth-preview-pending",
+        "scope": "Original artwork byte-identical; new depth rendering only. Not complete idle animation or final visual acceptance."
+      }
+    },
+    "original-style-travel": {
+      "outfit": "travel",
+      "frames": [
+        {
+          "duration": 6000,
+          "layers": [
+            {
+              "asset": "original_style_portrait_travel",
+              "source": [
+                0,
+                0,
+                1024,
+                1536
+              ],
+              "target": [
+                26,
+                5,
+                140,
+                202
+              ],
+              "volume": {
+                "bodyYaw": 0,
+                "headYaw": 0,
+                "time": 0,
+                "spatial": {
+                  "headDepth": 0.13,
+                  "bodyDepth": 0.08,
+                  "rearHairDepth": 0.055,
+                  "cameraDistance": 1.75,
+                  "lighting": 0.3
+                }
+              },
+              "skeleton": {
+                "limbs": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "torso": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "legs": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "matrix": [
+                0.9830017201446547,
+                0,
+                0,
+                0.9830017201446547,
+                1.6318348661131488,
+                4.223842288469598
+              ],
+              "blink": 0,
+              "face": {
+                "asset": "original_style_identity_face",
+                "transform": {
+                  "matrix": [
+                    2.6125629054883652,
+                    0.018406031859412815,
+                    -0.02454137581255042,
+                    7.837688716465096
+                  ],
+                  "offset": [
+                    -0.8448526786431365,
+                    -1.386338368502463
+                  ]
+                }
+              },
+              "legSpacing": 0.018,
+              "bootGap": 0.003,
+              "opacity": 1,
+              "actor": "travel"
+            },
+            {
+              "asset": "original_style_painted_travel",
+              "source": [
+                0,
+                0,
+                1024,
+                1536
+              ],
+              "target": [
+                26,
+                5,
+                140,
+                202
+              ],
+              "partMask": {
+                "polygon": [
+                  [
+                    0.355,
+                    0.34
+                  ],
+                  [
+                    0.4,
+                    0.35
+                  ],
+                  [
+                    0.39,
+                    0.46
+                  ],
+                  [
+                    0.325,
+                    0.59
+                  ],
+                  [
+                    0.195,
+                    0.655
+                  ],
+                  [
+                    0.18,
+                    0.595
+                  ],
+                  [
+                    0.28,
+                    0.49
+                  ],
+                  [
+                    0.315,
+                    0.39
+                  ]
+                ],
+                "yBounds": [
+                  0,
+                  0.526
+                ],
+                "excludeHair": true
+              },
+              "matrix": [
+                0.9830017201446547,
+                0,
+                0,
+                0.9830017201446547,
+                1.6318348661131488,
+                4.223842288469598
+              ],
+              "opacity": 1,
+              "actor": "travel",
+              "volume": {
+                "bodyYaw": 0,
+                "headYaw": 0,
+                "time": 0,
+                "spatial": {
+                  "headDepth": 0.13,
+                  "bodyDepth": 0.08,
+                  "rearHairDepth": 0.055,
+                  "cameraDistance": 1.75,
+                  "lighting": 0.3
+                }
+              }
+            },
+            {
+              "asset": "original_style_painted_travel",
+              "source": [
+                0,
+                0,
+                1024,
+                1536
+              ],
+              "target": [
+                26,
+                5,
+                140,
+                202
+              ],
+              "partMask": {
+                "polygon": [
+                  [
+                    0.355,
+                    0.34
+                  ],
+                  [
+                    0.4,
+                    0.35
+                  ],
+                  [
+                    0.39,
+                    0.46
+                  ],
+                  [
+                    0.325,
+                    0.59
+                  ],
+                  [
+                    0.195,
+                    0.655
+                  ],
+                  [
+                    0.18,
+                    0.595
+                  ],
+                  [
+                    0.28,
+                    0.49
+                  ],
+                  [
+                    0.315,
+                    0.39
+                  ]
+                ],
+                "yBounds": [
+                  0.514,
+                  1
+                ],
+                "excludeHair": true
+              },
+              "matrix": [
+                0.9830017201446547,
+                0,
+                0,
+                0.9830017201446547,
+                1.6318348661131488,
+                4.223842288469598
+              ],
+              "opacity": 1,
+              "actor": "travel",
+              "volume": {
+                "bodyYaw": 0,
+                "headYaw": 0,
+                "time": 0,
+                "spatial": {
+                  "headDepth": 0.13,
+                  "bodyDepth": 0.08,
+                  "rearHairDepth": 0.055,
+                  "cameraDistance": 1.75,
+                  "lighting": 0.3
+                }
+              }
+            },
+            {
+              "asset": "original_style_painted_travel",
+              "source": [
+                0,
+                0,
+                1024,
+                1536
+              ],
+              "target": [
+                26,
+                5,
+                140,
+                202
+              ],
+              "partMask": {
+                "polygon": [
+                  [
+                    0.645,
+                    0.34
+                  ],
+                  [
+                    0.6,
+                    0.35
+                  ],
+                  [
+                    0.61,
+                    0.46
+                  ],
+                  [
+                    0.675,
+                    0.59
+                  ],
+                  [
+                    0.8049999999999999,
+                    0.655
+                  ],
+                  [
+                    0.8200000000000001,
+                    0.595
+                  ],
+                  [
+                    0.72,
+                    0.49
+                  ],
+                  [
+                    0.685,
+                    0.39
+                  ]
+                ],
+                "yBounds": [
+                  0,
+                  0.526
+                ],
+                "excludeHair": true
+              },
+              "matrix": [
+                0.9830017201446547,
+                0,
+                0,
+                0.9830017201446547,
+                1.6318348661131488,
+                4.223842288469598
+              ],
+              "opacity": 1,
+              "actor": "travel",
+              "volume": {
+                "bodyYaw": 0,
+                "headYaw": 0,
+                "time": 0,
+                "spatial": {
+                  "headDepth": 0.13,
+                  "bodyDepth": 0.08,
+                  "rearHairDepth": 0.055,
+                  "cameraDistance": 1.75,
+                  "lighting": 0.3
+                }
+              }
+            },
+            {
+              "asset": "original_style_painted_travel",
+              "source": [
+                0,
+                0,
+                1024,
+                1536
+              ],
+              "target": [
+                26,
+                5,
+                140,
+                202
+              ],
+              "partMask": {
+                "polygon": [
+                  [
+                    0.645,
+                    0.34
+                  ],
+                  [
+                    0.6,
+                    0.35
+                  ],
+                  [
+                    0.61,
+                    0.46
+                  ],
+                  [
+                    0.675,
+                    0.59
+                  ],
+                  [
+                    0.8049999999999999,
+                    0.655
+                  ],
+                  [
+                    0.8200000000000001,
+                    0.595
+                  ],
+                  [
+                    0.72,
+                    0.49
+                  ],
+                  [
+                    0.685,
+                    0.39
+                  ]
+                ],
+                "yBounds": [
+                  0.514,
+                  1
+                ],
+                "excludeHair": true
+              },
+              "matrix": [
+                0.9830017201446547,
+                0,
+                0,
+                0.9830017201446547,
+                1.6318348661131488,
+                4.223842288469598
+              ],
+              "opacity": 1,
+              "actor": "travel",
+              "volume": {
+                "bodyYaw": 0,
+                "headYaw": 0,
+                "time": 0,
+                "spatial": {
+                  "headDepth": 0.13,
+                  "bodyDepth": 0.08,
+                  "rearHairDepth": 0.055,
+                  "cameraDistance": 1.75,
+                  "lighting": 0.3
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "loop": [
+        0,
+        1
+      ],
+      "playbackRate": 1,
+      "motionModel": "authored-cel-depth25-v1",
+      "secondaryMotion": {
+        "bodyYaw": 0.12,
+        "headYaw": 0.16
+      },
+      "pilot": true,
+      "review": {
+        "status": "original-source-locked-depth-preview-pending",
+        "scope": "Original artwork byte-identical; new depth rendering only. Not complete idle animation or final visual acceptance."
+      }
+    }
+  },
+  "registration": {},
+  "stylePolicy": {
+    "status": "original-style-locked",
+    "primaryReference": "用户指定的原画风格.png",
+    "authority": "Human selected the currently installed cafe screenshot as the drawing-style standard.",
+    "required": [
+      "原来的精致Q版脸型与头身比例",
+      "原有浅绿色头发及原稿高光配色",
+      "原有绿眼结构和神态",
+      "清晰细线、分束发丝、衣褶与蕾丝细节",
+      "三套服装各自原稿为主参考"
+    ],
+    "forbidden": [
+      "以本轮改画风的待机或OP作为参考",
+      "重新设计角色或换画风",
+      "强制统一成新的冷薄荷绿RGB配色",
+      "用技术通过代替原稿风格一致性"
+    ],
+    "rejectedPilotScope": "All restyled idle and OP0–29 artwork. Prior technical recordings are retained as rejected-style evidence, not accepted artistic progress."
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "state": "travel-lump",
+  "expected_frames": 6,
+  "actual_frames": 6,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\lump\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 19541,
+      "bbox": [
+        15,
+        4,
+        177,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\lump\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 18076,
+      "bbox": [
+        10,
+        39,
+        181,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\lump\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17686,
+      "bbox": [
+        7,
+        49,
+        185,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\lump\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 14970,
+      "bbox": [
+        14,
+        64,
+        179,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\lump\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15212,
+      "bbox": [
+        17,
+        53,
+        174,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\lump\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15787,
+      "bbox": [
+        21,
+        33,
+        171,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ],
+  "source_bounds": [
+    [
+      348,
+      11,
+      669,
+      406
+    ],
+    [
+      913,
+      62,
+      1252,
+      385
+    ],
+    [
+      1472,
+      75,
+      1826,
+      378
+    ],
+    [
+      2544,
+      121,
+      2870,
+      393
+    ],
+    [
+      3105,
+      102,
+      3416,
+      395
+    ],
+    [
+      3678,
+      71,
+      3974,
+      406
+    ]
+  ],
+  "source_files": [
+    "outputs/cecilia-qpet/art/outfits/travel/lump/source.png"
+  ],
+  "strict_contour_chroma_pixels_removed": 0,
+  "source_row_registration": {
+    "gap_cut_y": null,
+    "top_row_shift_y": 0,
+    "bottom_row_shift_y": -315,
+    "source_ground_baselines": [
+      406,
+      721
+    ],
+    "method": "Bundled connected pixels isolated by complete rows; each entire row translated only, no per-character scaling"
+  },
+  "grounded_pose_y_adjustments": [
+    -1,
+    9,
+    13,
+    5,
+    4,
+    -1
+  ],
+  "shared_registration": "bundled fit_registered_component_groups; one scale for complete row; vertical displacement preserved"
+}

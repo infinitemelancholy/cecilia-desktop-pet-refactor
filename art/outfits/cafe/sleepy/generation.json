@@ -1,0 +1,54 @@
+{
+  "originalImageGenPath": "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-a8df-76e2-a6e5-5394410b188c\\exec-09b5ad3d-06c0-427d-860c-7db0f2e80c84.png",
+  "sourceArchive": "work/art-runs/cafe/q/sources/sleepy-raw.png",
+  "prompt": "work/art-runs/cafe/prompts/q-sleepy-final.txt",
+  "transparentBackground": true,
+  "poseReference": "outputs/cecilia-qpet/art/outfits/classic/sleepy/contact.png",
+  "costumeSource": "work/references/official/episode-06-01.png",
+  "description": "alert\u2192half lids\u2192nod\u2192deeper nod\u2192rise\u2192alert",
+  "visualWarnings": [],
+  "actualFrames": 6,
+  "bundledFrameInspection": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\sleepy\\review.json",
+  "inspectionPassed": true,
+  "normalSizeContact": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\sleepy\\contact.png",
+  "motionPreview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\sleepy\\preview.gif",
+  "finalCellBboxes": [
+    [
+      30,
+      4,
+      162,
+      202
+    ],
+    [
+      32,
+      4,
+      160,
+      202
+    ],
+    [
+      31,
+      8,
+      161,
+      202
+    ],
+    [
+      32,
+      40,
+      159,
+      202
+    ],
+    [
+      34,
+      24,
+      158,
+      202
+    ],
+    [
+      31,
+      17,
+      161,
+      202
+    ]
+  ],
+  "registration": "One bundled family scale, no per-pose resize. Grounded poses translated to shared floor; hop vertical displacement preserved."
+}

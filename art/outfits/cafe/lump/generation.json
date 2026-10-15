@@ -1,0 +1,56 @@
+{
+  "originalImageGenPath": "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-a8df-76e2-a6e5-5394410b188c\\exec-bf6a8501-c5c9-4af9-93fa-a48d8669aaf0.png",
+  "sourceArchive": "work/art-runs/cafe/q/sources/lump-raw.png",
+  "prompt": "work/art-runs/cafe/prompts/q-lump-final.txt",
+  "transparentBackground": true,
+  "poseReference": "outputs/cecilia-qpet/art/outfits/classic/lump/contact.png",
+  "costumeSource": "work/references/official/episode-06-01.png",
+  "description": "stand\u2192bend\u2192knees hugged compact seated\u2192closed-eye smile\u2192rise\u2192stand",
+  "visualWarnings": [
+    "Generated recovery-standing stature is slightly shorter than first standing pose; shared family extraction uses one uniform scale. Preserve this as a visual continuity warning for parent review."
+  ],
+  "actualFrames": 6,
+  "bundledFrameInspection": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\lump\\review.json",
+  "inspectionPassed": true,
+  "normalSizeContact": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\lump\\contact.png",
+  "motionPreview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\lump\\preview.gif",
+  "finalCellBboxes": [
+    [
+      30,
+      4,
+      162,
+      202
+    ],
+    [
+      23,
+      26,
+      168,
+      202
+    ],
+    [
+      13,
+      55,
+      179,
+      202
+    ],
+    [
+      12,
+      67,
+      180,
+      202
+    ],
+    [
+      19,
+      49,
+      173,
+      202
+    ],
+    [
+      32,
+      24,
+      160,
+      202
+    ]
+  ],
+  "registration": "One bundled family scale, no per-pose resize. Grounded poses translated to shared floor; hop vertical displacement preserved."
+}

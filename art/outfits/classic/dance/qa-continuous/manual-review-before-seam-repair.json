@@ -1,0 +1,47 @@
+{
+  "reviewer": "lawrence_canonical",
+  "status": "needs-seam-repair",
+  "reviewed_asset": "art/runtime/classic-dance.png",
+  "cell_size": [192, 208],
+  "authored_frames": 108,
+  "method": "Manual inspection of all 108 cells and native-size six-neighbor contact sheets around the requested four seams. A continuous 224x243 GIF/WebP was assembled from the final registered runtime cells; motion is not judged from file hashes or frame count.",
+  "continuous_preview": "art/outfits/classic/dance/qa-continuous/preview-224x243-108.gif",
+  "single_cycle_duration_ms": 4421.083333334835,
+  "seams": [
+    {
+      "from": "entry/11",
+      "to": "segment-01/00",
+      "result": "minor-pose-reset",
+      "observation": "Face/head scale remains close. Eyes open from a closed blink, but crossed feet immediately become parallel feet rather than passing through an uncrossing pose. Foot baseline stays fixed. A small stance reset is visible in the native neighboring cells.",
+      "solid_bbox_before_xywh": [23, 10, 145, 191],
+      "solid_bbox_after_xywh": [27, 8, 137, 192]
+    },
+    {
+      "from": "segment-03-v3/11",
+      "to": "segment-04/00",
+      "result": "minor-hair-silhouette-pop",
+      "observation": "Forward-facing clasped-hands pose and both feet agree. Head crown stays at nearly the same Y. The long hair silhouette contracts at the cut and cape/collar linework changes slightly. The next two frames then extend the arms coherently. No large foot or head-height jump.",
+      "solid_bbox_before_xywh": [20, 11, 151, 190],
+      "solid_bbox_after_xywh": [27, 10, 138, 190]
+    },
+    {
+      "from": "segment-05-final/11",
+      "to": "segment-06-open/00",
+      "result": "repair-required",
+      "observation": "The raised-arm general action continues, but the face/veil moves downward and appears smaller while the extended leg switches abruptly to a crossed stance. Closed-eye smile changes to a different open-eye face at the same cut. Integer floor registration removes the old floor-Y change, but it does not remove this drawn head/face/stance discontinuity. Bbox height also changes, partly due to arm and head posture; bbox alone is not a scale measurement.",
+      "solid_bbox_before_xywh": [10, 11, 170, 189],
+      "solid_bbox_after_xywh": [7, 21, 173, 180]
+    },
+    {
+      "from": "return-02/11",
+      "to": "entry/00",
+      "result": "repair-required",
+      "observation": "Both cells are essentially the same neutral standing stance with lowered arms and parallel feet. The return figure has a lower/smaller head and shorter overall standing silhouette. Entry immediately restores a taller head/body drawing, raising the crown about 14 px while the floor stays fixed. This is a visible size/face pop at every loop and cannot be accepted as a seamless repeat.",
+      "solid_bbox_before_xywh": [19, 21, 154, 180],
+      "solid_bbox_after_xywh": [21, 7, 150, 193]
+    }
+  ],
+  "overall": "All cells are populated and the final integer-Y floor registration is effective. The 108-frame sequence has actual changing poses, including the turn, rather than just duplicates. The two major seam issues above remain; no claim that the full loop is already smooth is made.",
+  "recommended_action": "Keep whole-frame floor registration. Redraw the affected continuation/return families with matching head size and stance, or have the animation owner choose genuinely matching drawn endpoints. Do not fix by individually scaling the character or cross-fading mismatched feet.",
+  "scope_limit": "This review checks rendered continuity and character proportions. It does not independently re-audit the official OP timecode or claim that 108 cells alone establish dance accuracy."
+}

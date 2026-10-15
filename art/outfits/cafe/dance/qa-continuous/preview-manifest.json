@@ -1,0 +1,2581 @@
+{
+  "outfit": "cafe",
+  "asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\cafe-dance.png",
+  "asset_modified_local": "2026-10-10T10:45:49",
+  "authored_frames": 108,
+  "segments": [
+    "entry",
+    "segment-01",
+    "segment-02",
+    "segment-03",
+    "segment-04",
+    "segment-05",
+    "segment-06-seam",
+    "return-01-seam",
+    "return-02-seam"
+  ],
+  "duration_ms": 4421.083333334835,
+  "gif_duration_ms": 4420,
+  "webp_duration_ms": 4421,
+  "frames": [
+    {
+      "cell": 0,
+      "segment": "entry",
+      "local_index": 0,
+      "source": "art/outfits/cafe/dance/entry/00.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        35,
+        8,
+        121,
+        193
+      ],
+      "alpha0_bbox": [
+        33,
+        6,
+        158,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 1,
+      "segment": "entry",
+      "local_index": 1,
+      "source": "art/outfits/cafe/dance/entry/01.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        37,
+        8,
+        117,
+        193
+      ],
+      "alpha0_bbox": [
+        35,
+        6,
+        156,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 2,
+      "segment": "entry",
+      "local_index": 2,
+      "source": "art/outfits/cafe/dance/entry/02.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        36,
+        8,
+        118,
+        193
+      ],
+      "alpha0_bbox": [
+        34,
+        6,
+        157,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 3,
+      "segment": "entry",
+      "local_index": 3,
+      "source": "art/outfits/cafe/dance/entry/03.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        35,
+        8,
+        121,
+        194
+      ],
+      "alpha0_bbox": [
+        33,
+        6,
+        158,
+        203
+      ],
+      "solid_min_edge_distance": 6
+    },
+    {
+      "cell": 4,
+      "segment": "entry",
+      "local_index": 4,
+      "source": "art/outfits/cafe/dance/entry/04.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        36,
+        8,
+        119,
+        193
+      ],
+      "alpha0_bbox": [
+        33,
+        6,
+        157,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 5,
+      "segment": "entry",
+      "local_index": 5,
+      "source": "art/outfits/cafe/dance/entry/05.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        35,
+        8,
+        120,
+        193
+      ],
+      "alpha0_bbox": [
+        33,
+        6,
+        157,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 6,
+      "segment": "entry",
+      "local_index": 6,
+      "source": "art/outfits/cafe/dance/entry/06.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        35,
+        8,
+        121,
+        193
+      ],
+      "alpha0_bbox": [
+        33,
+        6,
+        158,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 7,
+      "segment": "entry",
+      "local_index": 7,
+      "source": "art/outfits/cafe/dance/entry/07.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        35,
+        7,
+        121,
+        194
+      ],
+      "alpha0_bbox": [
+        33,
+        5,
+        158,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 8,
+      "segment": "entry",
+      "local_index": 8,
+      "source": "art/outfits/cafe/dance/entry/08.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        36,
+        7,
+        118,
+        194
+      ],
+      "alpha0_bbox": [
+        34,
+        5,
+        156,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 9,
+      "segment": "entry",
+      "local_index": 9,
+      "source": "art/outfits/cafe/dance/entry/09.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        34,
+        8,
+        122,
+        193
+      ],
+      "alpha0_bbox": [
+        33,
+        6,
+        158,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 10,
+      "segment": "entry",
+      "local_index": 10,
+      "source": "art/outfits/cafe/dance/entry/10.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        35,
+        8,
+        121,
+        193
+      ],
+      "alpha0_bbox": [
+        33,
+        6,
+        158,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 11,
+      "segment": "entry",
+      "local_index": 11,
+      "source": "art/outfits/cafe/dance/entry/11.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        36,
+        8,
+        118,
+        193
+      ],
+      "alpha0_bbox": [
+        34,
+        6,
+        156,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 12,
+      "segment": "segment-01",
+      "local_index": 0,
+      "source": "art/outfits/cafe/dance/segment-01/00.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        36,
+        7,
+        119,
+        194
+      ],
+      "alpha0_bbox": [
+        34,
+        5,
+        157,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 13,
+      "segment": "segment-01",
+      "local_index": 1,
+      "source": "art/outfits/cafe/dance/segment-01/01.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        35,
+        10,
+        121,
+        191
+      ],
+      "alpha0_bbox": [
+        33,
+        8,
+        158,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 14,
+      "segment": "segment-01",
+      "local_index": 2,
+      "source": "art/outfits/cafe/dance/segment-01/02.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        37,
+        10,
+        117,
+        191
+      ],
+      "alpha0_bbox": [
+        35,
+        7,
+        156,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 15,
+      "segment": "segment-01",
+      "local_index": 3,
+      "source": "art/outfits/cafe/dance/segment-01/03.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        36,
+        9,
+        119,
+        192
+      ],
+      "alpha0_bbox": [
+        34,
+        6,
+        157,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 16,
+      "segment": "segment-01",
+      "local_index": 4,
+      "source": "art/outfits/cafe/dance/segment-01/04.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        38,
+        11,
+        114,
+        190
+      ],
+      "alpha0_bbox": [
+        36,
+        9,
+        154,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 17,
+      "segment": "segment-01",
+      "local_index": 5,
+      "source": "art/outfits/cafe/dance/segment-01/05.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        39,
+        9,
+        112,
+        192
+      ],
+      "alpha0_bbox": [
+        37,
+        7,
+        153,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 18,
+      "segment": "segment-01",
+      "local_index": 6,
+      "source": "art/outfits/cafe/dance/segment-01/06.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        38,
+        10,
+        115,
+        191
+      ],
+      "alpha0_bbox": [
+        36,
+        8,
+        155,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 19,
+      "segment": "segment-01",
+      "local_index": 7,
+      "source": "art/outfits/cafe/dance/segment-01/07.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        35,
+        11,
+        121,
+        190
+      ],
+      "alpha0_bbox": [
+        33,
+        9,
+        158,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 20,
+      "segment": "segment-01",
+      "local_index": 8,
+      "source": "art/outfits/cafe/dance/segment-01/08.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        39,
+        10,
+        112,
+        191
+      ],
+      "alpha0_bbox": [
+        37,
+        8,
+        154,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 21,
+      "segment": "segment-01",
+      "local_index": 9,
+      "source": "art/outfits/cafe/dance/segment-01/09.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        38,
+        11,
+        115,
+        190
+      ],
+      "alpha0_bbox": [
+        36,
+        9,
+        155,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 22,
+      "segment": "segment-01",
+      "local_index": 10,
+      "source": "art/outfits/cafe/dance/segment-01/10.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        40,
+        11,
+        111,
+        190
+      ],
+      "alpha0_bbox": [
+        38,
+        9,
+        154,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 23,
+      "segment": "segment-01",
+      "local_index": 11,
+      "source": "art/outfits/cafe/dance/segment-01/11.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        38,
+        10,
+        115,
+        191
+      ],
+      "alpha0_bbox": [
+        36,
+        8,
+        155,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 24,
+      "segment": "segment-02",
+      "local_index": 0,
+      "source": "art/outfits/cafe/dance/segment-02/00.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        33,
+        8,
+        125,
+        193
+      ],
+      "alpha0_bbox": [
+        31,
+        6,
+        160,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 25,
+      "segment": "segment-02",
+      "local_index": 1,
+      "source": "art/outfits/cafe/dance/segment-02/01.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        34,
+        8,
+        124,
+        193
+      ],
+      "alpha0_bbox": [
+        32,
+        5,
+        160,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 26,
+      "segment": "segment-02",
+      "local_index": 2,
+      "source": "art/outfits/cafe/dance/segment-02/02.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        34,
+        8,
+        123,
+        193
+      ],
+      "alpha0_bbox": [
+        32,
+        6,
+        159,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 27,
+      "segment": "segment-02",
+      "local_index": 3,
+      "source": "art/outfits/cafe/dance/segment-02/03.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        36,
+        8,
+        119,
+        193
+      ],
+      "alpha0_bbox": [
+        34,
+        6,
+        157,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 28,
+      "segment": "segment-02",
+      "local_index": 4,
+      "source": "art/outfits/cafe/dance/segment-02/04.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        33,
+        8,
+        125,
+        193
+      ],
+      "alpha0_bbox": [
+        31,
+        5,
+        160,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 29,
+      "segment": "segment-02",
+      "local_index": 5,
+      "source": "art/outfits/cafe/dance/segment-02/05.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        36,
+        7,
+        120,
+        194
+      ],
+      "alpha0_bbox": [
+        34,
+        5,
+        158,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 30,
+      "segment": "segment-02",
+      "local_index": 6,
+      "source": "art/outfits/cafe/dance/segment-02/06.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        34,
+        8,
+        123,
+        193
+      ],
+      "alpha0_bbox": [
+        32,
+        6,
+        159,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 31,
+      "segment": "segment-02",
+      "local_index": 7,
+      "source": "art/outfits/cafe/dance/segment-02/07.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        35,
+        11,
+        121,
+        190
+      ],
+      "alpha0_bbox": [
+        33,
+        9,
+        158,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 32,
+      "segment": "segment-02",
+      "local_index": 8,
+      "source": "art/outfits/cafe/dance/segment-02/08.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        33,
+        9,
+        126,
+        192
+      ],
+      "alpha0_bbox": [
+        31,
+        7,
+        161,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 33,
+      "segment": "segment-02",
+      "local_index": 9,
+      "source": "art/outfits/cafe/dance/segment-02/09.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        37,
+        7,
+        118,
+        194
+      ],
+      "alpha0_bbox": [
+        35,
+        5,
+        157,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 34,
+      "segment": "segment-02",
+      "local_index": 10,
+      "source": "art/outfits/cafe/dance/segment-02/10.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        33,
+        7,
+        126,
+        194
+      ],
+      "alpha0_bbox": [
+        31,
+        5,
+        161,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 35,
+      "segment": "segment-02",
+      "local_index": 11,
+      "source": "art/outfits/cafe/dance/segment-02/11.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        42,
+        11,
+        108,
+        189
+      ],
+      "alpha0_bbox": [
+        40,
+        9,
+        152,
+        203
+      ],
+      "solid_min_edge_distance": 8
+    },
+    {
+      "cell": 36,
+      "segment": "segment-03",
+      "local_index": 0,
+      "source": "art/outfits/cafe/dance/segment-03/00.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        33,
+        7,
+        124,
+        194
+      ],
+      "alpha0_bbox": [
+        31,
+        5,
+        160,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 37,
+      "segment": "segment-03",
+      "local_index": 1,
+      "source": "art/outfits/cafe/dance/segment-03/01.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        28,
+        17,
+        134,
+        184
+      ],
+      "alpha0_bbox": [
+        26,
+        15,
+        164,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 38,
+      "segment": "segment-03",
+      "local_index": 2,
+      "source": "art/outfits/cafe/dance/segment-03/02.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        31,
+        17,
+        129,
+        184
+      ],
+      "alpha0_bbox": [
+        29,
+        15,
+        162,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 39,
+      "segment": "segment-03",
+      "local_index": 3,
+      "source": "art/outfits/cafe/dance/segment-03/03.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        30,
+        24,
+        131,
+        177
+      ],
+      "alpha0_bbox": [
+        28,
+        21,
+        163,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 40,
+      "segment": "segment-03",
+      "local_index": 4,
+      "source": "art/outfits/cafe/dance/segment-03/04.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        30,
+        26,
+        131,
+        175
+      ],
+      "alpha0_bbox": [
+        28,
+        24,
+        163,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 41,
+      "segment": "segment-03",
+      "local_index": 5,
+      "source": "art/outfits/cafe/dance/segment-03/05.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        31,
+        14,
+        129,
+        187
+      ],
+      "alpha0_bbox": [
+        29,
+        12,
+        162,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 42,
+      "segment": "segment-03",
+      "local_index": 6,
+      "source": "art/outfits/cafe/dance/segment-03/06.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        30,
+        24,
+        130,
+        177
+      ],
+      "alpha0_bbox": [
+        28,
+        22,
+        163,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 43,
+      "segment": "segment-03",
+      "local_index": 7,
+      "source": "art/outfits/cafe/dance/segment-03/07.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        28,
+        27,
+        135,
+        174
+      ],
+      "alpha0_bbox": [
+        26,
+        25,
+        165,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 44,
+      "segment": "segment-03",
+      "local_index": 8,
+      "source": "art/outfits/cafe/dance/segment-03/08.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        29,
+        26,
+        132,
+        175
+      ],
+      "alpha0_bbox": [
+        27,
+        23,
+        163,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 45,
+      "segment": "segment-03",
+      "local_index": 9,
+      "source": "art/outfits/cafe/dance/segment-03/09.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        31,
+        23,
+        129,
+        178
+      ],
+      "alpha0_bbox": [
+        29,
+        21,
+        162,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 46,
+      "segment": "segment-03",
+      "local_index": 10,
+      "source": "art/outfits/cafe/dance/segment-03/10.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        33,
+        20,
+        124,
+        181
+      ],
+      "alpha0_bbox": [
+        31,
+        17,
+        160,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 47,
+      "segment": "segment-03",
+      "local_index": 11,
+      "source": "art/outfits/cafe/dance/segment-03/11.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        36,
+        14,
+        119,
+        187
+      ],
+      "alpha0_bbox": [
+        34,
+        12,
+        157,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 48,
+      "segment": "segment-04",
+      "local_index": 0,
+      "source": "art/outfits/cafe/dance/segment-04/00.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        34,
+        9,
+        123,
+        192
+      ],
+      "alpha0_bbox": [
+        32,
+        7,
+        159,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 49,
+      "segment": "segment-04",
+      "local_index": 1,
+      "source": "art/outfits/cafe/dance/segment-04/01.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        35,
+        7,
+        122,
+        193
+      ],
+      "alpha0_bbox": [
+        33,
+        5,
+        160,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 50,
+      "segment": "segment-04",
+      "local_index": 2,
+      "source": "art/outfits/cafe/dance/segment-04/02.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        31,
+        10,
+        130,
+        190
+      ],
+      "alpha0_bbox": [
+        29,
+        8,
+        163,
+        203
+      ],
+      "solid_min_edge_distance": 8
+    },
+    {
+      "cell": 51,
+      "segment": "segment-04",
+      "local_index": 3,
+      "source": "art/outfits/cafe/dance/segment-04/03.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        29,
+        11,
+        134,
+        190
+      ],
+      "alpha0_bbox": [
+        27,
+        9,
+        165,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 52,
+      "segment": "segment-04",
+      "local_index": 4,
+      "source": "art/outfits/cafe/dance/segment-04/04.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        25,
+        11,
+        142,
+        190
+      ],
+      "alpha0_bbox": [
+        23,
+        9,
+        169,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 53,
+      "segment": "segment-04",
+      "local_index": 5,
+      "source": "art/outfits/cafe/dance/segment-04/05.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        27,
+        11,
+        138,
+        190
+      ],
+      "alpha0_bbox": [
+        24,
+        8,
+        167,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 54,
+      "segment": "segment-04",
+      "local_index": 6,
+      "source": "art/outfits/cafe/dance/segment-04/06.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        23,
+        12,
+        146,
+        189
+      ],
+      "alpha0_bbox": [
+        21,
+        10,
+        171,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 55,
+      "segment": "segment-04",
+      "local_index": 7,
+      "source": "art/outfits/cafe/dance/segment-04/07.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        31,
+        15,
+        130,
+        186
+      ],
+      "alpha0_bbox": [
+        29,
+        13,
+        164,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 56,
+      "segment": "segment-04",
+      "local_index": 8,
+      "source": "art/outfits/cafe/dance/segment-04/08.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        36,
+        14,
+        119,
+        187
+      ],
+      "alpha0_bbox": [
+        34,
+        12,
+        157,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 57,
+      "segment": "segment-04",
+      "local_index": 9,
+      "source": "art/outfits/cafe/dance/segment-04/09.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        32,
+        15,
+        127,
+        185
+      ],
+      "alpha0_bbox": [
+        30,
+        13,
+        161,
+        203
+      ],
+      "solid_min_edge_distance": 8
+    },
+    {
+      "cell": 58,
+      "segment": "segment-04",
+      "local_index": 10,
+      "source": "art/outfits/cafe/dance/segment-04/10.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        26,
+        15,
+        140,
+        186
+      ],
+      "alpha0_bbox": [
+        23,
+        12,
+        169,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 59,
+      "segment": "segment-04",
+      "local_index": 11,
+      "source": "art/outfits/cafe/dance/segment-04/11.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        27,
+        13,
+        138,
+        188
+      ],
+      "alpha0_bbox": [
+        25,
+        11,
+        167,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 60,
+      "segment": "segment-05",
+      "local_index": 0,
+      "source": "art/outfits/cafe/dance/segment-05/00.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        32,
+        11,
+        127,
+        190
+      ],
+      "alpha0_bbox": [
+        29,
+        9,
+        161,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 61,
+      "segment": "segment-05",
+      "local_index": 1,
+      "source": "art/outfits/cafe/dance/segment-05/01.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        32,
+        12,
+        126,
+        189
+      ],
+      "alpha0_bbox": [
+        30,
+        10,
+        161,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 62,
+      "segment": "segment-05",
+      "local_index": 2,
+      "source": "art/outfits/cafe/dance/segment-05/02.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        36,
+        12,
+        119,
+        189
+      ],
+      "alpha0_bbox": [
+        34,
+        10,
+        157,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 63,
+      "segment": "segment-05",
+      "local_index": 3,
+      "source": "art/outfits/cafe/dance/segment-05/03.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        21,
+        12,
+        149,
+        189
+      ],
+      "alpha0_bbox": [
+        19,
+        10,
+        172,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 64,
+      "segment": "segment-05",
+      "local_index": 4,
+      "source": "art/outfits/cafe/dance/segment-05/04.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        28,
+        12,
+        135,
+        189
+      ],
+      "alpha0_bbox": [
+        25,
+        10,
+        165,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 65,
+      "segment": "segment-05",
+      "local_index": 5,
+      "source": "art/outfits/cafe/dance/segment-05/05.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        33,
+        13,
+        124,
+        188
+      ],
+      "alpha0_bbox": [
+        31,
+        10,
+        160,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 66,
+      "segment": "segment-05",
+      "local_index": 6,
+      "source": "art/outfits/cafe/dance/segment-05/06.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        25,
+        9,
+        140,
+        192
+      ],
+      "alpha0_bbox": [
+        23,
+        7,
+        168,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 67,
+      "segment": "segment-05",
+      "local_index": 7,
+      "source": "art/outfits/cafe/dance/segment-05/07.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        27,
+        9,
+        137,
+        192
+      ],
+      "alpha0_bbox": [
+        24,
+        7,
+        166,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 68,
+      "segment": "segment-05",
+      "local_index": 8,
+      "source": "art/outfits/cafe/dance/segment-05/08.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        27,
+        8,
+        137,
+        193
+      ],
+      "alpha0_bbox": [
+        24,
+        6,
+        166,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 69,
+      "segment": "segment-05",
+      "local_index": 9,
+      "source": "art/outfits/cafe/dance/segment-05/09.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        28,
+        7,
+        135,
+        194
+      ],
+      "alpha0_bbox": [
+        26,
+        5,
+        165,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 70,
+      "segment": "segment-05",
+      "local_index": 10,
+      "source": "art/outfits/cafe/dance/segment-05/10.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        26,
+        7,
+        138,
+        194
+      ],
+      "alpha0_bbox": [
+        24,
+        5,
+        167,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 71,
+      "segment": "segment-05",
+      "local_index": 11,
+      "source": "art/outfits/cafe/dance/segment-05/11.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        28,
+        7,
+        135,
+        194
+      ],
+      "alpha0_bbox": [
+        26,
+        5,
+        165,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 72,
+      "segment": "segment-06-seam",
+      "local_index": 0,
+      "source": "art/outfits/cafe/dance/segment-06-seam/00.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        14,
+        8,
+        162,
+        192
+      ],
+      "alpha0_bbox": [
+        12,
+        6,
+        178,
+        203
+      ],
+      "solid_min_edge_distance": 8
+    },
+    {
+      "cell": 73,
+      "segment": "segment-06-seam",
+      "local_index": 1,
+      "source": "art/outfits/cafe/dance/segment-06-seam/01.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        18,
+        8,
+        155,
+        193
+      ],
+      "alpha0_bbox": [
+        16,
+        6,
+        175,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 74,
+      "segment": "segment-06-seam",
+      "local_index": 2,
+      "source": "art/outfits/cafe/dance/segment-06-seam/02.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        11,
+        8,
+        168,
+        193
+      ],
+      "alpha0_bbox": [
+        9,
+        6,
+        182,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 75,
+      "segment": "segment-06-seam",
+      "local_index": 3,
+      "source": "art/outfits/cafe/dance/segment-06-seam/03.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        17,
+        8,
+        158,
+        193
+      ],
+      "alpha0_bbox": [
+        14,
+        6,
+        177,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 76,
+      "segment": "segment-06-seam",
+      "local_index": 4,
+      "source": "art/outfits/cafe/dance/segment-06-seam/04.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        15,
+        8,
+        161,
+        193
+      ],
+      "alpha0_bbox": [
+        12,
+        6,
+        179,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 77,
+      "segment": "segment-06-seam",
+      "local_index": 5,
+      "source": "art/outfits/cafe/dance/segment-06-seam/05.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        15,
+        8,
+        161,
+        193
+      ],
+      "alpha0_bbox": [
+        13,
+        6,
+        178,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 78,
+      "segment": "segment-06-seam",
+      "local_index": 6,
+      "source": "art/outfits/cafe/dance/segment-06-seam/06.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        14,
+        11,
+        162,
+        190
+      ],
+      "alpha0_bbox": [
+        12,
+        8,
+        179,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 79,
+      "segment": "segment-06-seam",
+      "local_index": 7,
+      "source": "art/outfits/cafe/dance/segment-06-seam/07.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        16,
+        10,
+        158,
+        190
+      ],
+      "alpha0_bbox": [
+        14,
+        8,
+        177,
+        203
+      ],
+      "solid_min_edge_distance": 8
+    },
+    {
+      "cell": 80,
+      "segment": "segment-06-seam",
+      "local_index": 8,
+      "source": "art/outfits/cafe/dance/segment-06-seam/08.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        16,
+        10,
+        158,
+        190
+      ],
+      "alpha0_bbox": [
+        14,
+        8,
+        176,
+        203
+      ],
+      "solid_min_edge_distance": 8
+    },
+    {
+      "cell": 81,
+      "segment": "segment-06-seam",
+      "local_index": 9,
+      "source": "art/outfits/cafe/dance/segment-06-seam/09.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        14,
+        10,
+        163,
+        191
+      ],
+      "alpha0_bbox": [
+        12,
+        8,
+        179,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 82,
+      "segment": "segment-06-seam",
+      "local_index": 10,
+      "source": "art/outfits/cafe/dance/segment-06-seam/10.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        14,
+        11,
+        162,
+        190
+      ],
+      "alpha0_bbox": [
+        12,
+        8,
+        179,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 83,
+      "segment": "segment-06-seam",
+      "local_index": 11,
+      "source": "art/outfits/cafe/dance/segment-06-seam/11.png",
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        15,
+        11,
+        161,
+        190
+      ],
+      "alpha0_bbox": [
+        13,
+        9,
+        178,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 84,
+      "segment": "return-01-seam",
+      "local_index": 0,
+      "source": "art/outfits/cafe/dance/return-01-seam/00.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        15,
+        7,
+        161,
+        194
+      ],
+      "alpha0_bbox": [
+        13,
+        5,
+        178,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 85,
+      "segment": "return-01-seam",
+      "local_index": 1,
+      "source": "art/outfits/cafe/dance/return-01-seam/01.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        19,
+        8,
+        153,
+        193
+      ],
+      "alpha0_bbox": [
+        17,
+        5,
+        174,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 86,
+      "segment": "return-01-seam",
+      "local_index": 2,
+      "source": "art/outfits/cafe/dance/return-01-seam/02.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        19,
+        8,
+        154,
+        193
+      ],
+      "alpha0_bbox": [
+        16,
+        6,
+        175,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 87,
+      "segment": "return-01-seam",
+      "local_index": 3,
+      "source": "art/outfits/cafe/dance/return-01-seam/03.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        19,
+        9,
+        152,
+        192
+      ],
+      "alpha0_bbox": [
+        17,
+        6,
+        173,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 88,
+      "segment": "return-01-seam",
+      "local_index": 4,
+      "source": "art/outfits/cafe/dance/return-01-seam/04.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        20,
+        9,
+        151,
+        192
+      ],
+      "alpha0_bbox": [
+        18,
+        7,
+        173,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 89,
+      "segment": "return-01-seam",
+      "local_index": 5,
+      "source": "art/outfits/cafe/dance/return-01-seam/05.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        19,
+        9,
+        153,
+        192
+      ],
+      "alpha0_bbox": [
+        17,
+        7,
+        174,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 90,
+      "segment": "return-01-seam",
+      "local_index": 6,
+      "source": "art/outfits/cafe/dance/return-01-seam/06.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        19,
+        7,
+        152,
+        194
+      ],
+      "alpha0_bbox": [
+        17,
+        5,
+        173,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 91,
+      "segment": "return-01-seam",
+      "local_index": 7,
+      "source": "art/outfits/cafe/dance/return-01-seam/07.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        20,
+        7,
+        151,
+        194
+      ],
+      "alpha0_bbox": [
+        18,
+        5,
+        173,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 92,
+      "segment": "return-01-seam",
+      "local_index": 8,
+      "source": "art/outfits/cafe/dance/return-01-seam/08.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        20,
+        8,
+        151,
+        193
+      ],
+      "alpha0_bbox": [
+        18,
+        6,
+        173,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 93,
+      "segment": "return-01-seam",
+      "local_index": 9,
+      "source": "art/outfits/cafe/dance/return-01-seam/09.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        19,
+        8,
+        153,
+        193
+      ],
+      "alpha0_bbox": [
+        17,
+        6,
+        174,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 94,
+      "segment": "return-01-seam",
+      "local_index": 10,
+      "source": "art/outfits/cafe/dance/return-01-seam/10.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        18,
+        7,
+        155,
+        194
+      ],
+      "alpha0_bbox": [
+        16,
+        5,
+        175,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 95,
+      "segment": "return-01-seam",
+      "local_index": 11,
+      "source": "art/outfits/cafe/dance/return-01-seam/11.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        18,
+        8,
+        154,
+        193
+      ],
+      "alpha0_bbox": [
+        16,
+        6,
+        174,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 96,
+      "segment": "return-02-seam",
+      "local_index": 0,
+      "source": "art/outfits/cafe/dance/return-02-seam/00.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        24,
+        7,
+        144,
+        194
+      ],
+      "alpha0_bbox": [
+        22,
+        5,
+        170,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 97,
+      "segment": "return-02-seam",
+      "local_index": 1,
+      "source": "art/outfits/cafe/dance/return-02-seam/01.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        24,
+        7,
+        143,
+        194
+      ],
+      "alpha0_bbox": [
+        22,
+        5,
+        169,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 98,
+      "segment": "return-02-seam",
+      "local_index": 2,
+      "source": "art/outfits/cafe/dance/return-02-seam/02.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        26,
+        7,
+        140,
+        194
+      ],
+      "alpha0_bbox": [
+        24,
+        5,
+        168,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 99,
+      "segment": "return-02-seam",
+      "local_index": 3,
+      "source": "art/outfits/cafe/dance/return-02-seam/03.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        24,
+        8,
+        144,
+        193
+      ],
+      "alpha0_bbox": [
+        22,
+        6,
+        170,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 100,
+      "segment": "return-02-seam",
+      "local_index": 4,
+      "source": "art/outfits/cafe/dance/return-02-seam/04.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        25,
+        8,
+        141,
+        193
+      ],
+      "alpha0_bbox": [
+        23,
+        6,
+        168,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 101,
+      "segment": "return-02-seam",
+      "local_index": 5,
+      "source": "art/outfits/cafe/dance/return-02-seam/05.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        26,
+        7,
+        140,
+        194
+      ],
+      "alpha0_bbox": [
+        24,
+        5,
+        168,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 102,
+      "segment": "return-02-seam",
+      "local_index": 6,
+      "source": "art/outfits/cafe/dance/return-02-seam/06.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        25,
+        7,
+        141,
+        194
+      ],
+      "alpha0_bbox": [
+        23,
+        5,
+        168,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 103,
+      "segment": "return-02-seam",
+      "local_index": 7,
+      "source": "art/outfits/cafe/dance/return-02-seam/07.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        25,
+        7,
+        141,
+        194
+      ],
+      "alpha0_bbox": [
+        23,
+        5,
+        169,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 104,
+      "segment": "return-02-seam",
+      "local_index": 8,
+      "source": "art/outfits/cafe/dance/return-02-seam/08.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        26,
+        8,
+        139,
+        193
+      ],
+      "alpha0_bbox": [
+        24,
+        6,
+        168,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 105,
+      "segment": "return-02-seam",
+      "local_index": 9,
+      "source": "art/outfits/cafe/dance/return-02-seam/09.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        27,
+        8,
+        138,
+        193
+      ],
+      "alpha0_bbox": [
+        24,
+        5,
+        167,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 106,
+      "segment": "return-02-seam",
+      "local_index": 10,
+      "source": "art/outfits/cafe/dance/return-02-seam/10.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        28,
+        7,
+        136,
+        194
+      ],
+      "alpha0_bbox": [
+        26,
+        5,
+        166,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    },
+    {
+      "cell": 107,
+      "segment": "return-02-seam",
+      "local_index": 11,
+      "source": "art/outfits/cafe/dance/return-02-seam/11.png",
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        26,
+        7,
+        140,
+        194
+      ],
+      "alpha0_bbox": [
+        24,
+        5,
+        168,
+        203
+      ],
+      "solid_min_edge_distance": 7
+    }
+  ],
+  "seam_measurements": [
+    {
+      "from": "entry/11",
+      "to": "segment-01/00",
+      "before": {
+        "cell": 11,
+        "segment": "entry",
+        "local_index": 11,
+        "source": "art/outfits/cafe/dance/entry/11.png",
+        "duration_ms": 41.70833333337504,
+        "solid_bbox_xywh": [
+          36,
+          8,
+          118,
+          193
+        ],
+        "alpha0_bbox": [
+          34,
+          6,
+          156,
+          203
+        ],
+        "solid_min_edge_distance": 7
+      },
+      "after": {
+        "cell": 12,
+        "segment": "segment-01",
+        "local_index": 0,
+        "source": "art/outfits/cafe/dance/segment-01/00.png",
+        "duration_ms": 40.54976851851851,
+        "solid_bbox_xywh": [
+          36,
+          7,
+          119,
+          194
+        ],
+        "alpha0_bbox": [
+          34,
+          5,
+          157,
+          203
+        ],
+        "solid_min_edge_distance": 7
+      }
+    },
+    {
+      "from": "segment-01/11",
+      "to": "segment-02/00",
+      "before": {
+        "cell": 23,
+        "segment": "segment-01",
+        "local_index": 11,
+        "source": "art/outfits/cafe/dance/segment-01/11.png",
+        "duration_ms": 40.54976851851851,
+        "solid_bbox_xywh": [
+          38,
+          10,
+          115,
+          191
+        ],
+        "alpha0_bbox": [
+          36,
+          8,
+          155,
+          203
+        ],
+        "solid_min_edge_distance": 7
+      },
+      "after": {
+        "cell": 24,
+        "segment": "segment-02",
+        "local_index": 0,
+        "source": "art/outfits/cafe/dance/segment-02/00.png",
+        "duration_ms": 40.54976851851851,
+        "solid_bbox_xywh": [
+          33,
+          8,
+          125,
+          193
+        ],
+        "alpha0_bbox": [
+          31,
+          6,
+          160,
+          203
+        ],
+        "solid_min_edge_distance": 7
+      }
+    },
+    {
+      "from": "segment-02/11",
+      "to": "segment-03/00",
+      "before": {
+        "cell": 35,
+        "segment": "segment-02",
+        "local_index": 11,
+        "source": "art/outfits/cafe/dance/segment-02/11.png",
+        "duration_ms": 40.54976851851851,
+        "solid_bbox_xywh": [
+          42,
+          11,
+          108,
+          189
+        ],
+        "alpha0_bbox": [
+          40,
+          9,
+          152,
+          203
+        ],
+        "solid_min_edge_distance": 8
+      },
+      "after": {
+        "cell": 36,
+        "segment": "segment-03",
+        "local_index": 0,
+        "source": "art/outfits/cafe/dance/segment-03/00.png",
+        "duration_ms": 40.54976851851851,
+        "solid_bbox_xywh": [
+          33,
+          7,
+          124,
+          194
+        ],
+        "alpha0_bbox": [
+          31,
+          5,
+          160,
+          203
+        ],
+        "solid_min_edge_distance": 7
+      }
+    },
+    {
+      "from": "segment-03/11",
+      "to": "segment-04/00",
+      "before": {
+        "cell": 47,
+        "segment": "segment-03",
+        "local_index": 11,
+        "source": "art/outfits/cafe/dance/segment-03/11.png",
+        "duration_ms": 40.54976851851851,
+        "solid_bbox_xywh": [
+          36,
+          14,
+          119,
+          187
+        ],
+        "alpha0_bbox": [
+          34,
+          12,
+          157,
+          203
+        ],
+        "solid_min_edge_distance": 7
+      },
+      "after": {
+        "cell": 48,
+        "segment": "segment-04",
+        "local_index": 0,
+        "source": "art/outfits/cafe/dance/segment-04/00.png",
+        "duration_ms": 40.54976851851851,
+        "solid_bbox_xywh": [
+          34,
+          9,
+          123,
+          192
+        ],
+        "alpha0_bbox": [
+          32,
+          7,
+          159,
+          203
+        ],
+        "solid_min_edge_distance": 7
+      }
+    },
+    {
+      "from": "segment-04/11",
+      "to": "segment-05/00",
+      "before": {
+        "cell": 59,
+        "segment": "segment-04",
+        "local_index": 11,
+        "source": "art/outfits/cafe/dance/segment-04/11.png",
+        "duration_ms": 40.54976851851851,
+        "solid_bbox_xywh": [
+          27,
+          13,
+          138,
+          188
+        ],
+        "alpha0_bbox": [
+          25,
+          11,
+          167,
+          203
+        ],
+        "solid_min_edge_distance": 7
+      },
+      "after": {
+        "cell": 60,
+        "segment": "segment-05",
+        "local_index": 0,
+        "source": "art/outfits/cafe/dance/segment-05/00.png",
+        "duration_ms": 40.54976851851851,
+        "solid_bbox_xywh": [
+          32,
+          11,
+          127,
+          190
+        ],
+        "alpha0_bbox": [
+          29,
+          9,
+          161,
+          203
+        ],
+        "solid_min_edge_distance": 7
+      }
+    },
+    {
+      "from": "segment-05/11",
+      "to": "segment-06-seam/00",
+      "before": {
+        "cell": 71,
+        "segment": "segment-05",
+        "local_index": 11,
+        "source": "art/outfits/cafe/dance/segment-05/11.png",
+        "duration_ms": 40.54976851851851,
+        "solid_bbox_xywh": [
+          28,
+          7,
+          135,
+          194
+        ],
+        "alpha0_bbox": [
+          26,
+          5,
+          165,
+          203
+        ],
+        "solid_min_edge_distance": 7
+      },
+      "after": {
+        "cell": 72,
+        "segment": "segment-06-seam",
+        "local_index": 0,
+        "source": "art/outfits/cafe/dance/segment-06-seam/00.png",
+        "duration_ms": 40.54976851851851,
+        "solid_bbox_xywh": [
+          14,
+          8,
+          162,
+          192
+        ],
+        "alpha0_bbox": [
+          12,
+          6,
+          178,
+          203
+        ],
+        "solid_min_edge_distance": 8
+      }
+    },
+    {
+      "from": "segment-06-seam/11",
+      "to": "return-01-seam/00",
+      "before": {
+        "cell": 83,
+        "segment": "segment-06-seam",
+        "local_index": 11,
+        "source": "art/outfits/cafe/dance/segment-06-seam/11.png",
+        "duration_ms": 40.54976851851851,
+        "solid_bbox_xywh": [
+          15,
+          11,
+          161,
+          190
+        ],
+        "alpha0_bbox": [
+          13,
+          9,
+          178,
+          203
+        ],
+        "solid_min_edge_distance": 7
+      },
+      "after": {
+        "cell": 84,
+        "segment": "return-01-seam",
+        "local_index": 0,
+        "source": "art/outfits/cafe/dance/return-01-seam/00.png",
+        "duration_ms": 41.70833333337504,
+        "solid_bbox_xywh": [
+          15,
+          7,
+          161,
+          194
+        ],
+        "alpha0_bbox": [
+          13,
+          5,
+          178,
+          203
+        ],
+        "solid_min_edge_distance": 7
+      }
+    },
+    {
+      "from": "return-01-seam/11",
+      "to": "return-02-seam/00",
+      "before": {
+        "cell": 95,
+        "segment": "return-01-seam",
+        "local_index": 11,
+        "source": "art/outfits/cafe/dance/return-01-seam/11.png",
+        "duration_ms": 41.70833333337504,
+        "solid_bbox_xywh": [
+          18,
+          8,
+          154,
+          193
+        ],
+        "alpha0_bbox": [
+          16,
+          6,
+          174,
+          203
+        ],
+        "solid_min_edge_distance": 7
+      },
+      "after": {
+        "cell": 96,
+        "segment": "return-02-seam",
+        "local_index": 0,
+        "source": "art/outfits/cafe/dance/return-02-seam/00.png",
+        "duration_ms": 41.70833333337504,
+        "solid_bbox_xywh": [
+          24,
+          7,
+          144,
+          194
+        ],
+        "alpha0_bbox": [
+          22,
+          5,
+          170,
+          203
+        ],
+        "solid_min_edge_distance": 7
+      }
+    },
+    {
+      "from": "return-02-seam/11",
+      "to": "entry/00",
+      "before": {
+        "cell": 107,
+        "segment": "return-02-seam",
+        "local_index": 11,
+        "source": "art/outfits/cafe/dance/return-02-seam/11.png",
+        "duration_ms": 41.70833333337504,
+        "solid_bbox_xywh": [
+          26,
+          7,
+          140,
+          194
+        ],
+        "alpha0_bbox": [
+          24,
+          5,
+          168,
+          203
+        ],
+        "solid_min_edge_distance": 7
+      },
+      "after": {
+        "cell": 0,
+        "segment": "entry",
+        "local_index": 0,
+        "source": "art/outfits/cafe/dance/entry/00.png",
+        "duration_ms": 41.70833333337504,
+        "solid_bbox_xywh": [
+          35,
+          8,
+          121,
+          193
+        ],
+        "alpha0_bbox": [
+          33,
+          6,
+          158,
+          203
+        ],
+        "solid_min_edge_distance": 7
+      }
+    }
+  ],
+  "render_method": "Final runtime generated pixels cropped into108 cells and composited for QA. No interpolation, character edits, source changes or per-frame scaling. GIF cumulative10ms timing; WebP cumulative1ms timing."
+}

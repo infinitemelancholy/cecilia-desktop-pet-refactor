@@ -1,0 +1,120 @@
+{
+  "stylePolicy": {
+    "status": "original-style-locked",
+    "primaryReference": "用户指定的原画风格.png",
+    "authority": "Human selected the currently installed cafe screenshot as the drawing-style standard.",
+    "required": [
+      "原来的精致Q版脸型与头身比例",
+      "原有浅绿色头发及原稿高光配色",
+      "原有绿眼结构和神态",
+      "清晰细线、分束发丝、衣褶与蕾丝细节",
+      "三套服装各自原稿为主参考"
+    ],
+    "forbidden": [
+      "以本轮改画风的待机或OP作为参考",
+      "重新设计角色或换画风",
+      "强制统一成新的冷薄荷绿RGB配色",
+      "用技术通过代替原稿风格一致性"
+    ],
+    "rejectedPilotScope": "All restyled idle and OP0–29 artwork. Prior technical recordings are retained as rejected-style evidence, not accepted artistic progress."
+  },
+  "sources": [
+    {
+      "asset": "identity_face",
+      "originalSource": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\canonical25-v5\\identity_face.png",
+      "candidate": "<本机路径已省略>\\new-chat\\work\\rebuild\\candidate\\art\\runtime\\original-style-pilot\\original_style_identity_face.png",
+      "sha256": "7d568ab3b2d34ea70ecbdedbbffc145e93de0f877e958e024b0e24bcfb87626b",
+      "identical": true
+    },
+    {
+      "asset": "painted_cafe",
+      "originalSource": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\canonical25-v5\\painted_cafe.png",
+      "candidate": "<本机路径已省略>\\new-chat\\work\\rebuild\\candidate\\art\\runtime\\original-style-pilot\\original_style_painted_cafe.png",
+      "sha256": "0c12ff6b6a206da9c9959bc3b084b1652bd911911fbb346508028ee73b396f7b",
+      "identical": true
+    },
+    {
+      "asset": "painted_classic",
+      "originalSource": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\canonical25-v5\\painted_classic.png",
+      "candidate": "<本机路径已省略>\\new-chat\\work\\rebuild\\candidate\\art\\runtime\\original-style-pilot\\original_style_painted_classic.png",
+      "sha256": "f51fd335f181fa7fa861690ffba535538255fade7149b0589336504cce0fd162",
+      "identical": true
+    },
+    {
+      "asset": "painted_travel",
+      "originalSource": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\canonical25-v5\\painted_travel.png",
+      "candidate": "<本机路径已省略>\\new-chat\\work\\rebuild\\candidate\\art\\runtime\\original-style-pilot\\original_style_painted_travel.png",
+      "sha256": "c048b5709958d84b1aa35ec3c0103d61e8d49a0199db45134512ff12fe72e350",
+      "identical": true
+    },
+    {
+      "asset": "portrait_cafe",
+      "originalSource": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\canonical25-v5\\portrait_cafe.png",
+      "candidate": "<本机路径已省略>\\new-chat\\work\\rebuild\\candidate\\art\\runtime\\original-style-pilot\\original_style_portrait_cafe.png",
+      "sha256": "ec7a7fc53f1eb274fa857d6398fedc04317d1ab895d41e0f24a9a60baf02322f",
+      "identical": true
+    },
+    {
+      "asset": "portrait_classic",
+      "originalSource": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\canonical25-v5\\portrait_classic.png",
+      "candidate": "<本机路径已省略>\\new-chat\\work\\rebuild\\candidate\\art\\runtime\\original-style-pilot\\original_style_portrait_classic.png",
+      "sha256": "85ac11a56b734a2be86b328fb50f1c3b405358809b7f719e45589a5ad567eb7d",
+      "identical": true
+    },
+    {
+      "asset": "portrait_travel",
+      "originalSource": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\canonical25-v5\\portrait_travel.png",
+      "candidate": "<本机路径已省略>\\new-chat\\work\\rebuild\\candidate\\art\\runtime\\original-style-pilot\\original_style_portrait_travel.png",
+      "sha256": "b5317d3b9471babc6d204646890966697a1f1a5fe5dfa8c52010907e309a0646",
+      "identical": true
+    }
+  ],
+  "installedManifestSha256": "b46dcea5774b20c1186100e61b3f54c80fa9e0c3ca5e2935061eb11e4343779e",
+  "nativeCleanup": {
+    "probeActive": false,
+    "canvases": 1,
+    "status": {
+      "stopped": false,
+      "mode": "task",
+      "renderFrames": 73,
+      "slowFrames": 0,
+      "callbackFrames": 83,
+      "duplicateCallbacks": 0,
+      "skippedSamples": 120,
+      "drawMsMax": 0.5,
+      "gpuMotion": true,
+      "frameBudgetMs": 8.333333333333334,
+      "overBudgetFrames": 83,
+      "callbackIntervalMsMax": 17.200000000186265,
+      "decodedBytes": 51585096,
+      "assetWaitMs": 192.19999998807907,
+      "layoutWaitMs": 0,
+      "clip": "running",
+      "elapsed": 186937.30000000028,
+      "phase": "showcase",
+      "outfit": "cafe",
+      "danceId": null,
+      "duo": false,
+      "ready": true,
+      "playbackRate": 1.2254901960784315,
+      "frameIndex": 156,
+      "lookDirection": null,
+      "loadingAssets": 0,
+      "decodedAssets": 16,
+      "drawCalls": 73,
+      "presentedFrames": null,
+      "drawTimingKind": "cpu-submission",
+      "cpuSubmissionMsMax": 0.5,
+      "measurementWidth": 224,
+      "layout": {
+        "requestedWidth": 224,
+        "requestedHeight": 242.656,
+        "hostWidth": 224,
+        "hostHeight": 243,
+        "left": 620,
+        "top": 0
+      }
+    }
+  },
+  "interruptedGeneration": "OP30–35 call interrupted; no returned image. Never auto-publish a late result."
+}

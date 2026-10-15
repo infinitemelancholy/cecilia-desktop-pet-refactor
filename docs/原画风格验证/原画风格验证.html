@@ -1,0 +1,15 @@
+<!doctype html><html lang="zh-CN"><meta charset="utf-8"><title>保留原画风格的重构验证</title>
+<style>body{font:16px/1.7 system-ui;background:#20242b;color:#eef1f4;max-width:1000px;margin:32px auto;padding:0 24px}a{color:#92d4ff}img{max-width:100%}video{max-width:100%;background:#20242b}.sources{display:flex;align-items:start;gap:26px;flex-wrap:wrap}.sources img{width:224px}</style>
+<h1>保留原画风格，继续改进动作与渲染</h1>
+<p>用户指定现有女仆装桌宠的画风。当前直接使用原安装包素材副本，保留原来的脸型、比例、配色、线条、发丝和衣服细节；上一批改画风的待机与OP原画已停用。</p>
+<p><a href="原画风格执行约束.md">后续制作的固定约束</a> · <a href="原画风格锁定与源文件哈希.json">原稿来源与完整性</a></p>
+<div class="sources"><figure><img src="用户指定的原画风格.png"><figcaption>用户指定的原画风格</figcaption></figure></div>
+<h2>三套原稿的GPU验证</h2><p>下片为独立GPU渲染导出，24fps，用于查看原画风格和小幅深度/跟随，不能作为原生录屏或120fps验收证据。</p>
+<video controls src="authored-pilot-isolated.mp4"></video>
+<p><img src="contact-cafe-original-style-cafe.png" alt="原女仆装GPU九阶段"></p>
+<p><img src="contact-classic-original-style-classic.png" alt="原圣女装GPU九阶段"></p>
+<p><img src="contact-travel-original-style-travel.png" alt="原旅行装GPU九阶段"></p>
+<h2>实际原生短测</h2><p>试验结束后恢复正式版本和用户状态；这是原画渲染路径验证，尚未完成完整新待机和OP。</p>
+<video controls src="../重构验证/完整动作试作/原生桌面-original-style-cafe.mp4"></video>
+<video controls src="../重构验证/完整动作试作/原生桌面-original-style-travel.mp4"></video>
+</html>

@@ -1,0 +1,13 @@
+{
+  "verdict": "pass",
+  "reviewed_at_native_size": true,
+  "source": "segment-01-grid.png",
+  "selected_raw": "exec-91b73a49-8279-407b-ae71-a66d556a015d.png",
+  "frames": 12,
+  "pose_order": "top6 then bottom6 source, extracted00..11",
+  "motion": "Actual low-hand sway, crossing feet and small head/cloth/hair changes inherited from approvedclassic01 and verifiedOP01. One approvedbriefblink nearframe09.",
+  "costume": "Raspberryhood-downshouldercloak, whitecollar/bluebow, uncovered mint hair, navy skirt darkhosieryshoes; classic navytemplecloth removed. Fine thin light edge under skirt is hair behind navyhem rather than laceornament.",
+  "clipping": "Allhair, skirt, shoes intact,12independent connectedgroups; bundledactualreportoktrue noerrors/warnings.",
+  "source_limit": "OP foreground obscuredfeet inlatersegments, conservative desktopfootstaging documented in work/dance-brief.md; thisfamily copies approved choreography, no arbitrarywave/leap.",
+  "timing": "Finalparentassembly40.54977ms perauthoredframe,12here belong72frame2919.583ms phrase."
+}

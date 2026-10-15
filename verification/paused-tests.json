@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-09",
+  "phase": "user requested pause",
+  "javascriptTests": 26,
+  "pythonTests": 17,
+  "results": [
+    {
+      "status": "fulfilled",
+      "value": {
+        "chunk_id": "00256d",
+        "wall_time_seconds": 0.3646552,
+        "exit_code": 0,
+        "original_token_count": 546,
+        "output": "✔ 64 CSS px proximity follows Cecilia rather than the expanded duo button (1.4461ms)\n✔ hidden-window heartbeat pauses playback and clears the nearby cursor (0.7301ms)\n✔ player waits for decoded assets before replacing the original pet (2.3166ms)\n✔ unreadable assets leave the original renderer untouched (1.006ms)\n✔ mismatched pet ID refuses to attach (0.1762ms)\n✔ native task state immediately replaces daily rendering (0.1906ms)\n✔ pointer dragging restores the native sprite without capturing the event (0.25ms)\n✔ stop restores measurement and removes layers, events, and timers (0.1867ms)\n✔ lost heartbeat returns to the original renderer even while animation is suspended (0.2153ms)\n✔ native layout widens the measurement while keeping the original height (0.1864ms)\n✔ an unacknowledged duo measurement times out and restores the original layout (0.1614ms)\n✔ gaze selects the corresponding direction in the current outfit (0.3187ms)\n✔ dance is followed by a 15 second interlude, then another dance (0.8634ms)\n✔ a truncated saved checkpoint starts a healthy fresh schedule (0.2445ms)\n✔ an impossible saved phase cannot create a negative-time scheduling loop (0.0809ms)\n✔ task reaction starts from its first frame whenever the task state changes (0.5102ms)\n✔ hidden time advances neither scene nor outfit deadline (1.2289ms)\n✔ task reactions immediately preempt dance and both guest scenes (0.5433ms)\n✔ drag and clicks give control to the native pet immediately (0.1381ms)\n✔ gaze pauses daily shows, then light idle precedes resuming (0.1085ms)\n✔ shuffle bag gives every scene one turn without consecutive duplicates (0.1712ms)\n✔ outfit change waits for a completed animation and shows new clothes first (0.2093ms)\n✔ outfit shuffle never immediately returns to the same outfit (0.3445ms)\n✔ renderer reconnection preserves clothes, scene bag, and visible time (0.1554ms)\n✔ frame lookup uses authored duration and loop bounds (0.265ms)\n✔ single-character chibi poses never request a two-character layout (0.0612ms)\nℹ tests 26\nℹ suites 0\nℹ pass 26\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 104.8956\n"
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "chunk_id": "7ba51a",
+        "wall_time_seconds": 0.4466761,
+        "exit_code": 0,
+        "original_token_count": 43,
+        "output": "..........WARNING:root:Original pet retained: art pending\r\n.......\r\n----------------------------------------------------------------------\r\nRan 17 tests in 0.106s\r\n\r\nOK\r\n"
+      }
+    }
+  ]
+}

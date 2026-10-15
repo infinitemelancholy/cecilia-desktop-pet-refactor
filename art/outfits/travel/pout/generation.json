@@ -1,0 +1,66 @@
+{
+  "originalImageGenPath": "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-a8df-76e2-a6e5-5394410b188c\\exec-7f116f4e-7ee3-4e59-8968-c280a775bef5.png",
+  "sourceArchive": "<本机路径已省略>\\xia\\work\\art-runs\\travel-q-cafe-worker\\sources\\pout-v2-raw.png",
+  "prompt": "<本机路径已省略>\\xia\\work\\art-runs\\travel-q-cafe-worker\\prompts\\pout-v2.txt",
+  "transparentBackground": true,
+  "poseReference": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\pout-strip.png",
+  "costumeSource": "<本机路径已省略>\\xia\\work\\references\\official\\episode-05-01.png",
+  "actualFrames": 6,
+  "uniqueDeliveredPoses": 5,
+  "accepted": true,
+  "inspectionPassed": true,
+  "bundledFrameInspection": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\pout\\review.json",
+  "motionPreview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\pout\\preview.gif",
+  "finalCellBboxes": [
+    [
+      15,
+      4,
+      177,
+      202
+    ],
+    [
+      15,
+      4,
+      177,
+      202
+    ],
+    [
+      14,
+      4,
+      178,
+      202
+    ],
+    [
+      14,
+      7,
+      177,
+      202
+    ],
+    [
+      15,
+      7,
+      177,
+      202
+    ],
+    [
+      15,
+      4,
+      177,
+      202
+    ]
+  ],
+  "durationMs": 180,
+  "registration": "One bundled family scale, no individual resizing. Full frames translated to floor202.",
+  "neutralLoopClosure": {
+    "enabled": true,
+    "method": "Full generated neutral frame 00 reused at final frame 05; explicitly authorized. No character redraw, no per-frame scaling.",
+    "uniqueDeliveredPoses": 5
+  },
+  "visualReview": "Complete chibi Cecilia, full hair/clothing/feet preserved, intended expression and posture progression visually inspected at native size.",
+  "referencedImages": [
+    "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\canonical.png",
+    "<本机路径已省略>\\xia\\work\\references\\official\\episode-05-01.png",
+    "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\pout-strip.png",
+    "C:/Users/Jiang Haoyu/.codex/generated_images/01a11ff4-a8df-76e2-a6e5-5394410b188c/exec-3fbc8e5a-5933-4def-b928-0299ceacca17.png"
+  ]
+}

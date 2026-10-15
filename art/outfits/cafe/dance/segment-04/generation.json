@@ -1,0 +1,92 @@
+{
+  "source": "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-a8df-76e2-a6e5-5394410b188c\\exec-887d86c5-cd4c-498e-b853-a1e8732ade43.png",
+  "sourceArchive": "work/art-runs/cafe/dance/sources/segment-04-raw.png",
+  "prompt": "work/art-runs/cafe/prompts/dance-04.txt",
+  "reference": "classic/dance/segment-04",
+  "poseEvidence": "work/references/user-op/dance-grid-04.jpg",
+  "durationMs": 40.54977,
+  "visualReview": "Front\u2192left profile\u2192back\u2192right profile turn with correct back apron straps/bow and low ponytail.",
+  "actualFrames": 12,
+  "transparentBackground": true,
+  "actualInspectionPassed": true,
+  "bundledReview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-04\\review.json",
+  "finalCellBboxes": [
+    [
+      32,
+      6,
+      159,
+      202
+    ],
+    [
+      33,
+      5,
+      160,
+      203
+    ],
+    [
+      29,
+      8,
+      163,
+      203
+    ],
+    [
+      27,
+      8,
+      165,
+      202
+    ],
+    [
+      23,
+      8,
+      169,
+      202
+    ],
+    [
+      24,
+      7,
+      167,
+      202
+    ],
+    [
+      21,
+      9,
+      171,
+      202
+    ],
+    [
+      29,
+      11,
+      164,
+      201
+    ],
+    [
+      34,
+      11,
+      157,
+      202
+    ],
+    [
+      30,
+      12,
+      161,
+      202
+    ],
+    [
+      23,
+      12,
+      169,
+      203
+    ],
+    [
+      25,
+      11,
+      167,
+      203
+    ]
+  ],
+  "sourceFile": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-04\\qa\\source-raw.png",
+  "promptFile": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-04\\qa\\prompt.txt",
+  "fps": 24.66105233149288,
+  "singleSegmentPreview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-04\\preview.mp4",
+  "finalBatchRegistration": "Pending parent combined registration and joint continuity review; preserve source-flat pixels for that step."
+}

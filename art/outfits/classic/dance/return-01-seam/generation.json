@@ -1,0 +1,10 @@
+{
+  "prompt": "Exactly TWELVE independently drawn consecutive frames, 2 rows of 6 isolated full-body chibi Cecilia, transparent RGBA, wide3:1. FIRST reference is the EXACT opening pose: raised RIGHT arm (viewer LEFT) diagonally up-left, other arm low-right, supporting leg planted, other foot extended sideways on viewer RIGHT. SECOND reference is the EXACT target end pose: same body 195px native height and big head, eyes open, right arm viewer-left lowered to shoulder-height horizontal, other hand low, BOTH feet parallel together grounded. Over12 gracefully lower raised arm to horizontal while bringing the extended viewer-right foot inward and down to ground; settle head tilt toward upright. Gradual hand/elbow and foot movement, no instant cross-leg swap. Same mint hair green eyes classic ivory hood navy/ivory dress throughout, SAME HEAD SIZE/camera/height between first & second references. Hair must hang compactly DOWN with minimal lateral fan so all12 figures maintain native195–198px bodyheight at192x208, never shrink whole characters to fit wide hair. First frame visually matches FIRST precisely, final frame visually matches SECOND precisely. ALL frames eyes OPEN soft smile, no wink/face toggles. Keep20px transparent gaps between complete characters, same shoe ground baseline, no shadows/texts. Independent real drawn inbetweens not program transforms or duplicate frames.",
+  "refs": [
+    "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-06-seam\\11.png",
+    "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-02-seam\\00.png",
+    "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\entry\\00.png"
+  ],
+  "accepted": true,
+  "continuityReview": "qa-continuous/manual-review.json"
+}

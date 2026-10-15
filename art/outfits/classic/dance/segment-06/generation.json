@@ -1,0 +1,11 @@
+{
+  "tool": "Built-in ImageGen",
+  "prompt": "Use case: stylized-concept. Asset: 12 sequential Cecilia chibi full-body OP dance poses, final segment06. Transparent sheet in TWO ROWS of SIX with very WIDE landscape aspect3:1, at least40px gap between all hair/extended hand silhouettes, 25px outside border, no text/scenery/shadow. References1=approved preceding segment05 for body scale/outfit/pose continuity,2=canonical existing pet identity,3=actual OP segment06 choreography. Begin exactly from preceding last front smiling diagonal pose: Cecilia's RIGHT arm appears VIEWER LEFT raised diagonally UPPER LEFT, her LEFT arm VIEWER RIGHT opens low/right. Across all12 frames maintain this SAME raised arm and open-arm silhouette, with only very small playful lean, knee/weight adjustment, hair/veil/skirt trailing softly, blinking/open-eyed smile. The hand remains visible above viewer-left side of her head throughout, never drops halfway through. Same complete chibi head diameter and body proportion, baseline supporting foot, large mint hair greeneyes classic ivory hood and navy/ivory saint outfit. No arbitrary jumps/dance moves, no camera scale changes, hidden source feet modest desktop stepping. Actual distinct intermediate body/arm/hair poses everyframe but tiny increments (this is0.487seconds). Endstill diagonal handup; separate return animation willlowerit.",
+  "source": "../segment-06-grid.png",
+  "references": [
+    "classic/dance/segment-05-v2/qa/frames-strip.png",
+    "references/cecilia-canonical.png",
+    "references/user-op/dance-grid-06.jpg"
+  ],
+  "sourceLimit": "Original lower legs partly obscured by foreground chibi head; conservative desktop staging."
+}

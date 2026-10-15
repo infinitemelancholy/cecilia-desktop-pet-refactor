@@ -1,0 +1,11 @@
+{
+  "tool": "Built-in ImageGen",
+  "key": "dance05Single10",
+  "prompt": "Draw ONE single complete transparent full-body Cecilia chibi in classic saint costume, to supply ONE precise animation in-between. Reference1 is precedingframe09, reference2 is followingframe11, reference3 originalidentity. Match body/headdiameter/skirt/hair footprint/standing height and supporting foot baseline. Her RIGHT hand (on VIEWER LEFT) MUST remain RAISED above-left of her forehead, bent elbow sleeve visible beside head, palm up-outward; exact same raised-arm side as references. Otherarm open LOW RIGHT. Torso tilts gently viewerleft, knee subtly relaxes, eyes halfclosed in happy blink between open09 andclosed11. Never drop/hide raisedhand. Singlefigure with complete longmint hair ivoryhood navy/ivory outfit blackstockings/shoes; no other figures, no labels, no shadows, transparent background, generousmargin. This is real authored intermediate drawing not a resize of anotherframe.",
+  "refs": [
+    "outputs/cecilia-qpet/art/outfits/classic/dance/segment-05-v2/09.png",
+    "outputs/cecilia-qpet/art/outfits/classic/dance/segment-05-v2/11.png",
+    "work/references/cecilia-canonical.png"
+  ],
+  "processing": "Deterministic extracted generated pixels, transparent edge cleanup, fitted without person redraw."
+}

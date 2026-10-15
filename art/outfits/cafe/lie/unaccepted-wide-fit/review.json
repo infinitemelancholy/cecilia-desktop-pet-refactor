@@ -1,0 +1,162 @@
+{
+  "state": "cafe-lie",
+  "expected_frames": 6,
+  "actual_frames": 6,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\lie\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 9960,
+      "bbox": [
+        42,
+        41,
+        150,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\lie\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 8815,
+      "bbox": [
+        32,
+        79,
+        159,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\lie\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 8271,
+      "bbox": [
+        10,
+        116,
+        182,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\lie\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 8147,
+      "bbox": [
+        5,
+        126,
+        187,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\lie\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 9451,
+      "bbox": [
+        25,
+        78,
+        167,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\lie\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 9226,
+      "bbox": [
+        43,
+        57,
+        150,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ],
+  "source_bounds": [
+    [
+      134,
+      44,
+      429,
+      498
+    ],
+    [
+      668,
+      142,
+      1018,
+      481
+    ],
+    [
+      1172,
+      248,
+      1650,
+      481
+    ],
+    [
+      1812,
+      284,
+      2325,
+      489
+    ],
+    [
+      2421,
+      148,
+      2813,
+      489
+    ],
+    [
+      2980,
+      93,
+      3273,
+      498
+    ]
+  ],
+  "source_files": [
+    "work/art-runs/cafe/q/sources/lie-raw.png"
+  ],
+  "strict_contour_chroma_pixels_removed": 0,
+  "source_row_registration": {
+    "gap_cut_y": null,
+    "top_row_shift_y": 0,
+    "bottom_row_shift_y": -405,
+    "source_ground_baselines": [
+      498,
+      903
+    ],
+    "method": "Bundled connected pixels isolated by complete rows; each entire row translated only, no per-character scaling"
+  },
+  "grounded_pose_y_adjustments": [
+    18,
+    23,
+    23,
+    20,
+    20,
+    18
+  ],
+  "shared_registration": "bundled fit_registered_component_groups; one scale for complete row; vertical displacement preserved"
+}

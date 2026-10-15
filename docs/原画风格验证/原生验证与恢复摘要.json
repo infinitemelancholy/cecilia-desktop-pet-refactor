@@ -1,0 +1,33 @@
+{
+  "results": [
+    {
+      "action": "original-style-cafe",
+      "outfit": "cafe",
+      "measuredSeconds": 12.006,
+      "captureSeconds": 6.0,
+      "rasterFps": 59.88672330501416,
+      "firstSourceFrame": 0
+    },
+    {
+      "action": "original-style-travel",
+      "outfit": "travel",
+      "measuredSeconds": 11.989399999999907,
+      "captureSeconds": 6.0,
+      "rasterFps": 59.88623283900826,
+      "firstSourceFrame": 0
+    }
+  ],
+  "restoredManifest": true,
+  "restoredModules": {
+    "cel-timeline.js": true,
+    "renderer-player.js": true,
+    "connection.py": true,
+    "volume-mesh.js": true,
+    "gpu-compositor.js": true
+  },
+  "remainingPilotFiles": [],
+  "probeActive": false,
+  "canvases": 1,
+  "installedManifestSha256": "b46dcea5774b20c1186100e61b3f54c80fa9e0c3ca5e2935061eb11e4343779e",
+  "scope": "Original art preserved;2.5D rendering pilot only; no complete idle/OP/120fps acceptance."
+}

@@ -1,0 +1,54 @@
+{
+  "originalImageGenPath": "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-a8df-76e2-a6e5-5394410b188c\\exec-d48e147e-3aed-4aee-827b-cabc224d6f4b.png",
+  "sourceArchive": "work/art-runs/cafe/q/sources/shy-raw.png",
+  "prompt": "work/art-runs/cafe/prompts/q-shy-final.txt",
+  "transparentBackground": true,
+  "poseReference": "outputs/cecilia-qpet/art/outfits/classic/shy/contact.png",
+  "costumeSource": "work/references/official/episode-06-01.png",
+  "description": "relaxed\u2192collar hands\u2192blush\u2192cheek cover/shoulders tuck\u2192smile\u2192relaxed",
+  "visualWarnings": [],
+  "actualFrames": 6,
+  "bundledFrameInspection": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\shy\\review.json",
+  "inspectionPassed": true,
+  "normalSizeContact": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\shy\\contact.png",
+  "motionPreview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\shy\\preview.gif",
+  "finalCellBboxes": [
+    [
+      33,
+      4,
+      159,
+      202
+    ],
+    [
+      37,
+      8,
+      155,
+      202
+    ],
+    [
+      34,
+      5,
+      158,
+      202
+    ],
+    [
+      35,
+      23,
+      157,
+      202
+    ],
+    [
+      38,
+      28,
+      154,
+      202
+    ],
+    [
+      33,
+      14,
+      159,
+      202
+    ]
+  ],
+  "registration": "One bundled family scale, no per-pose resize. Grounded poses translated to shared floor; hop vertical displacement preserved."
+}

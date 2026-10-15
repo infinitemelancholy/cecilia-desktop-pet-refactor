@@ -1,0 +1,13 @@
+{
+  "status": "accepted",
+  "actualNativeContactReviewed": true,
+  "contact": "qa/native-contact.png",
+  "actualBundledReview": "review.json",
+  "source": "../../source-rows/dance-segment-03-clean.png",
+  "poseOrder": "Approved classic03-v3: small foot crossing/lowhand sway; last four progressively straighten, last fully upright; all twelve eyes open.",
+  "wardrobe": "Travel raspberry cloak, white collar blue bow/plain navy, uncovered mint hair. No classic veil/temple panels.",
+  "edges": "Fullbody all12 separated. Clean at actual192x208 ongray. Deep alpha>=128 interior changed0.",
+  "registration": "One shared transform, whole-row shoe alignment, no individual pose resizing.",
+  "scaleNote": "Compact source revision restores near195px body, avoids previous widehair batch shrink.",
+  "reviewedOn": "2026-10-10"
+}

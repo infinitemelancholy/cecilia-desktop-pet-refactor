@@ -1,0 +1,65 @@
+{
+  "originalImageGenPath": "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-a8df-76e2-a6e5-5394410b188c\\exec-c1458198-f0b8-492b-99d7-256066f1865f.png",
+  "sourceArchive": "<本机路径已省略>\\xia\\work\\art-runs\\travel-q-cafe-worker\\sources\\shy-raw.png",
+  "prompt": "<本机路径已省略>\\xia\\work\\art-runs\\travel-q-cafe-worker\\prompts\\shy.txt",
+  "transparentBackground": true,
+  "poseReference": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\shy-strip.png",
+  "costumeSource": "<本机路径已省略>\\xia\\work\\references\\official\\episode-05-01.png",
+  "actualFrames": 6,
+  "uniqueDeliveredPoses": 5,
+  "accepted": true,
+  "inspectionPassed": true,
+  "bundledFrameInspection": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\shy\\review.json",
+  "motionPreview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\shy\\preview.gif",
+  "finalCellBboxes": [
+    [
+      19,
+      4,
+      172,
+      202
+    ],
+    [
+      20,
+      4,
+      171,
+      202
+    ],
+    [
+      20,
+      6,
+      170,
+      202
+    ],
+    [
+      20,
+      4,
+      171,
+      202
+    ],
+    [
+      20,
+      8,
+      171,
+      202
+    ],
+    [
+      19,
+      4,
+      172,
+      202
+    ]
+  ],
+  "durationMs": 180,
+  "registration": "One bundled family scale, no individual resizing. Full frames translated to floor202.",
+  "neutralLoopClosure": {
+    "enabled": true,
+    "method": "Full generated neutral frame 00 reused at final frame 05; explicitly authorized. No character redraw, no per-frame scaling.",
+    "uniqueDeliveredPoses": 5
+  },
+  "visualReview": "Complete chibi Cecilia, full hair/clothing/feet preserved, intended expression and posture progression visually inspected at native size.",
+  "referencedImages": [
+    "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\canonical.png",
+    "<本机路径已省略>\\xia\\work\\references\\official\\episode-05-01.png",
+    "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\shy-strip.png"
+  ]
+}

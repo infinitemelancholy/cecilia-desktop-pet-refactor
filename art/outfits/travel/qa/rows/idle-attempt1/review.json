@@ -1,0 +1,104 @@
+{
+  "ok": false,
+  "frames_root": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\qa\\rows\\idle-attempt1\\frames",
+  "states": [
+    "idle"
+  ],
+  "errors": [
+    "idle frame 00 is empty or too sparse (0 pixels)",
+    "idle frame 01 is empty or too sparse (0 pixels)",
+    "idle frame 02 is empty or too sparse (2 pixels)",
+    "idle frame 03 is empty or too sparse (0 pixels)",
+    "idle frame 05 is empty or too sparse (0 pixels)"
+  ],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": false,
+      "errors": [
+        "idle frame 00 is empty or too sparse (0 pixels)",
+        "idle frame 01 is empty or too sparse (0 pixels)",
+        "idle frame 02 is empty or too sparse (2 pixels)",
+        "idle frame 03 is empty or too sparse (0 pixels)",
+        "idle frame 05 is empty or too sparse (0 pixels)"
+      ],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\qa\\rows\\idle-attempt1\\frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 0,
+          "bbox": null,
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\qa\\rows\\idle-attempt1\\frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 0,
+          "bbox": null,
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\qa\\rows\\idle-attempt1\\frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 2,
+          "bbox": [
+            95,
+            93,
+            97,
+            94
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\qa\\rows\\idle-attempt1\\frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 0,
+          "bbox": null,
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\qa\\rows\\idle-attempt1\\frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6852,
+          "bbox": [
+            5,
+            78,
+            187,
+            129
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\qa\\rows\\idle-attempt1\\frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 0,
+          "bbox": null,
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    }
+  ]
+}

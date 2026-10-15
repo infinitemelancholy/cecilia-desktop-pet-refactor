@@ -1,0 +1,98 @@
+{
+  "classic_extracted_frames": 62,
+  "classic_bean_source_frames": 6,
+  "all_saved_reviews_ok": true,
+  "rows": [
+    {
+      "clip": "pout",
+      "frames": 6,
+      "ok": true,
+      "warnings": [],
+      "preview": "outfits\\classic\\pout\\preview.gif"
+    },
+    {
+      "clip": "shy",
+      "frames": 6,
+      "ok": true,
+      "warnings": [],
+      "preview": "outfits\\classic\\shy\\preview.gif"
+    },
+    {
+      "clip": "hop",
+      "frames": 6,
+      "ok": true,
+      "warnings": [],
+      "preview": "outfits\\classic\\hop\\preview.gif"
+    },
+    {
+      "clip": "sleepy",
+      "frames": 6,
+      "ok": true,
+      "warnings": [],
+      "preview": "outfits\\classic\\sleepy\\preview.gif"
+    },
+    {
+      "clip": "lie",
+      "frames": 6,
+      "ok": true,
+      "warnings": [],
+      "preview": "outfits\\classic\\lie\\preview.gif"
+    },
+    {
+      "clip": "lump",
+      "frames": 6,
+      "ok": true,
+      "warnings": [],
+      "preview": "outfits\\classic\\lump\\preview.gif"
+    },
+    {
+      "clip": "running",
+      "frames": 6,
+      "ok": true,
+      "warnings": [],
+      "preview": "outfits\\classic\\running\\preview.gif"
+    },
+    {
+      "clip": "waiting",
+      "frames": 6,
+      "ok": true,
+      "warnings": [],
+      "preview": "outfits\\classic\\waiting\\preview.gif"
+    },
+    {
+      "clip": "failed",
+      "frames": 8,
+      "ok": true,
+      "warnings": [],
+      "preview": "outfits\\classic\\failed\\preview.gif"
+    },
+    {
+      "clip": "review",
+      "frames": 6,
+      "ok": true,
+      "warnings": [],
+      "preview": "outfits\\classic\\review\\preview.gif"
+    },
+    {
+      "clip": "lawrence/poses",
+      "frames": 4,
+      "ok": true,
+      "warnings": [],
+      "preview": "guests\\lawrence\\poses\\preview.gif"
+    },
+    {
+      "clip": "lawrence/poses-left",
+      "frames": 4,
+      "ok": true,
+      "warnings": [],
+      "preview": "guests\\lawrence\\poses-left\\preview.gif"
+    },
+    {
+      "clip": "hazelita/poses",
+      "frames": 4,
+      "ok": true,
+      "warnings": [],
+      "preview": "guests\\hazelita\\poses\\preview.gif"
+    }
+  ]
+}

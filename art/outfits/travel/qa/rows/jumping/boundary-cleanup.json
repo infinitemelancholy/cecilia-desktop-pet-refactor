@@ -1,0 +1,14 @@
+{
+  "source": "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-6d0e-78e3-85ab-a12f726b91c7\\exec-5195f7fe-1bf0-4578-b16b-6f340b2b18cf.png",
+  "state": "jumping",
+  "significant_components": 5,
+  "bundled_despill_report": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\qa\\rows\\jumping\\despill.json",
+  "removed_chroma_edge_pixels": 796,
+  "removed_detached_alpha_noise": 10186,
+  "removed_weak_alpha_pixels": 23755,
+  "low_alpha_separators": [],
+  "deep_interior_alpha_threshold": 128,
+  "deep_interior_pixels_changed": 0,
+  "weak_alpha_background_bridge_in_soft_alpha_interior_changed": 0,
+  "technique": "Bundled chroma despill plus only transparent-boundary saturated yellow/magenta alpha cleanup. When two otherwise disjoint strong-alpha poses are connected solely by weak alpha, remove one empty-core gap column below alpha 128. All opaque subject pixels preserved. No character drawing or geometric changes."
+}

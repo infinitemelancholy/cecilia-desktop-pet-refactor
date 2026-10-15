@@ -1,0 +1,130 @@
+{
+  "size": [
+    2172,
+    724
+  ],
+  "mode": "RGBA",
+  "alphaZeroPixels": 814347,
+  "solidActors": [
+    {
+      "bbox": [
+        419,
+        12,
+        698,
+        360
+      ],
+      "area": 47733,
+      "solidTouchesSourceEdge": false
+    },
+    {
+      "bbox": [
+        1844,
+        10,
+        2133,
+        359
+      ],
+      "area": 48793,
+      "solidTouchesSourceEdge": false
+    },
+    {
+      "bbox": [
+        1842,
+        371,
+        2132,
+        716
+      ],
+      "area": 48860,
+      "solidTouchesSourceEdge": false
+    },
+    {
+      "bbox": [
+        1133,
+        11,
+        1417,
+        361
+      ],
+      "area": 48967,
+      "solidTouchesSourceEdge": false
+    },
+    {
+      "bbox": [
+        420,
+        371,
+        706,
+        716
+      ],
+      "area": 49057,
+      "solidTouchesSourceEdge": false
+    },
+    {
+      "bbox": [
+        52,
+        12,
+        344,
+        360
+      ],
+      "area": 49214,
+      "solidTouchesSourceEdge": false
+    },
+    {
+      "bbox": [
+        55,
+        371,
+        348,
+        716
+      ],
+      "area": 49233,
+      "solidTouchesSourceEdge": false
+    },
+    {
+      "bbox": [
+        1483,
+        12,
+        1776,
+        361
+      ],
+      "area": 49359,
+      "solidTouchesSourceEdge": false
+    },
+    {
+      "bbox": [
+        1482,
+        371,
+        1776,
+        716
+      ],
+      "area": 49416,
+      "solidTouchesSourceEdge": false
+    },
+    {
+      "bbox": [
+        1132,
+        370,
+        1426,
+        716
+      ],
+      "area": 49417,
+      "solidTouchesSourceEdge": false
+    },
+    {
+      "bbox": [
+        783,
+        371,
+        1067,
+        716
+      ],
+      "area": 49613,
+      "solidTouchesSourceEdge": false
+    },
+    {
+      "bbox": [
+        753,
+        11,
+        1056,
+        360
+      ],
+      "area": 50220,
+      "solidTouchesSourceEdge": false
+    }
+  ]
+}

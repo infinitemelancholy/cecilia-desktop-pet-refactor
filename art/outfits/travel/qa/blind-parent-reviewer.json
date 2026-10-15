@@ -1,0 +1,94 @@
+{
+  "reviewer": "Parent",
+  "blindKeyRead": false,
+  "images": [
+    "work/travel-blind-horizontal.png",
+    "work/travel-blind-vertical.png"
+  ],
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose projects left and eyes sit toward screen-left; B small right yaw with nose/pupils right."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A lifted face still aimed left; B eyes and nose aimed right."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A right eye/nose projection; B left projection."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Clear opposing profile/three-quarter landmarks."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A downward-left head yaw; B downward-right yaw."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose/eyes left below bangs; B eyes/nose right."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Subtle low-pitch yaw: A nose tip left of facial center, B right."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A lifted chin and raised pupils; B tucked chin with mostly lids beneath fringe."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A raised face, B looking down under bangs."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A chin tucked, B eyes raised and face angled upward."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A raised chin/eye aim; B low chin and lowered lids."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A head downward, B face tilted up."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A down-left eyes/face, B lifted chin to upper-left."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "Both leftward but A chin/eyes down, B chin/eyes lifted."
+    }
+  ]
+}

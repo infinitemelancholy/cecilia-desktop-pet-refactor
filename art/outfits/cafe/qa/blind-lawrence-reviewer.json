@@ -1,0 +1,89 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A鼻尖与下巴偏向画面左侧、近侧右眼较完整；B脸部鼻嘴向右偏，左眼更宽、右侧远眼较小，瞳孔朝右上。"
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A鼻嘴和下巴朝右、左眼面积较大；B鼻尖朝左，近侧右眼较完整、远侧左眼被转头与发束压窄。"
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A右侧三分之二脸，鼻嘴偏右、左眼较完整；B鼻尖偏左、右侧脸颊展开，右眼明显大于远侧左眼。"
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A鼻尖与下巴朝右，左耳根可见；B几乎左侧轮廓，鼻尖伸向左边、近侧右眼完整，远侧眼很窄。"
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A低头同时鼻嘴朝左、右眼较大；B低头同时脸部重心朝右、左眼更宽、鼻嘴偏右。"
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A虽垂首仍有左侧耳根和较完整左眼，鼻嘴向右下；B下巴向左下收，近侧右眼较完整，鼻嘴向左。"
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "两张主要表现低头和半闭眼，瞳孔被遮得很窄；A疑似轻微左偏但鼻尖极小，B接近正面俯视、眼裂较对称。仅凭这些小脸无法稳定判定左右，不强行把细微倾斜当成可辨横向。"
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A头顶前压、下巴收向领口、眼裂闭合偏下；B脸部抬起，瞳孔位于眼裂上方、下巴远离领口。"
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A额头和头顶投影大，眼裂半闭，鼻嘴下压；B抬脸向右上，眼睛更张开、鼻嘴下巴上扬。"
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A右转同时低头，绿瞳被上眼睑遮一部分、下巴收低；B同侧右转但仰脸，眼睛张开、瞳孔偏上。"
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A鼻嘴下巴上扬，瞳孔朝右上；B虽同样右转但头顶前压、眼裂与鼻嘴降低，判为轻微低头。"
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "A左上仰、下巴离领口较远、绿瞳朝上；B明显垂首半闭眼，头顶面积变大、下巴收向领口。"
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A鼻嘴下压、下巴向左下收且眼裂较窄；B同侧朝左但抬头，眼睛张开、瞳孔向上、下巴上扬。"
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A近侧右眼半闭、下巴与鼻嘴向左下，头顶前倾；B眼裂更开、瞳孔偏上、下巴抬高，判为左上仰。"
+    }
+  ],
+  "method": "Only requested cafe blind horizontal/vertical images and nearest-neighbor face crops derived from those same images viewed. No answer key or direction-QA file read."
+}

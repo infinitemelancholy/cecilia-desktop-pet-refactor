@@ -1,0 +1,154 @@
+{
+  "state": "shy",
+  "expected_frames": 6,
+  "actual_frames": 6,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\shy\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17283,
+      "bbox": [
+        20,
+        5,
+        170,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\shy\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16877,
+      "bbox": [
+        22,
+        5,
+        169,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\shy\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17329,
+      "bbox": [
+        19,
+        5,
+        172,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\shy\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17023,
+      "bbox": [
+        17,
+        16,
+        174,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\shy\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17094,
+      "bbox": [
+        17,
+        15,
+        174,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\shy\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16722,
+      "bbox": [
+        20,
+        14,
+        170,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ],
+  "source_bounds": [
+    [
+      112,
+      14,
+      491,
+      519
+    ],
+    [
+      584,
+      16,
+      954,
+      519
+    ],
+    [
+      1055,
+      14,
+      1439,
+      519
+    ],
+    [
+      1629,
+      46,
+      2028,
+      519
+    ],
+    [
+      2107,
+      43,
+      2507,
+      519
+    ],
+    [
+      2594,
+      40,
+      2971,
+      519
+    ]
+  ],
+  "source_files": [
+    "C:/Users/Jiang Haoyu/Documents/Codex/2026-10-09/xia/outputs/cecilia-qpet/art/outfits/classic/shy-source-unaccepted.png"
+  ],
+  "strict_contour_chroma_pixels_removed": 0,
+  "source_row_registration": {
+    "gap_cut_y": 526,
+    "top_row_shift_y": 0,
+    "bottom_row_shift_y": 33,
+    "source_ground_baselines": [
+      519,
+      1012
+    ],
+    "method": "Whole rows moved only; no per-character scaling or cropping"
+  },
+  "shared_registration": "bundled fit_registered_component_groups; one scale for complete row; vertical displacement preserved"
+}

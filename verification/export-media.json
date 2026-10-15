@@ -1,0 +1,222 @@
+{
+  "passed": true,
+  "bundleVersion": 2,
+  "petId": "pet_6ac71429ba50819188d4388111562bbd",
+  "danceCombinations": 9,
+  "duetPreviews": 12,
+  "mediaFiles": 42,
+  "media": [
+    {
+      "outfit": "cafe",
+      "clip": "hazelita-chat",
+      "gifFrames": 96,
+      "gifDurationMs": 8000,
+      "mp4Frames": 480,
+      "mp4DurationMs": 8000.0,
+      "gifBytes": 3556915,
+      "mp4Bytes": 486693
+    },
+    {
+      "outfit": "cafe",
+      "clip": "hazelita-showcase",
+      "gifFrames": 96,
+      "gifDurationMs": 8000,
+      "mp4Frames": 480,
+      "mp4DurationMs": 8000.0,
+      "gifBytes": 3586398,
+      "mp4Bytes": 537089
+    },
+    {
+      "outfit": "cafe",
+      "clip": "lawrence-care",
+      "gifFrames": 96,
+      "gifDurationMs": 8000,
+      "mp4Frames": 480,
+      "mp4DurationMs": 8000.0,
+      "gifBytes": 3122531,
+      "mp4Bytes": 265465
+    },
+    {
+      "outfit": "cafe",
+      "clip": "lawrence-sleeve",
+      "gifFrames": 13,
+      "gifDurationMs": 8000,
+      "mp4Frames": 480,
+      "mp4DurationMs": 8000.0,
+      "gifBytes": 470945,
+      "mp4Bytes": 132006
+    },
+    {
+      "outfit": "cafe",
+      "clip": "op-turn",
+      "gifFrames": 288,
+      "gifDurationMs": 11790,
+      "mp4Frames": 707,
+      "mp4DurationMs": 11780.0,
+      "gifBytes": 6296661,
+      "mp4Bytes": 774685
+    },
+    {
+      "outfit": "cafe",
+      "clip": "small-sway",
+      "gifFrames": 288,
+      "gifDurationMs": 11790,
+      "mp4Frames": 707,
+      "mp4DurationMs": 11780.0,
+      "gifBytes": 6665385,
+      "mp4Bytes": 585361
+    },
+    {
+      "outfit": "cafe",
+      "clip": "tiptoe-clap",
+      "gifFrames": 278,
+      "gifDurationMs": 11790,
+      "mp4Frames": 707,
+      "mp4DurationMs": 11780.0,
+      "gifBytes": 6854407,
+      "mp4Bytes": 571519
+    },
+    {
+      "outfit": "classic",
+      "clip": "hazelita-chat",
+      "gifFrames": 96,
+      "gifDurationMs": 8000,
+      "mp4Frames": 480,
+      "mp4DurationMs": 8000.0,
+      "gifBytes": 3888929,
+      "mp4Bytes": 496076
+    },
+    {
+      "outfit": "classic",
+      "clip": "hazelita-showcase",
+      "gifFrames": 96,
+      "gifDurationMs": 8000,
+      "mp4Frames": 480,
+      "mp4DurationMs": 8000.0,
+      "gifBytes": 3955417,
+      "mp4Bytes": 553873
+    },
+    {
+      "outfit": "classic",
+      "clip": "lawrence-care",
+      "gifFrames": 96,
+      "gifDurationMs": 8000,
+      "mp4Frames": 480,
+      "mp4DurationMs": 8000.0,
+      "gifBytes": 3545499,
+      "mp4Bytes": 281576
+    },
+    {
+      "outfit": "classic",
+      "clip": "lawrence-sleeve",
+      "gifFrames": 13,
+      "gifDurationMs": 8000,
+      "mp4Frames": 480,
+      "mp4DurationMs": 8000.0,
+      "gifBytes": 507187,
+      "mp4Bytes": 148265
+    },
+    {
+      "outfit": "classic",
+      "clip": "op-turn",
+      "gifFrames": 288,
+      "gifDurationMs": 11790,
+      "mp4Frames": 707,
+      "mp4DurationMs": 11780.0,
+      "gifBytes": 7681531,
+      "mp4Bytes": 868337
+    },
+    {
+      "outfit": "classic",
+      "clip": "small-sway",
+      "gifFrames": 288,
+      "gifDurationMs": 11790,
+      "mp4Frames": 707,
+      "mp4DurationMs": 11780.0,
+      "gifBytes": 6911933,
+      "mp4Bytes": 695786
+    },
+    {
+      "outfit": "classic",
+      "clip": "tiptoe-clap",
+      "gifFrames": 278,
+      "gifDurationMs": 11790,
+      "mp4Frames": 707,
+      "mp4DurationMs": 11780.0,
+      "gifBytes": 7211997,
+      "mp4Bytes": 696549
+    },
+    {
+      "outfit": "travel",
+      "clip": "hazelita-chat",
+      "gifFrames": 96,
+      "gifDurationMs": 8000,
+      "mp4Frames": 480,
+      "mp4DurationMs": 8000.0,
+      "gifBytes": 3737644,
+      "mp4Bytes": 487912
+    },
+    {
+      "outfit": "travel",
+      "clip": "hazelita-showcase",
+      "gifFrames": 96,
+      "gifDurationMs": 8000,
+      "mp4Frames": 480,
+      "mp4DurationMs": 8000.0,
+      "gifBytes": 3595389,
+      "mp4Bytes": 524720
+    },
+    {
+      "outfit": "travel",
+      "clip": "lawrence-care",
+      "gifFrames": 96,
+      "gifDurationMs": 8000,
+      "mp4Frames": 480,
+      "mp4DurationMs": 8000.0,
+      "gifBytes": 3396440,
+      "mp4Bytes": 272245
+    },
+    {
+      "outfit": "travel",
+      "clip": "lawrence-sleeve",
+      "gifFrames": 13,
+      "gifDurationMs": 8000,
+      "mp4Frames": 480,
+      "mp4DurationMs": 8000.0,
+      "gifBytes": 480300,
+      "mp4Bytes": 130018
+    },
+    {
+      "outfit": "travel",
+      "clip": "op-turn",
+      "gifFrames": 288,
+      "gifDurationMs": 11790,
+      "mp4Frames": 707,
+      "mp4DurationMs": 11780.0,
+      "gifBytes": 6560545,
+      "mp4Bytes": 645514
+    },
+    {
+      "outfit": "travel",
+      "clip": "small-sway",
+      "gifFrames": 288,
+      "gifDurationMs": 11790,
+      "mp4Frames": 707,
+      "mp4DurationMs": 11780.0,
+      "gifBytes": 6248173,
+      "mp4Bytes": 560851
+    },
+    {
+      "outfit": "travel",
+      "clip": "tiptoe-clap",
+      "gifFrames": 288,
+      "gifDurationMs": 11790,
+      "mp4Frames": 707,
+      "mp4DurationMs": 11780.0,
+      "gifBytes": 6971433,
+      "mp4Bytes": 531103
+    }
+  ],
+  "sourceIndexEntriesVerified": 8,
+  "previewBytes": 73794075
+}

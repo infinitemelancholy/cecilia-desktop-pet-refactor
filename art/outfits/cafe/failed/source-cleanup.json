@@ -1,0 +1,60 @@
+{
+  "source": "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-a8df-76e2-a6e5-5394410b188c\\exec-ca258789-297f-4f00-bcca-873d5a4386b4.png",
+  "size": [
+    2157,
+    729
+  ],
+  "component_boxes_xywh": [
+    [
+      28,
+      159,
+      255,
+      439
+    ],
+    [
+      295,
+      161,
+      229,
+      437
+    ],
+    [
+      542,
+      160,
+      249,
+      438
+    ],
+    [
+      813,
+      169,
+      248,
+      429
+    ],
+    [
+      1078,
+      161,
+      244,
+      437
+    ],
+    [
+      1345,
+      166,
+      245,
+      432
+    ],
+    [
+      1605,
+      160,
+      250,
+      438
+    ],
+    [
+      1877,
+      161,
+      244,
+      437
+    ]
+  ],
+  "cleanup": "Detached alpha noise and saturated yellow/green chroma pixels only within 6 px of transparent edges; no character drawing or per-frame resizing.",
+  "removed_chroma_edge_pixels": 473,
+  "full_silhouettes_inside_canvas": true
+}

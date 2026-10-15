@@ -1,0 +1,23 @@
+{
+  "tool": "image_gen__imagegen (built-in)",
+  "version": 2,
+  "asset": "art/guests/lawrence/v2-motion-sheet.png",
+  "character": "lawrence",
+  "animation": "12-frame guest motion sheet",
+  "imagegen_session_id": "01a11fbb-4dec-71d3-b688-58f8910b9890",
+  "original_paths": [
+    "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11fbb-4dec-71d3-b688-58f8910b9890\\exec-aa46a743-7a3b-4c84-b2f5-73e48285142f.png"
+  ],
+  "references": [
+    "references/current-pet.png",
+    "references/lawrence-official.png",
+    "references/cecilia-canonical.png"
+  ],
+  "prompt_summary": "12 distinct transparent full-body guest poses in a 4x3 sheet; preserve official identity and costume, animate small head/eye/hand/body gestures at pet scale.",
+  "processing": {
+    "method": "fixed-size cell extraction, transparent-edge cleanup, centered to 192x208, FFmpeg minterpolate to 144 frames at 24.4284 fps",
+    "runtime_frames": 12,
+    "runtime_fps": 12
+  },
+  "sha256": "3b11deb769b2024279c7e46ffa2f63cbf08dcaa7ae0b493b0ba8538f93cf7de6"
+}

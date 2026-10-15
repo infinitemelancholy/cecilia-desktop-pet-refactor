@@ -1,0 +1,1 @@
+{"state":"waving","approved":false,"structural_qa":"passed","reason":"Third figure switches waving hand to viewer-right while all other frames wave with viewer-left. Repair only this gesture in the complete strip, retain solved spacing and all other artwork."}

@@ -1,0 +1,217 @@
+{
+  "reviewer": "lawrence_canonical",
+  "status": "coherent-with-minor-pose-and-drawing-changes",
+  "reviewed_asset": "art/runtime/travel-dance.png",
+  "asset_modified_local": "2026-10-10T10:53:15",
+  "cell_size": [
+    192,
+    208
+  ],
+  "authored_frames": 108,
+  "segments": [
+    "entry",
+    "segment-01",
+    "segment-02",
+    "segment-03",
+    "segment-04",
+    "segment-05",
+    "segment-06",
+    "return-01",
+    "return-02"
+  ],
+  "method": "Independent manual sequential inspection of all108 final runtime cells, all nine seams with last3/first3 native-size neighbor sheets, native return01 first6/return02 last6 strips, and native turn-exit/next-stage strips. Full224x243 GIF/WebP assembled from actual final runtime pixels and timing. Fluency is not inferred from hashes, unique counts or fps alone.",
+  "continuous_preview": "art/outfits/travel/dance/qa-continuous/preview-224x243-108.gif",
+  "single_cycle_duration_ms": 4421.083333334835,
+  "seams": [
+    {
+      "from": "entry/11",
+      "to": "segment-01/00",
+      "result": "minor-stance-reset",
+      "observation": "The closed-eye smiling entry opens into a normal face while crossed ankles reset to parallel feet. Head size and crown height remain close. The blink is natural, but the one-cell foot reset remains visible.",
+      "solid_bbox_before_xywh": [
+        27,
+        7,
+        137,
+        194
+      ],
+      "solid_bbox_after_xywh": [
+        25,
+        12,
+        141,
+        189
+      ]
+    },
+    {
+      "from": "segment-01/11",
+      "to": "segment-02/00",
+      "result": "coherent-with-minor-drawing-change",
+      "observation": "Both frontal clasped-hand neutral cells agree in stance, head tilt and floor. Small changes in hair ends, cape edge, skirt flare and facial linework remain between drawn families.",
+      "solid_bbox_before_xywh": [
+        25,
+        9,
+        141,
+        192
+      ],
+      "solid_bbox_after_xywh": [
+        32,
+        10,
+        128,
+        191
+      ]
+    },
+    {
+      "from": "segment-02/11",
+      "to": "segment-03/00",
+      "result": "coherent-with-minor-drawing-change",
+      "observation": "Same frontal hands-together pose and parallel shoes continue into the next stage. Crown and face positions stay close; hair/eye rendering changes slightly without a large scale step.",
+      "solid_bbox_before_xywh": [
+        34,
+        8,
+        124,
+        193
+      ],
+      "solid_bbox_after_xywh": [
+        36,
+        11,
+        119,
+        190
+      ]
+    },
+    {
+      "from": "segment-03/11",
+      "to": "segment-04/00",
+      "result": "coherent-with-minor-drawing-change",
+      "observation": "The front standing pose and clasped hands match into the turn entrance. Segment04 then extends hands in genuine successive drawn poses. Hair curls and cape/hem outlines change a little at the cut.",
+      "solid_bbox_before_xywh": [
+        39,
+        8,
+        113,
+        193
+      ],
+      "solid_bbox_after_xywh": [
+        28,
+        7,
+        136,
+        194
+      ]
+    },
+    {
+      "from": "segment-04/11",
+      "to": "segment-05/00",
+      "result": "minor-visible-arm-fold-step",
+      "observation": "The turn exits as a screen-right profile and the next frame remains a screen-right profile, so there is no cafe-like yaw back-step. However, outstretched hands fold quickly from ahead of the body to close together near the chin in one cell; the bent lifted-foot stance also changes slightly. A small but visible arm/posture step remains.",
+      "solid_bbox_before_xywh": [
+        23,
+        12,
+        146,
+        189
+      ],
+      "solid_bbox_after_xywh": [
+        31,
+        20,
+        129,
+        181
+      ]
+    },
+    {
+      "from": "segment-05/11",
+      "to": "segment-06/00",
+      "result": "coherent-with-minor-drawing-change",
+      "observation": "The closed-eye smile, raised screen-left arm, slight head tilt and same bent/lifted leg agree across the cut. The continuation keeps comparable face/body size and stance. Hair/cape outline and the exact raised fingers vary a little, without a large hand/foot relocation.",
+      "solid_bbox_before_xywh": [
+        23,
+        8,
+        144,
+        193
+      ],
+      "solid_bbox_after_xywh": [
+        21,
+        11,
+        150,
+        190
+      ]
+    },
+    {
+      "from": "segment-06/11",
+      "to": "return-01/00",
+      "result": "same-foot-phase-preserved",
+      "observation": "In the actual final pixels the lifted/crossed shoe sits toward screen-left and the planted shoe toward screen-right on both sides of the boundary. Return01 preserves this same lifted leg, gradually lowering it through several real poses until both feet are grounded; it does not exchange the lifted and planted legs. Raised arm lowers progressively. Minor hand/face/cape linework changes remain.",
+      "solid_bbox_before_xywh": [
+        25,
+        8,
+        144,
+        192
+      ],
+      "solid_bbox_after_xywh": [
+        21,
+        9,
+        149,
+        192
+      ]
+    },
+    {
+      "from": "return-01/11",
+      "to": "return-02/00",
+      "result": "minor-arm-and-head-posture-change",
+      "observation": "Return01 ends with both feet parallel and the screen-left arm approximately horizontal. Return02 keeps those grounded feet, lifts/straightens the arm slightly at its first frame, then lowers it toward neutral. The head straightens a little and the cape opens enough to change the blouse/hair layering. No major size or foot-phase pop.",
+      "solid_bbox_before_xywh": [
+        23,
+        9,
+        146,
+        192
+      ],
+      "solid_bbox_after_xywh": [
+        22,
+        8,
+        148,
+        193
+      ]
+    },
+    {
+      "from": "return-02/11",
+      "to": "entry/00",
+      "result": "matching-height-neutral-with-minor-drawing-change",
+      "observation": "Both bookends are front standing with arms relaxed and parallel grounded shoes, and maintain close head/body height. Hair curls, face shading and foot spacing vary a little between independent neutral drawings. The loop has no conspicuous return-to-entry size collapse or crown jump; it is not a pixel-identical bookend.",
+      "solid_bbox_before_xywh": [
+        29,
+        7,
+        134,
+        194
+      ],
+      "solid_bbox_after_xywh": [
+        23,
+        7,
+        145,
+        194
+      ]
+    }
+  ],
+  "return_leg_phase": "Lifted shoe appears toward screen-left and planted shoe toward screen-right in final Segment06/11 and Return01/00. Return01 gradually returns that same lifted leg to the floor; actual poses have been checked, not merely source independence.",
+  "remaining_minor": [
+    "Entry11→segment01/00 crossed-to-parallel foot reset.",
+    "Segment04/11→segment05/00 quick outstretched-to-clasped arm change while maintaining the same right-facing profile.",
+    "Return01/11→return02/00 small arm/head-posture reset.",
+    "Across independent drawn families, modest hair/cape/hem/face rendering differences; loop neutral slightly different foot spacing/shading."
+  ],
+  "overall": "The final travel108 sequence maintains Cecilia identity, bare mint hair and the raspberry travel cape/white blouse/blue tie/navy skirt outfit. No blank cell, clipping, conspicuous scale collapse or lifted/planted-leg exchange is seen. The corrected return family visibly lowers the same leg and arm into a matching-height neutral. Usable for integration with the listed small stance/arm and illustration differences; not claimed perfectly seamless.",
+  "technical_support": {
+    "all_108_cells_populated": true,
+    "alpha0_floor_exclusive_bounds_px": [
+      203
+    ],
+    "last_nontransparent_y_px": [
+      202
+    ],
+    "minimum_solid_edge_distance_px": 7,
+    "loop_standing_solid_height_px": [
+      194,
+      194
+    ],
+    "loop_crown_y_px": [
+      7,
+      7
+    ],
+    "registration_note": "BBox bottom203 is exclusive and means last nontransparent pixel y202. Final frozen runtime cells only were reviewed. No source PNG, actor scale, runtime PNG or parent manifest changed."
+  },
+  "scope_limit": "Rendered continuity, identity and outfit QA only. No fresh official-OP timecode/choreography audit or claim that108 unique sources by itself proves smooth animation."
+}

@@ -1,0 +1,58 @@
+{
+  "originalImageGenPath": "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-a8df-76e2-a6e5-5394410b188c\\exec-6dcd8adc-46ff-40b5-a21c-b2816a172629.png",
+  "sourceArchive": "work/art-runs/cafe/q/sources/lie-raw.png",
+  "prompt": "work/art-runs/cafe/prompts/q-lie-final.txt",
+  "transparentBackground": true,
+  "poseReference": "outputs/cecilia-qpet/art/outfits/classic/lie/contact.png",
+  "costumeSource": "work/references/official/episode-06-01.png",
+  "description": "stand\u2192sit\u2192prone\u2192rest\u2192kneel\u2192stand",
+  "visualWarnings": [
+    "Generated recovery-standing stature is slightly shorter than first standing pose; shared family extraction uses one uniform scale. Preserve this as a visual continuity warning for parent review."
+  ],
+  "actualFrames": 6,
+  "bundledFrameInspection": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\lie\\review.json",
+  "inspectionPassed": true,
+  "normalSizeContact": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\lie\\contact.png",
+  "motionPreview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\lie\\preview.gif",
+  "finalCellBboxes": [
+    [
+      42,
+      41,
+      150,
+      202
+    ],
+    [
+      32,
+      79,
+      159,
+      202
+    ],
+    [
+      10,
+      116,
+      182,
+      202
+    ],
+    [
+      5,
+      126,
+      187,
+      202
+    ],
+    [
+      25,
+      78,
+      167,
+      202
+    ],
+    [
+      43,
+      57,
+      150,
+      202
+    ]
+  ],
+  "registration": "One bundled family scale, no per-pose resize. Grounded poses translated to shared floor; hop vertical displacement preserved.",
+  "accepted": false,
+  "status": "Source retains full poses and passed component/edge QA, but shared fit made standing stature161px vsnative195px; parent rejected for visualscale. Await new approved compact prone classicfamily then repaint coherentcafe6poses."
+}

@@ -1,0 +1,13 @@
+{
+  "source": "../poses/00.png through 03.png",
+  "operation": "Horizontal mirror of EACH frame in place. Temporal order unchanged. No whole-strip reversal, resampling or new drawing.",
+  "poses": [
+    "care toward screen-left",
+    "turn back toward screen-left",
+    "neutral front",
+    "bye toward screen-left"
+  ],
+  "identity_decision": "Approved: brown hair and eyes, simple high-collar navy cassock, symmetric gold cross, dark shoes and flat soft cel shading stay identifiable. Hairstyle has no side-specific insignia or handed prop. Hair part/forelock are reflected as a complete coherent family, including neutral; no frame changes sides mid-sequence.",
+  "lighting_decision": "Soft nearly flat anime shading has no directional cast shadow or external scene light; mirrored shading remains compatible with the cast.",
+  "intent": "Cecilia stays in left half; Lawrence enters from right and looks left toward her. Original right-facing poses remain intact."
+}

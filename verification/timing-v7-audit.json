@@ -1,0 +1,120 @@
+{
+  "passed": true,
+  "automatedTests": 90,
+  "assetsBefore": 4008,
+  "framesBefore": 15920,
+  "framesAfter": 16020,
+  "actions": 60,
+  "pixelSamples": 180,
+  "edgeChecks": 24,
+  "dragOutfitChecks": 6,
+  "nativeAtlasCells": 171,
+  "completeCycleChecks": 28,
+  "blankFrames": 0,
+  "clippedFrames": 0,
+  "internalGuestLoss": 0,
+  "ghostPixels": 0,
+  "missingInteriorPixels": 0,
+  "minCallbackFps": 149.80026631209543,
+  "maxCallbackFps": 164.67727674517437,
+  "unavailableCallbacks": 0,
+  "maxCycleDeviationMs": 62.999999994644895,
+  "oldAssetHashesPreserved": 4008,
+  "installedSourceMatch": {
+    "manifest.json": true,
+    "state_store.py": true,
+    "scheduler.js": true,
+    "renderer-player.js": true
+  },
+  "helperPids": [
+    58744
+  ],
+  "timingRevision": 7,
+  "proportionRevision": 8,
+  "final": {
+    "state": {
+      "version": 2,
+      "outfit": "travel",
+      "visibleMs": 30918657.068003446,
+      "nextOutfitAt": 30425803.471248865,
+      "phase": "interlude",
+      "phaseElapsed": 10328.911386955935,
+      "scene": "shy",
+      "sceneBag": [
+        "hop",
+        "hazelita-showcase"
+      ],
+      "outfitBag": [
+        "classic"
+      ],
+      "lastScene": "shy",
+      "lastMode": "task",
+      "lastTask": "running",
+      "taskElapsed": 906823.1000000003,
+      "recoveryRemaining": 1200,
+      "resume": null,
+      "danceId": "small-sway",
+      "danceBag": [
+        "tiptoe-clap"
+      ],
+      "lastDance": "small-sway",
+      "timingRevision": 7,
+      "timingLimits": {
+        "dance": 11800,
+        "interlude": 15000,
+        "showcase": 6500,
+        "scene": 2200
+      }
+    },
+    "status": {
+      "stopped": false,
+      "mode": "task",
+      "renderFrames": 23486,
+      "slowFrames": 40,
+      "clip": "running",
+      "elapsed": 906823.1000000003,
+      "phase": "interlude",
+      "outfit": "travel",
+      "danceId": null,
+      "duo": false,
+      "ready": true,
+      "playbackRate": 0.9803921568627452,
+      "frameIndex": 43,
+      "lookDirection": null,
+      "loadingAssets": 0,
+      "decodedAssets": 16,
+      "measurementWidth": 224,
+      "layout": {
+        "requestedWidth": 224,
+        "requestedHeight": 242.656,
+        "hostWidth": 224,
+        "hostHeight": 243,
+        "left": 620,
+        "top": 715
+      }
+    },
+    "petId": "pet_6ac71429ba50819188d4388111562bbd",
+    "canvasCount": 1,
+    "fixtureRemaining": false
+  },
+  "diskCheckpointValid": true,
+  "unresolvedVisualFindings": [
+    {
+      "outfit": "cafe",
+      "action": "lawrence-sleeve",
+      "type": "source-art-background-residue",
+      "detail": "Some approved source keyframes contain opaque black and colored background residue in the gap between the two characters heads/shoulders. Existing character artwork was not repainted in this inspection.",
+      "evidence": "咖啡服互动背景残留.png"
+    }
+  ],
+  "passiveRuntime": {
+    "elapsedMs": 3003.2000000029802,
+    "renderFrames": 180,
+    "slowFrames": 0,
+    "ready": true,
+    "outfit": "travel",
+    "clip": "running",
+    "canvasCount": 1,
+    "actualRenderedFps": 59.936068193867
+  }
+}

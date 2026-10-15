@@ -1,0 +1,101 @@
+{
+  "state": "travel-hop-final",
+  "expected_frames": 6,
+  "actual_frames": 6,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\hop\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 19264,
+      "bbox": [
+        17,
+        4,
+        175,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\hop\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 18999,
+      "bbox": [
+        10,
+        19,
+        181,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\hop\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 19222,
+      "bbox": [
+        10,
+        4,
+        182,
+        188
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\hop\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15090,
+      "bbox": [
+        26,
+        13,
+        165,
+        171
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\hop\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17136,
+      "bbox": [
+        18,
+        30,
+        174,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\hop\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 19264,
+      "bbox": [
+        17,
+        4,
+        175,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ]
+}

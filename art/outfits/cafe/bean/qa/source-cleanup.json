@@ -1,0 +1,11 @@
+{
+  "source": "bean-raw.png",
+  "output": "bean-clean.png",
+  "method": "Only faint alpha seam across the inter-row transparent gap removed; core shoe and head pixels untouched. No scaling or drawing.",
+  "rows": [
+    477,
+    478
+  ],
+  "removedLowAlphaPixels": 444,
+  "maximumRemovedAlpha": 31
+}

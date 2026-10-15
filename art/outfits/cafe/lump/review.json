@@ -1,0 +1,162 @@
+{
+  "state": "cafe-lump",
+  "expected_frames": 6,
+  "actual_frames": 6,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\lump\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 14766,
+      "bbox": [
+        30,
+        4,
+        162,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\lump\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 14998,
+      "bbox": [
+        23,
+        26,
+        168,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\lump\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 13318,
+      "bbox": [
+        13,
+        55,
+        179,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\lump\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 12551,
+      "bbox": [
+        12,
+        67,
+        180,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\lump\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 14182,
+      "bbox": [
+        19,
+        49,
+        173,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\lump\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 13276,
+      "bbox": [
+        32,
+        24,
+        160,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ],
+  "source_bounds": [
+    [
+      135,
+      15,
+      442,
+      486
+    ],
+    [
+      642,
+      58,
+      982,
+      471
+    ],
+    [
+      1161,
+      138,
+      1551,
+      481
+    ],
+    [
+      1838,
+      158,
+      2237,
+      473
+    ],
+    [
+      2350,
+      106,
+      2710,
+      465
+    ],
+    [
+      2918,
+      64,
+      3215,
+      486
+    ]
+  ],
+  "source_files": [
+    "work/art-runs/cafe/q/sources/lump-raw.png"
+  ],
+  "strict_contour_chroma_pixels_removed": 3497,
+  "source_row_registration": {
+    "gap_cut_y": 487,
+    "top_row_shift_y": 0,
+    "bottom_row_shift_y": 63,
+    "source_ground_baselines": [
+      486,
+      910
+    ],
+    "method": "Whole rows moved only; no per-character scaling or cropping"
+  },
+  "grounded_pose_y_adjustments": [
+    -1,
+    4,
+    0,
+    4,
+    7,
+    -1
+  ],
+  "shared_registration": "bundled fit_registered_component_groups; one scale for complete row; vertical displacement preserved"
+}

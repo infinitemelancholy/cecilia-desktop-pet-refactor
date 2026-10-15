@@ -1,0 +1,12 @@
+{
+  "status": "accepted",
+  "actualNativeContactReviewed": true,
+  "contact": "qa/native-contact.png",
+  "actualBundledReview": "review.json",
+  "poseOrder": "Right profile→front lowhands→arms spread→viewerLEFTarm raised. Frames00..09 eyesopen,10..11 closed smile. Raised arm remains up06..11.",
+  "wardrobe": "Travel raspberrycloak whitecollar bluebow plainnavyskirt simplewhitecuffs, darkstockings, uncoveredmint longhair; no classicveil.",
+  "edges": "Fullbody all12 separate at native192x208 on gray, no visible fringe. Low-alpha gap bridge removed with all alpha>=64 core pixels retained.",
+  "registration": "Actual bundled component extraction, one batch transform, whole-row baseline alignment; no individual pose resizing.",
+  "source": "exec-30145c5e-5938-4b96-b78b-4c43478e96e2.png",
+  "reviewedOn": "2026-10-10"
+}

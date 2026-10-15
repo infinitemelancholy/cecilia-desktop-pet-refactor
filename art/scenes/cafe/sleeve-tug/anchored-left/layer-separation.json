@@ -1,0 +1,71 @@
+{
+  "method": "Strict full alpha>0 connected-component separation; no erasing, cuts, repair or redraw",
+  "alpha_threshold": 0,
+  "large_component_bboxes": [
+    [
+      20,
+      2,
+      129,
+      200
+    ],
+    [
+      139,
+      21,
+      88,
+      181
+    ]
+  ],
+  "separable": true,
+  "cecilia_layer": "cecilia-00.png",
+  "lawrence_layer": "lawrence-00.png",
+  "layer_size": [
+    384,
+    208
+  ],
+  "whole_component_assignments": [
+    [
+      1,
+      4,
+      5,
+      6
+    ],
+    [
+      2,
+      3,
+      7
+    ]
+  ],
+  "recomposition_pixel_exact": true,
+  "layer_bboxes": [
+    [
+      20,
+      2,
+      149,
+      202
+    ],
+    [
+      139,
+      21,
+      227,
+      202
+    ]
+  ],
+  "entry_exit_recommendation": "Keep Cecilia layer at registered original coordinates; translate Lawrence layer only for entry/exit. Switch to intact anchored interaction frames after entry. No actor resize.",
+  "core_alpha16_components": [
+    [
+      22,
+      4,
+      125,
+      195,
+      14418
+    ],
+    [
+      140,
+      23,
+      86,
+      177,
+      9702
+    ]
+  ],
+  "visual_qa": "Anchored00 actors and03 sleeve contact reviewed at native size on black/white/gray. Cafe extracted full actor layers visually reviewed; no cut limbs or hair."
+}

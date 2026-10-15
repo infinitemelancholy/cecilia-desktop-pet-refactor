@@ -1,0 +1,10 @@
+{
+  "size": [1254, 1254],
+  "mode": "RGBA",
+  "alpha_extrema": [0, 255],
+  "transparent_fraction": 0.7338863324761083,
+  "visible_alpha_bbox_threshold_8": [381, 53, 889, 1230],
+  "identity": "Light blue short bob, blue eyes, dark side hair bows, white blouse, red neck bow and side ribbons, cream front panel with three blue diamond buttons, dark laced waist, navy scalloped skirt with pale blue trim, cream frilled hem and brown lace-up boots verified visually against the official reference.",
+  "composition": "One front-facing full body with relaxed arms, open eyes and a friendly smile. Full hair and both boots are inside canvas.",
+  "caveat": "Extremely faint alpha below 8 outside silhouette expands the nonzero-alpha bbox. Hair edge has a faint pale fringe in the generated original; inspect at the actual desktop scale when assembling the scene."
+}

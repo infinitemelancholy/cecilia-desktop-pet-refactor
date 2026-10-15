@@ -1,0 +1,49 @@
+{
+  "state": "jumping",
+  "verdict": "pass",
+  "reviewed_at_native_size": true,
+  "required_frames": 5,
+  "observed_frames": 5,
+  "identity": "Mint long hair, green eyes, raspberry shoulder cloak with collar/bow and navy skirt. No veil or added props.",
+  "semantics": "Grounded setup, crouch, airborne bent-knee joy, partial descent, grounded happy landing.",
+  "source_registration": "Bundled connected-pose extraction preserves shared scale and actual generated vertical displacement. Source amplitude reduced in ImageGen; no per-frame scale or program-drawn character.",
+  "native_bounds": [
+    [
+      20,
+      23,
+      171,
+      203
+    ],
+    [
+      25,
+      41,
+      166,
+      203
+    ],
+    [
+      16,
+      5,
+      175,
+      173
+    ],
+    [
+      21,
+      24,
+      170,
+      196
+    ],
+    [
+      22,
+      23,
+      169,
+      203
+    ]
+  ],
+  "foot_baseline": 203,
+  "maximum_foot_lift_px": 30,
+  "grounded_body_height_px": 180,
+  "idle_body_height_px": 197,
+  "grounded_body_height_ratio_to_idle": 0.9137055837563451,
+  "visual_note": "Small chibi pose proportion change across action remains visible; no extreme size change or clipping. Full standard contact inspected.",
+  "edge_cleanup": "Transparent-boundary cleanup only; deep interior changed 0."
+}

@@ -1,0 +1,155 @@
+{
+  "state": "travel-hop",
+  "expected_frames": 6,
+  "actual_frames": 6,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\hop\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 19264,
+      "bbox": [
+        17,
+        5,
+        175,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\hop\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 18999,
+      "bbox": [
+        10,
+        19,
+        181,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\hop\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 19222,
+      "bbox": [
+        10,
+        5,
+        182,
+        189
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\hop\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15090,
+      "bbox": [
+        26,
+        14,
+        165,
+        172
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\hop\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17136,
+      "bbox": [
+        18,
+        26,
+        174,
+        198
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\hop\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 18977,
+      "bbox": [
+        17,
+        12,
+        174,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ],
+  "source_bounds": [
+    [
+      72,
+      28,
+      451,
+      508
+    ],
+    [
+      552,
+      63,
+      961,
+      505
+    ],
+    [
+      1065,
+      28,
+      1481,
+      471
+    ],
+    [
+      1643,
+      53,
+      1974,
+      429
+    ],
+    [
+      2141,
+      81,
+      2515,
+      494
+    ],
+    [
+      2630,
+      47,
+      3007,
+      508
+    ]
+  ],
+  "source_files": [
+    "outputs/cecilia-qpet/art/outfits/travel/hop/source.png"
+  ],
+  "strict_contour_chroma_pixels_removed": 0,
+  "source_row_registration": {
+    "gap_cut_y": 523,
+    "top_row_shift_y": 0,
+    "bottom_row_shift_y": 32,
+    "source_ground_baselines": [
+      508,
+      999
+    ],
+    "method": "Whole rows moved only; no per-character scaling or cropping"
+  },
+  "grounded_pose_y_adjustments": [],
+  "shared_registration": "bundled fit_registered_component_groups; one scale for complete row; vertical displacement preserved"
+}

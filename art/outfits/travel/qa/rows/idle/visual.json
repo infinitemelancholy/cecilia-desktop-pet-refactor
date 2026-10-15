@@ -1,0 +1,10 @@
+{
+  "state": "idle",
+  "approved": true,
+  "reviewed_artifact": "native-contact.png",
+  "native_cell_size": [192, 208],
+  "frame_count": 6,
+  "evidence": "Eyes open, half close, gently close, reopen in coherent order; slight inhale and exhale, planted feet. Long hair, cloak and face retain stable identity, scale and registration. No clipping, overlap, loose effects or visible chroma contamination.",
+  "motion_preview": "../../../previews/idle.gif",
+  "structural_report": "review.json"
+}

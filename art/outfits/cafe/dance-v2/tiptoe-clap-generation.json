@@ -1,0 +1,22 @@
+{
+  "tool": "image_gen__imagegen (built-in)",
+  "version": 2,
+  "asset": "art/outfits/cafe/dance-v2/tiptoe-clap-keyposes.png",
+  "character": "cafe",
+  "animation": "tiptoe-clap",
+  "imagegen_session_id": "01a11fbb-4dec-71d3-b688-58f8910b9890",
+  "original_paths": [
+    "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11fbb-4dec-71d3-b688-58f8910b9890\\exec-6d626432-496e-4395-a2f2-3cfe7aac6938.png"
+  ],
+  "references": [
+    "references/current-pet.png",
+    "references/official/episode-06-01.png"
+  ],
+  "prompt_summary": "24 key poses in a 6x4 transparent sheet; keep Cecilia recognizable, preserve the specified official costume silhouette, stable head size and warm skin tone, small readable chibi movement, no stray marks or background.",
+  "processing": {
+    "method": "fixed-size cell extraction, transparent-edge cleanup, centered to 192x208, FFmpeg minterpolate to 144 frames at 24.4284 fps",
+    "runtime_frames": 144,
+    "runtime_fps": 24.4284
+  },
+  "sha256": "1fc5c4155beaa9a6d419620a9a278cb4be87b1c20400d243cd15ecef3c779775"
+}

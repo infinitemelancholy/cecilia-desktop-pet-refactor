@@ -1,0 +1,194 @@
+{
+  "state": "segment-05-final",
+  "expected_frames": 12,
+  "actual_frames": 12,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16728,
+      "bbox": [
+        20,
+        8,
+        171,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 18428,
+      "bbox": [
+        12,
+        7,
+        180,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 18324,
+      "bbox": [
+        17,
+        6,
+        174,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 19826,
+      "bbox": [
+        7,
+        6,
+        185,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 20365,
+      "bbox": [
+        7,
+        5,
+        185,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 19654,
+      "bbox": [
+        10,
+        6,
+        181,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 6,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\06.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 20360,
+      "bbox": [
+        8,
+        8,
+        183,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 7,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\07.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 20382,
+      "bbox": [
+        8,
+        9,
+        184,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 8,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\08.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 20923,
+      "bbox": [
+        7,
+        7,
+        185,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 9,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\09.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 20396,
+      "bbox": [
+        6,
+        11,
+        186,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 10,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\10.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 20953,
+      "bbox": [
+        5,
+        6,
+        187,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 11,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\11.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 20341,
+      "bbox": [
+        9,
+        9,
+        183,
+        203
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ],
+  "correction": "Frame10 was separately drawn by built-in ImageGen after two whole-sheet edits failed to retain the up-left hand. Entire generated frame fitted to the same192x208 cell and foot202; no face/limb program edits.",
+  "sourceFrames": "segment-05-v2 except10 from hand-inbetween/00.png",
+  "semanticReview": "Rightarm/viewerleft remains raised through06..11; parent inspected09->new10->11 at native size; no arm drop, matching head diameter and foot support."
+}

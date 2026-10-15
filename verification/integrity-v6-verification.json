@@ -1,0 +1,865 @@
+{
+  "javascriptTests": {
+    "passed": 58,
+    "failed": 0
+  },
+  "pythonTests": {
+    "passed": 54,
+    "failed": 0
+  },
+  "nativeRuntime": {
+    "passed": true,
+    "clips": [
+      {
+        "outfit": "classic",
+        "action": "op-turn",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 1.5449583800420545
+      },
+      {
+        "outfit": "classic",
+        "action": "small-sway",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 1.4716003865927383
+      },
+      {
+        "outfit": "classic",
+        "action": "tiptoe-clap",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 1.8881462976821435
+      },
+      {
+        "outfit": "classic",
+        "action": "idle",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 2.5074181546968735
+      },
+      {
+        "outfit": "classic",
+        "action": "failed",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 1.0927994189064956
+      },
+      {
+        "outfit": "classic",
+        "action": "waiting",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 1.7184051491757693
+      },
+      {
+        "outfit": "classic",
+        "action": "running",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 2.3017203041154684
+      },
+      {
+        "outfit": "classic",
+        "action": "review",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.9425564024496894
+      },
+      {
+        "outfit": "classic",
+        "action": "bean",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 2.67486318335366
+      },
+      {
+        "outfit": "classic",
+        "action": "pout",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 2.847446351355874
+      },
+      {
+        "outfit": "classic",
+        "action": "shy",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 2.209255900221336
+      },
+      {
+        "outfit": "classic",
+        "action": "hop",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.39436452341082223
+      },
+      {
+        "outfit": "classic",
+        "action": "sleepy",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 1.3117208301951024
+      },
+      {
+        "outfit": "classic",
+        "action": "lie",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.4773999186892715
+      },
+      {
+        "outfit": "classic",
+        "action": "lump",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.48983245562072036
+      },
+      {
+        "outfit": "classic",
+        "action": "showcase",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.552260192928996
+      },
+      {
+        "outfit": "classic",
+        "action": "lawrence-care",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.8617956072877735
+      },
+      {
+        "outfit": "classic",
+        "action": "hazelita-chat",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 1.3127794376738635
+      },
+      {
+        "outfit": "classic",
+        "action": "hazelita-showcase",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 1.0968937947900603
+      },
+      {
+        "outfit": "classic",
+        "action": "lawrence-sleeve",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 2.8004622627361084
+      },
+      {
+        "outfit": "travel",
+        "action": "op-turn",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.4922886285428731
+      },
+      {
+        "outfit": "travel",
+        "action": "small-sway",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.7773483791993621
+      },
+      {
+        "outfit": "travel",
+        "action": "tiptoe-clap",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.7048915837020128
+      },
+      {
+        "outfit": "travel",
+        "action": "idle",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 2.2603410670236657
+      },
+      {
+        "outfit": "travel",
+        "action": "failed",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.8793049197182832
+      },
+      {
+        "outfit": "travel",
+        "action": "waiting",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 1.1125359904274346
+      },
+      {
+        "outfit": "travel",
+        "action": "running",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 1.7457798653788994
+      },
+      {
+        "outfit": "travel",
+        "action": "review",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 1.033497781277602
+      },
+      {
+        "outfit": "travel",
+        "action": "bean",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 2.5594537137611497
+      },
+      {
+        "outfit": "travel",
+        "action": "pout",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 2.049606730869693
+      },
+      {
+        "outfit": "travel",
+        "action": "shy",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 2.3303249153900105
+      },
+      {
+        "outfit": "travel",
+        "action": "hop",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.3964396417980153
+      },
+      {
+        "outfit": "travel",
+        "action": "sleepy",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 2.19899504483087
+      },
+      {
+        "outfit": "travel",
+        "action": "lie",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.5221366871165009
+      },
+      {
+        "outfit": "travel",
+        "action": "lump",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.5006258504592425
+      },
+      {
+        "outfit": "travel",
+        "action": "showcase",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.44817335353209353
+      },
+      {
+        "outfit": "travel",
+        "action": "lawrence-care",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.8632615226419833
+      },
+      {
+        "outfit": "travel",
+        "action": "hazelita-chat",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 1.2979184257623215
+      },
+      {
+        "outfit": "travel",
+        "action": "hazelita-showcase",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 1.0227432326699541
+      },
+      {
+        "outfit": "travel",
+        "action": "lawrence-sleeve",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 2.4686140455792955
+      },
+      {
+        "outfit": "cafe",
+        "action": "op-turn",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.31846655015643544
+      },
+      {
+        "outfit": "cafe",
+        "action": "small-sway",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.691269820358186
+      },
+      {
+        "outfit": "cafe",
+        "action": "tiptoe-clap",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.5769548862628514
+      },
+      {
+        "outfit": "cafe",
+        "action": "idle",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 2.8580261120985155
+      },
+      {
+        "outfit": "cafe",
+        "action": "failed",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 1.0065179725110547
+      },
+      {
+        "outfit": "cafe",
+        "action": "waiting",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 2.125665696428107
+      },
+      {
+        "outfit": "cafe",
+        "action": "running",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.8934114231839306
+      },
+      {
+        "outfit": "cafe",
+        "action": "review",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 1.357467420412572
+      },
+      {
+        "outfit": "cafe",
+        "action": "bean",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 1.8558221830639858
+      },
+      {
+        "outfit": "cafe",
+        "action": "pout",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 2.22342785141689
+      },
+      {
+        "outfit": "cafe",
+        "action": "shy",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 1.0889576365736615
+      },
+      {
+        "outfit": "cafe",
+        "action": "hop",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.32961858070952155
+      },
+      {
+        "outfit": "cafe",
+        "action": "sleepy",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.9583693112417428
+      },
+      {
+        "outfit": "cafe",
+        "action": "lie",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.457015898443502
+      },
+      {
+        "outfit": "cafe",
+        "action": "lump",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.4594205474502691
+      },
+      {
+        "outfit": "cafe",
+        "action": "showcase",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.3403955525885732
+      },
+      {
+        "outfit": "cafe",
+        "action": "lawrence-care",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.846890249988959
+      },
+      {
+        "outfit": "cafe",
+        "action": "hazelita-chat",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 1.2087371708279553
+      },
+      {
+        "outfit": "cafe",
+        "action": "hazelita-showcase",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 0.9222622679738564
+      },
+      {
+        "outfit": "cafe",
+        "action": "lawrence-sleeve",
+        "ready": true,
+        "framesAdvanced": true,
+        "playbackRate": 2.818566803795662
+      }
+    ],
+    "edges": [
+      {
+        "outfit": "classic",
+        "action": "lawrence-care",
+        "edge": "right",
+        "rect": {
+          "left": 508,
+          "right": 956,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      },
+      {
+        "outfit": "classic",
+        "action": "lawrence-care",
+        "edge": "left",
+        "rect": {
+          "left": 0,
+          "right": 448,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      },
+      {
+        "outfit": "classic",
+        "action": "hazelita-chat",
+        "edge": "right",
+        "rect": {
+          "left": 508,
+          "right": 956,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      },
+      {
+        "outfit": "classic",
+        "action": "hazelita-chat",
+        "edge": "left",
+        "rect": {
+          "left": 0,
+          "right": 448,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      },
+      {
+        "outfit": "classic",
+        "action": "hazelita-showcase",
+        "edge": "right",
+        "rect": {
+          "left": 508,
+          "right": 956,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      },
+      {
+        "outfit": "classic",
+        "action": "hazelita-showcase",
+        "edge": "left",
+        "rect": {
+          "left": 0,
+          "right": 448,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      },
+      {
+        "outfit": "classic",
+        "action": "lawrence-sleeve",
+        "edge": "right",
+        "rect": {
+          "left": 508,
+          "right": 956,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      },
+      {
+        "outfit": "classic",
+        "action": "lawrence-sleeve",
+        "edge": "left",
+        "rect": {
+          "left": 0,
+          "right": 448,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      },
+      {
+        "outfit": "travel",
+        "action": "lawrence-care",
+        "edge": "right",
+        "rect": {
+          "left": 508,
+          "right": 956,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      },
+      {
+        "outfit": "travel",
+        "action": "lawrence-care",
+        "edge": "left",
+        "rect": {
+          "left": 0,
+          "right": 448,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      },
+      {
+        "outfit": "travel",
+        "action": "hazelita-chat",
+        "edge": "right",
+        "rect": {
+          "left": 508,
+          "right": 956,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      },
+      {
+        "outfit": "travel",
+        "action": "hazelita-chat",
+        "edge": "left",
+        "rect": {
+          "left": 0,
+          "right": 448,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      },
+      {
+        "outfit": "travel",
+        "action": "hazelita-showcase",
+        "edge": "right",
+        "rect": {
+          "left": 508,
+          "right": 956,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      },
+      {
+        "outfit": "travel",
+        "action": "hazelita-showcase",
+        "edge": "left",
+        "rect": {
+          "left": 0,
+          "right": 448,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      },
+      {
+        "outfit": "travel",
+        "action": "lawrence-sleeve",
+        "edge": "right",
+        "rect": {
+          "left": 508,
+          "right": 956,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      },
+      {
+        "outfit": "travel",
+        "action": "lawrence-sleeve",
+        "edge": "left",
+        "rect": {
+          "left": 0,
+          "right": 448,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      },
+      {
+        "outfit": "cafe",
+        "action": "lawrence-care",
+        "edge": "right",
+        "rect": {
+          "left": 508,
+          "right": 956,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      },
+      {
+        "outfit": "cafe",
+        "action": "lawrence-care",
+        "edge": "left",
+        "rect": {
+          "left": 0,
+          "right": 448,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      },
+      {
+        "outfit": "cafe",
+        "action": "hazelita-chat",
+        "edge": "right",
+        "rect": {
+          "left": 508,
+          "right": 956,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      },
+      {
+        "outfit": "cafe",
+        "action": "hazelita-chat",
+        "edge": "left",
+        "rect": {
+          "left": 0,
+          "right": 448,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      },
+      {
+        "outfit": "cafe",
+        "action": "hazelita-showcase",
+        "edge": "right",
+        "rect": {
+          "left": 508,
+          "right": 956,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      },
+      {
+        "outfit": "cafe",
+        "action": "hazelita-showcase",
+        "edge": "left",
+        "rect": {
+          "left": 0,
+          "right": 448,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      },
+      {
+        "outfit": "cafe",
+        "action": "lawrence-sleeve",
+        "edge": "right",
+        "rect": {
+          "left": 508,
+          "right": 956,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      },
+      {
+        "outfit": "cafe",
+        "action": "lawrence-sleeve",
+        "edge": "left",
+        "rect": {
+          "left": 0,
+          "right": 448,
+          "top": 715,
+          "bottom": 957.640625
+        },
+        "passed": true
+      }
+    ],
+    "dragOutfits": [
+      {
+        "outfit": "classic",
+        "direction": "walking-left",
+        "nativeAtlasSha256": "3f4316ea256198c940263356f466cb447e14ad382730c1a0542a8efb011e7839",
+        "passed": true
+      },
+      {
+        "outfit": "classic",
+        "direction": "walking-right",
+        "nativeAtlasSha256": "3f4316ea256198c940263356f466cb447e14ad382730c1a0542a8efb011e7839",
+        "passed": true
+      },
+      {
+        "outfit": "travel",
+        "direction": "walking-left",
+        "nativeAtlasSha256": "86c9f14b1604daf30c7af18c603688873aa5d7a6ef2f273999bb5efbdf12c9de",
+        "passed": true
+      },
+      {
+        "outfit": "travel",
+        "direction": "walking-right",
+        "nativeAtlasSha256": "86c9f14b1604daf30c7af18c603688873aa5d7a6ef2f273999bb5efbdf12c9de",
+        "passed": true
+      },
+      {
+        "outfit": "cafe",
+        "direction": "walking-left",
+        "nativeAtlasSha256": "72f81f9edbe8038225f30668de96262bac447921fee661cf851946cbd358436a",
+        "passed": true
+      },
+      {
+        "outfit": "cafe",
+        "direction": "walking-right",
+        "nativeAtlasSha256": "72f81f9edbe8038225f30668de96262bac447921fee661cf851946cbd358436a",
+        "passed": true
+      }
+    ],
+    "persistedLongDance": {
+      "passed": true,
+      "timingRevision": 5,
+      "phaseElapsed": 25000
+    },
+    "persistenceRetry": "Initial read overlapped the Windows checkpoint replacement; the repeated persistence read succeeded."
+  },
+  "nativePixels": {
+    "passed": true,
+    "samples": [
+      {
+        "outfit": "classic",
+        "action": "op-turn",
+        "frame": 429,
+        "ghostPixelsOutsideCurrentPose": 0,
+        "missingInteriorPixels": 0,
+        "passed": true
+      },
+      {
+        "outfit": "cafe",
+        "action": "small-sway",
+        "frame": 110,
+        "ghostPixelsOutsideCurrentPose": 0,
+        "missingInteriorPixels": 0,
+        "passed": true
+      },
+      {
+        "outfit": "classic",
+        "action": "lawrence-sleeve",
+        "frame": 220,
+        "ghostPixelsOutsideCurrentPose": 0,
+        "missingInteriorPixels": 0,
+        "passed": true
+      },
+      {
+        "outfit": "travel",
+        "action": "op-turn",
+        "frame": 277,
+        "ghostPixelsOutsideCurrentPose": 0,
+        "missingInteriorPixels": 0,
+        "passed": true
+      },
+      {
+        "outfit": "cafe",
+        "action": "lawrence-care",
+        "frame": 280,
+        "ghostPixelsOutsideCurrentPose": 0,
+        "missingInteriorPixels": 0,
+        "passed": true
+      }
+    ]
+  },
+  "assets": {
+    "passed": true,
+    "dances": {
+      "classic/op-turn": {
+        "renderedFrames": 540,
+        "distinctRasterFrames": 540,
+        "limitation": "Raster uniqueness does not prove smooth limb motion; inspect the normal-size animation."
+      },
+      "classic/small-sway": {
+        "renderedFrames": 420,
+        "distinctRasterFrames": 420,
+        "limitation": "Raster uniqueness does not prove smooth limb motion; inspect the normal-size animation."
+      },
+      "classic/tiptoe-clap": {
+        "renderedFrames": 252,
+        "distinctRasterFrames": 252,
+        "limitation": "Raster uniqueness does not prove smooth limb motion; inspect the normal-size animation."
+      },
+      "travel/op-turn": {
+        "renderedFrames": 540,
+        "distinctRasterFrames": 540,
+        "limitation": "Raster uniqueness does not prove smooth limb motion; inspect the normal-size animation."
+      },
+      "travel/small-sway": {
+        "renderedFrames": 420,
+        "distinctRasterFrames": 420,
+        "limitation": "Raster uniqueness does not prove smooth limb motion; inspect the normal-size animation."
+      },
+      "travel/tiptoe-clap": {
+        "renderedFrames": 252,
+        "distinctRasterFrames": 252,
+        "limitation": "Raster uniqueness does not prove smooth limb motion; inspect the normal-size animation."
+      },
+      "cafe/op-turn": {
+        "renderedFrames": 540,
+        "distinctRasterFrames": 540,
+        "limitation": "Raster uniqueness does not prove smooth limb motion; inspect the normal-size animation."
+      },
+      "cafe/small-sway": {
+        "renderedFrames": 420,
+        "distinctRasterFrames": 420,
+        "limitation": "Raster uniqueness does not prove smooth limb motion; inspect the normal-size animation."
+      },
+      "cafe/tiptoe-clap": {
+        "renderedFrames": 252,
+        "distinctRasterFrames": 252,
+        "limitation": "Raster uniqueness does not prove smooth limb motion; inspect the normal-size animation."
+      }
+    },
+    "actionCount": 60
+  }
+}

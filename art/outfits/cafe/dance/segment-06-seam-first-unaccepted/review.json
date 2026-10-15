@@ -1,0 +1,196 @@
+{
+  "state": "segment-06-seam-first-unaccepted",
+  "expected_frames": 12,
+  "actual_frames": 12,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-06-seam-first-unaccepted\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16499,
+      "bbox": [
+        7,
+        13,
+        185,
+        199
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-06-seam-first-unaccepted\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16840,
+      "bbox": [
+        5,
+        12,
+        186,
+        199
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-06-seam-first-unaccepted\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16898,
+      "bbox": [
+        5,
+        11,
+        186,
+        199
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-06-seam-first-unaccepted\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16811,
+      "bbox": [
+        7,
+        11,
+        185,
+        199
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-06-seam-first-unaccepted\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16911,
+      "bbox": [
+        7,
+        10,
+        185,
+        199
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-06-seam-first-unaccepted\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16957,
+      "bbox": [
+        8,
+        9,
+        184,
+        199
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 6,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-06-seam-first-unaccepted\\06.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16683,
+      "bbox": [
+        5,
+        12,
+        187,
+        199
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 7,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-06-seam-first-unaccepted\\07.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16517,
+      "bbox": [
+        7,
+        13,
+        185,
+        199
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 8,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-06-seam-first-unaccepted\\08.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16948,
+      "bbox": [
+        5,
+        12,
+        186,
+        199
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 9,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-06-seam-first-unaccepted\\09.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16556,
+      "bbox": [
+        5,
+        13,
+        187,
+        199
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 10,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-06-seam-first-unaccepted\\10.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16534,
+      "bbox": [
+        7,
+        13,
+        185,
+        199
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 11,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-06-seam-first-unaccepted\\11.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16614,
+      "bbox": [
+        6,
+        13,
+        186,
+        199
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ],
+  "source": "work\\art-runs\\cafe\\dance\\sources\\segment-06-seam-first-raw.png",
+  "cutY": 370,
+  "rowBaselineOffset": 359,
+  "sharedRegistration": "Bundled component extraction, one shared transform for all12; whole source rows aligned by median shoe baseline.",
+  "neonEdgePixelsRemoved": 717
+}

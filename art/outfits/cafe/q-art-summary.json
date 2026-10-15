@@ -1,0 +1,73 @@
+{
+  "outfit": "cafe",
+  "completedFrames": 42,
+  "allActualFrameReviewsPass": true,
+  "rows": [
+    {
+      "clip": "bean",
+      "frames": 6,
+      "ok": true,
+      "warnings": [],
+      "preview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\bean\\preview.gif",
+      "accepted": true
+    },
+    {
+      "clip": "pout",
+      "frames": 6,
+      "ok": true,
+      "warnings": [],
+      "preview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\pout\\preview.gif",
+      "accepted": true
+    },
+    {
+      "clip": "shy",
+      "frames": 6,
+      "ok": true,
+      "warnings": [],
+      "preview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\shy\\preview.gif",
+      "accepted": true
+    },
+    {
+      "clip": "hop",
+      "frames": 6,
+      "ok": true,
+      "warnings": [],
+      "preview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\hop\\preview.gif",
+      "accepted": true
+    },
+    {
+      "clip": "sleepy",
+      "frames": 6,
+      "ok": true,
+      "warnings": [],
+      "preview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\sleepy\\preview.gif",
+      "accepted": true
+    },
+    {
+      "clip": "lie",
+      "frames": 6,
+      "ok": true,
+      "warnings": [],
+      "preview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\lie-compact\\preview.gif",
+      "accepted": true,
+      "folder": "lie-compact",
+      "uniqueGeneratedPoses": 5,
+      "neutralClosure": "00 reused at05 by explicit parent authorization."
+    },
+    {
+      "clip": "lump",
+      "frames": 6,
+      "ok": true,
+      "warnings": [
+        "Generated recovery-standing stature is slightly shorter than first standing pose; shared family extraction uses one uniform scale. Preserve this as a visual continuity warning for parent review."
+      ],
+      "preview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\lump\\preview.gif",
+      "accepted": true
+    }
+  ],
+  "approvedFrames": 42,
+  "unacceptedFrames": 6,
+  "outstanding": null,
+  "unacceptedArchive": "lie/unaccepted-wide-fit",
+  "note": "The accepted lie action is lie-compact; earlier wide prone family remains archived unaccepted."
+}

@@ -1,0 +1,115 @@
+{
+  "newlyDrawnReplacementFrames": 36,
+  "allActualFrameReviewsPass": true,
+  "preferredDirectories": [
+    "segment-06-seam",
+    "return-01-seam",
+    "return-02-seam"
+  ],
+  "historicalDirectoriesPreserved": true,
+  "parentJointReviewPending": true,
+  "rows": [
+    {
+      "clip": "segment-06-seam",
+      "frames": 12,
+      "ok": true,
+      "warnings": [],
+      "heights": [
+        197,
+        197,
+        197,
+        197,
+        197,
+        197,
+        195,
+        195,
+        195,
+        195,
+        195,
+        194
+      ],
+      "firstBbox": [
+        12,
+        6,
+        178,
+        203
+      ],
+      "lastBbox": [
+        13,
+        8,
+        178,
+        202
+      ],
+      "sourceEdgeContacts": 0,
+      "preview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-06-seam\\preview.mp4"
+    },
+    {
+      "clip": "return-01-seam",
+      "frames": 12,
+      "ok": true,
+      "warnings": [],
+      "heights": [
+        198,
+        198,
+        197,
+        197,
+        196,
+        196,
+        198,
+        198,
+        197,
+        197,
+        198,
+        197
+      ],
+      "firstBbox": [
+        13,
+        5,
+        178,
+        203
+      ],
+      "lastBbox": [
+        16,
+        6,
+        174,
+        203
+      ],
+      "sourceEdgeContacts": 0,
+      "preview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-01-seam\\preview.mp4"
+    },
+    {
+      "clip": "return-02-seam",
+      "frames": 12,
+      "ok": true,
+      "warnings": [],
+      "heights": [
+        198,
+        198,
+        198,
+        197,
+        197,
+        198,
+        198,
+        198,
+        197,
+        198,
+        198,
+        198
+      ],
+      "firstBbox": [
+        22,
+        5,
+        170,
+        203
+      ],
+      "lastBbox": [
+        24,
+        5,
+        168,
+        203
+      ],
+      "sourceEdgeContacts": 0,
+      "preview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-02-seam\\preview.mp4"
+    }
+  ]
+}

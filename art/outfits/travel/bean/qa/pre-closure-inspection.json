@@ -1,0 +1,162 @@
+{
+  "state": "travel-bean",
+  "expected_frames": 6,
+  "actual_frames": 6,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\bean\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17671,
+      "bbox": [
+        18,
+        4,
+        174,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\bean\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17586,
+      "bbox": [
+        18,
+        5,
+        173,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\bean\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17587,
+      "bbox": [
+        18,
+        6,
+        174,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\bean\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 18180,
+      "bbox": [
+        17,
+        4,
+        175,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\bean\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17778,
+      "bbox": [
+        18,
+        4,
+        173,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\bean\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17929,
+      "bbox": [
+        17,
+        4,
+        174,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ],
+  "source_bounds": [
+    [
+      104,
+      20,
+      487,
+      511
+    ],
+    [
+      578,
+      22,
+      958,
+      511
+    ],
+    [
+      1054,
+      24,
+      1436,
+      511
+    ],
+    [
+      1637,
+      18,
+      2028,
+      511
+    ],
+    [
+      2118,
+      18,
+      2497,
+      511
+    ],
+    [
+      2593,
+      18,
+      2977,
+      511
+    ]
+  ],
+  "source_files": [
+    "work/art-runs/travel-q-cafe-worker/sources/bean-raw.png"
+  ],
+  "strict_contour_chroma_pixels_removed": 0,
+  "source_row_registration": {
+    "gap_cut_y": 516,
+    "top_row_shift_y": 0,
+    "bottom_row_shift_y": 13,
+    "source_ground_baselines": [
+      511,
+      1014
+    ],
+    "method": "Whole rows moved only; no per-character scaling or cropping"
+  },
+  "grounded_pose_y_adjustments": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "shared_registration": "bundled fit_registered_component_groups; one scale for complete row; vertical displacement preserved"
+}

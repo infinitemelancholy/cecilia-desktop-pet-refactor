@@ -1,0 +1,120 @@
+{
+  "outfits": [
+    {
+      "outfit": "classic",
+      "frames": 6,
+      "frame_size": [
+        384,
+        208
+      ],
+      "ok": true,
+      "warnings": [],
+      "minimum_cecilia_height_px_estimate": 192.18,
+      "preview": "outputs\\cecilia-qpet\\art\\scenes\\classic\\sleeve-tug\\preview-448x243.gif",
+      "anchors": [
+        {
+          "index": 0,
+          "cecilia_blue_shoe_center_x_px": 161.6
+        },
+        {
+          "index": 1,
+          "cecilia_blue_shoe_center_x_px": 157.43
+        },
+        {
+          "index": 2,
+          "cecilia_blue_shoe_center_x_px": 162.01
+        },
+        {
+          "index": 3,
+          "cecilia_blue_shoe_center_x_px": 158.99
+        },
+        {
+          "index": 4,
+          "cecilia_blue_shoe_center_x_px": 162.63
+        },
+        {
+          "index": 5,
+          "cecilia_blue_shoe_center_x_px": 160.07
+        }
+      ]
+    },
+    {
+      "outfit": "travel",
+      "frames": 6,
+      "frame_size": [
+        384,
+        208
+      ],
+      "ok": true,
+      "warnings": [],
+      "minimum_cecilia_height_px_estimate": 192.18,
+      "preview": "outputs\\cecilia-qpet\\art\\scenes\\travel\\sleeve-tug\\preview-448x243.gif",
+      "anchors": [
+        {
+          "index": 0,
+          "cecilia_blue_shoe_center_x_px": 162.69
+        },
+        {
+          "index": 1,
+          "cecilia_blue_shoe_center_x_px": 158.14
+        },
+        {
+          "index": 2,
+          "cecilia_blue_shoe_center_x_px": 161.52
+        },
+        {
+          "index": 3,
+          "cecilia_blue_shoe_center_x_px": 160.35
+        },
+        {
+          "index": 4,
+          "cecilia_blue_shoe_center_x_px": 159.75
+        },
+        {
+          "index": 5,
+          "cecilia_blue_shoe_center_x_px": 159.49
+        }
+      ]
+    },
+    {
+      "outfit": "cafe",
+      "frames": 6,
+      "frame_size": [
+        384,
+        208
+      ],
+      "ok": true,
+      "warnings": [],
+      "minimum_cecilia_height_px_estimate": 190.95,
+      "preview": "outputs\\cecilia-qpet\\art\\scenes\\cafe\\sleeve-tug\\preview-448x243.gif",
+      "anchors": [
+        {
+          "index": 0,
+          "cecilia_blue_shoe_center_x_px": 162.61
+        },
+        {
+          "index": 1,
+          "cecilia_blue_shoe_center_x_px": 160.14
+        },
+        {
+          "index": 2,
+          "cecilia_blue_shoe_center_x_px": 164.28
+        },
+        {
+          "index": 3,
+          "cecilia_blue_shoe_center_x_px": 163.44
+        },
+        {
+          "index": 4,
+          "cecilia_blue_shoe_center_x_px": 165.27
+        },
+        {
+          "index": 5,
+          "cecilia_blue_shoe_center_x_px": 163.38
+        }
+      ]
+    }
+  ],
+  "total_independently_generated_paired_poses": 18,
+  "status": "Visual work accepted. Main runtime untouched."
+}

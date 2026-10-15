@@ -1,0 +1,60 @@
+{
+  "originalImageGenPath": "C:/Users/Jiang Haoyu/.codex/generated_images/01a11ff4-a8df-76e2-a6e5-5394410b188c/exec-38a96ebf-ac83-4e3c-ba55-6dc0a028d95d.png",
+  "sourceArchive": "<本机路径已省略>\\xia\\work\\art-runs\\cafe\\q\\sources\\lie-compact-raw.png",
+  "prompt": "<本机路径已省略>\\xia\\work\\art-runs\\cafe\\prompts\\q-lie-compact.txt",
+  "transparentBackground": true,
+  "poseReference": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\lie-compact\\source.png",
+  "costumeSource": "<本机路径已省略>\\xia\\work\\references\\official\\episode-06-01.png",
+  "actualFrames": 6,
+  "uniqueDeliveredPoses": 5,
+  "accepted": true,
+  "inspectionPassed": true,
+  "bundledFrameInspection": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\lie-compact\\review.json",
+  "motionPreview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\lie-compact\\preview.gif",
+  "finalCellBboxes": [
+    [
+      30,
+      4,
+      162,
+      202
+    ],
+    [
+      24,
+      48,
+      168,
+      202
+    ],
+    [
+      13,
+      97,
+      180,
+      202
+    ],
+    [
+      12,
+      103,
+      180,
+      202
+    ],
+    [
+      22,
+      57,
+      169,
+      202
+    ],
+    [
+      30,
+      4,
+      162,
+      202
+    ]
+  ],
+  "durationMs": 250,
+  "registration": "One bundled family scale, no individual resizing. Full frames translated to floor202.",
+  "neutralLoopClosure": {
+    "enabled": true,
+    "method": "Full generated neutral frame 00 reused at final frame 05; explicitly authorized. No character redraw, no per-frame scaling.",
+    "uniqueDeliveredPoses": 5
+  },
+  "visualReview": "Complete chibi Cecilia, full hair/clothing/feet preserved, intended expression and posture progression visually inspected at native size."
+}

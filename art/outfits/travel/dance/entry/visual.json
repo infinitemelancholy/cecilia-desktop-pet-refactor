@@ -1,0 +1,12 @@
+{
+  "status": "accepted",
+  "actualNativeContactReviewed": true,
+  "contact": "qa/native-contact.png",
+  "actualBundledReview": "review.json",
+  "poseOrder": "Neutral armsdown→low joinedhands→weightshift/headtilt; sourceblink atlast pose. Twelve distinct authored frames.",
+  "wardrobe": "Travel raspberry cloak, whitecollar bluebow plainnavyskirt whitecuffs darkstockings uncoveredmint longhair.",
+  "edges": "Completefigures native192x208 no visible fringe; all alpha>=64 core preserved in weak gap cleanup.",
+  "registration": "Actual bundled sharedfit, onefamily transform; noindividual resizing.",
+  "staging": "Entry is new staging preceding OP choreography, not claimed original OP poses.",
+  "reviewedOn": "2026-10-10"
+}

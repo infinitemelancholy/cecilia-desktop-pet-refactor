@@ -1,0 +1,10 @@
+{
+  "tool": "image_gen__imagegen (built-in)",
+  "original_path": "C:/Users/Jiang Haoyu/.codex/generated_images/01a11ff4-d8b2-7091-a034-1733e570287b/exec-fbbf1d30-14e1-4df3-bd7c-0bf69d5a754a.png",
+  "output": "canonical.png",
+  "references": [
+    "work/references/cecilia-canonical.png",
+    "work/references/lawrence-official.png"
+  ],
+  "prompt": "Use case: style-transfer.\nAsset type: canonical transparent character sprite for Cecilia's desktop pet, one single actor.\nTransform Lawrence from input image 2 into a detailed anime chibi matching the precise established desktop pet art style of Cecilia in input image 1.\nInput image 1 is STYLE AND PROPORTION ONLY: emulate its large head, tiny body, refined soft thin outlines, subtle anime cel shading, delicate facial details, small expressive hands and shoes. Do not include Cecilia in the output. Input image 2 is Lawrence IDENTITY AND OFFICIAL COSTUME: short tousled warm brown hair with slight forelock, brown eyes, gentle warm smile, tall stand collar, long dark near-black navy pastor cassock to ankles with central front seam, long sleeves, slim gold necklace and gold cross on chest, black socks and black shoes. Preserve these recognizable official details.\nDraw only Lawrence as a complete front-facing full-body anime chibi in a relaxed neutral standing pose, both arms resting naturally by sides, both feet and hair fully visible. About 2.4 heads high, matching Cecilia's large-head small-body proportions, slight extra height suitable for later side-by-side scenes. Face looks kindly directly at viewer, eyes open, no blush.\nComposition: centered single character on a square canvas with safe transparent margins around hair, sleeves, hem, and shoes. His full figure occupies roughly 85% of canvas height. Actual transparent background with clean anti-aliased alpha silhouette edges.\nNo text, labels, borders, scenery, other characters, props, magical aura, floating decorations, ground plane or cast shadow outside his silhouette. No portrait crop, no realistic tall anime proportion, no 3D or pixel art. Maintain the sprite's readable details at desktop pet size."
+}

@@ -1,0 +1,92 @@
+{
+  "source": "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-a8df-76e2-a6e5-5394410b188c\\exec-0ca83a43-4902-46df-aa8a-8e6f2a7722d3.png",
+  "sourceArchive": "work/art-runs/cafe/dance/sources/return-01-raw.png",
+  "prompt": "work/art-runs/cafe/prompts/dance-return-01.txt",
+  "reference": "classic/dance/return-01",
+  "poseEvidence": "New desktop exit staging, not claimed OP footage",
+  "durationMs": 41.70833,
+  "visualReview": "Viewerleftarm lowers gradually fromdiagonalup-left toshoulderhorizontal, supportingfeet settle andlean softens; eyes remainopen.",
+  "actualFrames": 12,
+  "transparentBackground": true,
+  "actualInspectionPassed": true,
+  "bundledReview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-01\\review.json",
+  "finalCellBboxes": [
+    [
+      14,
+      5,
+      178,
+      201
+    ],
+    [
+      14,
+      5,
+      178,
+      203
+    ],
+    [
+      13,
+      6,
+      179,
+      203
+    ],
+    [
+      11,
+      6,
+      181,
+      203
+    ],
+    [
+      9,
+      6,
+      183,
+      203
+    ],
+    [
+      7,
+      7,
+      184,
+      203
+    ],
+    [
+      7,
+      8,
+      185,
+      203
+    ],
+    [
+      6,
+      8,
+      186,
+      203
+    ],
+    [
+      5,
+      8,
+      187,
+      203
+    ],
+    [
+      5,
+      8,
+      187,
+      203
+    ],
+    [
+      5,
+      8,
+      187,
+      203
+    ],
+    [
+      5,
+      8,
+      187,
+      203
+    ]
+  ],
+  "sourceFile": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-01\\qa\\source-raw.png",
+  "promptFile": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-01\\qa\\prompt.txt",
+  "fps": 23.976025892189885,
+  "singleSegmentPreview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-01\\preview.mp4",
+  "finalBatchRegistration": "Pending parent combined registration and joint continuity review; preserve source-flat pixels for that step."
+}

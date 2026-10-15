@@ -1,0 +1,42 @@
+{
+  "algorithm": "edge-local-chroma-spill-suppression",
+  "strength": 1,
+  "edge_radius": 3,
+  "spill_tolerance": 0.15,
+  "minimum_saturation": 0.1,
+  "changed_pixels": 15782,
+  "decontaminated_pixels": 15782,
+  "spill_suppressed_pixels": 15782,
+  "rejected_pixels": 0,
+  "changed_by_cell": {
+    "r1c2": 1803,
+    "r0c3": 1602,
+    "r0c4": 1365,
+    "r1c4": 1307,
+    "r5c3": 1300,
+    "r2c2": 1219,
+    "r3c2": 1073,
+    "r4c2": 1030,
+    "r2c3": 987,
+    "r4c4": 877,
+    "r5c2": 784,
+    "r0c2": 736,
+    "r3c4": 548,
+    "r3c3": 417,
+    "r2c4": 409,
+    "r5c4": 262,
+    "r4c3": 48,
+    "r1c1": 15
+  },
+  "alpha_preserved": true,
+  "source": "canonical.png",
+  "output": "canonical-clean.png",
+  "main_source_bounds": [
+    378,
+    31,
+    866,
+    1227
+  ],
+  "contour_chroma_removed_pixels": 0,
+  "processing": "Bundled connected character pixels; strict contour chroma cleanup; one bundled despill. No character drawing, warping or resizing."
+}

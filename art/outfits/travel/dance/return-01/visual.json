@@ -1,0 +1,13 @@
+{
+  "status": "accepted",
+  "actualNativeContactReviewed": true,
+  "contact": "qa/native-contact.png",
+  "actualBundledReview": "review.json",
+  "poseOrder": "Travel06 same crossedlegs with BACKshoe screenLEFT higher and FRONTshoe screenRIGHT lower, then graduallyunfold toparallelground; viewerLEFTarm gradually lowers overhead→shoulderhorizontal. No mirroredkick phase change.",
+  "wardrobe": "Travelraspberryhooddowncloak WHITEcollar BLUEbow whitecuffs/plainnavyskirt/darkstockings, uncoveredmintlonghair no classicveil.",
+  "edges": "Full12completefigures native192x208 no visible fringe, onefamilyfit and onlylowalpha bridge cleanup; alpha>=64core unchanged.",
+  "registration": "Actual bundled commonbatchfit and rowbaseline alignment, no perpose scale. Final parentruntime will apply wholeframeintegerY to202.",
+  "source": "exec-cda1987a-0c6c-480d-8021-07479f98d638.png",
+  "staging": "New returnstaging, not claimed original OP. Finalfootphase follows travel05/06 existingpixels where OPlegs obscured.",
+  "reviewedOn": "2026-10-10"
+}

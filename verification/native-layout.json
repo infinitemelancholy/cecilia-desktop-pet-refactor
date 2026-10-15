@@ -1,0 +1,29 @@
+{
+  "test": "existing native layout measurement",
+  "passed": true,
+  "before": {
+    "requestedWidth": 224,
+    "requestedHeight": 242.656,
+    "hostWidth": 224,
+    "hostHeight": 243,
+    "left": 620,
+    "top": 595
+  },
+  "duo": {
+    "ready": true,
+    "requestedWidth": 448,
+    "requestedHeight": 242.656,
+    "hostWidth": 448,
+    "hostHeight": 243,
+    "left": 508,
+    "top": 595
+  },
+  "restored": {
+    "requestedWidth": 224,
+    "requestedHeight": 242.656,
+    "hostWidth": 224,
+    "hostHeight": 243,
+    "left": 620,
+    "top": 595
+  }
+}

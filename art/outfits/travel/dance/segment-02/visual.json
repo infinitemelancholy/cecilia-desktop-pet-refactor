@@ -1,0 +1,13 @@
+{
+  "status": "accepted",
+  "actualNativeContactReviewed": true,
+  "contact": "qa/native-contact.png",
+  "actualBundledReview": "review.json",
+  "source": "../../source-rows/dance-segment-02-clean.png",
+  "poseOrder": "Top six then bottom six, low hands, small crossed-foot changes and approved smile blink at index09; twelve authored distinct frames.",
+  "wardrobe": "Uncovered mint hair, raspberry red hood-down cloak, white collar blue bow, plain navy skirt, simple white cuffs; no classic head veil/temple cloth.",
+  "edges": "All shoes/hair complete, 12 independent figures, native gray background no visible fringe/no matte; cleanup changed zero alpha>=128 deep interior pixels.",
+  "registration": "One shared transform and whole-row baseline registration. No individual pose resizing.",
+  "scaleNote": "Compact hanging hair provides near195px standing head/body size.",
+  "reviewedOn": "2026-10-10"
+}

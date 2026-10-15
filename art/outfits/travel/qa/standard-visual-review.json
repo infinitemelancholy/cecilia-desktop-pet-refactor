@@ -1,0 +1,14 @@
+{
+  "verdict": "pass",
+  "reviewed_at_native_size": true,
+  "standard_atlas": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\standard-atlas.png",
+  "contact_sheet": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\qa\\standard-contact.png",
+  "actual_bundled_structural_report": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\qa\\standard-row-review.json",
+  "required_states": 9,
+  "observed_states": 9,
+  "frame_count": 57,
+  "findings": "Complete nine standard rows with required counts, coherent travel identity, no cropped hair or shoes, state-specific expressions and motion. Jump has true airborne body and landing. Running-left derived framewise from approved running-right.",
+  "limitations": [
+    "Gentle jump uses 5 authored frames; high-FPS dance is a separate long local animation."
+  ]
+}

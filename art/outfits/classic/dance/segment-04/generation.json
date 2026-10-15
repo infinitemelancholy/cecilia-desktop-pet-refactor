@@ -1,0 +1,15 @@
+{
+  "tool": "built-in ImageGen",
+  "prompt": "Draw exactly12 successive full-body chibi Cecilia dance poses in TWO ROWS of SIX, transparent background, no text/grids/effects/background/persons. Match original pet and previous strip exact identity/costume/head size. Separate each whole silhouette including all hair, veil, arms, shoes with at least40px clear gutters and40px outside margins. ROTATION DIRECTION IS CRITICAL: one continuous turn from FRONT to VIEWER SCREEN-LEFT profile to BACK to VIEWER SCREEN-RIGHT profile. NEVER face screen-right before the back view. Specific sequence: pose00 front slight lean hands low;01 front hands beginning toopen;02 front with hands shifting to SCREEN-LEFT side;03 slight turn LEFT with nose shifting LEFT of facecenter;04 three-quarter-LEFT nose pointingtoward IMAGELEFT, botharms reachingtoward IMAGELEFT;05 LEFT PROFILE, nose on LEFT EDGE of face, hands extended LEFT;06 LEFT PROFILE continuingturn;07 three-quarter-BACK with only left cheek edge visible;08 fully BACK-facing, no face/eyes visible;09 fully BACK-facing continuingturn with veil/hair trail;10 three-quarter-BACK now beginning to emerge SCREEN-RIGHT profile;11 SCREEN-RIGHT PROFILE facing IMAGERIGHT as turn continues to front next segment. Same supporting knees smallchibi body. This is the original OP sequence in last reference, convertedtochibi. Ignore foreground heads and captions. Hair/skirt lag continuously behind the leftward turn, no abrupt facing reversal. The top row MUST turn toward SCREEN-LEFT, never screen-right. Draw tiny angular steps between specified poses and keep common construction over0.487sec. Complete full body with no clipping. Do not add flower effects.",
+  "source": "https://www.bilibili.com/video/BV1ik4y1P7pD/",
+  "sourceIndices": [
+    36,
+    47
+  ],
+  "sourceReference": "references/user-op/dance-grid-04.jpg",
+  "output": "segment-04-grid.png",
+  "rotationSemantics": "Front -> screen-left profile -> rear -> screen-right profile in one turn. Original failed reversal retained as rejected revision.",
+  "sourceOpaqueEdgePixels": 0,
+  "acceptedGeometry": true,
+  "combinedContinuityPending": true
+}

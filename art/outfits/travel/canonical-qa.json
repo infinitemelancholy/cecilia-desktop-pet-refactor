@@ -1,0 +1,62 @@
+{
+  "generator": "built-in image_gen",
+  "generated_source": "C:/Users/Jiang Haoyu/.codex/generated_images/01a11ff4-6d0e-78e3-85ab-a12f726b91c7/exec-50ccf95b-39f9-4a2c-bda6-b6329efbac51.png",
+  "preserved_first_revision": "art/outfits/travel/canonical-revision1.png",
+  "unsuccessful_imagegen_edge_revision": "C:/Users/Jiang Haoyu/.codex/generated_images/01a11ff4-6d0e-78e3-85ab-a12f726b91c7/exec-daf7b1d4-1f30-4fd6-b631-123df9bad31b.png",
+  "selected_source": "Original first revision; source silhouette retained with chroma boundary cleanup only",
+  "source_size": [
+    1254,
+    1254
+  ],
+  "source_subject_bbox": [
+    283,
+    179,
+    983,
+    1167
+  ],
+  "canonical_size": [
+    1024,
+    1024
+  ],
+  "canonical_alpha_bbox": [
+    238,
+    127,
+    786,
+    899
+  ],
+  "source_cleanup": {
+    "bundled_script": "work-pets/create-pet/scripts/despill_chroma_edges.py",
+    "bundled_report": "despill-report.json",
+    "chroma_key": "#FFFF00",
+    "edge_radius": 3,
+    "additional_filter": "Only saturated yellow or magenta chroma within 12 source pixels of the transparent silhouette edge; detached near-transparent alpha noise removed",
+    "removed_chroma_edge_pixels": 718,
+    "removed_detached_noise_pixels": 4969,
+    "removed_weak_alpha_pixels": 16181,
+    "deep_interior_pixels_changed": 0,
+    "interior_face_hair_and_costume_preserved": true
+  },
+  "normalization": "Uniform resize of existing generated pixels to a 768-pixel figure height on a 1024 square transparent canvas; common baseline 901. No character drawing or deformation.",
+  "native_preview": {
+    "size": [
+      192,
+      208
+    ],
+    "figure_height": 188,
+    "baseline": 200,
+    "files": [
+      "canonical-native.png",
+      "canonical-native-edge-preview.png"
+    ]
+  },
+  "official_sources": [
+    "https://shiroseijyo-anime.com/story/?id=05"
+  ],
+  "visual_checks": {
+    "identity": "Mint long hair, green eyes, original large-head chibi pet style preserved",
+    "costume": "Raspberry-red hooded shoulder cloak with burgundy hem, white collar, blue neck ribbon, navy skirt, dark hosiery and shoes",
+    "cropping": "All visible hair tips, head, hands, cloak, skirt and shoes retained",
+    "alpha": "True transparent PNG with hidden RGB cleared outside the figure",
+    "edges": "Pass: native 192 x 208 preview visually inspected on black, white and gray. Yellow and magenta boundary contamination is absent; delicate hair tips and intended fine outline remain."
+  }
+}

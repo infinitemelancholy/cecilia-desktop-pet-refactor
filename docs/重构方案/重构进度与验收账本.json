@@ -1,0 +1,1046 @@
+{
+  "stage": "S3-original-style",
+  "issues": [
+    {
+      "id": "D01",
+      "priority": "P0",
+      "problem": "cafe/sleepy 中段放大、裁掉头；原生与独立复现均出现",
+      "cause": "canonical_poses_cafe 的格 11 本身是躯干特写；sleepy、lie、lump 引用了这个错误输入。源素材已坏，不能归因于 DPI",
+      "plan": "重新配准或重绘该姿势；补充全身、头顶、脚底、相邻尺度检查；重建受影响光流",
+      "requiredVerification": "黑白灰三背景播放完整 sleepy/lie/lump；逐帧核对全身边界、尺度与源格，随后原生复测",
+      "status": "指定根因已修复；整体验收仍按原清单",
+      "scopePassed": [
+        "女仆装格11全身修复及困倦原生复测"
+      ],
+      "evidence": [
+        "重构验证/D01-原生验证.json"
+      ]
+    },
+    {
+      "id": "D02",
+      "priority": "P0",
+      "problem": "cafe/lie、lump 中段缩成很小的角色；独立复现",
+      "cause": "cafe 格 12 的人物尺度远小于同组站姿／卧姿；素材归一化错误",
+      "plan": "以角色解剖尺度和地面锚点配准；不能把不同姿态的紧边界都强行缩成同高",
+      "requiredVerification": "三套服装横向对比卧姿尺寸，完整进入／起身；原生正常尺寸复核",
+      "status": "指定根因已修复；整体验收仍按原清单",
+      "scopePassed": [
+        "女仆装格12尺度修复、lie/lump原生复测"
+      ],
+      "evidence": [
+        "重构验证/D02-lie-原生验证.json",
+        "重构验证/D02-lump-原生验证.json"
+      ]
+    },
+    {
+      "id": "D03",
+      "priority": "P0",
+      "problem": "附图袖部／上身叠接异常；独立渲染可见手臂接缝",
+      "cause": "当前是完整披肩底图加多边形袖／手切片；上下臂 yBounds 有重叠；用颜色阈值排除头发，缺少姿势相关遮挡",
+      "plan": "主要动作改为完整姿势；辅助层使用明确的分层素材与关节遮罩；禁止颜色阈值承担解剖分割",
+      "requiredVerification": "同一姿势逐层开关对照，再完整播放举手、害羞、袖子互动；检查肩肘、披肩与头发边界",
+      "status": "候选路径已原生试验；完整范围进行中",
+      "scopePassed": [
+        "三服装抬手/小跳、旅行装真转身、三服装12格跑步及OP转身段的原生试作；其余动作仍在旧路径"
+      ],
+      "evidence": [
+        "重构验证/完整动作试作/原生试作验证-v3.json",
+        "重构验证/完整动作试作/原生试作验证-v4.json",
+        "重构验证/完整动作试作/原生试作验证-v5.json",
+        "重构验证/D05b-固定小腿脚图层证据.json",
+        "重构验证/完整动作试作/原生试作验证-v8.json"
+      ]
+    },
+    {
+      "id": "D04",
+      "priority": "P0",
+      "problem": "部分光流中间态多重手部轮廓、衣服／脸部混合；独立复现",
+      "cause": "着色器 hasVisibility 分支实际 mix 两个扭曲 RGBA；遮挡／拓扑对应不可靠时仍会混出双轮廓；注释“无融合”与实际路径不完全一致",
+      "plan": "手、脸、转身遮挡补真实中间姿势；仅在同拓扑且可信的局部使用流场；换源前进行几何和遮挡复核",
+      "requiredVerification": "检查每个区间 25/50/75% 及换源前后；正常尺寸视频复核；失败时重画中间帧，不用模糊掩盖",
+      "status": "候选路径已原生试验；完整范围进行中",
+      "scopePassed": [
+        "三服装抬手/小跳、旅行装真转身、三服装12格跑步及OP转身段的原生试作；其余动作仍在旧路径"
+      ],
+      "evidence": [
+        "重构验证/完整动作试作/原生试作验证-v3.json",
+        "重构验证/完整动作试作/原生试作验证-v4.json",
+        "重构验证/完整动作试作/原生试作验证-v5.json",
+        "重构验证/D05b-固定小腿脚图层证据.json",
+        "重构验证/完整动作试作/原生试作验证-v8.json"
+      ]
+    },
+    {
+      "id": "D05",
+      "priority": "P0",
+      "problem": "D05a：hop/running 额外鞋轮廓；D05b：用户报告跳舞／互动时小腿和脚像另一层不动，上下肢割裂",
+      "cause": "footCut 矩形裁切后覆盖 portrait 下肢；补片 partMask.yBounds 为 0.845–1，覆盖小腿下段及脚，并非只有鞋。整体姿势变化时该区域仍引用固定立绘，缺少髋→膝→踝→足的连续约束；抬起的原鞋还可能留在裁切区外",
+      "plan": "完整姿势或明确的腿部骨骼轨道统一驱动髋、膝、踝和脚；撤换固定下肢覆盖补丁；支撑脚接地期间保持脚底锚点，小腿随膝关节和重心转动，摆动腿完整走弧线",
+      "requiredVerification": "分别核验 D05a 额外鞋和 D05b 固定小腿／膝踝接缝；三舞蹈、跑步、小跳、蹲坐和互动逐段检查；原生正常速度录像＋膝踝区域逐帧对照",
+      "status": "候选路径已原生试验；完整范围进行中",
+      "scopePassed": [
+        "三服装抬手/小跳、旅行装真转身、三服装12格跑步及OP转身段的原生试作；其余动作仍在旧路径",
+        "D05b 三服装×三舞蹈固定小腿补片已撤换、已安装、九组原生复测；跑步/小跳仍待完整替换"
+      ],
+      "evidence": [
+        "重构验证/完整动作试作/原生试作验证-v3.json",
+        "重构验证/完整动作试作/原生试作验证-v4.json",
+        "重构验证/完整动作试作/原生试作验证-v5.json",
+        "重构验证/D05b-固定小腿脚图层证据.json",
+        "重构验证/完整动作试作/原生试作验证-v8.json",
+        "重构验证/D05b-小腿连续性试验/九组舞蹈安装后原生复测.json"
+      ]
+    },
+    {
+      "id": "D06",
+      "priority": "P0",
+      "problem": "OP 舞蹈内容缺失；源码与全周期阶段图确认",
+      "cause": "当前只用 canonical 0/3/5/6 四个姿势并光流插值；没有完整侧身、背身、转回、斜上举臂",
+      "plan": "依已存 OP 参考逐段重做动作；独立制作入场和回正；隐藏脚步仅保守补绘并标注",
+      "requiredVerification": "原参考与候选按动作阶段同步比对；完整两轮原生播放，核验背面与高举手臂必须出现",
+      "status": "旅行装OP开头24拍点候选已原生验证；完整编舞未完成",
+      "scopePassed": [
+        "23张独立完整人物原画，源17/18同视频帧按两拍曝光复用；全部23处局部连续性指标、实际GPU边界/尺度、原生首格与0–23索引验证"
+      ],
+      "evidence": [
+        "重构验证/OP全编舞试作/OP制作阶段记录.md",
+        "重构验证/完整动作试作/原生试作验证-v14.json"
+      ]
+    },
+    {
+      "id": "D07",
+      "priority": "P0",
+      "problem": "小手摇摆舞内容不足，不能算已完成",
+      "cause": "当前只用 0/5/6 三个 canonical 姿势，缺少独立编舞和连续动作阶段",
+      "plan": "制作独立重心转移、手臂弧线、髋肩相位、发衣跟随的完整舞蹈",
+      "requiredVerification": "全周期而非单张截图；三套服装共九组舞蹈组合，动作顺序、节奏与循环分别验收",
+      "status": "待完成",
+      "scopePassed": [],
+      "evidence": []
+    },
+    {
+      "id": "D08",
+      "priority": "P0",
+      "problem": "踮脚拍手舞有拍手姿势，却缺少可信的踮脚／脚步",
+      "cause": "当前只用 0/2/3/4 四个 canonical 姿势；固定鞋覆盖使脚部一直贴地",
+      "plan": "增加预备、踮起、拍手、回落、缓冲与恢复，明确足底支点",
+      "requiredVerification": "脚跟抬起、脚尖接地和拍手接触分别检查；完整两轮原生播放",
+      "status": "待完成",
+      "scopePassed": [],
+      "evidence": []
+    },
+    {
+      "id": "D09",
+      "priority": "P0",
+      "problem": "丰富互动存在名称，实际大量同质",
+      "cause": "bean/pout/shy/review/waiting 在生成模型里完全共用同一姿态函数；manifest 主素材共用同一立绘和袖切片；独立阶段图表情缺少区别",
+      "plan": "每项动作定义触发、意图、关键姿势、回应、收尾与打断规则；害羞／生气等使用真正的脸和身体表情",
+      "requiredVerification": "动作盲辨、逐项全周期视频、实际触发覆盖；动作目录可选择不算通过",
+      "status": "待完成",
+      "scopePassed": [],
+      "evidence": []
+    },
+    {
+      "id": "D10",
+      "priority": "P0",
+      "problem": "劳伦斯与海泽丽塔互动不足；拉袖没有完整抓握与回应",
+      "cause": "多条双人场景仅为两张立绘独立摆臂；缺乏共同接触约束、抓握姿势和被牵动布料；袖互动实长 2.08 秒",
+      "plan": "两人共用接触点轨道；完整姿势表现抓袖、回应、松手和后续动作；各场景单独拍点",
+      "requiredVerification": "正常尺寸连续观看 6–8 秒设计小剧场；手／袖接触、双方回应、配角入退场逐帧检查",
+      "status": "待完成",
+      "scopePassed": [],
+      "evidence": []
+    },
+    {
+      "id": "D11",
+      "priority": "P0",
+      "problem": "2.5D 空间感不足，主要靠轻微平面变形",
+      "cause": "volume-mesh 只是小曲面偏移和约 ±8% 亮度；三舞蹈和若干姿势动作的 bodyYaw/headYaw 都是 0；没有可控地面阴影、视差与逐姿态遮挡系统",
+      "plan": "完整多视角绘制＋明确前后层／深度数据＋受控透视／缩短＋动态明暗和接地阴影；大转身靠新画面，网格只做小幅辅助",
+      "requiredVerification": "正／侧／背视角与动作中段展示；移动时层间视差、抬脚时阴影变化；正常桌面尺寸由用户视觉验收",
+      "status": "旅行装待机候选已完成两分钟原生验证；全局未验收",
+      "scopePassed": [
+        "前中后深度、受限透视、动态光照与脚底锚点；不规则眨眼只影响眼睑，身体与双鞋保持稳定"
+      ],
+      "evidence": [
+        "重构验证/S3-体积视差试作/S3-体积与待机修复报告.md",
+        "重构验证/完整动作试作/原生试作验证-v9.json"
+      ]
+    },
+    {
+      "id": "D12",
+      "priority": "P1",
+      "problem": "预备、回弹、跟随与待机呼吸不足",
+      "cause": "多数动作用单一 sin 曲线；头／发／衣服缺少动作相关相位与速度；呼吸幅度很弱；眨眼主要是固定约 4.3 秒周期的共享脸着色",
+      "plan": "动作时间表注明十二法则；制作胸肩呼吸、自然眨眼、目光与头发延迟；保留角色节奏",
+      "requiredVerification": "待机连续两分钟、各动作慢放与原速；挤压预备、峰值、跟随、恢复能实际看见",
+      "status": "旅行装待机候选已完成两分钟原生验证；全局未验收",
+      "scopePassed": [
+        "前中后深度、受限透视、动态光照与脚底锚点；不规则眨眼只影响眼睑，身体与双鞋保持稳定"
+      ],
+      "evidence": [
+        "重构验证/S3-体积视差试作/S3-体积与待机修复报告.md",
+        "重构验证/完整动作试作/原生试作验证-v9.json"
+      ]
+    },
+    {
+      "id": "D13",
+      "priority": "P0",
+      "problem": "任务状态持续遮住舞蹈、日常和互动；原生与源码确认",
+      "cause": "scheduler.tick 的 TASKS 分支持续 early return，不推进 daily；无“提示一次后恢复”机制",
+      "plan": "稳定任务变化触发一次提示，在安全动作边界播放后恢复日常；高优先级错误单独设计抢占与回接",
+      "requiredVerification": "长任务、频繁任务变化、暂停恢复、跳舞途中与双人接触途中触发；真实任务联动与可控测试分别验证",
+      "status": "待完成",
+      "scopePassed": [],
+      "evidence": []
+    },
+    {
+      "id": "D14",
+      "priority": "P0",
+      "problem": "点击回应容易被截断，拖放没有独立完整回应",
+      "cause": "pointerup 后只保留 300ms，shy 长 1500ms；interactionElapsed 沿按住到松开继续累计；缺少指针 ID／blur 清理与动作结束契约",
+      "plan": "点击与拖动分类；完整回应播放至动作结束；drag-hold/drag-release 独立轨道；指针取消和失焦可恢复",
+      "requiredVerification": "真实物理鼠标点按、长按、短拖、拖出窗、连续点按、失焦；每个回应都显示完整收尾",
+      "status": "待完成",
+      "scopePassed": [],
+      "evidence": []
+    },
+    {
+      "id": "D15",
+      "priority": "P0",
+      "problem": "状态／服装／原生回退切换缺少统一连续过渡",
+      "cause": "animatePrevious 只在缺资源／等布局时续播旧动作；准备好就直接替换 clip，没有当前姿态到目标入场的衔接；native() 直接切换画面",
+      "plan": "显式 transition 状态；同姿态轨道接续，小幅参数混合；跨视角用专门绘制的过渡；不能跨脸和身体做整人透明叠化",
+      "requiredVerification": "主要状态有向边逐项切换；紧急中断、换装、隐藏显示、素材失败、双人入退场检查位置与姿态连续",
+      "status": "待完成",
+      "scopePassed": [],
+      "evidence": []
+    },
+    {
+      "id": "D16",
+      "priority": "P1",
+      "problem": "单／双人布局待呈现和可能裁错配角",
+      "cause": "createLayout 有 500ms 移动等待；第一次自然采样新增 1068.8ms layoutWait；退出用固定 50% clip-path，而角色可能在 x=165 等非二等分位置",
+      "plan": "以实际角色边界预留舞台；角色可见范围和宿主布局回执分开；去掉固定半幅假设",
+      "requiredVerification": "屏幕左右边缘反复进出双人；任务抢占与拖动交织；桌面录屏检查窗口和人物锚点",
+      "status": "待完成",
+      "scopePassed": [],
+      "evidence": []
+    },
+    {
+      "id": "D17",
+      "priority": "P0",
+      "problem": "“稳定 120fps”未达到当前可见验收",
+      "cause": "rAF 跟随刷新率；本机目前 60Hz；manifest 的 fps=120 是内容／采样声明",
+      "plan": "解耦动画拍点和呈现；保持 120Hz 呈现预算设计，在实际高刷设备测量；60Hz 环境诚实记录 60Hz",
+      "requiredVerification": "≥120Hz 条件下单人／复杂双人各持续 10 分钟；统计实际呈现、间隔、丢帧及 CPU/GPU 耗时",
+      "status": "待完成",
+      "scopePassed": [],
+      "evidence": []
+    },
+    {
+      "id": "D18",
+      "priority": "P0",
+      "problem": "性能指标可能产生误判",
+      "cause": "renderFrames 计每次 draw；drawMsMax 是 JS 发令耗时而非 GPU完成；slowFrames 只把 >50ms 算慢帧，漏掉 120fps 下的许多超预算帧",
+      "plan": "分离 callback、draw、present、动画拍点；以 8.333ms 预算记录间隔与超期；GPU计时或合成器追踪",
+      "requiredVerification": "同期独立时间戳／合成器观测交叉比对；不以帧编号数量或复写计数验收",
+      "status": "指定根因已修复；整体验收仍按原清单",
+      "scopePassed": [
+        "8.333ms预算及回调/绘制指标拆分；GPU完成和呈现验证待做"
+      ],
+      "evidence": [
+        "重构验证/S1-原生运行验证.json"
+      ]
+    },
+    {
+      "id": "D19",
+      "priority": "P0",
+      "problem": "旧速度与时长测量不可信；确定性复现",
+      "cause": "native_probe.py 改写整个 Scheduler.prototype.tick；preloadViews 的 future.tick 同样增加 probe.elapsed：123→223ms",
+      "plan": "测量绑定真实播放器实例或外部呈现时间；预加载预测使用独立无副作用入口；先修测量再重录",
+      "requiredVerification": "原污染用例先失败再通过；预加载开关不改变同一动作实长；恢复现场并重录全部引用过的节奏证据",
+      "status": "指定根因已修复；整体验收仍按原清单",
+      "scopePassed": [
+        "真实播放器与预加载预测的计时隔离；全套最终素材重录待做"
+      ],
+      "evidence": [
+        "重构验证/S1-全部修复后.txt"
+      ]
+    },
+    {
+      "id": "D20",
+      "priority": "P1",
+      "problem": "DPI／尺寸变化可能造成停顿、错位；尚无跨屏实测",
+      "cause": "baseWidth/baseHeight 安装时固定；DPR 改变会清空全部非原生素材再加载；缺少统一屏幕／CSS／物理像素契约和尺寸观察",
+      "plan": "单一坐标转换入口；按 monitor+DPR 缓存；新尺寸资源准备好后原子交换；观察宿主尺寸",
+      "requiredVerification": "100/125/150/200% 及混合 DPI、多屏、负坐标、拔插屏；当前只有一块 60Hz 屏，此项仍未验收",
+      "status": "待完成",
+      "scopePassed": [],
+      "evidence": []
+    },
+    {
+      "id": "D21",
+      "priority": "P1",
+      "problem": "白边黑边、透明边缘、锯齿／模糊完整矩阵未验证",
+      "cause": "现有预乘 alpha 和 ONE/ONE_MINUS_SRC_ALPHA 路径基础合理；不能凭附图认定全面 alpha 错误。颜色切除、硬遮罩、图集边界采样仍有风险",
+      "plan": "固定颜色空间／预乘契约；素材透明像素清理；图集防串色边缘；姿态遮罩有正确抗锯齿；按物理尺寸加载",
+      "requiredVerification": "黑／白／灰／彩色背景，四种 DPI，放大与正常尺寸；对照源 alpha 与 GPU readback，保留失败帧",
+      "status": "待完成",
+      "scopePassed": [],
+      "evidence": []
+    },
+    {
+      "id": "D22",
+      "priority": "P1",
+      "problem": "朝向切换、闪烁、撕裂、窗口抖动的动态验收未完成",
+      "cause": "已复现的重复轮廓不同于整窗撕裂；未知项要分别排除画布／原生交替、资源切换、半幅裁剪、左右非对称素材和 DWM",
+      "plan": "朝向用真实姿态／朝向资产，给服装不对称部位独立处理；帧就绪原子提交；针对复现原因逐项修复",
+      "requiredVerification": "高帧率桌面录屏，方向来回、拖拽、切换与视频窗口交叠；逐帧查屏幕而非仅查 canvas",
+      "status": "待完成",
+      "scopePassed": [],
+      "evidence": []
+    },
+    {
+      "id": "D23",
+      "priority": "P1",
+      "problem": "验收、预览与生成工具不能阻止坏素材进入运行",
+      "cause": "77 个现有针对性 Node 测试全部通过，但 cafe 格 11/12 仍错误；validate_authored_motion 对该模型主要检查几何样本数量。原 HTML 是 2D drawImage，忽略 WebGL flow、matrix 和遮罩",
+      "plan": "内容、技术、原生、安装四道独立门；使用同一渲染核心做预览；为动作阶段、尺度、轮廓和接口写有效回归",
+      "requiredVerification": "故意喂入错误裁头／缩小素材确保拒绝；预览和原生同一时刻输出对比；全部门分别签署，ready:true 不代表视觉通过",
+      "status": "待完成",
+      "scopePassed": [],
+      "evidence": []
+    }
+  ],
+  "actions": [
+    {
+      "outfit": "classic",
+      "action": "idle",
+      "requiredContent": "呼吸、自然眨眼、目光、重心和头发跟随。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "原画风格重新锁定；改画风候选不通过，技术记录不能替代画风验收",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "travel",
+      "action": "idle",
+      "requiredContent": "呼吸、自然眨眼、目光、重心和头发跟随。",
+      "authoring": "完整身体原画+三种独立眼睑原画曝光；连续呼吸与头发跟随",
+      "technical": "GPU眼外像素完全一致、两鞋分离；原生两分钟无资源等待",
+      "visual": "原画风格重新锁定；改画风候选不通过，技术记录不能替代画风验收",
+      "native": "120.01秒运行、20秒正常尺寸录像；最大绘制间隔24.5ms，性能未达全部标准",
+      "installed": false,
+      "visualBeforeIdentityHold": "明确深度/视差候选已展示；目光及全局视觉验收开放"
+    },
+    {
+      "outfit": "cafe",
+      "action": "idle",
+      "requiredContent": "呼吸、自然眨眼、目光、重心和头发跟随。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "原画风格重新锁定；改画风候选不通过，技术记录不能替代画风验收",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "classic",
+      "action": "failed",
+      "requiredContent": "错误惊讶／失落、恢复；任务变化提示一次。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "travel",
+      "action": "failed",
+      "requiredContent": "错误惊讶／失落、恢复；任务变化提示一次。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "cafe",
+      "action": "failed",
+      "requiredContent": "错误惊讶／失落、恢复；任务变化提示一次。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "classic",
+      "action": "waiting",
+      "requiredContent": "明确等待姿态、观察与恢复，不长期抢占日常。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "travel",
+      "action": "waiting",
+      "requiredContent": "明确等待姿态、观察与恢复，不长期抢占日常。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "cafe",
+      "action": "waiting",
+      "requiredContent": "明确等待姿态、观察与恢复，不长期抢占日常。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "classic",
+      "action": "running",
+      "requiredContent": "真实左右步态、接地／腾空、衣发滞后及方向。",
+      "authoring": "12个不同完整姿势：左右支撑、蹬地、腾空",
+      "technical": "候选检查通过",
+      "visual": "原画风格重新锁定；改画风候选不通过，技术记录不能替代画风验收",
+      "native": "v3统一尺度版原生约5循环通过；整体质量未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "小腿/脚归属及36格GPU边界/身份尺度通过；摆臂及全局连续性待复核"
+    },
+    {
+      "outfit": "travel",
+      "action": "running",
+      "requiredContent": "真实左右步态、接地／腾空、衣发滞后及方向。",
+      "authoring": "12个不同完整姿势：左右支撑、蹬地、腾空",
+      "technical": "候选检查通过",
+      "visual": "原画风格重新锁定；改画风候选不通过，技术记录不能替代画风验收",
+      "native": "v3统一尺度版原生约5循环通过；整体质量未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "小腿/脚归属及36格GPU边界/身份尺度通过；摆臂及全局连续性待复核"
+    },
+    {
+      "outfit": "cafe",
+      "action": "running",
+      "requiredContent": "真实左右步态、接地／腾空、衣发滞后及方向。",
+      "authoring": "12个不同完整姿势：左右支撑、蹬地、腾空",
+      "technical": "候选检查通过",
+      "visual": "原画风格重新锁定；改画风候选不通过，技术记录不能替代画风验收",
+      "native": "v3统一尺度版原生约5循环通过；整体质量未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "小腿/脚归属及36格GPU边界/身份尺度通过；摆臂及全局连续性待复核"
+    },
+    {
+      "outfit": "classic",
+      "action": "review",
+      "requiredContent": "真正思考／审阅的眼神、手势、节奏与收尾。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "travel",
+      "action": "review",
+      "requiredContent": "真正思考／审阅的眼神、手势、节奏与收尾。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "cafe",
+      "action": "review",
+      "requiredContent": "真正思考／审阅的眼神、手势、节奏与收尾。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "classic",
+      "action": "bean",
+      "requiredContent": "正常绿眼→豆豆眼惊讶→歪头合手→红脸握拳期待→闭眼放松→恢复；保留脸部变化与独立表演。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "travel",
+      "action": "bean",
+      "requiredContent": "正常绿眼→豆豆眼惊讶→歪头合手→红脸握拳期待→闭眼放松→恢复；保留脸部变化与独立表演。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "cafe",
+      "action": "bean",
+      "requiredContent": "正常绿眼→豆豆眼惊讶→歪头合手→红脸握拳期待→闭眼放松→恢复；保留脸部变化与独立表演。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "classic",
+      "action": "pout",
+      "requiredContent": "脸部表情、肩／手姿势、情绪恢复。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "travel",
+      "action": "pout",
+      "requiredContent": "脸部表情、肩／手姿势、情绪恢复。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "cafe",
+      "action": "pout",
+      "requiredContent": "脸部表情、肩／手姿势、情绪恢复。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "classic",
+      "action": "shy",
+      "requiredContent": "完整害羞回应、脸／眼变化、收尾与重复点击规则。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "travel",
+      "action": "shy",
+      "requiredContent": "完整害羞回应、脸／眼变化、收尾与重复点击规则。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "cafe",
+      "action": "shy",
+      "requiredContent": "完整害羞回应、脸／眼变化、收尾与重复点击规则。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "classic",
+      "action": "hop",
+      "requiredContent": "下蹲预备、蹬地、腾空、落地冲击、回弹。",
+      "authoring": "12张完整人物原画试作",
+      "technical": "候选检查通过",
+      "visual": "原画风格重新锁定；改画风候选不通过，技术记录不能替代画风验收",
+      "native": "完整原生试作通过",
+      "installed": false,
+      "visualBeforeIdentityHold": "接地/腾空及额外鞋轮廓试作通过；全局衔接待做"
+    },
+    {
+      "outfit": "travel",
+      "action": "hop",
+      "requiredContent": "下蹲预备、蹬地、腾空、落地冲击、回弹。",
+      "authoring": "12张完整人物原画试作",
+      "technical": "候选检查通过",
+      "visual": "原画风格重新锁定；改画风候选不通过，技术记录不能替代画风验收",
+      "native": "完整原生试作通过",
+      "installed": false,
+      "visualBeforeIdentityHold": "接地/腾空及额外鞋轮廓试作通过；全局衔接待做"
+    },
+    {
+      "outfit": "cafe",
+      "action": "hop",
+      "requiredContent": "下蹲预备、蹬地、腾空、落地冲击、回弹。",
+      "authoring": "12张完整人物原画试作",
+      "technical": "候选检查通过",
+      "visual": "原画风格重新锁定；改画风候选不通过，技术记录不能替代画风验收",
+      "native": "完整原生试作通过",
+      "installed": false,
+      "visualBeforeIdentityHold": "接地/腾空及额外鞋轮廓试作通过；全局衔接待做"
+    },
+    {
+      "outfit": "classic",
+      "action": "sleepy",
+      "requiredContent": "困倦→坐下→闭眼→恢复；正常全身比例。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "travel",
+      "action": "sleepy",
+      "requiredContent": "困倦→坐下→闭眼→恢复；正常全身比例。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "cafe",
+      "action": "sleepy",
+      "requiredContent": "困倦→坐下→闭眼→恢复；正常全身比例。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "classic",
+      "action": "lie",
+      "requiredContent": "重心降低、躺下、休息、起身；统一人物尺度。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "travel",
+      "action": "lie",
+      "requiredContent": "重心降低、躺下、休息、起身；统一人物尺度。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "cafe",
+      "action": "lie",
+      "requiredContent": "重心降低、躺下、休息、起身；统一人物尺度。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "classic",
+      "action": "lump",
+      "requiredContent": "站立→屈膝／手放腿上→双腿收到裙下的紧凑团坐→闭眼休息→展开起身；头部大小稳定，不能用整人缩小代替团坐。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "travel",
+      "action": "lump",
+      "requiredContent": "站立→屈膝／手放腿上→双腿收到裙下的紧凑团坐→闭眼休息→展开起身；头部大小稳定，不能用整人缩小代替团坐。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "cafe",
+      "action": "lump",
+      "requiredContent": "站立→屈膝／手放腿上→双腿收到裙下的紧凑团坐→闭眼休息→展开起身；头部大小稳定，不能用整人缩小代替团坐。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "classic",
+      "action": "showcase",
+      "requiredContent": "展示服装、明确视角与布料空间关系、回正。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "travel",
+      "action": "showcase",
+      "requiredContent": "展示服装、明确视角与布料空间关系、回正。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "cafe",
+      "action": "showcase",
+      "requiredContent": "展示服装、明确视角与布料空间关系、回正。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "classic",
+      "action": "lawrence-care",
+      "requiredContent": "注意→靠近／关心→塞西莉亚回应→恢复。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "travel",
+      "action": "lawrence-care",
+      "requiredContent": "注意→靠近／关心→塞西莉亚回应→恢复。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "cafe",
+      "action": "lawrence-care",
+      "requiredContent": "注意→靠近／关心→塞西莉亚回应→恢复。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "classic",
+      "action": "lawrence-sleeve",
+      "requiredContent": "试探→抓袖接触→牵动布料→双方回应→松开。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "travel",
+      "action": "lawrence-sleeve",
+      "requiredContent": "试探→抓袖接触→牵动布料→双方回应→松开。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "cafe",
+      "action": "lawrence-sleeve",
+      "requiredContent": "试探→抓袖接触→牵动布料→双方回应→松开。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "classic",
+      "action": "hazelita-chat",
+      "requiredContent": "视线、轮流手势、倾听回应、双方收尾。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "travel",
+      "action": "hazelita-chat",
+      "requiredContent": "视线、轮流手势、倾听回应、双方收尾。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "cafe",
+      "action": "hazelita-chat",
+      "requiredContent": "视线、轮流手势、倾听回应、双方收尾。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "classic",
+      "action": "hazelita-showcase",
+      "requiredContent": "共同观察／回应服装展示，有不同于聊天的表演。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "travel",
+      "action": "hazelita-showcase",
+      "requiredContent": "共同观察／回应服装展示，有不同于聊天的表演。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "cafe",
+      "action": "hazelita-showcase",
+      "requiredContent": "共同观察／回应服装展示，有不同于聊天的表演。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "classic",
+      "action": "op-turn",
+      "requiredContent": "原参考低手摆→侧转→背面→回正→斜上举臂。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "原画风格重新锁定；改画风候选不通过，技术记录不能替代画风验收",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "travel",
+      "action": "op-turn",
+      "requiredContent": "原参考低手摆→侧转→背面→回正→斜上举臂。",
+      "authoring": "开头24生产拍点/23独立原画；后段、入场、回正未完成",
+      "technical": "实际GPU边界/尺度与23处局部连续性检查通过",
+      "visual": "原画风格重新锁定；改画风候选不通过，技术记录不能替代画风验收",
+      "native": "第14批保证首格0、观察到0–23索引；完整两轮未做",
+      "installed": false,
+      "visualBeforeIdentityHold": "低手摆动局部候选；头身起伏与完整编舞节奏未验收"
+    },
+    {
+      "outfit": "cafe",
+      "action": "op-turn",
+      "requiredContent": "原参考低手摆→侧转→背面→回正→斜上举臂。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "原画风格重新锁定；改画风候选不通过，技术记录不能替代画风验收",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "classic",
+      "action": "small-sway",
+      "requiredContent": "独立编舞、手臂弧线、髋肩节奏、重心换脚。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "travel",
+      "action": "small-sway",
+      "requiredContent": "独立编舞、手臂弧线、髋肩节奏、重心换脚。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "cafe",
+      "action": "small-sway",
+      "requiredContent": "独立编舞、手臂弧线、髋肩节奏、重心换脚。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "classic",
+      "action": "tiptoe-clap",
+      "requiredContent": "预备、踮脚、拍手接触、回落和恢复。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "travel",
+      "action": "tiptoe-clap",
+      "requiredContent": "预备、踮脚、拍手接触、回落和恢复。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    },
+    {
+      "outfit": "cafe",
+      "action": "tiptoe-clap",
+      "requiredContent": "预备、踮脚、拍手接触、回落和恢复。",
+      "authoring": "未完成",
+      "technical": "未验收",
+      "visual": "角色身份待重新复核；不可用技术或原生通过替代",
+      "native": "未验收",
+      "installed": false,
+      "visualBeforeIdentityHold": "未验收"
+    }
+  ],
+  "mandatoryAdditionalCoverage": [
+    "16个look朝向",
+    "点击/长按/连点/拖住/拖放/取消/失焦",
+    "全部状态有向过渡",
+    "换装",
+    "双人进退场",
+    "100/125/150/200% DPI和混合DPI",
+    "多屏/负坐标/拔插",
+    "原生拖拽/菜单/置顶/透明",
+    "120Hz设备上的单人/复杂双人10分钟",
+    "冷启动/安装/回滚"
+  ],
+  "display": {
+    "currentHz": 165,
+    "available1920x1080Hz": [
+      59,
+      60,
+      100,
+      119,
+      120,
+      144,
+      165,
+      200,
+      240,
+      280
+    ],
+    "visible120Passed": false
+  },
+  "installed": [
+    "S1计时隔离与指标",
+    "D01女仆装困倦输入",
+    "D02女仆装躺下输入",
+    "D05b 九组舞蹈的小腿/脚与身体共用完整姿势"
+  ],
+  "candidateOnly": [
+    "完整人物拍点时间轴和连续次要动作",
+    "三套服装各6张抬手、旅行装12张真转身",
+    "三套服装各12张小跳",
+    "三服装各12张跑步及GPU头部/地面姿势校准",
+    "12格OP真实转身段，非完整OP",
+    "旅行装高分辨率待机、前中后深度/透视/光照/接地；原生两分钟试验"
+  ],
+  "next": "Human-selected original cafe/three-outfit style locked. Restyled pilots rejected. Verify depth rendering on byte-identical original assets before new authored poses.",
+  "identityGate": {
+    "status": "blocked-identity-revalidation-required",
+    "reason": "用户指出候选头发偏金黄，不符合塞西莉亚动漫形象；停止继续绘制和原生候选验证。",
+    "canonicalOfficial": "https://shiroseijyo-anime.com/character/",
+    "required": "以官方浅薄荷绿长发、绿眼及既有Q版角色为参考，先核准身份，再继续制作；先前技术证据不等于身份通过。"
+  },
+  "stylePolicy": {
+    "status": "original-style-locked",
+    "primaryReference": "用户指定的原画风格.png",
+    "authority": "Human selected the currently installed cafe screenshot as the drawing-style standard.",
+    "required": [
+      "原来的精致Q版脸型与头身比例",
+      "原有浅绿色头发及原稿高光配色",
+      "原有绿眼结构和神态",
+      "清晰细线、分束发丝、衣褶与蕾丝细节",
+      "三套服装各自原稿为主参考"
+    ],
+    "forbidden": [
+      "以本轮改画风的待机或OP作为参考",
+      "重新设计角色或换画风",
+      "强制统一成新的冷薄荷绿RGB配色",
+      "用技术通过代替原稿风格一致性"
+    ],
+    "rejectedPilotScope": "All restyled idle and OP0–29 artwork. Prior technical recordings are retained as rejected-style evidence, not accepted artistic progress."
+  }
+}

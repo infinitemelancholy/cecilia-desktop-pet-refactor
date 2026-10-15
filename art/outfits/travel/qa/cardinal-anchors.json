@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "strip": "<本机路径已省略>\\xia\\work\\art-runs\\travel\\references\\cardinals-component-packed.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        192,
+        208
+      ],
+      "used_pixels": 17786,
+      "edge_pixels": 0,
+      "output": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\gaze\\cardinals\\000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        192,
+        0,
+        384,
+        208
+      ],
+      "used_pixels": 17692,
+      "edge_pixels": 0,
+      "output": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\gaze\\cardinals\\090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        384,
+        0,
+        576,
+        208
+      ],
+      "used_pixels": 17109,
+      "edge_pixels": 0,
+      "output": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\gaze\\cardinals\\180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        576,
+        0,
+        768,
+        208
+      ],
+      "used_pixels": 17206,
+      "edge_pixels": 0,
+      "output": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\gaze\\cardinals\\270.png"
+    }
+  ]
+}

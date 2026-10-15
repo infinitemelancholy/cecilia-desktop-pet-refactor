@@ -1,0 +1,1430 @@
+{
+  "actualFinalAsset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\travel-dance.png",
+  "sha256": "ae2f60fb1434a79974fd230ba4ed6af45c1e332a5f4d9fc4c5c315ad9b091778",
+  "size": [
+    20736,
+    208
+  ],
+  "frames": 108,
+  "registration": [
+    {
+      "index": 0,
+      "batch": "entry",
+      "frame": 0,
+      "integerY": 0,
+      "bbox": [
+        21,
+        5,
+        170,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 1,
+      "batch": "entry",
+      "frame": 1,
+      "integerY": 0,
+      "bbox": [
+        22,
+        5,
+        169,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 2,
+      "batch": "entry",
+      "frame": 2,
+      "integerY": 0,
+      "bbox": [
+        22,
+        5,
+        169,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 3,
+      "batch": "entry",
+      "frame": 3,
+      "integerY": 0,
+      "bbox": [
+        23,
+        5,
+        168,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 4,
+      "batch": "entry",
+      "frame": 4,
+      "integerY": 0,
+      "bbox": [
+        23,
+        5,
+        168,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 5,
+      "batch": "entry",
+      "frame": 5,
+      "integerY": 0,
+      "bbox": [
+        25,
+        5,
+        165,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 6,
+      "batch": "entry",
+      "frame": 6,
+      "integerY": 0,
+      "bbox": [
+        23,
+        6,
+        168,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 7,
+      "batch": "entry",
+      "frame": 7,
+      "integerY": 0,
+      "bbox": [
+        23,
+        7,
+        168,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 8,
+      "batch": "entry",
+      "frame": 8,
+      "integerY": 0,
+      "bbox": [
+        25,
+        8,
+        166,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 9,
+      "batch": "entry",
+      "frame": 9,
+      "integerY": 1,
+      "bbox": [
+        24,
+        8,
+        167,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 10,
+      "batch": "entry",
+      "frame": 10,
+      "integerY": 0,
+      "bbox": [
+        24,
+        7,
+        166,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 11,
+      "batch": "entry",
+      "frame": 11,
+      "integerY": 0,
+      "bbox": [
+        25,
+        5,
+        166,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 12,
+      "batch": "segment-01",
+      "frame": 0,
+      "integerY": 1,
+      "bbox": [
+        23,
+        9,
+        168,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 13,
+      "batch": "segment-01",
+      "frame": 1,
+      "integerY": 0,
+      "bbox": [
+        23,
+        8,
+        168,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 14,
+      "batch": "segment-01",
+      "frame": 2,
+      "integerY": 1,
+      "bbox": [
+        23,
+        9,
+        168,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 15,
+      "batch": "segment-01",
+      "frame": 3,
+      "integerY": 1,
+      "bbox": [
+        21,
+        9,
+        170,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 16,
+      "batch": "segment-01",
+      "frame": 4,
+      "integerY": 1,
+      "bbox": [
+        22,
+        9,
+        168,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 17,
+      "batch": "segment-01",
+      "frame": 5,
+      "integerY": 1,
+      "bbox": [
+        24,
+        9,
+        168,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 18,
+      "batch": "segment-01",
+      "frame": 6,
+      "integerY": 0,
+      "bbox": [
+        21,
+        6,
+        170,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 19,
+      "batch": "segment-01",
+      "frame": 7,
+      "integerY": 1,
+      "bbox": [
+        23,
+        6,
+        167,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 20,
+      "batch": "segment-01",
+      "frame": 8,
+      "integerY": 0,
+      "bbox": [
+        20,
+        5,
+        171,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 21,
+      "batch": "segment-01",
+      "frame": 9,
+      "integerY": 2,
+      "bbox": [
+        19,
+        8,
+        172,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 22,
+      "batch": "segment-01",
+      "frame": 10,
+      "integerY": 0,
+      "bbox": [
+        20,
+        5,
+        171,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 23,
+      "batch": "segment-01",
+      "frame": 11,
+      "integerY": 2,
+      "bbox": [
+        22,
+        7,
+        168,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 24,
+      "batch": "segment-02",
+      "frame": 0,
+      "integerY": 2,
+      "bbox": [
+        30,
+        8,
+        162,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 25,
+      "batch": "segment-02",
+      "frame": 1,
+      "integerY": 0,
+      "bbox": [
+        33,
+        6,
+        159,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 26,
+      "batch": "segment-02",
+      "frame": 2,
+      "integerY": 0,
+      "bbox": [
+        31,
+        6,
+        161,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 27,
+      "batch": "segment-02",
+      "frame": 3,
+      "integerY": 1,
+      "bbox": [
+        30,
+        7,
+        162,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 28,
+      "batch": "segment-02",
+      "frame": 4,
+      "integerY": 0,
+      "bbox": [
+        31,
+        6,
+        161,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 29,
+      "batch": "segment-02",
+      "frame": 5,
+      "integerY": 0,
+      "bbox": [
+        31,
+        6,
+        161,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 30,
+      "batch": "segment-02",
+      "frame": 6,
+      "integerY": 0,
+      "bbox": [
+        30,
+        6,
+        162,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 31,
+      "batch": "segment-02",
+      "frame": 7,
+      "integerY": 0,
+      "bbox": [
+        31,
+        6,
+        161,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 32,
+      "batch": "segment-02",
+      "frame": 8,
+      "integerY": 1,
+      "bbox": [
+        31,
+        7,
+        161,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 33,
+      "batch": "segment-02",
+      "frame": 9,
+      "integerY": 1,
+      "bbox": [
+        29,
+        7,
+        163,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 34,
+      "batch": "segment-02",
+      "frame": 10,
+      "integerY": 0,
+      "bbox": [
+        29,
+        5,
+        162,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 35,
+      "batch": "segment-02",
+      "frame": 11,
+      "integerY": 1,
+      "bbox": [
+        31,
+        6,
+        161,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 36,
+      "batch": "segment-03",
+      "frame": 0,
+      "integerY": 4,
+      "bbox": [
+        34,
+        9,
+        157,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 37,
+      "batch": "segment-03",
+      "frame": 1,
+      "integerY": 3,
+      "bbox": [
+        33,
+        9,
+        158,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 38,
+      "batch": "segment-03",
+      "frame": 2,
+      "integerY": 1,
+      "bbox": [
+        33,
+        7,
+        157,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 39,
+      "batch": "segment-03",
+      "frame": 3,
+      "integerY": 1,
+      "bbox": [
+        33,
+        7,
+        158,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 40,
+      "batch": "segment-03",
+      "frame": 4,
+      "integerY": 1,
+      "bbox": [
+        34,
+        7,
+        157,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 41,
+      "batch": "segment-03",
+      "frame": 5,
+      "integerY": 1,
+      "bbox": [
+        34,
+        7,
+        157,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 42,
+      "batch": "segment-03",
+      "frame": 6,
+      "integerY": 0,
+      "bbox": [
+        33,
+        7,
+        157,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 43,
+      "batch": "segment-03",
+      "frame": 7,
+      "integerY": 1,
+      "bbox": [
+        33,
+        8,
+        157,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 44,
+      "batch": "segment-03",
+      "frame": 8,
+      "integerY": 1,
+      "bbox": [
+        33,
+        8,
+        157,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 45,
+      "batch": "segment-03",
+      "frame": 9,
+      "integerY": 1,
+      "bbox": [
+        35,
+        6,
+        156,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 46,
+      "batch": "segment-03",
+      "frame": 10,
+      "integerY": 0,
+      "bbox": [
+        35,
+        5,
+        155,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 47,
+      "batch": "segment-03",
+      "frame": 11,
+      "integerY": 1,
+      "bbox": [
+        37,
+        6,
+        154,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 48,
+      "batch": "segment-04",
+      "frame": 0,
+      "integerY": 0,
+      "bbox": [
+        26,
+        5,
+        166,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 49,
+      "batch": "segment-04",
+      "frame": 1,
+      "integerY": 0,
+      "bbox": [
+        28,
+        6,
+        164,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 50,
+      "batch": "segment-04",
+      "frame": 2,
+      "integerY": 0,
+      "bbox": [
+        29,
+        6,
+        164,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 51,
+      "batch": "segment-04",
+      "frame": 3,
+      "integerY": 0,
+      "bbox": [
+        26,
+        6,
+        166,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 52,
+      "batch": "segment-04",
+      "frame": 4,
+      "integerY": 2,
+      "bbox": [
+        23,
+        8,
+        169,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 53,
+      "batch": "segment-04",
+      "frame": 5,
+      "integerY": 1,
+      "bbox": [
+        26,
+        7,
+        165,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 54,
+      "batch": "segment-04",
+      "frame": 6,
+      "integerY": 1,
+      "bbox": [
+        20,
+        11,
+        172,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 55,
+      "batch": "segment-04",
+      "frame": 7,
+      "integerY": 0,
+      "bbox": [
+        24,
+        9,
+        169,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 56,
+      "batch": "segment-04",
+      "frame": 8,
+      "integerY": 0,
+      "bbox": [
+        30,
+        10,
+        159,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 57,
+      "batch": "segment-04",
+      "frame": 9,
+      "integerY": 0,
+      "bbox": [
+        22,
+        10,
+        169,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 58,
+      "batch": "segment-04",
+      "frame": 10,
+      "integerY": 1,
+      "bbox": [
+        23,
+        11,
+        169,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 59,
+      "batch": "segment-04",
+      "frame": 11,
+      "integerY": 0,
+      "bbox": [
+        21,
+        10,
+        171,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 60,
+      "batch": "segment-05",
+      "frame": 0,
+      "integerY": 5,
+      "bbox": [
+        29,
+        17,
+        162,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 61,
+      "batch": "segment-05",
+      "frame": 1,
+      "integerY": 3,
+      "bbox": [
+        33,
+        17,
+        158,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 62,
+      "batch": "segment-05",
+      "frame": 2,
+      "integerY": 3,
+      "bbox": [
+        32,
+        15,
+        159,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 63,
+      "batch": "segment-05",
+      "frame": 3,
+      "integerY": 0,
+      "bbox": [
+        18,
+        14,
+        173,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 64,
+      "batch": "segment-05",
+      "frame": 4,
+      "integerY": 0,
+      "bbox": [
+        18,
+        12,
+        172,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 65,
+      "batch": "segment-05",
+      "frame": 5,
+      "integerY": 0,
+      "bbox": [
+        25,
+        12,
+        166,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 66,
+      "batch": "segment-05",
+      "frame": 6,
+      "integerY": 4,
+      "bbox": [
+        22,
+        9,
+        169,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 67,
+      "batch": "segment-05",
+      "frame": 7,
+      "integerY": 1,
+      "bbox": [
+        21,
+        6,
+        170,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 68,
+      "batch": "segment-05",
+      "frame": 8,
+      "integerY": 1,
+      "bbox": [
+        19,
+        7,
+        171,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 69,
+      "batch": "segment-05",
+      "frame": 9,
+      "integerY": 2,
+      "bbox": [
+        20,
+        7,
+        171,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 70,
+      "batch": "segment-05",
+      "frame": 10,
+      "integerY": 4,
+      "bbox": [
+        20,
+        9,
+        170,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 71,
+      "batch": "segment-05",
+      "frame": 11,
+      "integerY": 1,
+      "bbox": [
+        21,
+        6,
+        169,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 72,
+      "batch": "segment-06",
+      "frame": 0,
+      "integerY": 1,
+      "bbox": [
+        19,
+        9,
+        173,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 73,
+      "batch": "segment-06",
+      "frame": 1,
+      "integerY": 0,
+      "bbox": [
+        21,
+        8,
+        171,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 74,
+      "batch": "segment-06",
+      "frame": 2,
+      "integerY": 0,
+      "bbox": [
+        21,
+        8,
+        171,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 75,
+      "batch": "segment-06",
+      "frame": 3,
+      "integerY": 0,
+      "bbox": [
+        20,
+        7,
+        171,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 76,
+      "batch": "segment-06",
+      "frame": 4,
+      "integerY": 0,
+      "bbox": [
+        21,
+        7,
+        171,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 77,
+      "batch": "segment-06",
+      "frame": 5,
+      "integerY": 0,
+      "bbox": [
+        22,
+        8,
+        170,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 78,
+      "batch": "segment-06",
+      "frame": 6,
+      "integerY": 0,
+      "bbox": [
+        19,
+        5,
+        173,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 79,
+      "batch": "segment-06",
+      "frame": 7,
+      "integerY": 0,
+      "bbox": [
+        19,
+        5,
+        173,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 80,
+      "batch": "segment-06",
+      "frame": 8,
+      "integerY": 1,
+      "bbox": [
+        19,
+        6,
+        172,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 81,
+      "batch": "segment-06",
+      "frame": 9,
+      "integerY": 0,
+      "bbox": [
+        19,
+        5,
+        172,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 82,
+      "batch": "segment-06",
+      "frame": 10,
+      "integerY": 0,
+      "bbox": [
+        19,
+        5,
+        173,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 83,
+      "batch": "segment-06",
+      "frame": 11,
+      "integerY": 0,
+      "bbox": [
+        23,
+        5,
+        171,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 84,
+      "batch": "return-01",
+      "frame": 0,
+      "integerY": 1,
+      "bbox": [
+        19,
+        7,
+        172,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 85,
+      "batch": "return-01",
+      "frame": 1,
+      "integerY": 1,
+      "bbox": [
+        19,
+        7,
+        172,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 86,
+      "batch": "return-01",
+      "frame": 2,
+      "integerY": 0,
+      "bbox": [
+        19,
+        7,
+        172,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 87,
+      "batch": "return-01",
+      "frame": 3,
+      "integerY": 0,
+      "bbox": [
+        18,
+        8,
+        173,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 88,
+      "batch": "return-01",
+      "frame": 4,
+      "integerY": 0,
+      "bbox": [
+        19,
+        8,
+        171,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 89,
+      "batch": "return-01",
+      "frame": 5,
+      "integerY": 0,
+      "bbox": [
+        20,
+        8,
+        171,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 90,
+      "batch": "return-01",
+      "frame": 6,
+      "integerY": 0,
+      "bbox": [
+        18,
+        5,
+        173,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 91,
+      "batch": "return-01",
+      "frame": 7,
+      "integerY": 1,
+      "bbox": [
+        18,
+        6,
+        173,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 92,
+      "batch": "return-01",
+      "frame": 8,
+      "integerY": 0,
+      "bbox": [
+        18,
+        6,
+        172,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 93,
+      "batch": "return-01",
+      "frame": 9,
+      "integerY": 0,
+      "bbox": [
+        18,
+        6,
+        173,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 94,
+      "batch": "return-01",
+      "frame": 10,
+      "integerY": 0,
+      "bbox": [
+        19,
+        6,
+        172,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 95,
+      "batch": "return-01",
+      "frame": 11,
+      "integerY": 0,
+      "bbox": [
+        21,
+        7,
+        172,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 96,
+      "batch": "return-02",
+      "frame": 0,
+      "integerY": 0,
+      "bbox": [
+        20,
+        6,
+        172,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 97,
+      "batch": "return-02",
+      "frame": 1,
+      "integerY": 0,
+      "bbox": [
+        18,
+        7,
+        174,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 98,
+      "batch": "return-02",
+      "frame": 2,
+      "integerY": 0,
+      "bbox": [
+        21,
+        7,
+        170,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 99,
+      "batch": "return-02",
+      "frame": 3,
+      "integerY": 0,
+      "bbox": [
+        26,
+        7,
+        166,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 100,
+      "batch": "return-02",
+      "frame": 4,
+      "integerY": 0,
+      "bbox": [
+        27,
+        7,
+        164,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 101,
+      "batch": "return-02",
+      "frame": 5,
+      "integerY": 0,
+      "bbox": [
+        27,
+        6,
+        165,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 102,
+      "batch": "return-02",
+      "frame": 6,
+      "integerY": 0,
+      "bbox": [
+        26,
+        5,
+        166,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 103,
+      "batch": "return-02",
+      "frame": 7,
+      "integerY": 0,
+      "bbox": [
+        26,
+        5,
+        166,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 104,
+      "batch": "return-02",
+      "frame": 8,
+      "integerY": 0,
+      "bbox": [
+        26,
+        5,
+        166,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 105,
+      "batch": "return-02",
+      "frame": 9,
+      "integerY": 0,
+      "bbox": [
+        26,
+        5,
+        166,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 106,
+      "batch": "return-02",
+      "frame": 10,
+      "integerY": 0,
+      "bbox": [
+        25,
+        5,
+        167,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    },
+    {
+      "index": 107,
+      "batch": "return-02",
+      "frame": 11,
+      "integerY": 0,
+      "bbox": [
+        26,
+        5,
+        165,
+        203
+      ],
+      "pixelsEqualTranslatedAcceptedSource": true
+    }
+  ],
+  "allWholeFrameIntegerTranslationsVerified": true,
+  "noPerFrameScaling": true,
+  "allFinalLastVisiblePixelsY202": true,
+  "alphaBoundingBoxExclusiveBottom203": true,
+  "sourceAuthoredHashesUnique": 108,
+  "nativeSeamContacts": [
+    "final-native-seams-1.png",
+    "final-native-seams-2.png",
+    "final-native-seams-3.png"
+  ],
+  "exactAPNGPreview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\qa\\final-runtime-preview.apng",
+  "apngDurationMs": 8842.16666666967,
+  "cycleDurationMs": 4421.083333334835,
+  "OPDurationMs": 2919.583333333333,
+  "nativeVisualReviewPending": true
+}

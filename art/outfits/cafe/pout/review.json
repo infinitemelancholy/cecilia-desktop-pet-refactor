@@ -1,0 +1,162 @@
+{
+  "state": "cafe-pout",
+  "expected_frames": 6,
+  "actual_frames": 6,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\pout\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15798,
+      "bbox": [
+        27,
+        4,
+        164,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\pout\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15361,
+      "bbox": [
+        27,
+        4,
+        164,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\pout\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15484,
+      "bbox": [
+        27,
+        4,
+        164,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\pout\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15718,
+      "bbox": [
+        26,
+        8,
+        165,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\pout\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15650,
+      "bbox": [
+        26,
+        7,
+        165,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\pout\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15849,
+      "bbox": [
+        27,
+        6,
+        164,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ],
+  "source_bounds": [
+    [
+      232,
+      14,
+      535,
+      456
+    ],
+    [
+      674,
+      15,
+      975,
+      455
+    ],
+    [
+      1133,
+      14,
+      1434,
+      455
+    ],
+    [
+      1954,
+      24,
+      2262,
+      454
+    ],
+    [
+      2387,
+      23,
+      2696,
+      454
+    ],
+    [
+      2844,
+      20,
+      3147,
+      456
+    ]
+  ],
+  "source_files": [
+    "work/art-runs/cafe/q/sources/pout-raw.png"
+  ],
+  "strict_contour_chroma_pixels_removed": 1765,
+  "source_row_registration": {
+    "gap_cut_y": 463,
+    "top_row_shift_y": 0,
+    "bottom_row_shift_y": 12,
+    "source_ground_baselines": [
+      456,
+      907
+    ],
+    "method": "Whole rows moved only; no per-character scaling or cropping"
+  },
+  "grounded_pose_y_adjustments": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "shared_registration": "bundled fit_registered_component_groups; one scale for complete row; vertical displacement preserved"
+}

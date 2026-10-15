@@ -1,0 +1,9 @@
+{
+  "state": "running-right",
+  "approved": true,
+  "native_cell_size": [192, 208],
+  "frame_count": 8,
+  "evidence": "All faces, nose, bent torso and toes aim toward screen-right. Forward leg and crossover alternate visibly across eight frames; hair and cloak trail toward screen-left. Full connected silhouette, consistent scale and baseline, no clipping or detached effects.",
+  "mirror_approved": true,
+  "mirror_reason": "Symmetric blue bow, plain cape and hosiery, no directional text, handed prop or asymmetric badge. A framewise horizontal mirror preserves temporal order and character semantics. Parent explicitly requested mirrored approved running-left."
+}

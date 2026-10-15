@@ -1,0 +1,2 @@
+const {test}=require('node:test');const assert=require('node:assert/strict');const fs=require('node:fs');const path=require('node:path');
+test('legacy cursor-coordinate forwarding is removed from the presence wrapper',()=>{const source=fs.readFileSync(path.join(__dirname,'../renderer-presence.js'),'utf8');assert.ok(!source.includes('physicalClientX'));assert.ok(!source.includes('nearbyRadiusPx'));assert.ok(source.includes('__ceciliaPresence'));});

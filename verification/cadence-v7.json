@@ -1,0 +1,151 @@
+{
+  "passed": true,
+  "tests": 78,
+  "nativeCombinations": 60,
+  "nativeCallbackFpsMin": 50.027793218415844,
+  "nativeCallbackFpsMax": 63.20224719094923,
+  "isolatedUnavailableFrames": 0,
+  "maximumConsecutiveUnavailableFrames": 0,
+  "generalSpeedIncrease": 1.12,
+  "hopMs": 1500,
+  "hopTiming": [
+    {
+      "outfit": "classic",
+      "completeHopMs": 1470.400000001624,
+      "endedIn": "idle",
+      "passed": true
+    },
+    {
+      "outfit": "travel",
+      "completeHopMs": 1505.6000000023923,
+      "endedIn": "idle",
+      "passed": true
+    },
+    {
+      "outfit": "cafe",
+      "completeHopMs": 1468.9999999973224,
+      "endedIn": "idle",
+      "passed": true
+    }
+  ],
+  "twoCycles": {
+    "passed": true,
+    "wraps": 1,
+    "expectedMs": 3972.1498324610084,
+    "observedMs": 3954.700000002107
+  },
+  "petId": "pet_6ac71429ba50819188d4388111562bbd",
+  "timingRevision": 6,
+  "cadenceRevision": 7,
+  "activeAssets": 4580,
+  "helperPids": [
+    44356
+  ],
+  "final": {
+    "status": {
+      "stopped": false,
+      "mode": "task",
+      "renderFrames": 5,
+      "slowFrames": 1,
+      "clip": "running",
+      "elapsed": 185239.20000000251,
+      "phase": "dance",
+      "outfit": "cafe",
+      "danceId": null,
+      "duo": false,
+      "ready": true,
+      "playbackRate": 1.0006207939660023,
+      "frameIndex": 21,
+      "lookDirection": null,
+      "loadingAssets": 0,
+      "decodedAssets": 11,
+      "measurementWidth": 224,
+      "layout": {
+        "requestedWidth": 224,
+        "requestedHeight": 242.656,
+        "hostWidth": 224,
+        "hostHeight": 243,
+        "left": 620,
+        "top": 715
+      }
+    },
+    "state": {
+      "version": 2,
+      "outfit": "cafe",
+      "visibleMs": 23008307.167946864,
+      "nextOutfitAt": 21009122.73422321,
+      "phase": "dance",
+      "phaseElapsed": 37668.48196345061,
+      "scene": "lawrence-sleeve",
+      "sceneBag": [
+        "pout",
+        "bean",
+        "lie",
+        "sleepy",
+        "lump",
+        "shy",
+        "hop",
+        "hazelita-showcase"
+      ],
+      "outfitBag": [
+        "travel"
+      ],
+      "lastScene": "lawrence-sleeve",
+      "lastMode": "task",
+      "lastTask": "running",
+      "taskElapsed": 185239.20000000251,
+      "recoveryRemaining": 1200,
+      "resume": null,
+      "danceId": "op-turn",
+      "danceBag": [],
+      "lastDance": "op-turn",
+      "timingRevision": 6,
+      "timingLimits": {
+        "dance": 50465.04433050833,
+        "interlude": 15000,
+        "showcase": 6295.197239098937,
+        "scene": 2534.2160183104816
+      }
+    },
+    "canvasCount": 1,
+    "fixturePresent": false
+  },
+  "cleanup": [
+    {
+      "directory": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\cadence-v7",
+      "files": 1055,
+      "fileBytes": 743686903
+    },
+    {
+      "directory": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\cadence-v7-small",
+      "files": 6633,
+      "fileBytes": 1638853418
+    },
+    {
+      "directory": "<本机路径已省略>\\xia\\outputs\\cecilia-smooth\\art\\runtime\\cadence-v7",
+      "files": 1055,
+      "fileBytes": 743686903
+    },
+    {
+      "directory": "<本机路径已省略>\\xia\\outputs\\cecilia-smooth\\art\\runtime\\cadence-v7-small",
+      "files": 6633,
+      "fileBytes": 1638853418
+    },
+    {
+      "directory": "<本机路径已省略>\\wo-g\\work\\candidate\\art\\runtime\\cadence-v7",
+      "files": 1055,
+      "fileBytes": 743686903
+    },
+    {
+      "directory": "<本机路径已省略>\\wo-g\\work\\candidate\\art\\runtime\\cadence-v7-small",
+      "files": 6633,
+      "fileBytes": 1638853418
+    }
+  ],
+  "applicationRestarted": false,
+  "limitations": [
+    "Native performance numbers are short current-session samples, not a guarantee of a constant 60 FPS under every desktop workload.",
+    "Motion interpolation preserves current artwork; it does not establish frame-for-frame equivalence to the anime.",
+    "Full application exit and cold-start launch were not performed in this session."
+  ]
+}

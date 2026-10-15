@@ -1,0 +1,80 @@
+{
+  "outfit": "cafe",
+  "completedFrames": 108,
+  "allActualFrameReviewsPass": true,
+  "records": [
+    {
+      "clip": "segment-01",
+      "frames": 12,
+      "ok": true,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-01\\qa\\source-raw.png",
+      "fps": 24.66105233149288,
+      "preview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-01\\preview.mp4"
+    },
+    {
+      "clip": "segment-02",
+      "frames": 12,
+      "ok": true,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-02\\qa\\source-raw.png",
+      "fps": 24.66105233149288,
+      "preview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-02\\preview.mp4"
+    },
+    {
+      "clip": "segment-03",
+      "frames": 12,
+      "ok": true,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-03\\qa\\source-raw.png",
+      "fps": 24.66105233149288,
+      "preview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-03\\preview.mp4"
+    },
+    {
+      "clip": "segment-04",
+      "frames": 12,
+      "ok": true,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-04\\qa\\source-raw.png",
+      "fps": 24.66105233149288,
+      "preview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-04\\preview.mp4"
+    },
+    {
+      "clip": "segment-05",
+      "frames": 12,
+      "ok": true,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-05\\qa\\source-raw.png",
+      "fps": 24.66105233149288,
+      "preview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-05\\preview.mp4"
+    },
+    {
+      "clip": "entry",
+      "frames": 12,
+      "ok": true,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\entry\\qa\\source-raw.png",
+      "fps": 23.976025892189885,
+      "preview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\entry\\preview.mp4"
+    },
+    {
+      "clip": "segment-06",
+      "frames": 12,
+      "ok": true,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-06\\qa\\source-raw.png",
+      "fps": 24.66105233149288,
+      "preview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-06\\preview.mp4"
+    },
+    {
+      "clip": "return-01",
+      "frames": 12,
+      "ok": true,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-01\\qa\\source-raw.png",
+      "fps": 23.976025892189885,
+      "preview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-01\\preview.mp4"
+    },
+    {
+      "clip": "return-02",
+      "frames": 12,
+      "ok": true,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-02\\qa\\source-raw.png",
+      "fps": 23.976025892189885,
+      "preview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\return-02\\preview.mp4"
+    }
+  ],
+  "outstanding": "Parent combined cross-segment registration and final joint playback review."
+}

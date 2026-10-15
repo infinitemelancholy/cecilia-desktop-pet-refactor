@@ -1,0 +1,99 @@
+{
+  "acceptedStandalone": true,
+  "jointSequenceReview": "Parent performs full108 seam review and shared registration.",
+  "originalImageGenPath": "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-a8df-76e2-a6e5-5394410b188c\\exec-c7b8b153-e3be-48dc-ae68-65a08667b55e.png",
+  "sourceArchive": "<本机路径已省略>\\xia\\work\\art-runs\\cafe\\dance\\sources\\segment-06-seam-raw.png",
+  "prompt": "<本机路径已省略>\\xia\\work\\art-runs\\cafe\\prompts\\dance-06-seam-v2.txt",
+  "referencedImages": [
+    "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\canonical.png",
+    "<本机路径已省略>\\xia\\work\\references\\official\\episode-06-01.png",
+    "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-06-seam-grid.png",
+    "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-a8df-76e2-a6e5-5394410b188c\\exec-2d6806b6-c960-43bc-959c-aaec713e8491.png",
+    "<本机路径已省略>\\xia\\work\\art-runs\\cafe\\references\\dance\\guide-two-six-panoramic.png"
+  ],
+  "transparentBackground": true,
+  "actualFrames": 12,
+  "uniqueDrawnPoses": 12,
+  "durationMsPerFrame": 40.54976851851852,
+  "previewFps": 24.661053232481805,
+  "bundledFrameInspection": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-06-seam\\review.json",
+  "inspectionPassed": true,
+  "sourceAlphaInspection": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-06-seam\\qa\\source-alpha-inspection.json",
+  "sourceEdgeContacts": 0,
+  "finalCellBboxes": [
+    [
+      12,
+      6,
+      178,
+      203
+    ],
+    [
+      16,
+      6,
+      175,
+      203
+    ],
+    [
+      9,
+      6,
+      182,
+      203
+    ],
+    [
+      14,
+      6,
+      177,
+      203
+    ],
+    [
+      12,
+      6,
+      179,
+      203
+    ],
+    [
+      13,
+      5,
+      178,
+      202
+    ],
+    [
+      12,
+      7,
+      179,
+      202
+    ],
+    [
+      14,
+      8,
+      177,
+      203
+    ],
+    [
+      14,
+      8,
+      176,
+      203
+    ],
+    [
+      12,
+      7,
+      179,
+      202
+    ],
+    [
+      12,
+      7,
+      179,
+      202
+    ],
+    [
+      13,
+      8,
+      178,
+      202
+    ]
+  ],
+  "normalSizePreview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\dance\\segment-06-seam\\preview.mp4",
+  "sharedRegistration": "Bundled one shared whole family fit; no per-frame scale."
+}

@@ -1,0 +1,27 @@
+{
+  "fixture": "existing art only; idle used for playback probe, no OP dance",
+  "passed": true,
+  "active": {
+    "stopped": false,
+    "mode": "task",
+    "renderFrames": 7,
+    "slowFrames": 0,
+    "clip": "running",
+    "elapsed": 1005.4000000031665,
+    "phase": "dance",
+    "outfit": "classic",
+    "duo": false,
+    "lookDirection": null,
+    "measurementWidth": 224,
+    "nativeTask": "running",
+    "spriteVisibility": "hidden",
+    "layerCount": 1,
+    "visiblePixels": 20851
+  },
+  "fallback": {
+    "playerPresent": false,
+    "gazePresent": true,
+    "spriteVisibility": "",
+    "layerCount": 0
+  }
+}

@@ -1,0 +1,1662 @@
+{
+  "authored_frames": 108,
+  "segments": [
+    "entry",
+    "segment-01",
+    "segment-02",
+    "segment-03-v3",
+    "segment-04",
+    "segment-05-final",
+    "segment-06-seam",
+    "return-01-seam",
+    "return-02-seam"
+  ],
+  "duration_ms": 4421.083333334835,
+  "gif_duration_ms": 4420,
+  "webp_duration_ms": 4421,
+  "original_frame_files_and_times": [
+    {
+      "segment": "entry",
+      "local_index": 0,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\entry\\00.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 0,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        21,
+        7,
+        150,
+        193
+      ]
+    },
+    {
+      "segment": "entry",
+      "local_index": 1,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\entry\\01.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 1,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        20,
+        8,
+        150,
+        193
+      ]
+    },
+    {
+      "segment": "entry",
+      "local_index": 2,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\entry\\02.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 2,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        20,
+        8,
+        150,
+        193
+      ]
+    },
+    {
+      "segment": "entry",
+      "local_index": 3,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\entry\\03.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 3,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        21,
+        8,
+        150,
+        193
+      ]
+    },
+    {
+      "segment": "entry",
+      "local_index": 4,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\entry\\04.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 4,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        21,
+        7,
+        149,
+        193
+      ]
+    },
+    {
+      "segment": "entry",
+      "local_index": 5,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\entry\\05.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 5,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        22,
+        8,
+        148,
+        193
+      ]
+    },
+    {
+      "segment": "entry",
+      "local_index": 6,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\entry\\06.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 6,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        20,
+        9,
+        150,
+        192
+      ]
+    },
+    {
+      "segment": "entry",
+      "local_index": 7,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\entry\\07.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 7,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        21,
+        9,
+        149,
+        191
+      ]
+    },
+    {
+      "segment": "entry",
+      "local_index": 8,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\entry\\08.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 8,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        20,
+        9,
+        150,
+        192
+      ]
+    },
+    {
+      "segment": "entry",
+      "local_index": 9,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\entry\\09.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 9,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        19,
+        9,
+        153,
+        192
+      ]
+    },
+    {
+      "segment": "entry",
+      "local_index": 10,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\entry\\10.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 10,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        20,
+        9,
+        151,
+        191
+      ]
+    },
+    {
+      "segment": "entry",
+      "local_index": 11,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\entry\\11.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 11,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        23,
+        10,
+        145,
+        191
+      ]
+    },
+    {
+      "segment": "segment-01",
+      "local_index": 0,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-01\\00.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 12,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        27,
+        8,
+        137,
+        192
+      ]
+    },
+    {
+      "segment": "segment-01",
+      "local_index": 1,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-01\\01.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 13,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        29,
+        9,
+        134,
+        191
+      ]
+    },
+    {
+      "segment": "segment-01",
+      "local_index": 2,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-01\\02.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 14,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        30,
+        8,
+        132,
+        192
+      ]
+    },
+    {
+      "segment": "segment-01",
+      "local_index": 3,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-01\\03.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 15,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        30,
+        7,
+        132,
+        194
+      ]
+    },
+    {
+      "segment": "segment-01",
+      "local_index": 4,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-01\\04.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 16,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        31,
+        7,
+        130,
+        194
+      ]
+    },
+    {
+      "segment": "segment-01",
+      "local_index": 5,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-01\\05.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 17,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        30,
+        8,
+        132,
+        192
+      ]
+    },
+    {
+      "segment": "segment-01",
+      "local_index": 6,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-01\\06.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 18,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        30,
+        11,
+        132,
+        190
+      ]
+    },
+    {
+      "segment": "segment-01",
+      "local_index": 7,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-01\\07.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 19,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        33,
+        11,
+        125,
+        189
+      ]
+    },
+    {
+      "segment": "segment-01",
+      "local_index": 8,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-01\\08.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 20,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        27,
+        10,
+        138,
+        191
+      ]
+    },
+    {
+      "segment": "segment-01",
+      "local_index": 9,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-01\\09.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 21,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        28,
+        11,
+        136,
+        190
+      ]
+    },
+    {
+      "segment": "segment-01",
+      "local_index": 10,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-01\\10.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 22,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        27,
+        11,
+        138,
+        190
+      ]
+    },
+    {
+      "segment": "segment-01",
+      "local_index": 11,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-01\\11.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 23,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        34,
+        9,
+        124,
+        192
+      ]
+    },
+    {
+      "segment": "segment-02",
+      "local_index": 0,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-02\\00.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 24,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        25,
+        13,
+        141,
+        188
+      ]
+    },
+    {
+      "segment": "segment-02",
+      "local_index": 1,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-02\\01.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 25,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        26,
+        10,
+        139,
+        191
+      ]
+    },
+    {
+      "segment": "segment-02",
+      "local_index": 2,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-02\\02.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 26,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        24,
+        9,
+        143,
+        192
+      ]
+    },
+    {
+      "segment": "segment-02",
+      "local_index": 3,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-02\\03.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 27,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        24,
+        9,
+        143,
+        192
+      ]
+    },
+    {
+      "segment": "segment-02",
+      "local_index": 4,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-02\\04.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 28,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        25,
+        9,
+        141,
+        191
+      ]
+    },
+    {
+      "segment": "segment-02",
+      "local_index": 5,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-02\\05.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 29,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        23,
+        10,
+        145,
+        191
+      ]
+    },
+    {
+      "segment": "segment-02",
+      "local_index": 6,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-02\\06.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 30,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        20,
+        11,
+        150,
+        190
+      ]
+    },
+    {
+      "segment": "segment-02",
+      "local_index": 7,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-02\\07.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 31,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        20,
+        13,
+        151,
+        188
+      ]
+    },
+    {
+      "segment": "segment-02",
+      "local_index": 8,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-02\\08.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 32,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        23,
+        12,
+        145,
+        188
+      ]
+    },
+    {
+      "segment": "segment-02",
+      "local_index": 9,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-02\\09.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 33,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        22,
+        11,
+        147,
+        189
+      ]
+    },
+    {
+      "segment": "segment-02",
+      "local_index": 10,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-02\\10.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 34,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        23,
+        11,
+        146,
+        190
+      ]
+    },
+    {
+      "segment": "segment-02",
+      "local_index": 11,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-02\\11.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 35,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        23,
+        14,
+        146,
+        187
+      ]
+    },
+    {
+      "segment": "segment-03-v3",
+      "local_index": 0,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-03-v3\\00.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 36,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        14,
+        8,
+        163,
+        193
+      ]
+    },
+    {
+      "segment": "segment-03-v3",
+      "local_index": 1,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-03-v3\\01.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 37,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        11,
+        9,
+        170,
+        192
+      ]
+    },
+    {
+      "segment": "segment-03-v3",
+      "local_index": 2,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-03-v3\\02.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 38,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        10,
+        9,
+        172,
+        192
+      ]
+    },
+    {
+      "segment": "segment-03-v3",
+      "local_index": 3,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-03-v3\\03.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 39,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        10,
+        8,
+        172,
+        192
+      ]
+    },
+    {
+      "segment": "segment-03-v3",
+      "local_index": 4,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-03-v3\\04.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 40,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        10,
+        9,
+        171,
+        192
+      ]
+    },
+    {
+      "segment": "segment-03-v3",
+      "local_index": 5,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-03-v3\\05.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 41,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        11,
+        10,
+        170,
+        191
+      ]
+    },
+    {
+      "segment": "segment-03-v3",
+      "local_index": 6,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-03-v3\\06.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 42,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        11,
+        12,
+        169,
+        189
+      ]
+    },
+    {
+      "segment": "segment-03-v3",
+      "local_index": 7,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-03-v3\\07.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 43,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        11,
+        11,
+        170,
+        190
+      ]
+    },
+    {
+      "segment": "segment-03-v3",
+      "local_index": 8,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-03-v3\\08.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 44,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        11,
+        13,
+        169,
+        188
+      ]
+    },
+    {
+      "segment": "segment-03-v3",
+      "local_index": 9,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-03-v3\\09.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 45,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        12,
+        12,
+        167,
+        189
+      ]
+    },
+    {
+      "segment": "segment-03-v3",
+      "local_index": 10,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-03-v3\\10.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 46,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        15,
+        11,
+        162,
+        190
+      ]
+    },
+    {
+      "segment": "segment-03-v3",
+      "local_index": 11,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-03-v3\\11.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 47,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        20,
+        11,
+        151,
+        190
+      ]
+    },
+    {
+      "segment": "segment-04",
+      "local_index": 0,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-04\\00.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 48,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        27,
+        10,
+        138,
+        190
+      ]
+    },
+    {
+      "segment": "segment-04",
+      "local_index": 1,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-04\\01.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 49,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        25,
+        8,
+        142,
+        192
+      ]
+    },
+    {
+      "segment": "segment-04",
+      "local_index": 2,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-04\\02.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 50,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        24,
+        9,
+        144,
+        191
+      ]
+    },
+    {
+      "segment": "segment-04",
+      "local_index": 3,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-04\\03.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 51,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        21,
+        9,
+        150,
+        192
+      ]
+    },
+    {
+      "segment": "segment-04",
+      "local_index": 4,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-04\\04.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 52,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        21,
+        9,
+        150,
+        192
+      ]
+    },
+    {
+      "segment": "segment-04",
+      "local_index": 5,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-04\\05.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 53,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        22,
+        9,
+        148,
+        192
+      ]
+    },
+    {
+      "segment": "segment-04",
+      "local_index": 6,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-04\\06.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 54,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        19,
+        16,
+        153,
+        185
+      ]
+    },
+    {
+      "segment": "segment-04",
+      "local_index": 7,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-04\\07.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 55,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        21,
+        16,
+        150,
+        184
+      ]
+    },
+    {
+      "segment": "segment-04",
+      "local_index": 8,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-04\\08.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 56,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        22,
+        17,
+        148,
+        184
+      ]
+    },
+    {
+      "segment": "segment-04",
+      "local_index": 9,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-04\\09.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 57,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        30,
+        17,
+        132,
+        184
+      ]
+    },
+    {
+      "segment": "segment-04",
+      "local_index": 10,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-04\\10.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 58,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        18,
+        18,
+        157,
+        183
+      ]
+    },
+    {
+      "segment": "segment-04",
+      "local_index": 11,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-04\\11.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 59,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        23,
+        17,
+        145,
+        184
+      ]
+    },
+    {
+      "segment": "segment-05-final",
+      "local_index": 0,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\00.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 60,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        22,
+        11,
+        147,
+        190
+      ]
+    },
+    {
+      "segment": "segment-05-final",
+      "local_index": 1,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\01.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 61,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        14,
+        10,
+        164,
+        191
+      ]
+    },
+    {
+      "segment": "segment-05-final",
+      "local_index": 2,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\02.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 62,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        19,
+        9,
+        153,
+        192
+      ]
+    },
+    {
+      "segment": "segment-05-final",
+      "local_index": 3,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\03.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 63,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        9,
+        9,
+        174,
+        192
+      ]
+    },
+    {
+      "segment": "segment-05-final",
+      "local_index": 4,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\04.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 64,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        9,
+        8,
+        173,
+        193
+      ]
+    },
+    {
+      "segment": "segment-05-final",
+      "local_index": 5,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\05.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 65,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        12,
+        9,
+        167,
+        192
+      ]
+    },
+    {
+      "segment": "segment-05-final",
+      "local_index": 6,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\06.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 66,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        10,
+        11,
+        171,
+        189
+      ]
+    },
+    {
+      "segment": "segment-05-final",
+      "local_index": 7,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\07.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 67,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        10,
+        11,
+        172,
+        189
+      ]
+    },
+    {
+      "segment": "segment-05-final",
+      "local_index": 8,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\08.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 68,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        9,
+        9,
+        173,
+        192
+      ]
+    },
+    {
+      "segment": "segment-05-final",
+      "local_index": 9,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\09.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 69,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        8,
+        13,
+        176,
+        187
+      ]
+    },
+    {
+      "segment": "segment-05-final",
+      "local_index": 10,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\10.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 70,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        5,
+        7,
+        182,
+        196
+      ]
+    },
+    {
+      "segment": "segment-05-final",
+      "local_index": 11,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\11.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 71,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        11,
+        11,
+        170,
+        189
+      ]
+    },
+    {
+      "segment": "segment-06-seam",
+      "local_index": 0,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-06-seam\\00.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 72,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        8,
+        9,
+        174,
+        192
+      ]
+    },
+    {
+      "segment": "segment-06-seam",
+      "local_index": 1,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-06-seam\\01.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 73,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        9,
+        10,
+        173,
+        191
+      ]
+    },
+    {
+      "segment": "segment-06-seam",
+      "local_index": 2,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-06-seam\\02.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 74,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        9,
+        11,
+        173,
+        190
+      ]
+    },
+    {
+      "segment": "segment-06-seam",
+      "local_index": 3,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-06-seam\\03.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 75,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        7,
+        11,
+        177,
+        190
+      ]
+    },
+    {
+      "segment": "segment-06-seam",
+      "local_index": 4,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-06-seam\\04.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 76,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        11,
+        10,
+        169,
+        191
+      ]
+    },
+    {
+      "segment": "segment-06-seam",
+      "local_index": 5,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-06-seam\\05.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 77,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        10,
+        9,
+        171,
+        192
+      ]
+    },
+    {
+      "segment": "segment-06-seam",
+      "local_index": 6,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-06-seam\\06.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 78,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        8,
+        10,
+        174,
+        191
+      ]
+    },
+    {
+      "segment": "segment-06-seam",
+      "local_index": 7,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-06-seam\\07.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 79,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        8,
+        10,
+        175,
+        191
+      ]
+    },
+    {
+      "segment": "segment-06-seam",
+      "local_index": 8,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-06-seam\\08.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 80,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        8,
+        10,
+        174,
+        191
+      ]
+    },
+    {
+      "segment": "segment-06-seam",
+      "local_index": 9,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-06-seam\\09.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 81,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        8,
+        10,
+        175,
+        191
+      ]
+    },
+    {
+      "segment": "segment-06-seam",
+      "local_index": 10,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-06-seam\\10.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 82,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        9,
+        10,
+        174,
+        191
+      ]
+    },
+    {
+      "segment": "segment-06-seam",
+      "local_index": 11,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-06-seam\\11.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 83,
+      "duration_ms": 40.54976851851851,
+      "solid_bbox_xywh": [
+        8,
+        9,
+        174,
+        192
+      ]
+    },
+    {
+      "segment": "return-01-seam",
+      "local_index": 0,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-01-seam\\00.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 84,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        12,
+        7,
+        167,
+        194
+      ]
+    },
+    {
+      "segment": "return-01-seam",
+      "local_index": 1,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-01-seam\\01.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 85,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        9,
+        7,
+        173,
+        194
+      ]
+    },
+    {
+      "segment": "return-01-seam",
+      "local_index": 2,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-01-seam\\02.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 86,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        10,
+        8,
+        172,
+        193
+      ]
+    },
+    {
+      "segment": "return-01-seam",
+      "local_index": 3,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-01-seam\\03.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 87,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        10,
+        8,
+        171,
+        193
+      ]
+    },
+    {
+      "segment": "return-01-seam",
+      "local_index": 4,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-01-seam\\04.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 88,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        8,
+        8,
+        175,
+        193
+      ]
+    },
+    {
+      "segment": "return-01-seam",
+      "local_index": 5,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-01-seam\\05.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 89,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        9,
+        8,
+        173,
+        193
+      ]
+    },
+    {
+      "segment": "return-01-seam",
+      "local_index": 6,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-01-seam\\06.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 90,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        8,
+        9,
+        175,
+        192
+      ]
+    },
+    {
+      "segment": "return-01-seam",
+      "local_index": 7,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-01-seam\\07.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 91,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        9,
+        9,
+        172,
+        192
+      ]
+    },
+    {
+      "segment": "return-01-seam",
+      "local_index": 8,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-01-seam\\08.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 92,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        10,
+        9,
+        171,
+        192
+      ]
+    },
+    {
+      "segment": "return-01-seam",
+      "local_index": 9,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-01-seam\\09.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 93,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        10,
+        9,
+        171,
+        192
+      ]
+    },
+    {
+      "segment": "return-01-seam",
+      "local_index": 10,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-01-seam\\10.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 94,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        10,
+        9,
+        171,
+        192
+      ]
+    },
+    {
+      "segment": "return-01-seam",
+      "local_index": 11,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-01-seam\\11.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 95,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        12,
+        9,
+        167,
+        192
+      ]
+    },
+    {
+      "segment": "return-02-seam",
+      "local_index": 0,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-02-seam\\00.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 96,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        12,
+        10,
+        168,
+        191
+      ]
+    },
+    {
+      "segment": "return-02-seam",
+      "local_index": 1,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-02-seam\\01.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 97,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        11,
+        10,
+        170,
+        191
+      ]
+    },
+    {
+      "segment": "return-02-seam",
+      "local_index": 2,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-02-seam\\02.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 98,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        18,
+        11,
+        156,
+        190
+      ]
+    },
+    {
+      "segment": "return-02-seam",
+      "local_index": 3,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-02-seam\\03.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 99,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        23,
+        10,
+        146,
+        191
+      ]
+    },
+    {
+      "segment": "return-02-seam",
+      "local_index": 4,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-02-seam\\04.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 100,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        23,
+        10,
+        145,
+        191
+      ]
+    },
+    {
+      "segment": "return-02-seam",
+      "local_index": 5,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-02-seam\\05.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 101,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        24,
+        10,
+        144,
+        191
+      ]
+    },
+    {
+      "segment": "return-02-seam",
+      "local_index": 6,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-02-seam\\06.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 102,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        23,
+        7,
+        146,
+        194
+      ]
+    },
+    {
+      "segment": "return-02-seam",
+      "local_index": 7,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-02-seam\\07.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 103,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        22,
+        7,
+        147,
+        194
+      ]
+    },
+    {
+      "segment": "return-02-seam",
+      "local_index": 8,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-02-seam\\08.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 104,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        22,
+        7,
+        147,
+        194
+      ]
+    },
+    {
+      "segment": "return-02-seam",
+      "local_index": 9,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-02-seam\\09.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 105,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        22,
+        7,
+        147,
+        194
+      ]
+    },
+    {
+      "segment": "return-02-seam",
+      "local_index": 10,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-02-seam\\10.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 106,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        23,
+        7,
+        146,
+        194
+      ]
+    },
+    {
+      "segment": "return-02-seam",
+      "local_index": 11,
+      "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-02-seam\\11.png",
+      "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+      "cell": 107,
+      "duration_ms": 41.70833333337504,
+      "solid_bbox_xywh": [
+        23,
+        7,
+        146,
+        194
+      ]
+    }
+  ],
+  "seam_measurements": [
+    {
+      "from": "entry/11",
+      "to": "segment-01/00",
+      "before": {
+        "segment": "entry",
+        "local_index": 11,
+        "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\entry\\11.png",
+        "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+        "cell": 11,
+        "duration_ms": 41.70833333337504,
+        "solid_bbox_xywh": [
+          23,
+          10,
+          145,
+          191
+        ]
+      },
+      "after": {
+        "segment": "segment-01",
+        "local_index": 0,
+        "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-01\\00.png",
+        "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+        "cell": 12,
+        "duration_ms": 40.54976851851851,
+        "solid_bbox_xywh": [
+          27,
+          8,
+          137,
+          192
+        ]
+      }
+    },
+    {
+      "from": "segment-03-v3/11",
+      "to": "segment-04/00",
+      "before": {
+        "segment": "segment-03-v3",
+        "local_index": 11,
+        "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-03-v3\\11.png",
+        "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+        "cell": 47,
+        "duration_ms": 40.54976851851851,
+        "solid_bbox_xywh": [
+          20,
+          11,
+          151,
+          190
+        ]
+      },
+      "after": {
+        "segment": "segment-04",
+        "local_index": 0,
+        "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-04\\00.png",
+        "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+        "cell": 48,
+        "duration_ms": 40.54976851851851,
+        "solid_bbox_xywh": [
+          27,
+          10,
+          138,
+          190
+        ]
+      }
+    },
+    {
+      "from": "segment-05-final/11",
+      "to": "segment-06-seam/00",
+      "before": {
+        "segment": "segment-05-final",
+        "local_index": 11,
+        "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\11.png",
+        "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+        "cell": 71,
+        "duration_ms": 40.54976851851851,
+        "solid_bbox_xywh": [
+          11,
+          11,
+          170,
+          189
+        ]
+      },
+      "after": {
+        "segment": "segment-06-seam",
+        "local_index": 0,
+        "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-06-seam\\00.png",
+        "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+        "cell": 72,
+        "duration_ms": 40.54976851851851,
+        "solid_bbox_xywh": [
+          8,
+          9,
+          174,
+          192
+        ]
+      }
+    },
+    {
+      "from": "return-02-seam/11",
+      "to": "entry/00",
+      "before": {
+        "segment": "return-02-seam",
+        "local_index": 11,
+        "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-02-seam\\11.png",
+        "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+        "cell": 107,
+        "duration_ms": 41.70833333337504,
+        "solid_bbox_xywh": [
+          23,
+          7,
+          146,
+          194
+        ]
+      },
+      "after": {
+        "segment": "entry",
+        "local_index": 0,
+        "intermediate_file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\entry\\00.png",
+        "final_asset": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\runtime\\classic-dance.png",
+        "cell": 0,
+        "duration_ms": 41.70833333337504,
+        "solid_bbox_xywh": [
+          21,
+          7,
+          150,
+          193
+        ]
+      }
+    }
+  ],
+  "render_method": "Only existing generated PNG pixels composited; timing preserved with cumulative quantization. No invented frames, interpolation or procedural character drawing."
+}

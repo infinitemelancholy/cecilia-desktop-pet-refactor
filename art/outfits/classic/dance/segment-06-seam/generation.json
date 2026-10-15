@@ -1,0 +1,11 @@
+{
+  "key": "seam06",
+  "prompt": "Exactly TWELVE independently drawn animation frames in 2 rows of 6 evenly spaced full-body figures, transparent RGBA, wide 3:1 canvas. Same chibi Cecilia classic ivory hood, mint long hair, green eyes, navy/ivory saint skirt. Keep EXACT SAME head size and body scale as the FIRST reference, no shrink! Native body 193–196px high in 192x208 cell. Long hair must fall mostly DOWN in a compact silhouette instead of fanning broadly to the sides, leave wide transparent gaps between ALL figures. Every figure isolated and complete; no texts/shadows. Same camera/ground plane. Real gradual limb/head/hair drawings, no repeated low-FPS pose padding. FIRST reference is the precise prior frame to continue: preserve its supporting left leg grounded and other leg extended outward towards viewer RIGHT, SAME head/hood center and face dimensions. Frame00 matches this frame with closed-eye happy smile, frame01 eyelids partly lift, frame02 both eyes open; frames02–11 keep green eyes open. RIGHT arm on viewer LEFT stays diagonally raised upward throughout, opposite hand low and to viewer-right, joyful lean. The extended foot remains on viewer RIGHT through ALL12, DO NOT jump into the old crossed-leg stance of second reference. Over12, only gentle sway and lagging skirt/hair, gradually reduce head tilt a little at the very end while preserving height. SECOND reference only shows broadly the action rhythm; override its crossed feet and small head with FIRST reference anatomy. Third reference original neutral character identity.",
+  "refs": [
+    "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-05-final\\11.png",
+    "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\segment-06-open-grid.png",
+    "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\entry\\00.png"
+  ],
+  "accepted": true,
+  "continuityReview": "qa-continuous/manual-review.json"
+}

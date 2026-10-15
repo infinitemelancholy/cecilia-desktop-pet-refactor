@@ -1,0 +1,1600 @@
+{
+  "status": "complete-authored-sources",
+  "runtimeFinalVisualPending": true,
+  "sourceFrameCount": 108,
+  "uniqueWholeFrameHashes": 108,
+  "batches": [
+    {
+      "batch": "entry",
+      "frames": 12,
+      "distinctAuthoredHashes": 12,
+      "review": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\entry\\review.json",
+      "visual": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\entry\\visual.json",
+      "actualStructuralQA": true
+    },
+    {
+      "batch": "segment-01",
+      "frames": 12,
+      "distinctAuthoredHashes": 12,
+      "review": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-01\\review.json",
+      "visual": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-01\\visual.json",
+      "actualStructuralQA": true
+    },
+    {
+      "batch": "segment-02",
+      "frames": 12,
+      "distinctAuthoredHashes": 12,
+      "review": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-02\\review.json",
+      "visual": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-02\\visual.json",
+      "actualStructuralQA": true
+    },
+    {
+      "batch": "segment-03",
+      "frames": 12,
+      "distinctAuthoredHashes": 12,
+      "review": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-03\\review.json",
+      "visual": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-03\\visual.json",
+      "actualStructuralQA": true
+    },
+    {
+      "batch": "segment-04",
+      "frames": 12,
+      "distinctAuthoredHashes": 12,
+      "review": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\review.json",
+      "visual": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\visual.json",
+      "actualStructuralQA": true
+    },
+    {
+      "batch": "segment-05",
+      "frames": 12,
+      "distinctAuthoredHashes": 12,
+      "review": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-05\\review.json",
+      "visual": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-05\\visual.json",
+      "actualStructuralQA": true
+    },
+    {
+      "batch": "segment-06",
+      "frames": 12,
+      "distinctAuthoredHashes": 12,
+      "review": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-06\\review.json",
+      "visual": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-06\\visual.json",
+      "actualStructuralQA": true
+    },
+    {
+      "batch": "return-01",
+      "frames": 12,
+      "distinctAuthoredHashes": 12,
+      "review": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-01\\review.json",
+      "visual": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-01\\visual.json",
+      "actualStructuralQA": true
+    },
+    {
+      "batch": "return-02",
+      "frames": 12,
+      "distinctAuthoredHashes": 12,
+      "review": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-02\\review.json",
+      "visual": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-02\\visual.json",
+      "actualStructuralQA": true
+    }
+  ],
+  "frames": [
+    {
+      "index": 0,
+      "batch": "entry",
+      "batchFrame": 0,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\entry\\00.png",
+      "sha256": "f601bfd5e6c8b4bf21706f3063097521c333ed28c3bf8927e9f08586d429d8dd",
+      "durationMs": 41.708333,
+      "bbox": [
+        21,
+        5,
+        170,
+        203
+      ]
+    },
+    {
+      "index": 1,
+      "batch": "entry",
+      "batchFrame": 1,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\entry\\01.png",
+      "sha256": "23d14f8d8f1fe87e04ed34a27b95b207288c4194e43982433f2da27efb02780d",
+      "durationMs": 41.708333,
+      "bbox": [
+        22,
+        5,
+        169,
+        203
+      ]
+    },
+    {
+      "index": 2,
+      "batch": "entry",
+      "batchFrame": 2,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\entry\\02.png",
+      "sha256": "1d32fbfab2fbf10089b887c782db3a55bdd325754d88e61acaacd8a9af7048b6",
+      "durationMs": 41.708333,
+      "bbox": [
+        22,
+        5,
+        169,
+        203
+      ]
+    },
+    {
+      "index": 3,
+      "batch": "entry",
+      "batchFrame": 3,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\entry\\03.png",
+      "sha256": "3a4b28e3f7546e48edd7c43f1907fd514d57b5ea00a046db9308c1f2b85b03cf",
+      "durationMs": 41.708333,
+      "bbox": [
+        23,
+        5,
+        168,
+        203
+      ]
+    },
+    {
+      "index": 4,
+      "batch": "entry",
+      "batchFrame": 4,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\entry\\04.png",
+      "sha256": "a94fccfad78f5bd2e317973d4bdea08aba7485e3229d3522fc4e5d546811971e",
+      "durationMs": 41.708333,
+      "bbox": [
+        23,
+        5,
+        168,
+        203
+      ]
+    },
+    {
+      "index": 5,
+      "batch": "entry",
+      "batchFrame": 5,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\entry\\05.png",
+      "sha256": "e5dff9e96e87a8f304dd07e397b6c901077de7a54e1ca6eea64d8ebfb57804b1",
+      "durationMs": 41.708333,
+      "bbox": [
+        25,
+        5,
+        165,
+        203
+      ]
+    },
+    {
+      "index": 6,
+      "batch": "entry",
+      "batchFrame": 6,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\entry\\06.png",
+      "sha256": "bf26e56e8e0875581b2b78edd531853eb553582a47508d6a9c80bff5c6882c07",
+      "durationMs": 41.708333,
+      "bbox": [
+        23,
+        6,
+        168,
+        203
+      ]
+    },
+    {
+      "index": 7,
+      "batch": "entry",
+      "batchFrame": 7,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\entry\\07.png",
+      "sha256": "12ba3aecdba7176d92df7cefc3d684e8278172cad6b73b982fee01e9cdf4f074",
+      "durationMs": 41.708333,
+      "bbox": [
+        23,
+        7,
+        168,
+        203
+      ]
+    },
+    {
+      "index": 8,
+      "batch": "entry",
+      "batchFrame": 8,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\entry\\08.png",
+      "sha256": "bea1174f66e08e4b56b840a3205b3e1edfe1d8ec96aa7cb4859a7db29c657d26",
+      "durationMs": 41.708333,
+      "bbox": [
+        25,
+        8,
+        166,
+        203
+      ]
+    },
+    {
+      "index": 9,
+      "batch": "entry",
+      "batchFrame": 9,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\entry\\09.png",
+      "sha256": "6655e4eee36f5d4f86959823ea9551ef3f2213ec18ed10d9c8e80c46ed963c3e",
+      "durationMs": 41.708333,
+      "bbox": [
+        24,
+        7,
+        167,
+        202
+      ]
+    },
+    {
+      "index": 10,
+      "batch": "entry",
+      "batchFrame": 10,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\entry\\10.png",
+      "sha256": "05e46703bdcc83b2174ffac8df484dbd64106fe9589fc15c90e6776a6eadb79f",
+      "durationMs": 41.708333,
+      "bbox": [
+        24,
+        7,
+        166,
+        203
+      ]
+    },
+    {
+      "index": 11,
+      "batch": "entry",
+      "batchFrame": 11,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\entry\\11.png",
+      "sha256": "c4466fabdec7b1b80fb5f1b2cf74551020efa54076fc6e50745a8c0e07223ad8",
+      "durationMs": 41.708333,
+      "bbox": [
+        25,
+        5,
+        166,
+        203
+      ]
+    },
+    {
+      "index": 12,
+      "batch": "segment-01",
+      "batchFrame": 0,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-01\\00.png",
+      "sha256": "c4592e7d878188b0bcd8fc1cc9bf0ec7831674e4d22ef1043ba8d302060e4060",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        23,
+        8,
+        168,
+        202
+      ]
+    },
+    {
+      "index": 13,
+      "batch": "segment-01",
+      "batchFrame": 1,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-01\\01.png",
+      "sha256": "0455e403048fb5617fbb29e418e6cb86fd94df374bf5982304aafe69c9e14fdf",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        23,
+        8,
+        168,
+        203
+      ]
+    },
+    {
+      "index": 14,
+      "batch": "segment-01",
+      "batchFrame": 2,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-01\\02.png",
+      "sha256": "bd8504ee34444519519dcc8b562a0f7d57ac7a9ab61d735f4ea97ae02f8681fb",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        23,
+        8,
+        168,
+        202
+      ]
+    },
+    {
+      "index": 15,
+      "batch": "segment-01",
+      "batchFrame": 3,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-01\\03.png",
+      "sha256": "faf583c365cd48ec75117f0bbd65a96aa89db4317ad7002612307c05ac75c4f4",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        21,
+        8,
+        170,
+        202
+      ]
+    },
+    {
+      "index": 16,
+      "batch": "segment-01",
+      "batchFrame": 4,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-01\\04.png",
+      "sha256": "262a65c8367ac407835e50f04fd180983398cbf8dea0e7ee66df1a328b89a907",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        22,
+        8,
+        168,
+        202
+      ]
+    },
+    {
+      "index": 17,
+      "batch": "segment-01",
+      "batchFrame": 5,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-01\\05.png",
+      "sha256": "0472ed1d4d86261a5bd33ec6643ac76e582c506bcbffb5abe8df5bcb8e57eea6",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        24,
+        8,
+        168,
+        202
+      ]
+    },
+    {
+      "index": 18,
+      "batch": "segment-01",
+      "batchFrame": 6,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-01\\06.png",
+      "sha256": "522fcc5daf4b0c49a387640c341b233ce069c00bf6dcbfb2f2c80f9a0057924d",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        21,
+        6,
+        170,
+        203
+      ]
+    },
+    {
+      "index": 19,
+      "batch": "segment-01",
+      "batchFrame": 7,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-01\\07.png",
+      "sha256": "e30bbfb2240d66bb0b9e0c25035cffb3bf8ca6d9278886c864b3d1b61a6a2e0b",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        23,
+        5,
+        167,
+        202
+      ]
+    },
+    {
+      "index": 20,
+      "batch": "segment-01",
+      "batchFrame": 8,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-01\\08.png",
+      "sha256": "80e9661569348c2928ff0fe8cccd138399515166fecbdc2182261fcb0cc4e27a",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        20,
+        5,
+        171,
+        203
+      ]
+    },
+    {
+      "index": 21,
+      "batch": "segment-01",
+      "batchFrame": 9,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-01\\09.png",
+      "sha256": "8aaee30811c2c96c9b4a936f99c5e38af27230b990248427efcab1ddc1554f5a",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        19,
+        6,
+        172,
+        201
+      ]
+    },
+    {
+      "index": 22,
+      "batch": "segment-01",
+      "batchFrame": 10,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-01\\10.png",
+      "sha256": "3f664579193e7c6434f69b9ce8837669c2dc644759a4ea3728d5f887d9bdd0a9",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        20,
+        5,
+        171,
+        203
+      ]
+    },
+    {
+      "index": 23,
+      "batch": "segment-01",
+      "batchFrame": 11,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-01\\11.png",
+      "sha256": "42a62e37b258eccfd1e2acbeef301cc3d02695e95d3380469c23249b9ba0a15c",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        22,
+        5,
+        168,
+        201
+      ]
+    },
+    {
+      "index": 24,
+      "batch": "segment-02",
+      "batchFrame": 0,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-02\\00.png",
+      "sha256": "1fa47ef7cd511ba04ee8ff2a22f5081aa4e836ef656620e1a6a6b5a3d10e3633",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        30,
+        6,
+        162,
+        201
+      ]
+    },
+    {
+      "index": 25,
+      "batch": "segment-02",
+      "batchFrame": 1,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-02\\01.png",
+      "sha256": "c56082b084a1c7119eadb09d486bcb956597e28b4526ddb72de27c752db82591",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        33,
+        6,
+        159,
+        203
+      ]
+    },
+    {
+      "index": 26,
+      "batch": "segment-02",
+      "batchFrame": 2,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-02\\02.png",
+      "sha256": "02ab6ec3bb7fac352112d824fcd41a32a8a31a5ddd22e6cfe13166d4d40d5e67",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        31,
+        6,
+        161,
+        203
+      ]
+    },
+    {
+      "index": 27,
+      "batch": "segment-02",
+      "batchFrame": 3,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-02\\03.png",
+      "sha256": "ee4be22440493d99a6f579e6b49759dc46ea783ce41c5364d4db7193d71c1536",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        30,
+        6,
+        162,
+        202
+      ]
+    },
+    {
+      "index": 28,
+      "batch": "segment-02",
+      "batchFrame": 4,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-02\\04.png",
+      "sha256": "9d09498725638eb189966f689279a567801caf0efc0edd7da0a72c8ac3fa7ebc",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        31,
+        6,
+        161,
+        203
+      ]
+    },
+    {
+      "index": 29,
+      "batch": "segment-02",
+      "batchFrame": 5,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-02\\05.png",
+      "sha256": "5c5efa9a1d5e1d688cc607506768a418ce0ab4ec78d8e903e1b3b963a3023b08",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        31,
+        6,
+        161,
+        203
+      ]
+    },
+    {
+      "index": 30,
+      "batch": "segment-02",
+      "batchFrame": 6,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-02\\06.png",
+      "sha256": "ba3bb7645936be22ca7acffb700a930ef3cb84d089f4be97d423e866d83f1ef4",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        30,
+        6,
+        162,
+        203
+      ]
+    },
+    {
+      "index": 31,
+      "batch": "segment-02",
+      "batchFrame": 7,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-02\\07.png",
+      "sha256": "0a0c53571d86e29d36e8c7fea9280e02a797b5107215c8a972b05688c599e6ff",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        31,
+        6,
+        161,
+        203
+      ]
+    },
+    {
+      "index": 32,
+      "batch": "segment-02",
+      "batchFrame": 8,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-02\\08.png",
+      "sha256": "bc2a72419f9f198f687d4f314b2c0b3f8b40956abe67e4f90f1b8cf5b4c9881d",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        31,
+        6,
+        161,
+        202
+      ]
+    },
+    {
+      "index": 33,
+      "batch": "segment-02",
+      "batchFrame": 9,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-02\\09.png",
+      "sha256": "b6df3a1c3fef0ccb9f1f5fb823a9abd490c8b5a1b9f29d71a04cbdd015dcf90f",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        29,
+        6,
+        163,
+        202
+      ]
+    },
+    {
+      "index": 34,
+      "batch": "segment-02",
+      "batchFrame": 10,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-02\\10.png",
+      "sha256": "14ee5eb595bdd1fc8079984c4d20ef464ae13edc153602bb90cb655f9de919fd",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        29,
+        5,
+        162,
+        203
+      ]
+    },
+    {
+      "index": 35,
+      "batch": "segment-02",
+      "batchFrame": 11,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-02\\11.png",
+      "sha256": "1d0249b1f490f7fb3d8c1c03864301c873718c5bb0749bf3af3aa723d82d044b",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        31,
+        5,
+        161,
+        202
+      ]
+    },
+    {
+      "index": 36,
+      "batch": "segment-03",
+      "batchFrame": 0,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-03\\00.png",
+      "sha256": "e343f63ef12a62bdab347777042462adca475ae992883b4cd6fb2ffed5e195be",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        34,
+        5,
+        157,
+        199
+      ]
+    },
+    {
+      "index": 37,
+      "batch": "segment-03",
+      "batchFrame": 1,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-03\\01.png",
+      "sha256": "9fbdce6c3f3a828ae75c9291668f10334f36d6d304f8e48ffc0569ad85a48245",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        33,
+        6,
+        158,
+        200
+      ]
+    },
+    {
+      "index": 38,
+      "batch": "segment-03",
+      "batchFrame": 2,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-03\\02.png",
+      "sha256": "cc6ca2e001a74eabbd0b0662b476b33da7b78e5030effab3ad89f22bb7be82fa",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        33,
+        6,
+        157,
+        202
+      ]
+    },
+    {
+      "index": 39,
+      "batch": "segment-03",
+      "batchFrame": 3,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-03\\03.png",
+      "sha256": "38405184f2f3e41ec77d9a888261b5c3927d5c392091f0c512ac2afff2460daa",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        33,
+        6,
+        158,
+        202
+      ]
+    },
+    {
+      "index": 40,
+      "batch": "segment-03",
+      "batchFrame": 4,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-03\\04.png",
+      "sha256": "c62e9bb30e1a1d55479d98eb2e78010a861b269b5fb8a4d5dee7c05c7bf0bc32",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        34,
+        6,
+        157,
+        202
+      ]
+    },
+    {
+      "index": 41,
+      "batch": "segment-03",
+      "batchFrame": 5,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-03\\05.png",
+      "sha256": "bb1d7141d4bf04d34fbcafbbc14530e75cf7ab1893d174c248dadb0433da133a",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        34,
+        6,
+        157,
+        202
+      ]
+    },
+    {
+      "index": 42,
+      "batch": "segment-03",
+      "batchFrame": 6,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-03\\06.png",
+      "sha256": "0ab8c528707a51c85025d639845248eb0e97cda6e63061d5de2046ce604f0244",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        33,
+        7,
+        157,
+        203
+      ]
+    },
+    {
+      "index": 43,
+      "batch": "segment-03",
+      "batchFrame": 7,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-03\\07.png",
+      "sha256": "de00191bd9695d508541c22d4ac403b303136aa805ae95d1e0154b9c49cccb4c",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        33,
+        7,
+        157,
+        202
+      ]
+    },
+    {
+      "index": 44,
+      "batch": "segment-03",
+      "batchFrame": 8,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-03\\08.png",
+      "sha256": "fa826c2eb121ef89c00e1d92e1d3a5fa2b3ac9287def870d126f8b67032a50c0",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        33,
+        7,
+        157,
+        202
+      ]
+    },
+    {
+      "index": 45,
+      "batch": "segment-03",
+      "batchFrame": 9,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-03\\09.png",
+      "sha256": "c3586b3ccb8912f6d66fd51f4483a3d0519308f34df311f8d5b2e874a925e308",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        35,
+        5,
+        156,
+        202
+      ]
+    },
+    {
+      "index": 46,
+      "batch": "segment-03",
+      "batchFrame": 10,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-03\\10.png",
+      "sha256": "b7735ab3a8a739835c0312145c2193b6fcdff2c605e999672277ef8d9f544406",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        35,
+        5,
+        155,
+        203
+      ]
+    },
+    {
+      "index": 47,
+      "batch": "segment-03",
+      "batchFrame": 11,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-03\\11.png",
+      "sha256": "ada1f96c0c6365d267e9d81b6721b50ea3ed706ac9464ec402eea944b4acf9eb",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        37,
+        5,
+        154,
+        202
+      ]
+    },
+    {
+      "index": 48,
+      "batch": "segment-04",
+      "batchFrame": 0,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\00.png",
+      "sha256": "4376942002ef1064d48a6b369db8180918e9e3e1aa4e88e11455cc7998f2d359",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        26,
+        5,
+        166,
+        203
+      ]
+    },
+    {
+      "index": 49,
+      "batch": "segment-04",
+      "batchFrame": 1,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\01.png",
+      "sha256": "83e3ff783547cf086b41b94ad5eb3bab8ba0b00a334251eff84c32fce2e56a97",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        28,
+        6,
+        164,
+        203
+      ]
+    },
+    {
+      "index": 50,
+      "batch": "segment-04",
+      "batchFrame": 2,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\02.png",
+      "sha256": "9f43824f9799786d7f554721fd25e03862488bd56b5d0a90f4686ee4bc62e3d8",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        29,
+        6,
+        164,
+        203
+      ]
+    },
+    {
+      "index": 51,
+      "batch": "segment-04",
+      "batchFrame": 3,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\03.png",
+      "sha256": "d1ff12ffdfb49246dd19d61088c385eb7813bb156857ee31cf7f590486fc2830",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        26,
+        6,
+        166,
+        203
+      ]
+    },
+    {
+      "index": 52,
+      "batch": "segment-04",
+      "batchFrame": 4,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\04.png",
+      "sha256": "c39274eb74725bb761e5768344ee4058762cec005389d7261420e4d6ea85c7eb",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        23,
+        6,
+        169,
+        201
+      ]
+    },
+    {
+      "index": 53,
+      "batch": "segment-04",
+      "batchFrame": 5,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\05.png",
+      "sha256": "8f840313800585536fad591ee8801c91f2a43b0dc8fdefd38e7020cb969f3938",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        26,
+        6,
+        165,
+        202
+      ]
+    },
+    {
+      "index": 54,
+      "batch": "segment-04",
+      "batchFrame": 6,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\06.png",
+      "sha256": "4b4d64d89eaebfafe91141094455daa13dc1e08fca735191831d828f90616a76",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        20,
+        10,
+        172,
+        202
+      ]
+    },
+    {
+      "index": 55,
+      "batch": "segment-04",
+      "batchFrame": 7,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\07.png",
+      "sha256": "f81e1f7823d5db636de34d804559605aa8a497bf1e277fcfb1244ef0f522a864",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        24,
+        9,
+        169,
+        203
+      ]
+    },
+    {
+      "index": 56,
+      "batch": "segment-04",
+      "batchFrame": 8,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\08.png",
+      "sha256": "65d0f6de08c8fd2f26f0b59191847579f60ef89fa0bdda6fecdd9911c7222a46",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        30,
+        10,
+        159,
+        203
+      ]
+    },
+    {
+      "index": 57,
+      "batch": "segment-04",
+      "batchFrame": 9,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\09.png",
+      "sha256": "60bec1d245d5cdba740e799b38b5388928968c277d39fe64e3829350bd9f509a",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        22,
+        10,
+        169,
+        203
+      ]
+    },
+    {
+      "index": 58,
+      "batch": "segment-04",
+      "batchFrame": 10,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\10.png",
+      "sha256": "03e208699db41a22998950ef32b1a46cc9ce5d9feb8786bbc22f8ef675575f95",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        23,
+        10,
+        169,
+        202
+      ]
+    },
+    {
+      "index": 59,
+      "batch": "segment-04",
+      "batchFrame": 11,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04\\11.png",
+      "sha256": "69321d974ab079389ea2eb3bba3ffcf0ad9c3ef50bb44fbb0527e276ba0b630d",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        21,
+        10,
+        171,
+        203
+      ]
+    },
+    {
+      "index": 60,
+      "batch": "segment-05",
+      "batchFrame": 0,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-05\\00.png",
+      "sha256": "d2a259b849803f88ee2503c46e0986c55a2f280ccc092b9516047653d3190532",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        29,
+        12,
+        162,
+        198
+      ]
+    },
+    {
+      "index": 61,
+      "batch": "segment-05",
+      "batchFrame": 1,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-05\\01.png",
+      "sha256": "440e791aa353669f1724eb15e4531c9179609e99574bbab2db8f3bf129121ffd",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        33,
+        14,
+        158,
+        200
+      ]
+    },
+    {
+      "index": 62,
+      "batch": "segment-05",
+      "batchFrame": 2,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-05\\02.png",
+      "sha256": "f3c969f791de0005a5a7034f3524c0e4cc57854bce664d92e11a55906325c89b",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        32,
+        12,
+        159,
+        200
+      ]
+    },
+    {
+      "index": 63,
+      "batch": "segment-05",
+      "batchFrame": 3,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-05\\03.png",
+      "sha256": "9049272862c157833643203539ddae118c5e4fe4cb49b9b45344186f8f94cb59",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        18,
+        14,
+        173,
+        203
+      ]
+    },
+    {
+      "index": 64,
+      "batch": "segment-05",
+      "batchFrame": 4,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-05\\04.png",
+      "sha256": "312972b91fb32018c882d02c205ae3abd398e76bc11e60af47c8e18e45cadaa5",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        18,
+        12,
+        172,
+        203
+      ]
+    },
+    {
+      "index": 65,
+      "batch": "segment-05",
+      "batchFrame": 5,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-05\\05.png",
+      "sha256": "b433de0837fec04823bbac7da11ce5e963ca68ba1e2a2308990217fc2890dda3",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        25,
+        12,
+        166,
+        203
+      ]
+    },
+    {
+      "index": 66,
+      "batch": "segment-05",
+      "batchFrame": 6,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-05\\06.png",
+      "sha256": "279ee82eb8ee1efd67d2c51707fbd377799ff72b54851c3749edff3fd5a6e562",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        22,
+        5,
+        169,
+        199
+      ]
+    },
+    {
+      "index": 67,
+      "batch": "segment-05",
+      "batchFrame": 7,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-05\\07.png",
+      "sha256": "e7e121b011a884cd4e28bcd01085bf085d016c6941e91980187648bb096a73d5",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        21,
+        5,
+        170,
+        202
+      ]
+    },
+    {
+      "index": 68,
+      "batch": "segment-05",
+      "batchFrame": 8,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-05\\08.png",
+      "sha256": "be125bc8e6f6002dca5777056d435361dd52df5ea85c8c869bc8a0b3a0b5b3b8",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        19,
+        6,
+        171,
+        202
+      ]
+    },
+    {
+      "index": 69,
+      "batch": "segment-05",
+      "batchFrame": 9,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-05\\09.png",
+      "sha256": "ca646cad68b8600518c0c38ee5ed850c610820349308a69ae7681367d2d1b124",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        20,
+        5,
+        171,
+        201
+      ]
+    },
+    {
+      "index": 70,
+      "batch": "segment-05",
+      "batchFrame": 10,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-05\\10.png",
+      "sha256": "ee0c8f36ad46d886ee104ae9fb21b4e52b87bc77260bc6bb2e50b96b82773bea",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        20,
+        5,
+        170,
+        199
+      ]
+    },
+    {
+      "index": 71,
+      "batch": "segment-05",
+      "batchFrame": 11,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-05\\11.png",
+      "sha256": "73f3a21f56e32199e1bdbc68f3d857c6dafdc8267d7c34d61585cfcd7b8e4138",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        21,
+        5,
+        169,
+        202
+      ]
+    },
+    {
+      "index": 72,
+      "batch": "segment-06",
+      "batchFrame": 0,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-06\\00.png",
+      "sha256": "7d69141005d54308c07f580fa78c10fbc2a242a2cb03842a674ae9e5c983c3ad",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        19,
+        8,
+        173,
+        202
+      ]
+    },
+    {
+      "index": 73,
+      "batch": "segment-06",
+      "batchFrame": 1,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-06\\01.png",
+      "sha256": "bd53eb1cde62a57db1f5fa1a8abf82e539bafbef46882efd1668b6238a367a79",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        21,
+        8,
+        171,
+        203
+      ]
+    },
+    {
+      "index": 74,
+      "batch": "segment-06",
+      "batchFrame": 2,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-06\\02.png",
+      "sha256": "107625b8345e45fbce7f61adf38ea0710424eb2b2e270318f418b6cc41dcca51",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        21,
+        8,
+        171,
+        203
+      ]
+    },
+    {
+      "index": 75,
+      "batch": "segment-06",
+      "batchFrame": 3,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-06\\03.png",
+      "sha256": "b4799276d330c0a8ed3b78d4d11cc9e8f60dc370495b7f5a23e38b84ed473724",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        20,
+        7,
+        171,
+        203
+      ]
+    },
+    {
+      "index": 76,
+      "batch": "segment-06",
+      "batchFrame": 4,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-06\\04.png",
+      "sha256": "e06f126f9addede4d0227253f5e6bdea41cf55baa6de0526172260373a110b5a",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        21,
+        7,
+        171,
+        203
+      ]
+    },
+    {
+      "index": 77,
+      "batch": "segment-06",
+      "batchFrame": 5,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-06\\05.png",
+      "sha256": "7de9e6aea4ed1bb87001e09fc8b52aa6e7beb245745e85c2b0d7c687d54b0e6d",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        22,
+        8,
+        170,
+        203
+      ]
+    },
+    {
+      "index": 78,
+      "batch": "segment-06",
+      "batchFrame": 6,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-06\\06.png",
+      "sha256": "ccc08a1afba7af8dd58331a67e5654097370f8c7973d998bb4945aa14f4fecd4",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        19,
+        5,
+        173,
+        203
+      ]
+    },
+    {
+      "index": 79,
+      "batch": "segment-06",
+      "batchFrame": 7,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-06\\07.png",
+      "sha256": "d98313b1a9d7031fcb776f74acbb6d01185081198c556d72feacd4bb55665159",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        19,
+        5,
+        173,
+        203
+      ]
+    },
+    {
+      "index": 80,
+      "batch": "segment-06",
+      "batchFrame": 8,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-06\\08.png",
+      "sha256": "bc54252e274bb034c04e870ddc9a5f617877cfffb0572e9433a4c0cf6a34eaf1",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        19,
+        5,
+        172,
+        202
+      ]
+    },
+    {
+      "index": 81,
+      "batch": "segment-06",
+      "batchFrame": 9,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-06\\09.png",
+      "sha256": "9716c50c177d4bbaaabf406c862bc3bbd4d7cc99cdc2a868d1cfda6f19cdf51b",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        19,
+        5,
+        172,
+        203
+      ]
+    },
+    {
+      "index": 82,
+      "batch": "segment-06",
+      "batchFrame": 10,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-06\\10.png",
+      "sha256": "1e1344972e54cbc0c82b238962c91616637e791e652faa254d18b3586d0614eb",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        19,
+        5,
+        173,
+        203
+      ]
+    },
+    {
+      "index": 83,
+      "batch": "segment-06",
+      "batchFrame": 11,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-06\\11.png",
+      "sha256": "2835e093efed076686ef06d7c5402e88eb4770ae6eb0c54b52405004981c2b0a",
+      "durationMs": 40.54976388888889,
+      "bbox": [
+        23,
+        5,
+        171,
+        203
+      ]
+    },
+    {
+      "index": 84,
+      "batch": "return-01",
+      "batchFrame": 0,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-01\\00.png",
+      "sha256": "1e24ee975e2ef376ed8fc379200f9cb16526bf74f1946082cb394acdd13153e1",
+      "durationMs": 41.708333,
+      "bbox": [
+        19,
+        6,
+        172,
+        202
+      ]
+    },
+    {
+      "index": 85,
+      "batch": "return-01",
+      "batchFrame": 1,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-01\\01.png",
+      "sha256": "70012e7b13ff8f262cf022acee721f4afb230cc1567652fed0f78443064c4f85",
+      "durationMs": 41.708333,
+      "bbox": [
+        19,
+        6,
+        172,
+        202
+      ]
+    },
+    {
+      "index": 86,
+      "batch": "return-01",
+      "batchFrame": 2,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-01\\02.png",
+      "sha256": "2072d3296c263aa504b0709e194c568a4c941abd45797ca3494227b8722b4b8b",
+      "durationMs": 41.708333,
+      "bbox": [
+        19,
+        7,
+        172,
+        203
+      ]
+    },
+    {
+      "index": 87,
+      "batch": "return-01",
+      "batchFrame": 3,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-01\\03.png",
+      "sha256": "d82d761dc49f331407b5db1c916a99b2a2e62085562a2aca87f7e0e73d7875bf",
+      "durationMs": 41.708333,
+      "bbox": [
+        18,
+        8,
+        173,
+        203
+      ]
+    },
+    {
+      "index": 88,
+      "batch": "return-01",
+      "batchFrame": 4,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-01\\04.png",
+      "sha256": "33f0f731001a78a8a93552482f69fa66489a40a6112cd0c01449b0e2b29efebf",
+      "durationMs": 41.708333,
+      "bbox": [
+        19,
+        8,
+        171,
+        203
+      ]
+    },
+    {
+      "index": 89,
+      "batch": "return-01",
+      "batchFrame": 5,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-01\\05.png",
+      "sha256": "68f9e71f0e12c0c71c0e679953f2cbe199ef9e5875ce586929b1189b16eb2ff8",
+      "durationMs": 41.708333,
+      "bbox": [
+        20,
+        8,
+        171,
+        203
+      ]
+    },
+    {
+      "index": 90,
+      "batch": "return-01",
+      "batchFrame": 6,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-01\\06.png",
+      "sha256": "b36186c2177144e991f873259cce3cb9b9e8d1ac760c5aa84d99cd6d735e8f16",
+      "durationMs": 41.708333,
+      "bbox": [
+        18,
+        5,
+        173,
+        203
+      ]
+    },
+    {
+      "index": 91,
+      "batch": "return-01",
+      "batchFrame": 7,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-01\\07.png",
+      "sha256": "b715b4a6e11a60c0f26ecb02033621dde912674f70a3c08d80cae90f0f3a01cc",
+      "durationMs": 41.708333,
+      "bbox": [
+        18,
+        5,
+        173,
+        202
+      ]
+    },
+    {
+      "index": 92,
+      "batch": "return-01",
+      "batchFrame": 8,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-01\\08.png",
+      "sha256": "55e5624d50e7d3f17f96190e15ec241554a41af8dfe38ddef307af7ae333a980",
+      "durationMs": 41.708333,
+      "bbox": [
+        18,
+        6,
+        172,
+        203
+      ]
+    },
+    {
+      "index": 93,
+      "batch": "return-01",
+      "batchFrame": 9,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-01\\09.png",
+      "sha256": "e85d277a07cb46969c92ae706a26e1f3d88da01be8a59e34cc666f96de0ca085",
+      "durationMs": 41.708333,
+      "bbox": [
+        18,
+        6,
+        173,
+        203
+      ]
+    },
+    {
+      "index": 94,
+      "batch": "return-01",
+      "batchFrame": 10,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-01\\10.png",
+      "sha256": "f466b2c5a3f5dc9c6e8b66ca4f1aa7e1836d0ec345af44efea234499db67c3c1",
+      "durationMs": 41.708333,
+      "bbox": [
+        19,
+        6,
+        172,
+        203
+      ]
+    },
+    {
+      "index": 95,
+      "batch": "return-01",
+      "batchFrame": 11,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-01\\11.png",
+      "sha256": "85771a069749d778ce8a52524ac56b1f02668b0f49523c0b4a01d6e26a5e240e",
+      "durationMs": 41.708333,
+      "bbox": [
+        21,
+        7,
+        172,
+        203
+      ]
+    },
+    {
+      "index": 96,
+      "batch": "return-02",
+      "batchFrame": 0,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-02\\00.png",
+      "sha256": "062ad30f1818c631e057d1e2010a3260badee35abebcb604305ab06386c8b5cc",
+      "durationMs": 41.708333,
+      "bbox": [
+        20,
+        6,
+        172,
+        203
+      ]
+    },
+    {
+      "index": 97,
+      "batch": "return-02",
+      "batchFrame": 1,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-02\\01.png",
+      "sha256": "69b2513424386d3d7578fb44a2246898a920b7e55f43cbc28940005d17c3cf41",
+      "durationMs": 41.708333,
+      "bbox": [
+        18,
+        7,
+        174,
+        203
+      ]
+    },
+    {
+      "index": 98,
+      "batch": "return-02",
+      "batchFrame": 2,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-02\\02.png",
+      "sha256": "578031f25edaf7575c5a7d0bdf19f1592204e5133f3c26ec42c384bafb9d0ae0",
+      "durationMs": 41.708333,
+      "bbox": [
+        21,
+        7,
+        170,
+        203
+      ]
+    },
+    {
+      "index": 99,
+      "batch": "return-02",
+      "batchFrame": 3,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-02\\03.png",
+      "sha256": "0ca3030101ab73f794c3ebf248675250809c4e62842e595d558a65388ce60df9",
+      "durationMs": 41.708333,
+      "bbox": [
+        26,
+        7,
+        166,
+        203
+      ]
+    },
+    {
+      "index": 100,
+      "batch": "return-02",
+      "batchFrame": 4,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-02\\04.png",
+      "sha256": "d83602e542c97af6929e1b0a885f3a1dd6931f554daa652d697ef50633964e1f",
+      "durationMs": 41.708333,
+      "bbox": [
+        27,
+        7,
+        164,
+        203
+      ]
+    },
+    {
+      "index": 101,
+      "batch": "return-02",
+      "batchFrame": 5,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-02\\05.png",
+      "sha256": "976a5439f0cf1bbc9e6d4ed3ae92fb8469ebd7d1b30a757c53a603cb8dbe6952",
+      "durationMs": 41.708333,
+      "bbox": [
+        27,
+        6,
+        165,
+        203
+      ]
+    },
+    {
+      "index": 102,
+      "batch": "return-02",
+      "batchFrame": 6,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-02\\06.png",
+      "sha256": "b1a467b61099bd4b08ae4ddee594076a97c2a67d0d46b1bf83900ee7319f2ac6",
+      "durationMs": 41.708333,
+      "bbox": [
+        26,
+        5,
+        166,
+        203
+      ]
+    },
+    {
+      "index": 103,
+      "batch": "return-02",
+      "batchFrame": 7,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-02\\07.png",
+      "sha256": "cb9337b3552d79af35acc339f6521163b9f6d50a4b11b35677b262beba80dcae",
+      "durationMs": 41.708333,
+      "bbox": [
+        26,
+        5,
+        166,
+        203
+      ]
+    },
+    {
+      "index": 104,
+      "batch": "return-02",
+      "batchFrame": 8,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-02\\08.png",
+      "sha256": "6c17db3cc3c7142ac47c13dc048018d3239895cb04757f8aea4916e129e9c944",
+      "durationMs": 41.708333,
+      "bbox": [
+        26,
+        5,
+        166,
+        203
+      ]
+    },
+    {
+      "index": 105,
+      "batch": "return-02",
+      "batchFrame": 9,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-02\\09.png",
+      "sha256": "f757e079dea82ee9e1434f2ad03bb6ce9b50537b1b687442688bc95ab53ea504",
+      "durationMs": 41.708333,
+      "bbox": [
+        26,
+        5,
+        166,
+        203
+      ]
+    },
+    {
+      "index": 106,
+      "batch": "return-02",
+      "batchFrame": 10,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-02\\10.png",
+      "sha256": "a4597b3d601984377f3811ada02e8884d690be4d358a63632059e0168ba304e0",
+      "durationMs": 41.708333,
+      "bbox": [
+        25,
+        5,
+        167,
+        203
+      ]
+    },
+    {
+      "index": 107,
+      "batch": "return-02",
+      "batchFrame": 11,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\return-02\\11.png",
+      "sha256": "34c62445efde50876941abab4441f906dd409f52d0442dd769c9160883a26601",
+      "durationMs": 41.708333,
+      "bbox": [
+        26,
+        5,
+        165,
+        203
+      ]
+    }
+  ],
+  "cycleDurationMs": 4421.082988,
+  "twoCycleDurationMs": 8842.165976,
+  "fpsAuthoredOP": 24.661056048072616,
+  "rawAtlas": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\raw108-atlas.png",
+  "rawAtlasSHA256": "d4aaa2f406e71b136acd17658e6cc98931d3f6315da7ed9e3351eb798aa27f03",
+  "registration": "Raw authoredcells unchanged; final parent art/runtime/travel-dance.png will use wholeframeintegerYto202, no resizing."
+}

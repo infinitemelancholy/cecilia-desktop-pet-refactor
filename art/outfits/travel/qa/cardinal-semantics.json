@@ -1,0 +1,35 @@
+{
+  "verdict": "pass",
+  "reviewed_at_native_size": true,
+  "cardinals": [
+    {
+      "direction": "000",
+      "expected": "up",
+      "observed": "up",
+      "verdict": "pass",
+      "evidence": "Face frontal with raised chin and open green eye centers directed toward upper rims; bow/feet front-facing."
+    },
+    {
+      "direction": "090",
+      "expected": "screen-right",
+      "observed": "screen-right",
+      "verdict": "pass",
+      "evidence": "Both irises moved to viewer-right eye corners, white sclera visible on their left; nose/mouth offset toward screen-right; torso/bow frontal."
+    },
+    {
+      "direction": "180",
+      "expected": "down",
+      "observed": "down",
+      "verdict": "pass",
+      "evidence": "Chin and nose lowered, open green irises exposed at lower eyelid rims; body/feet remain frontal."
+    },
+    {
+      "direction": "270",
+      "expected": "screen-left",
+      "observed": "screen-left",
+      "verdict": "pass",
+      "evidence": "Both irises toward viewer-left corners with sclera on right; nose/mouth offset toward screen-left; body/bow stay frontal."
+    }
+  ],
+  "source_attempt1": "Rejected for weak/ambiguous horizontal eye landmarks; repaired in ImageGen before approval."
+}

@@ -1,0 +1,15 @@
+{
+  "status": "accepted",
+  "actualNativeContactReviewed": true,
+  "contact": "contact.png",
+  "actualBundledReview": "review.json",
+  "poseOrder": "Neutralstanding→foldedlegkneel→forearmchin compactprone→eyesclosedhappyprone→pushupfoldedkneel→neutralstanding.",
+  "wardrobe": "True travel raspberrycloak whitecollar bluebow/whitecuffs/plainnavyskirt darkstockings, uncoveredmint hair, no classicveil/templepanels.",
+  "dimensions": "Standing00/05 bboxheight192px; prone02/03 width180/182px; all bottoms202. Head/body scale comes from one shared6frame familyfit.",
+  "edges": "Native completehair/shoes/forearms, transparentbackground/despill clean. Deepinteriorchanged0.",
+  "registration": "Actual process_classic_q.py two-row translation and bundled fit_registered_component_groups; no per-pose sizing. Grounding translates wholeframes vertically.",
+  "originalSource": "exec-e31a7607-9ed6-4cb5-8559-4ec46b36c0e0.png",
+  "uniqueAuthoredFrames": 6,
+  "programCharacterDrawing": false,
+  "reviewedOn": "2026-10-10"
+}

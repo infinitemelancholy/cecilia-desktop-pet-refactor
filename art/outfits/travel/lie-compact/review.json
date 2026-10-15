@@ -1,0 +1,162 @@
+{
+  "state": "travel-lie-compact",
+  "expected_frames": 6,
+  "actual_frames": 6,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\lie-compact\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17487,
+      "bbox": [
+        20,
+        10,
+        172,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\lie-compact\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 14315,
+      "bbox": [
+        18,
+        55,
+        174,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\lie-compact\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 11526,
+      "bbox": [
+        6,
+        93,
+        186,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\lie-compact\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 11500,
+      "bbox": [
+        5,
+        94,
+        187,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\lie-compact\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15586,
+      "bbox": [
+        16,
+        48,
+        176,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\travel\\lie-compact\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17516,
+      "bbox": [
+        20,
+        10,
+        172,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ],
+  "source_bounds": [
+    [
+      44,
+      31,
+      432,
+      529
+    ],
+    [
+      528,
+      152,
+      929,
+      526
+    ],
+    [
+      980,
+      247,
+      1443,
+      521
+    ],
+    [
+      1456,
+      254,
+      1928,
+      526
+    ],
+    [
+      1977,
+      130,
+      2385,
+      525
+    ],
+    [
+      2466,
+      31,
+      2853,
+      529
+    ]
+  ],
+  "source_files": [
+    "work/art-runs/travel/decoded/lie-compact.png"
+  ],
+  "strict_contour_chroma_pixels_removed": 1,
+  "source_row_registration": {
+    "gap_cut_y": 536,
+    "top_row_shift_y": 0,
+    "bottom_row_shift_y": 24,
+    "source_ground_baselines": [
+      529,
+      1041
+    ],
+    "method": "Whole rows moved only; no per-character scaling or cropping"
+  },
+  "grounded_pose_y_adjustments": [
+    2,
+    2,
+    4,
+    2,
+    3,
+    2
+  ],
+  "shared_registration": "bundled fit_registered_component_groups; one scale for complete row; vertical displacement preserved"
+}

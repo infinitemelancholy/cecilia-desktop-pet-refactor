@@ -1,0 +1,28 @@
+{
+  "reviewer": "lawrence_canonical",
+  "status": "accepted",
+  "frame_count": 6,
+  "unique_generated_poses_used": 5,
+  "neutral_reused": [
+    0,
+    5
+  ],
+  "source_original_retained": true,
+  "method": "Manual native-size six-pose contact and black/white/gray edge-preview inspection, backed by bundled numeric-only frame inspection.",
+  "poses": "Neutral excited hands, anticipatory crouch, actual takeoff, happy closed-eye tucked apex, landing crouch, neutral closure.",
+  "identity_and_proportions": "Mint long hair/green eyes and raspberry-red cloak, white blouse/blue tie/navy pleats retained in every pose. The apex hair repair makes its loose curls compact without reducing the drawn head or body.",
+  "continuity": "Two true airborne poses have shoe-floor extents 188 and 171 versus grounded 202. Knee folding and cloak/hair follow-through are drawn. A six-key-pose daily action, not a claim of a full-rate continuous dance.",
+  "alpha_edges": "Complete hair, cape, hands, skirt and shoes visible; no clipping, colored matte debris or detached effects seen on black, white and gray composites. True transparent RGBA cells, never a checkerboard picture.",
+  "rejected_source_or_pose": "source-v1-too-wide.png: apex hair width forced shared extraction to produce a smaller standing character; retained as rejected.",
+  "first_last_solid_standing_height_px": [
+    195,
+    195
+  ],
+  "min_solid_edge_distance_px": 5,
+  "neutral_identical_pixels": true,
+  "inspection_ok": true,
+  "inspection_warnings": [],
+  "normal_preview": "preview-224x243.gif",
+  "transparent_preview": "preview.webp",
+  "duration_ms": 940
+}

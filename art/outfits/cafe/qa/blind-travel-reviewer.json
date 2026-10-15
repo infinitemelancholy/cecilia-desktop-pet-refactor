@@ -1,0 +1,95 @@
+{
+  "reviewer": "Travel visual worker",
+  "blindKeyRead": false,
+  "priorExposure": "Previously saw labeled cafe upper-left references while repairing travel gaze; this review reads only shuffled A/B sheets and does not use the key.",
+  "images": [
+    "work/cafe-blind-horizontal.png",
+    "work/cafe-blind-vertical.png"
+  ],
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A eye line/nose projects toward image left, B nose and pupils toward image right."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A raised face has rightward pupil/nose aim, B raised face points left."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Opposing nose projections and iris placement: A right, B left."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A obvious rightward face turn, B obvious leftward face turn; body remains frontal."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A tucked face projects left, B tucked face projects right."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A lowered lids and nose aim right, B lowered lids and nose aim left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Small downward yaw: A nose and face mass left of collar center; B nose and eyes to the right."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A tucked chin and eyes beneath fringe, B lifted chin and raised pupil line."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A looks below face level, B face/iris pitch is raised."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A lowered face/eye line, B lifted chin and pupils."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A raised face, B chin tucked under fringe."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "A lifted chin and high pupils, B lowered lids and chin."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "Both yaw left, A lowered face and gaze, B raised face and gaze."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "Enlarged sheet-only crop: A chin close to collar and nose pitched down-left, B chin lifted with nose/eyes aimed upper-left."
+    }
+  ]
+}

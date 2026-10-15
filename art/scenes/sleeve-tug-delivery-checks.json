@@ -1,0 +1,41 @@
+[
+  {
+    "outfit": "classic",
+    "frames": 6,
+    "all_rgba_384x208": true,
+    "preview_size": [
+      448,
+      243
+    ],
+    "preview_frames": 6,
+    "transparent_webp_frames": 6,
+    "prompt_saved": true,
+    "qa_saved": true
+  },
+  {
+    "outfit": "travel",
+    "frames": 6,
+    "all_rgba_384x208": true,
+    "preview_size": [
+      448,
+      243
+    ],
+    "preview_frames": 6,
+    "transparent_webp_frames": 6,
+    "prompt_saved": true,
+    "qa_saved": true
+  },
+  {
+    "outfit": "cafe",
+    "frames": 6,
+    "all_rgba_384x208": true,
+    "preview_size": [
+      448,
+      243
+    ],
+    "preview_frames": 6,
+    "transparent_webp_frames": 6,
+    "prompt_saved": true,
+    "qa_saved": true
+  }
+]

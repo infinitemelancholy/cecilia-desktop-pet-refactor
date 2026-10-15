@@ -1,0 +1,182 @@
+[
+  {
+    "outfit": "travel",
+    "name": "original-style-travel",
+    "samples": [
+      {
+        "index": 0,
+        "phase": 0,
+        "layers": 5,
+        "sha256": "f9f1bbf68799e72727570168d882ba840c0ac2ebb2fd05e9b5e135a8ab45eed8"
+      },
+      {
+        "index": 0,
+        "phase": 0.125,
+        "layers": 5,
+        "sha256": "8584fd56ae252db76bdf468a5135d23dfe3135701566f0ce5d56b4fdcd501b5b"
+      },
+      {
+        "index": 0,
+        "phase": 0.25,
+        "layers": 5,
+        "sha256": "d513c96fa767059bea9c536fb7934bf2e2b2e0db949220b38f216fbe7810f640"
+      },
+      {
+        "index": 0,
+        "phase": 0.375,
+        "layers": 5,
+        "sha256": "532b80807413ef1146eb836d69a2dd2235e0b0f6100c1c7c58a739dde2fcf565"
+      },
+      {
+        "index": 0,
+        "phase": 0.5,
+        "layers": 5,
+        "sha256": "e805f7fd33035f3f792ea1c88523123a4402f6ddab6312f3ff2fc322070db0d0"
+      },
+      {
+        "index": 0,
+        "phase": 0.625,
+        "layers": 5,
+        "sha256": "61225a22edba7c06b47401ec2bfd50abd29a88ad0cdd9d4e3b6b38faf88afdd3"
+      },
+      {
+        "index": 0,
+        "phase": 0.75,
+        "layers": 5,
+        "sha256": "455448223f57a540fd81ee993ec83315090c7bd976d3d59eeef753c5a5ea85b6"
+      },
+      {
+        "index": 0,
+        "phase": 0.875,
+        "layers": 5,
+        "sha256": "7c7c0204eb58f8575ba0cf8d5b29d242068538e72e553742f8c08a794cef970b"
+      },
+      {
+        "index": 0,
+        "phase": 0.9999,
+        "layers": 5,
+        "sha256": "6098468757e557b9d609e7d0a37ab5cf73db08bbc93d8304b6c74515fab0a158"
+      }
+    ]
+  },
+  {
+    "outfit": "classic",
+    "name": "original-style-classic",
+    "samples": [
+      {
+        "index": 0,
+        "phase": 0,
+        "layers": 5,
+        "sha256": "42a47388d4a866bffa5d555c712d299ccc572adc42f38c2ddfebb87897056161"
+      },
+      {
+        "index": 0,
+        "phase": 0.125,
+        "layers": 5,
+        "sha256": "7814b2955232ee47de1c3610ac5e7b20f45f1d832f7cc9ed9946059702e490cf"
+      },
+      {
+        "index": 0,
+        "phase": 0.25,
+        "layers": 5,
+        "sha256": "5317d5393f4e5a0b4440f35729071934531c991146d83983a21c878619ad4be4"
+      },
+      {
+        "index": 0,
+        "phase": 0.375,
+        "layers": 5,
+        "sha256": "4c78bd04c89bf8ffb417361759ed87543bf3d1de52e96e8998947f8dddcc5600"
+      },
+      {
+        "index": 0,
+        "phase": 0.5,
+        "layers": 5,
+        "sha256": "34d86fc5d1479888f0d70d861c1f7b9fec71cef095d0062d56c0a3d596fdaa06"
+      },
+      {
+        "index": 0,
+        "phase": 0.625,
+        "layers": 5,
+        "sha256": "fad8429472857b3b79cc82250fe9e5cef2be8a7c9ef03d89d03e6e343282baff"
+      },
+      {
+        "index": 0,
+        "phase": 0.75,
+        "layers": 5,
+        "sha256": "e458e5cd0f47042c35e8777135584968dacfcdd751286d326a8e9e40fa1fe08d"
+      },
+      {
+        "index": 0,
+        "phase": 0.875,
+        "layers": 5,
+        "sha256": "76303db25284e84916f9224d044d5e491677417c4f546509f4339a75d98d720e"
+      },
+      {
+        "index": 0,
+        "phase": 0.9999,
+        "layers": 5,
+        "sha256": "2bf82b62b56cb3bdbe572ba9f50bc0599da25727121274e5774bc1a1c9f36f59"
+      }
+    ]
+  },
+  {
+    "outfit": "cafe",
+    "name": "original-style-cafe",
+    "samples": [
+      {
+        "index": 0,
+        "phase": 0,
+        "layers": 5,
+        "sha256": "ec674361f81b4576be30da11d22a0c4157c1294b36d5bf0830c8371c607cc3ed"
+      },
+      {
+        "index": 0,
+        "phase": 0.125,
+        "layers": 5,
+        "sha256": "47f39125fe73c6e6367e50cffad646f7ba66efbbaedc3f948346da9e43165a68"
+      },
+      {
+        "index": 0,
+        "phase": 0.25,
+        "layers": 5,
+        "sha256": "856729bdca3129441fb0acefd6f0ea6830f9d17f74af41c83aa29cd62f76267b"
+      },
+      {
+        "index": 0,
+        "phase": 0.375,
+        "layers": 5,
+        "sha256": "1458140b0d781688f555c913a7ce38afe64e614d8414dca964fa37890e7e8ce9"
+      },
+      {
+        "index": 0,
+        "phase": 0.5,
+        "layers": 5,
+        "sha256": "8326a25c762721df99c581198c339530b1e024d2d3c7eb5192498726fc0794b9"
+      },
+      {
+        "index": 0,
+        "phase": 0.625,
+        "layers": 5,
+        "sha256": "72ae78afcdf1f127e06eb4e9a82b73656b272f06f272f3655d98e619b5512db2"
+      },
+      {
+        "index": 0,
+        "phase": 0.75,
+        "layers": 5,
+        "sha256": "40c662e83ab55884887ee042b25d67b5024c47a9080402d425ae73d239bc1f9f"
+      },
+      {
+        "index": 0,
+        "phase": 0.875,
+        "layers": 5,
+        "sha256": "1f667767d68dea2c3003daae0f1b383c8db62e81bb24e6be5d929fd8afa7b512"
+      },
+      {
+        "index": 0,
+        "phase": 0.9999,
+        "layers": 5,
+        "sha256": "d8749b73b252b1fb6c2a778ae3e146315609048214c64e08f4ee569cff9ef6dd"
+      }
+    ]
+  }
+]

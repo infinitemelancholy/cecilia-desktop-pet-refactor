@@ -1,0 +1,43 @@
+{
+  "state": "hand-inbetween",
+  "expected_frames": 1,
+  "actual_frames": 1,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\hand-inbetween\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 20953,
+      "bbox": [
+        5,
+        6,
+        187,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ],
+  "source_bounds": [
+    [
+      36,
+      32,
+      1195,
+      1282
+    ]
+  ],
+  "source_files": [
+    "outputs/cecilia-qpet/art/outfits/classic/dance/hand-inbetween-source.png"
+  ],
+  "strict_contour_chroma_pixels_removed": 2444,
+  "source_row_registration": null,
+  "grounded_pose_y_adjustments": [
+    0
+  ],
+  "shared_registration": "bundled fit_registered_component_groups; one scale for complete row; vertical displacement preserved"
+}

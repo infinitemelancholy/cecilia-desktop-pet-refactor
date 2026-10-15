@@ -1,0 +1,148 @@
+{
+  "passed": true,
+  "tests": 80,
+  "nativeCombinations": 60,
+  "nativeCallbackFpsMin": 149.5637723288503,
+  "nativeCallbackFpsMax": 173.7451737426747,
+  "unavailableFrames": 0,
+  "maximumConsecutiveUnavailableFrames": 0,
+  "hopTiming": [
+    {
+      "outfit": "classic",
+      "completeHopMs": 1475.0999999988126,
+      "endedIn": "idle",
+      "passed": true
+    },
+    {
+      "outfit": "travel",
+      "completeHopMs": 1514.3999999952503,
+      "endedIn": "idle",
+      "passed": true
+    },
+    {
+      "outfit": "cafe",
+      "completeHopMs": 1506.1000000014901,
+      "endedIn": "idle",
+      "passed": true
+    }
+  ],
+  "twoCycles": {
+    "passed": true,
+    "wraps": 1,
+    "presentationWrapTimes": [
+      1997.6999999955297,
+      3971.1999999955297
+    ],
+    "expectedMs": 3972.1498324610084,
+    "observedMs": 3953.0000000086147
+  },
+  "nativeAtlasChecks": [
+    {
+      "outfit": "classic",
+      "requiredNativeCells": 57,
+      "valid": true,
+      "approvedLookRowsPreserved": true,
+      "sha256": "e7ca2b1f5f6eae562097c95ff7c418562ecbddb328c575fa72587b18f5af9689"
+    },
+    {
+      "outfit": "travel",
+      "requiredNativeCells": 57,
+      "valid": true,
+      "approvedLookRowsPreserved": true,
+      "sha256": "5aff0e956425878c4f487d82ae77ae05bcd0c073e2d11d331c2ad1c4f6aa82d8"
+    },
+    {
+      "outfit": "cafe",
+      "requiredNativeCells": 57,
+      "valid": true,
+      "approvedLookRowsPreserved": true,
+      "sha256": "e67f68d262d8c47cacff11dd367b48165854b07b58f5b3276c8cb8d1e62b2cab"
+    }
+  ],
+  "timingPreserved": true,
+  "generalSpeedIncrease": 1.12,
+  "hopDurationMs": 1500,
+  "proportionRevision": 8,
+  "petId": "pet_6ac71429ba50819188d4388111562bbd",
+  "helperPids": [
+    49324
+  ],
+  "final": {
+    "status": {
+      "stopped": false,
+      "mode": "task",
+      "renderFrames": 4,
+      "slowFrames": 0,
+      "clip": "running",
+      "elapsed": 41654.20000000112,
+      "phase": "dance",
+      "outfit": "cafe",
+      "danceId": null,
+      "duo": false,
+      "ready": true,
+      "playbackRate": 1.0006207939660023,
+      "frameIndex": 1,
+      "lookDirection": null,
+      "loadingAssets": 0,
+      "decodedAssets": 9,
+      "measurementWidth": 224,
+      "layout": {
+        "requestedWidth": 224,
+        "requestedHeight": 242.656,
+        "hostWidth": 224,
+        "hostHeight": 243,
+        "left": 620,
+        "top": 715
+      }
+    },
+    "state": {
+      "version": 2,
+      "outfit": "cafe",
+      "visibleMs": 29744599.267906286,
+      "nextOutfitAt": 26699012.43593353,
+      "phase": "dance",
+      "phaseElapsed": 33274.79315442535,
+      "scene": "bean",
+      "sceneBag": [
+        "lie",
+        "sleepy",
+        "lump",
+        "shy",
+        "hop",
+        "hazelita-showcase"
+      ],
+      "outfitBag": [
+        "travel",
+        "classic"
+      ],
+      "lastScene": "bean",
+      "lastMode": "task",
+      "lastTask": "running",
+      "taskElapsed": 41654.20000000112,
+      "recoveryRemaining": 1200,
+      "resume": null,
+      "danceId": "op-turn",
+      "danceBag": [
+        "small-sway"
+      ],
+      "lastDance": "op-turn",
+      "timingRevision": 6,
+      "timingLimits": {
+        "dance": 50465.04433050833,
+        "interlude": 15000,
+        "showcase": 6295.197239098937,
+        "scene": 1659.8342076994868
+      }
+    },
+    "canvasCount": 1,
+    "fixturePresent": false,
+    "petId": "pet_6ac71429ba50819188d4388111562bbd"
+  },
+  "applicationRestarted": false,
+  "scope": "All 60 local action combinations and native interaction atlas rows 0-8. Disabled gaze artwork is preserved.",
+  "limitations": [
+    "Short current-session timing samples do not guarantee a constant frame rate under all desktop workloads.",
+    "Exact frame-for-frame anime equivalence and a complete application cold start were not established.",
+    "The account library sprite sheet was not uploaded; the extended installed desktop runtime was updated."
+  ]
+}

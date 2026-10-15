@@ -1,0 +1,7 @@
+{
+  "tool": "Built-in ImageGen",
+  "prompt": "Edit target FIRST image, a12pose Cecilia chibi low-hand sway sprite sheet. Preserve two rows six transparent wide3:1layout, all人物 identity/outfit/proportion and first8poses. Fix only LAST4 poses on bottom row columns3,4,5,6: she must progressively straighten from the tiny forward lean and gently untwist her head, so finalpose is upright/forward exactly matching SECOND reference the next segment firstpose. Same drawn standing height and head width, baseline202 target. Lower row col3 remains slightdip, col4 diphalved, col5 almostupright, col6 upright neutral hands together low, open greeneyes and soft smile. No deephuddle, no shrinking head/body, no person clipping. Tiny hair/skirt lag only. The fourth last → thirdlast → secondlast → last headtop progresses smoothly UP toward initial rowfirst top. Output all12 complete isolated poses with at least40px transparent horizontalgaps, no captions/props/shadows. Reference2 is next segment04 strip, needfinalmatchitsfirstfullfrontlowhands; reference3 is canonical identity. This repair prevents bodyheight jump at segmentjoint.",
+  "source": "../segment-03-grid-v3.png",
+  "repair": "Final four drawn poses gradually return upright before next turn, instead of deep crouch/scale.",
+  "priorRejected": "segment-03 and segment-03-v2"
+}

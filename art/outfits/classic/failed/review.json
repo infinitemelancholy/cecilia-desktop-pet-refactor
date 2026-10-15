@@ -1,0 +1,206 @@
+{
+  "state": "failed",
+  "expected_frames": 8,
+  "actual_frames": 8,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\failed\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 19956,
+      "bbox": [
+        14,
+        6,
+        177,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\failed\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 20020,
+      "bbox": [
+        16,
+        4,
+        175,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\failed\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 19730,
+      "bbox": [
+        17,
+        4,
+        173,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\failed\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 19608,
+      "bbox": [
+        17,
+        5,
+        174,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\failed\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 20096,
+      "bbox": [
+        14,
+        7,
+        177,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\failed\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 19727,
+      "bbox": [
+        15,
+        8,
+        176,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 6,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\failed\\06.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 20260,
+      "bbox": [
+        14,
+        6,
+        177,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 7,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\failed\\07.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 20002,
+      "bbox": [
+        16,
+        6,
+        175,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ],
+  "source_bounds": [
+    [
+      79,
+      19,
+      430,
+      442
+    ],
+    [
+      513,
+      13,
+      852,
+      442
+    ],
+    [
+      933,
+      15,
+      1267,
+      442
+    ],
+    [
+      1366,
+      16,
+      1702,
+      442
+    ],
+    [
+      1852,
+      20,
+      2202,
+      441
+    ],
+    [
+      2287,
+      22,
+      2631,
+      442
+    ],
+    [
+      2706,
+      19,
+      3054,
+      441
+    ],
+    [
+      3147,
+      19,
+      3488,
+      442
+    ]
+  ],
+  "source_files": [
+    "C:/Users/Jiang Haoyu/.codex/generated_images/01a11ff4-d8b2-7091-a034-1733e570287b/exec-2f540f2a-0b55-4940-bafa-68e05636d93d.png"
+  ],
+  "strict_contour_chroma_pixels_removed": 5815,
+  "source_row_registration": {
+    "gap_cut_y": 449,
+    "top_row_shift_y": 0,
+    "bottom_row_shift_y": 12,
+    "source_ground_baselines": [
+      442,
+      879
+    ],
+    "method": "Whole rows moved only; no per-character scaling or cropping"
+  },
+  "grounded_pose_y_adjustments": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "shared_registration": "bundled fit_registered_component_groups; one scale for complete row; vertical displacement preserved"
+}

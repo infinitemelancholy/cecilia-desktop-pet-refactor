@@ -1,0 +1,18 @@
+{
+  "configurationWritten": true,
+  "launchBehaviorVerified": false,
+  "shortcuts": [
+    {
+      "path": "<本机路径已省略>",
+      "target": "C:\\Windows\\System32\\wscript.exe",
+      "arguments": "\"<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\启动塞西莉亚.vbs\"",
+      "appId": "OpenAI.Codex.CeciliaGaze"
+    },
+    {
+      "path": "C:\\Users\\Jiang Haoyu\\AppData\\Roaming\\Microsoft\\Internet Explorer\\Quick Launch\\User Pinned\\TaskBar\\Codex.lnk",
+      "target": "C:\\Windows\\System32\\wscript.exe",
+      "arguments": "\"<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\启动塞西莉亚.vbs\"",
+      "appId": "OpenAI.Codex.CeciliaGaze"
+    }
+  ]
+}

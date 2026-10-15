@@ -1,0 +1,32 @@
+{
+  "method": "Strict full alpha>0 connected-component separation; no erasing, cuts, repair or redraw",
+  "alpha_threshold": 0,
+  "large_component_bboxes": [
+    [
+      16,
+      4,
+      215,
+      198
+    ]
+  ],
+  "separable": false,
+  "reason": "At alpha>0 existing antialias pixels connect both actors into one complete component; splitting would cut existing pair pixels. Preserve whole pair.",
+  "entry_exit_recommendation": "Fade entire anchored pair in/out, e.g.120ms opacity transition. Do not independently slide Lawrence out of a joined pair.",
+  "core_alpha16_components": [
+    [
+      18,
+      6,
+      140,
+      194,
+      16325
+    ],
+    [
+      140,
+      17,
+      90,
+      183,
+      10463
+    ]
+  ],
+  "visual_qa": "Anchored00 actors and03 sleeve contact reviewed at native size on black/white/gray. Cafe extracted full actor layers visually reviewed; no cut limbs or hair."
+}

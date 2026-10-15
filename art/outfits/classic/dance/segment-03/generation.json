@@ -1,0 +1,13 @@
+{
+  "tool": "built-in ImageGen",
+  "prompt": "Continue this same Cecilia chibi desktop pet's OP dance, segment03. EXACTLY12 complete poses in TWO ROWS of SIX, chronological top row then bottom. True transparent background, generous isolated silhouettes including all mint hair, ivory veil, navy/ivory skirt and shoes. Consistent head scale and construction from original atlas and previous approved animation. No text/grid/extra persons/background/floor/effects. Reference last is the actual corresponding twelve OP poses: front-facing low hands, subtly finish shifting knees and hips sideways; shoulders and head follow tiny sway, then dip a little as transition into forward bend begins in last frames. Keep arms relaxed down near thighs; do not wave yet. Green eyes happy. Source camera changes/background heads are ignored; don't change Cecilia scale or draw those. Make real subtle successive knee/hip/torso/hair changes over0.487sec, never random independent poses or identical repeated poses. First frame must connect to previous segment final frame, last frames end in a slight prepared forward lean with hands still low. ALL12 fully separated, common shoe baseline per row except tiny source bob. This is a dense animation sequence, not a set of unrelated standing expressions.",
+  "source": "https://www.bilibili.com/video/BV1ik4y1P7pD/",
+  "sourceIndices": [
+    24,
+    35
+  ],
+  "sourceReference": "references/user-op/dance-grid-03.jpg",
+  "output": "segment-03-grid.png",
+  "sourceStatus": "accepted geometry; continuous movement and segment joining await combined preview",
+  "transparent": true
+}

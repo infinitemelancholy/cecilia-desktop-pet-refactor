@@ -1,0 +1,162 @@
+{
+  "state": "lump",
+  "expected_frames": 6,
+  "actual_frames": 6,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\lump\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17336,
+      "bbox": [
+        21,
+        4,
+        170,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\lump\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16639,
+      "bbox": [
+        16,
+        35,
+        175,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\lump\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 14054,
+      "bbox": [
+        15,
+        64,
+        176,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\lump\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 13993,
+      "bbox": [
+        15,
+        66,
+        176,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\lump\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16624,
+      "bbox": [
+        18,
+        26,
+        173,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\lump\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 17237,
+      "bbox": [
+        22,
+        5,
+        169,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ],
+  "source_bounds": [
+    [
+      105,
+      13,
+      475,
+      514
+    ],
+    [
+      568,
+      74,
+      964,
+      492
+    ],
+    [
+      1043,
+      152,
+      1448,
+      493
+    ],
+    [
+      1623,
+      163,
+      2029,
+      502
+    ],
+    [
+      2108,
+      58,
+      2494,
+      499
+    ],
+    [
+      2601,
+      18,
+      2969,
+      514
+    ]
+  ],
+  "source_files": [
+    "C:/Users/Jiang Haoyu/.codex/generated_images/01a11ff4-d8b2-7091-a034-1733e570287b/exec-c4eb3938-0a05-4ba8-be2f-55554e7dfeeb.png"
+  ],
+  "strict_contour_chroma_pixels_removed": 0,
+  "source_row_registration": {
+    "gap_cut_y": 515,
+    "top_row_shift_y": 0,
+    "bottom_row_shift_y": 17,
+    "source_ground_baselines": [
+      514,
+      1012
+    ],
+    "method": "Whole rows moved only; no per-character scaling or cropping"
+  },
+  "grounded_pose_y_adjustments": [
+    -1,
+    7,
+    6,
+    3,
+    4,
+    -1
+  ],
+  "shared_registration": "bundled fit_registered_component_groups; one scale for complete row; vertical displacement preserved"
+}

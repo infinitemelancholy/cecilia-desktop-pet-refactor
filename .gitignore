@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+node_modules/
+runtime/*.json
+runtime/*.log
+runtime/*.pid
+.DS_Store
+Thumbs.db
+
+rebuild/原画风格2.5D试作/原生试作前备份*/
+rebuild/原画风格2.5D试作/*.mp4
+rebuild/原画风格2.5D试作/*.png

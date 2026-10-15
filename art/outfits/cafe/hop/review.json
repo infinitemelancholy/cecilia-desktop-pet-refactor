@@ -1,0 +1,155 @@
+{
+  "state": "cafe-hop",
+  "expected_frames": 6,
+  "actual_frames": 6,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\hop\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15193,
+      "bbox": [
+        26,
+        11,
+        166,
+        199
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\hop\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 14455,
+      "bbox": [
+        21,
+        39,
+        171,
+        199
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\hop\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16599,
+      "bbox": [
+        17,
+        8,
+        174,
+        186
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\hop\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16229,
+      "bbox": [
+        5,
+        16,
+        187,
+        170
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\hop\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 14179,
+      "bbox": [
+        17,
+        47,
+        175,
+        198
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\hop\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15347,
+      "bbox": [
+        26,
+        15,
+        165,
+        199
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ],
+  "source_bounds": [
+    [
+      150,
+      25,
+      465,
+      454
+    ],
+    [
+      662,
+      91,
+      1000,
+      454
+    ],
+    [
+      1159,
+      16,
+      1515,
+      421
+    ],
+    [
+      1823,
+      37,
+      2240,
+      384
+    ],
+    [
+      2368,
+      109,
+      2725,
+      450
+    ],
+    [
+      2918,
+      33,
+      3232,
+      454
+    ]
+  ],
+  "source_files": [
+    "work/art-runs/cafe/q/sources/hop-raw.png"
+  ],
+  "strict_contour_chroma_pixels_removed": 5656,
+  "source_row_registration": {
+    "gap_cut_y": 464,
+    "top_row_shift_y": 0,
+    "bottom_row_shift_y": 23,
+    "source_ground_baselines": [
+      454,
+      895
+    ],
+    "method": "Whole rows moved only; no per-character scaling or cropping"
+  },
+  "grounded_pose_y_adjustments": [],
+  "shared_registration": "bundled fit_registered_component_groups; one scale for complete row; vertical displacement preserved"
+}

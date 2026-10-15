@@ -1,0 +1,12 @@
+{
+  "status": "accepted",
+  "actualNativeContactReviewed": true,
+  "contact": "qa/native-contact.png",
+  "actualBundledReview": "review.json",
+  "poseOrder": "Front low joined hands→forward palms→left profile→back→right profile, exact12 order. First hand correction matches preceding dance03.",
+  "wardrobe": "Travel raspberrycloak whitecollar bluebow plainnavyskirt simplewhitecuffs, darkstockings, uncoveredmint longhair; no classicveil.",
+  "edges": "Fullbody all12 separate at native192x208 on gray, no visible fringe. Low-alpha gap bridge removed with all alpha>=64 core pixels retained.",
+  "registration": "Actual bundled component extraction, one batch transform, whole-row baseline alignment; no individual pose resizing.",
+  "source": "exec-6086c45c-0545-453b-aa9f-84d0910eb749.png",
+  "reviewedOn": "2026-10-10"
+}

@@ -1,0 +1,13 @@
+{
+  "status": "accepted",
+  "actualNativeContactReviewed": true,
+  "contact": "qa/native-contact.png",
+  "actualBundledReview": "review.json",
+  "poseOrder": "ViewerLEFTarm diagonal high all12; lower foot remains SCREENRIGHT. Index00 closed smiling,01..11 greeneyes open, no extra blink at06. Small weight/head changes preserved.",
+  "wardrobe": "Travel raspberrycloak whitecollarBLUEbow whitecuffs/plainnavyskirt darkstockings uncoveredmint longhair.",
+  "edges": "Full12 figures native192x208 no visible fringe. Weak gap cleanup65pixels, alpha>=64 core intact.",
+  "registration": "Actual bundled one batchfit, whole-row alignment, no perpose resizing.",
+  "sourceVersion": "classic/segment-06-seam, firstclosed→open; original OP evidence grid06.",
+  "source": "exec-acd84289-487a-435c-88d5-a3f49cb61440.png",
+  "reviewedOn": "2026-10-10"
+}

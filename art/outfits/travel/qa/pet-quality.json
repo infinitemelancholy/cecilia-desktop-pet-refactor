@@ -1,0 +1,64 @@
+{
+  "ok": true,
+  "atlas": "<本机路径已省略>\\xia\\work\\art-runs\\travel\\final\\spritesheet-v2.png",
+  "encoded_bytes": 3118806,
+  "sha256": "86c9f14b1604daf30c7af18c603688873aa5d7a6ef2f273999bb5efbdf12c9de",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      201,
+      171,
+      194,
+      202
+    ],
+    "airborne_lift_pixels": 31,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      94.0,
+      93.5,
+      94.0,
+      93.5,
+      94.0,
+      94.0,
+      93.0,
+      94.5,
+      92.5,
+      94.0,
+      93.5,
+      93.5,
+      92.5,
+      93.0,
+      93.0,
+      93.5
+    ],
+    "look_widths": [
+      136,
+      135,
+      134,
+      135,
+      136,
+      136,
+      136,
+      137,
+      147,
+      146,
+      147,
+      149,
+      147,
+      150,
+      148,
+      149
+    ],
+    "maximum_center_drift_pixels": 3.0,
+    "maximum_width_ratio": 1.1194029850746268
+  },
+  "errors": [],
+  "warnings": [
+    "157.5->180 diff is a local outlier (3035 pixels vs neighbor average 1632)",
+    "337.5->000 diff is a local outlier (2862 pixels vs neighbor average 1942)"
+  ]
+}

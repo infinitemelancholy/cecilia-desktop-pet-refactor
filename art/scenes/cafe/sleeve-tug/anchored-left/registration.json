@@ -1,0 +1,402 @@
+{
+  "operation": "Integer horizontal translation of entire existing pair only. Originals untouched, no actor redraw or resize.",
+  "target_cecilia_shoe_center_x_px": 96,
+  "anchor_precision": "Nearest whole pixel; actual centroid within0.5px of96",
+  "frames": [
+    {
+      "index": 0,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\scenes\\cafe\\sleeve-tug\\00.png",
+      "dx_px": -67,
+      "dy_px": 0,
+      "cecilia_source_shoe_center_x_px": 162.61,
+      "cecilia_anchored_shoe_center_x_px": 95.61,
+      "anchor_rounding_error_px": -0.39,
+      "complete_pair_pixel_bytes_preserved": true,
+      "full_alpha_bbox_before": [
+        87,
+        2,
+        294,
+        202
+      ],
+      "full_alpha_bbox_after": [
+        20,
+        2,
+        227,
+        202
+      ],
+      "solid_alpha_threshold": 16,
+      "solid_bbox_after": [
+        22,
+        4,
+        226,
+        200
+      ],
+      "solid_margins_ltrb_px": [
+        22,
+        4,
+        158,
+        8
+      ],
+      "baseline_before_y": 202,
+      "baseline_after_y": 202
+    },
+    {
+      "index": 1,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\scenes\\cafe\\sleeve-tug\\01.png",
+      "dx_px": -64,
+      "dy_px": 0,
+      "cecilia_source_shoe_center_x_px": 160.14,
+      "cecilia_anchored_shoe_center_x_px": 96.14,
+      "anchor_rounding_error_px": 0.14,
+      "complete_pair_pixel_bytes_preserved": true,
+      "full_alpha_bbox_before": [
+        85,
+        3,
+        298,
+        202
+      ],
+      "full_alpha_bbox_after": [
+        21,
+        3,
+        234,
+        202
+      ],
+      "solid_alpha_threshold": 16,
+      "solid_bbox_after": [
+        23,
+        5,
+        232,
+        200
+      ],
+      "solid_margins_ltrb_px": [
+        23,
+        5,
+        152,
+        8
+      ],
+      "baseline_before_y": 202,
+      "baseline_after_y": 202
+    },
+    {
+      "index": 2,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\scenes\\cafe\\sleeve-tug\\02.png",
+      "dx_px": -68,
+      "dy_px": 0,
+      "cecilia_source_shoe_center_x_px": 164.28,
+      "cecilia_anchored_shoe_center_x_px": 96.28,
+      "anchor_rounding_error_px": 0.28,
+      "complete_pair_pixel_bytes_preserved": true,
+      "full_alpha_bbox_before": [
+        86,
+        3,
+        296,
+        202
+      ],
+      "full_alpha_bbox_after": [
+        18,
+        3,
+        228,
+        202
+      ],
+      "solid_alpha_threshold": 16,
+      "solid_bbox_after": [
+        21,
+        5,
+        226,
+        200
+      ],
+      "solid_margins_ltrb_px": [
+        21,
+        5,
+        158,
+        8
+      ],
+      "baseline_before_y": 202,
+      "baseline_after_y": 202
+    },
+    {
+      "index": 3,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\scenes\\cafe\\sleeve-tug\\03.png",
+      "dx_px": -67,
+      "dy_px": 0,
+      "cecilia_source_shoe_center_x_px": 163.44,
+      "cecilia_anchored_shoe_center_x_px": 96.44,
+      "anchor_rounding_error_px": 0.44,
+      "complete_pair_pixel_bytes_preserved": true,
+      "full_alpha_bbox_before": [
+        85,
+        7,
+        298,
+        202
+      ],
+      "full_alpha_bbox_after": [
+        18,
+        7,
+        231,
+        202
+      ],
+      "solid_alpha_threshold": 16,
+      "solid_bbox_after": [
+        20,
+        9,
+        230,
+        200
+      ],
+      "solid_margins_ltrb_px": [
+        20,
+        9,
+        154,
+        8
+      ],
+      "baseline_before_y": 202,
+      "baseline_after_y": 202
+    },
+    {
+      "index": 4,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\scenes\\cafe\\sleeve-tug\\04.png",
+      "dx_px": -69,
+      "dy_px": 0,
+      "cecilia_source_shoe_center_x_px": 165.27,
+      "cecilia_anchored_shoe_center_x_px": 96.27,
+      "anchor_rounding_error_px": 0.27,
+      "complete_pair_pixel_bytes_preserved": true,
+      "full_alpha_bbox_before": [
+        85,
+        7,
+        298,
+        202
+      ],
+      "full_alpha_bbox_after": [
+        16,
+        7,
+        229,
+        202
+      ],
+      "solid_alpha_threshold": 16,
+      "solid_bbox_after": [
+        18,
+        9,
+        227,
+        201
+      ],
+      "solid_margins_ltrb_px": [
+        18,
+        9,
+        157,
+        7
+      ],
+      "baseline_before_y": 202,
+      "baseline_after_y": 202
+    },
+    {
+      "index": 5,
+      "source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\scenes\\cafe\\sleeve-tug\\05.png",
+      "dx_px": -67,
+      "dy_px": 0,
+      "cecilia_source_shoe_center_x_px": 163.38,
+      "cecilia_anchored_shoe_center_x_px": 96.38,
+      "anchor_rounding_error_px": 0.38,
+      "complete_pair_pixel_bytes_preserved": true,
+      "full_alpha_bbox_before": [
+        85,
+        7,
+        298,
+        202
+      ],
+      "full_alpha_bbox_after": [
+        18,
+        7,
+        231,
+        202
+      ],
+      "solid_alpha_threshold": 16,
+      "solid_bbox_after": [
+        20,
+        9,
+        229,
+        201
+      ],
+      "solid_margins_ltrb_px": [
+        20,
+        9,
+        155,
+        7
+      ],
+      "baseline_before_y": 202,
+      "baseline_after_y": 202
+    }
+  ],
+  "inspection": {
+    "state": "cafe",
+    "expected_frames": 6,
+    "actual_frames": 6,
+    "extraction_method": "components",
+    "ok": true,
+    "errors": [],
+    "warnings": [],
+    "frames": [
+      {
+        "index": 0,
+        "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\scenes\\cafe\\sleeve-tug\\anchored-left\\00.png",
+        "width": 384,
+        "height": 208,
+        "nontransparent_pixels": 25489,
+        "bbox": [
+          20,
+          2,
+          227,
+          202
+        ],
+        "edge_pixels": 0,
+        "chroma_adjacent_pixels": 0
+      },
+      {
+        "index": 1,
+        "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\scenes\\cafe\\sleeve-tug\\anchored-left\\01.png",
+        "width": 384,
+        "height": 208,
+        "nontransparent_pixels": 26038,
+        "bbox": [
+          21,
+          3,
+          234,
+          202
+        ],
+        "edge_pixels": 0,
+        "chroma_adjacent_pixels": 0
+      },
+      {
+        "index": 2,
+        "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\scenes\\cafe\\sleeve-tug\\anchored-left\\02.png",
+        "width": 384,
+        "height": 208,
+        "nontransparent_pixels": 26117,
+        "bbox": [
+          18,
+          3,
+          228,
+          202
+        ],
+        "edge_pixels": 0,
+        "chroma_adjacent_pixels": 0
+      },
+      {
+        "index": 3,
+        "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\scenes\\cafe\\sleeve-tug\\anchored-left\\03.png",
+        "width": 384,
+        "height": 208,
+        "nontransparent_pixels": 26407,
+        "bbox": [
+          18,
+          7,
+          231,
+          202
+        ],
+        "edge_pixels": 0,
+        "chroma_adjacent_pixels": 0
+      },
+      {
+        "index": 4,
+        "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\scenes\\cafe\\sleeve-tug\\anchored-left\\04.png",
+        "width": 384,
+        "height": 208,
+        "nontransparent_pixels": 26502,
+        "bbox": [
+          16,
+          7,
+          229,
+          202
+        ],
+        "edge_pixels": 0,
+        "chroma_adjacent_pixels": 0
+      },
+      {
+        "index": 5,
+        "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\scenes\\cafe\\sleeve-tug\\anchored-left\\05.png",
+        "width": 384,
+        "height": 208,
+        "nontransparent_pixels": 25710,
+        "bbox": [
+          18,
+          7,
+          231,
+          202
+        ],
+        "edge_pixels": 0,
+        "chroma_adjacent_pixels": 0
+      }
+    ]
+  },
+  "layers": {
+    "method": "Strict full alpha>0 connected-component separation; no erasing, cuts, repair or redraw",
+    "alpha_threshold": 0,
+    "large_component_bboxes": [
+      [
+        20,
+        2,
+        129,
+        200
+      ],
+      [
+        139,
+        21,
+        88,
+        181
+      ]
+    ],
+    "separable": true,
+    "cecilia_layer": "cecilia-00.png",
+    "lawrence_layer": "lawrence-00.png",
+    "layer_size": [
+      384,
+      208
+    ],
+    "whole_component_assignments": [
+      [
+        1,
+        4,
+        5,
+        6
+      ],
+      [
+        2,
+        3,
+        7
+      ]
+    ],
+    "recomposition_pixel_exact": true,
+    "layer_bboxes": [
+      [
+        20,
+        2,
+        149,
+        202
+      ],
+      [
+        139,
+        21,
+        227,
+        202
+      ]
+    ],
+    "entry_exit_recommendation": "Keep Cecilia layer at registered original coordinates; translate Lawrence layer only for entry/exit. Switch to intact anchored interaction frames after entry. No actor resize.",
+    "core_alpha16_components": [
+      [
+        22,
+        4,
+        125,
+        195,
+        14418
+      ],
+      [
+        140,
+        23,
+        86,
+        177,
+        9702
+      ]
+    ],
+    "visual_qa": "Anchored00 actors and03 sleeve contact reviewed at native size on black/white/gray. Cafe extracted full actor layers visually reviewed; no cut limbs or hair."
+  },
+  "visual_qa": "All18 complete pair frames shifted intact; native384x208 contact and edge previews reviewed. Cecil remains on left at shoe-centroid96plusminus0.5px, Lawrence remains to her right. No changes to relative actor pose, source scale or vertical coordinates."
+}

@@ -1,0 +1,584 @@
+{
+  "classic": [
+    {
+      "pose": 0,
+      "coreHeight": 252,
+      "scale": 0.7643564356435644,
+      "targetHeight": 197
+    },
+    {
+      "pose": 1,
+      "coreHeight": 254,
+      "scale": 0.7643564356435644,
+      "targetHeight": 199
+    },
+    {
+      "pose": 2,
+      "coreHeight": 249,
+      "scale": 0.7643564356435644,
+      "targetHeight": 195
+    },
+    {
+      "pose": 3,
+      "coreHeight": 256,
+      "scale": 0.7643564356435644,
+      "targetHeight": 200
+    },
+    {
+      "pose": 4,
+      "coreHeight": 248,
+      "scale": 0.7643564356435644,
+      "targetHeight": 194
+    },
+    {
+      "pose": 5,
+      "coreHeight": 253,
+      "scale": 0.7643564356435644,
+      "targetHeight": 198
+    },
+    {
+      "pose": 6,
+      "coreHeight": 255,
+      "scale": 0.7643564356435644,
+      "targetHeight": 199
+    },
+    {
+      "pose": 7,
+      "coreHeight": 250,
+      "scale": 0.7643564356435644,
+      "targetHeight": 196
+    },
+    {
+      "pose": 8,
+      "coreHeight": 250,
+      "scale": 0.772,
+      "targetHeight": 198
+    },
+    {
+      "pose": 9,
+      "coreHeight": 251,
+      "scale": 0.772,
+      "targetHeight": 198
+    },
+    {
+      "pose": 10,
+      "coreHeight": 246,
+      "scale": 0.772,
+      "targetHeight": 195
+    },
+    {
+      "pose": 11,
+      "coreHeight": 250,
+      "scale": 0.772,
+      "targetHeight": 198
+    },
+    {
+      "pose": 12,
+      "coreHeight": 250,
+      "scale": 0.772,
+      "targetHeight": 198
+    },
+    {
+      "pose": 13,
+      "coreHeight": 250,
+      "scale": 0.772,
+      "targetHeight": 198
+    },
+    {
+      "pose": 14,
+      "coreHeight": 253,
+      "scale": 0.772,
+      "targetHeight": 200
+    },
+    {
+      "pose": 15,
+      "coreHeight": 247,
+      "scale": 0.772,
+      "targetHeight": 195
+    },
+    {
+      "pose": 16,
+      "coreHeight": 245,
+      "scale": 0.7877551020408163,
+      "targetHeight": 198
+    },
+    {
+      "pose": 17,
+      "coreHeight": 245,
+      "scale": 0.7877551020408163,
+      "targetHeight": 198
+    },
+    {
+      "pose": 18,
+      "coreHeight": 245,
+      "scale": 0.7877551020408163,
+      "targetHeight": 198
+    },
+    {
+      "pose": 19,
+      "coreHeight": 246,
+      "scale": 0.7877551020408163,
+      "targetHeight": 199
+    },
+    {
+      "pose": 20,
+      "coreHeight": 245,
+      "scale": 0.7877551020408163,
+      "targetHeight": 198
+    },
+    {
+      "pose": 21,
+      "coreHeight": 247,
+      "scale": 0.7877551020408163,
+      "targetHeight": 199
+    },
+    {
+      "pose": 22,
+      "coreHeight": 248,
+      "scale": 0.7877551020408163,
+      "targetHeight": 200
+    },
+    {
+      "pose": 23,
+      "coreHeight": 245,
+      "scale": 0.7877551020408163,
+      "targetHeight": 198
+    },
+    {
+      "pose": 24,
+      "coreHeight": 217,
+      "scale": 0.8772727272727273,
+      "targetHeight": 196
+    },
+    {
+      "pose": 25,
+      "coreHeight": 224,
+      "scale": 0.8772727272727273,
+      "targetHeight": 202
+    },
+    {
+      "pose": 26,
+      "coreHeight": 224,
+      "scale": 0.8772727272727273,
+      "targetHeight": 202
+    },
+    {
+      "pose": 27,
+      "coreHeight": 222,
+      "scale": 0.8772727272727273,
+      "targetHeight": 200
+    },
+    {
+      "pose": 28,
+      "coreHeight": 216,
+      "scale": 0.8772727272727273,
+      "targetHeight": 195
+    },
+    {
+      "pose": 29,
+      "coreHeight": 217,
+      "scale": 0.8772727272727273,
+      "targetHeight": 196
+    },
+    {
+      "pose": 30,
+      "coreHeight": 220,
+      "scale": 0.8772727272727273,
+      "targetHeight": 198
+    },
+    {
+      "pose": 31,
+      "coreHeight": 220,
+      "scale": 0.8772727272727273,
+      "targetHeight": 198
+    }
+  ],
+  "travel": [
+    {
+      "pose": 0,
+      "coreHeight": 213,
+      "scale": 0.9056603773584906,
+      "targetHeight": 198
+    },
+    {
+      "pose": 1,
+      "coreHeight": 212,
+      "scale": 0.9056603773584906,
+      "targetHeight": 197
+    },
+    {
+      "pose": 2,
+      "coreHeight": 207,
+      "scale": 0.9056603773584906,
+      "targetHeight": 193
+    },
+    {
+      "pose": 3,
+      "coreHeight": 212,
+      "scale": 0.9056603773584906,
+      "targetHeight": 197
+    },
+    {
+      "pose": 4,
+      "coreHeight": 211,
+      "scale": 0.9056603773584906,
+      "targetHeight": 197
+    },
+    {
+      "pose": 5,
+      "coreHeight": 214,
+      "scale": 0.9056603773584906,
+      "targetHeight": 199
+    },
+    {
+      "pose": 6,
+      "coreHeight": 212,
+      "scale": 0.9056603773584906,
+      "targetHeight": 197
+    },
+    {
+      "pose": 7,
+      "coreHeight": 209,
+      "scale": 0.9056603773584906,
+      "targetHeight": 195
+    },
+    {
+      "pose": 8,
+      "coreHeight": 211,
+      "scale": 0.909952606635071,
+      "targetHeight": 197
+    },
+    {
+      "pose": 9,
+      "coreHeight": 211,
+      "scale": 0.909952606635071,
+      "targetHeight": 197
+    },
+    {
+      "pose": 10,
+      "coreHeight": 212,
+      "scale": 0.909952606635071,
+      "targetHeight": 198
+    },
+    {
+      "pose": 11,
+      "coreHeight": 212,
+      "scale": 0.909952606635071,
+      "targetHeight": 198
+    },
+    {
+      "pose": 12,
+      "coreHeight": 211,
+      "scale": 0.909952606635071,
+      "targetHeight": 197
+    },
+    {
+      "pose": 13,
+      "coreHeight": 207,
+      "scale": 0.909952606635071,
+      "targetHeight": 194
+    },
+    {
+      "pose": 14,
+      "coreHeight": 211,
+      "scale": 0.909952606635071,
+      "targetHeight": 197
+    },
+    {
+      "pose": 15,
+      "coreHeight": 212,
+      "scale": 0.909952606635071,
+      "targetHeight": 198
+    },
+    {
+      "pose": 16,
+      "coreHeight": 208,
+      "scale": 0.9230769230769231,
+      "targetHeight": 198
+    },
+    {
+      "pose": 17,
+      "coreHeight": 208,
+      "scale": 0.9230769230769231,
+      "targetHeight": 198
+    },
+    {
+      "pose": 18,
+      "coreHeight": 208,
+      "scale": 0.9230769230769231,
+      "targetHeight": 198
+    },
+    {
+      "pose": 19,
+      "coreHeight": 208,
+      "scale": 0.9230769230769231,
+      "targetHeight": 198
+    },
+    {
+      "pose": 20,
+      "coreHeight": 208,
+      "scale": 0.9230769230769231,
+      "targetHeight": 198
+    },
+    {
+      "pose": 21,
+      "coreHeight": 208,
+      "scale": 0.9230769230769231,
+      "targetHeight": 198
+    },
+    {
+      "pose": 22,
+      "coreHeight": 181,
+      "scale": 0.9230769230769231,
+      "targetHeight": 173
+    },
+    {
+      "pose": 23,
+      "coreHeight": 208,
+      "scale": 0.9230769230769231,
+      "targetHeight": 198
+    },
+    {
+      "pose": 24,
+      "coreHeight": 205,
+      "scale": 0.9365853658536586,
+      "targetHeight": 198
+    },
+    {
+      "pose": 25,
+      "coreHeight": 205,
+      "scale": 0.9365853658536586,
+      "targetHeight": 198
+    },
+    {
+      "pose": 26,
+      "coreHeight": 204,
+      "scale": 0.9365853658536586,
+      "targetHeight": 197
+    },
+    {
+      "pose": 27,
+      "coreHeight": 206,
+      "scale": 0.9365853658536586,
+      "targetHeight": 199
+    },
+    {
+      "pose": 28,
+      "coreHeight": 204,
+      "scale": 0.9365853658536586,
+      "targetHeight": 197
+    },
+    {
+      "pose": 29,
+      "coreHeight": 205,
+      "scale": 0.9365853658536586,
+      "targetHeight": 198
+    },
+    {
+      "pose": 30,
+      "coreHeight": 204,
+      "scale": 0.9365853658536586,
+      "targetHeight": 197
+    },
+    {
+      "pose": 31,
+      "coreHeight": 205,
+      "scale": 0.9365853658536586,
+      "targetHeight": 198
+    }
+  ],
+  "cafe": [
+    {
+      "pose": 0,
+      "coreHeight": 212,
+      "scale": 0.9107981220657277,
+      "targetHeight": 199
+    },
+    {
+      "pose": 1,
+      "coreHeight": 213,
+      "scale": 0.9107981220657277,
+      "targetHeight": 199
+    },
+    {
+      "pose": 2,
+      "coreHeight": 213,
+      "scale": 0.9107981220657277,
+      "targetHeight": 199
+    },
+    {
+      "pose": 3,
+      "coreHeight": 214,
+      "scale": 0.9107981220657277,
+      "targetHeight": 200
+    },
+    {
+      "pose": 4,
+      "coreHeight": 211,
+      "scale": 0.9107981220657277,
+      "targetHeight": 198
+    },
+    {
+      "pose": 5,
+      "coreHeight": 213,
+      "scale": 0.9107981220657277,
+      "targetHeight": 199
+    },
+    {
+      "pose": 6,
+      "coreHeight": 213,
+      "scale": 0.9107981220657277,
+      "targetHeight": 199
+    },
+    {
+      "pose": 7,
+      "coreHeight": 213,
+      "scale": 0.9107981220657277,
+      "targetHeight": 199
+    },
+    {
+      "pose": 8,
+      "coreHeight": 213,
+      "scale": 0.9107981220657277,
+      "targetHeight": 199
+    },
+    {
+      "pose": 9,
+      "coreHeight": 213,
+      "scale": 0.9107981220657277,
+      "targetHeight": 199
+    },
+    {
+      "pose": 10,
+      "coreHeight": 213,
+      "scale": 0.9107981220657277,
+      "targetHeight": 199
+    },
+    {
+      "pose": 11,
+      "coreHeight": 213,
+      "scale": 0.9107981220657277,
+      "targetHeight": 199
+    },
+    {
+      "pose": 12,
+      "coreHeight": 213,
+      "scale": 0.9107981220657277,
+      "targetHeight": 199
+    },
+    {
+      "pose": 13,
+      "coreHeight": 212,
+      "scale": 0.9107981220657277,
+      "targetHeight": 199
+    },
+    {
+      "pose": 14,
+      "coreHeight": 214,
+      "scale": 0.9107981220657277,
+      "targetHeight": 200
+    },
+    {
+      "pose": 15,
+      "coreHeight": 213,
+      "scale": 0.9107981220657277,
+      "targetHeight": 199
+    },
+    {
+      "pose": 16,
+      "coreHeight": 211,
+      "scale": 0.9150943396226415,
+      "targetHeight": 199
+    },
+    {
+      "pose": 17,
+      "coreHeight": 212,
+      "scale": 0.9150943396226415,
+      "targetHeight": 199
+    },
+    {
+      "pose": 18,
+      "coreHeight": 212,
+      "scale": 0.9150943396226415,
+      "targetHeight": 199
+    },
+    {
+      "pose": 19,
+      "coreHeight": 212,
+      "scale": 0.9150943396226415,
+      "targetHeight": 199
+    },
+    {
+      "pose": 20,
+      "coreHeight": 212,
+      "scale": 0.9150943396226415,
+      "targetHeight": 199
+    },
+    {
+      "pose": 21,
+      "coreHeight": 212,
+      "scale": 0.9150943396226415,
+      "targetHeight": 199
+    },
+    {
+      "pose": 22,
+      "coreHeight": 208,
+      "scale": 0.9150943396226415,
+      "targetHeight": 196
+    },
+    {
+      "pose": 23,
+      "coreHeight": 212,
+      "scale": 0.9150943396226415,
+      "targetHeight": 199
+    },
+    {
+      "pose": 24,
+      "coreHeight": 215,
+      "scale": 0.9107981220657277,
+      "targetHeight": 200
+    },
+    {
+      "pose": 25,
+      "coreHeight": 213,
+      "scale": 0.9107981220657277,
+      "targetHeight": 199
+    },
+    {
+      "pose": 26,
+      "coreHeight": 213,
+      "scale": 0.9107981220657277,
+      "targetHeight": 199
+    },
+    {
+      "pose": 27,
+      "coreHeight": 213,
+      "scale": 0.9107981220657277,
+      "targetHeight": 199
+    },
+    {
+      "pose": 28,
+      "coreHeight": 213,
+      "scale": 0.9107981220657277,
+      "targetHeight": 199
+    },
+    {
+      "pose": 29,
+      "coreHeight": 214,
+      "scale": 0.9107981220657277,
+      "targetHeight": 199
+    },
+    {
+      "pose": 30,
+      "coreHeight": 214,
+      "scale": 0.9107981220657277,
+      "targetHeight": 199
+    },
+    {
+      "pose": 31,
+      "coreHeight": 213,
+      "scale": 0.9107981220657277,
+      "targetHeight": 199
+    }
+  ]
+}

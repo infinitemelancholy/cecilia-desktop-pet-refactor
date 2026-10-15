@@ -1,0 +1,230 @@
+{
+  "passed": true,
+  "method": "OS shell opens actual .lnk/.vbs files against the already-running Codex client. No full host restart.",
+  "routes": [
+    {
+      "route": "desktop",
+      "file": "<本机路径已省略>",
+      "passed": true,
+      "helperPids": [
+        59580
+      ],
+      "initial": {
+        "status": {
+          "stopped": false,
+          "mode": "daily",
+          "renderFrames": 2,
+          "slowFrames": 0,
+          "clip": "bean",
+          "elapsed": 2220.211111104838,
+          "phase": "interlude",
+          "outfit": "classic",
+          "danceId": null,
+          "duo": false,
+          "lookDirection": null,
+          "measurementWidth": 224
+        },
+        "state": {
+          "version": 2,
+          "outfit": "classic",
+          "visibleMs": 1460088.6000000017,
+          "nextOutfitAt": 1489724.658127483,
+          "phase": "interlude",
+          "phaseElapsed": 2220.211111104838,
+          "scene": "bean",
+          "sceneBag": [
+            "lawrence-sleeve",
+            "shy",
+            "hazelita-chat",
+            "sleepy",
+            "lie",
+            "lawrence-care",
+            "lump"
+          ],
+          "outfitBag": [
+            "cafe"
+          ],
+          "lastScene": "bean",
+          "lastMode": "daily",
+          "lastTask": null,
+          "taskElapsed": 0,
+          "recoveryRemaining": 0,
+          "resume": null,
+          "danceId": "tiptoe-clap",
+          "danceBag": [
+            "small-sway",
+            "op-turn"
+          ],
+          "lastDance": "tiptoe-clap"
+        },
+        "canvasCount": 1
+      },
+      "later": {
+        "status": {
+          "stopped": false,
+          "mode": "daily",
+          "renderFrames": 7,
+          "slowFrames": 0,
+          "clip": "idle",
+          "elapsed": 3472.5111111037204,
+          "phase": "interlude",
+          "outfit": "classic",
+          "danceId": null,
+          "duo": false,
+          "lookDirection": null,
+          "measurementWidth": 224
+        },
+        "state": {
+          "version": 2,
+          "outfit": "classic",
+          "visibleMs": 1461340.9000000006,
+          "nextOutfitAt": 1489724.658127483,
+          "phase": "interlude",
+          "phaseElapsed": 3472.5111111037204,
+          "scene": "bean",
+          "sceneBag": [
+            "lawrence-sleeve",
+            "shy",
+            "hazelita-chat",
+            "sleepy",
+            "lie",
+            "lawrence-care",
+            "lump"
+          ],
+          "outfitBag": [
+            "cafe"
+          ],
+          "lastScene": "bean",
+          "lastMode": "daily",
+          "lastTask": null,
+          "taskElapsed": 0,
+          "recoveryRemaining": 0,
+          "resume": null,
+          "danceId": "tiptoe-clap",
+          "danceBag": [
+            "small-sway",
+            "op-turn"
+          ],
+          "lastDance": "tiptoe-clap"
+        },
+        "canvasCount": 1
+      }
+    },
+    {
+      "route": "taskbar-file",
+      "file": "C:\\Users\\Jiang Haoyu\\AppData\\Roaming\\Microsoft\\Internet Explorer\\Quick Launch\\User Pinned\\TaskBar\\Codex.lnk",
+      "passed": true,
+      "helperPids": [
+        67020
+      ],
+      "initial": {
+        "status": {
+          "stopped": false,
+          "mode": "daily",
+          "renderFrames": 4,
+          "slowFrames": 0,
+          "clip": "idle",
+          "elapsed": 4407.311111104465,
+          "phase": "interlude",
+          "outfit": "classic",
+          "danceId": null,
+          "duo": false,
+          "lookDirection": null,
+          "measurementWidth": 224
+        },
+        "state": {
+          "version": 2,
+          "outfit": "classic",
+          "visibleMs": 1462275.7000000014,
+          "nextOutfitAt": 1489724.658127483,
+          "phase": "interlude",
+          "phaseElapsed": 4407.311111104465,
+          "scene": "bean",
+          "sceneBag": [
+            "lawrence-sleeve",
+            "shy",
+            "hazelita-chat",
+            "sleepy",
+            "lie",
+            "lawrence-care",
+            "lump"
+          ],
+          "outfitBag": [
+            "cafe"
+          ],
+          "lastScene": "bean",
+          "lastMode": "daily",
+          "lastTask": null,
+          "taskElapsed": 0,
+          "recoveryRemaining": 0,
+          "resume": null,
+          "danceId": "tiptoe-clap",
+          "danceBag": [
+            "small-sway",
+            "op-turn"
+          ],
+          "lastDance": "tiptoe-clap"
+        },
+        "canvasCount": 1
+      },
+      "later": {
+        "status": {
+          "stopped": false,
+          "mode": "daily",
+          "renderFrames": 10,
+          "slowFrames": 0,
+          "clip": "idle",
+          "elapsed": 5576.111111103348,
+          "phase": "interlude",
+          "outfit": "classic",
+          "danceId": null,
+          "duo": false,
+          "lookDirection": null,
+          "measurementWidth": 224
+        },
+        "state": {
+          "version": 2,
+          "outfit": "classic",
+          "visibleMs": 1463444.5000000002,
+          "nextOutfitAt": 1489724.658127483,
+          "phase": "interlude",
+          "phaseElapsed": 5576.111111103348,
+          "scene": "bean",
+          "sceneBag": [
+            "lawrence-sleeve",
+            "shy",
+            "hazelita-chat",
+            "sleepy",
+            "lie",
+            "lawrence-care",
+            "lump"
+          ],
+          "outfitBag": [
+            "cafe"
+          ],
+          "lastScene": "bean",
+          "lastMode": "daily",
+          "lastTask": null,
+          "taskElapsed": 0,
+          "recoveryRemaining": 0,
+          "resume": null,
+          "danceId": "tiptoe-clap",
+          "danceBag": [
+            "small-sway",
+            "op-turn"
+          ],
+          "lastDance": "tiptoe-clap"
+        },
+        "canvasCount": 1
+      }
+    }
+  ],
+  "unifiedStart": {
+    "passed": true,
+    "oneHelper": [
+      25616
+    ],
+    "canvasCount": 1,
+    "outfitPreserved": "classic"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "source": "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-6d0e-78e3-85ab-a12f726b91c7\\exec-7d1994b5-e1d5-4288-b592-0828a22b0065.png",
+  "state": "idle",
+  "significant_components": 2,
+  "bundled_despill_report": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\qa\\rows\\idle\\despill.json",
+  "removed_chroma_edge_pixels": 1451,
+  "removed_detached_alpha_noise": 7548,
+  "removed_weak_alpha_pixels": 33751,
+  "deep_interior_pixels_changed": 0,
+  "technique": "Bundled chroma despill plus only transparent-boundary saturated yellow/magenta alpha cleanup. No character drawing or geometric changes."
+}

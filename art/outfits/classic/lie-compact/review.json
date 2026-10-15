@@ -1,0 +1,220 @@
+{
+  "state": "lie-compact",
+  "expected_frames": 6,
+  "actual_frames": 6,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\classic\\lie-compact\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16308,
+      "bbox": [
+        25,
+        4,
+        166,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\classic\\lie-compact\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15270,
+      "bbox": [
+        17,
+        54,
+        175,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\classic\\lie-compact\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 12775,
+      "bbox": [
+        6,
+        87,
+        186,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\classic\\lie-compact\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 12709,
+      "bbox": [
+        5,
+        90,
+        187,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\classic\\lie-compact\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15019,
+      "bbox": [
+        21,
+        51,
+        170,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\classic\\lie-compact\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 16308,
+      "bbox": [
+        25,
+        4,
+        166,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ],
+  "source_bounds": [
+    [
+      72,
+      17,
+      440,
+      544
+    ],
+    [
+      561,
+      154,
+      975,
+      544
+    ],
+    [
+      1044,
+      243,
+      1517,
+      544
+    ],
+    [
+      1550,
+      251,
+      2035,
+      544
+    ],
+    [
+      2109,
+      148,
+      2499,
+      544
+    ],
+    [
+      2632,
+      17,
+      3000,
+      544
+    ]
+  ],
+  "source_files": [
+    "outputs/cecilia-qpet/art/outfits/classic/lie-compact/source.png"
+  ],
+  "strict_contour_chroma_pixels_removed": 0,
+  "source_row_registration": {
+    "gap_cut_y": 556,
+    "top_row_shift_y": 4,
+    "bottom_row_shift_y": 0,
+    "source_ground_baselines": [
+      540,
+      1100
+    ],
+    "method": "Whole rows moved only; no per-character scaling or cropping"
+  },
+  "grounded_pose_y_adjustments": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "shared_registration": "bundled fit_registered_component_groups; one scale for complete row; vertical displacement preserved",
+  "visual_qa": {
+    "pose_semantics": "Five unique newly generated standing/kneel/compact belly-rest/sleepy belly-rest/rising kneel poses; same standing00 repeated as05 closure",
+    "neutral_reuse_authorized": true,
+    "neutral00_05_pixel_exact": true,
+    "native_alpha16_bbox_xywh": [
+      [
+        27,
+        5,
+        137,
+        196
+      ],
+      [
+        19,
+        56,
+        154,
+        145
+      ],
+      [
+        8,
+        89,
+        176,
+        112
+      ],
+      [
+        6,
+        92,
+        180,
+        109
+      ],
+      [
+        24,
+        54,
+        144,
+        147
+      ],
+      [
+        27,
+        5,
+        137,
+        196
+      ]
+    ],
+    "standing_start_end_height_px": [
+      196,
+      196
+    ],
+    "compact_belly_width_px": [
+      176,
+      180
+    ],
+    "head_size": "Native contact reviewed: consistent face/skull size while folded body lowers; no whole-person resizing perpose",
+    "costume": "Approved classic mint hair/green eyes, cream veil/cape lace, white sleeves, navy skirt lace hem/dark stockings-shoes",
+    "edge": "Frame02 compact rest inspected on black/white/gray; all hair and sleeves/skirt/shoes within192x208, no clipped broad halo",
+    "one_common_scale": "Bundled fit_registered_component_groups across all6 with no frame-specific resize; subsequent grounded vertical translation only",
+    "source_recovery_not_accepted": "Independent generated small recovery retained inunaccepted; replaced only by identical generated standing00 to avoidpop",
+    "source_path": "source.png",
+    "preview": "preview-224x243.gif"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "algorithm": "edge-local-chroma-spill-suppression",
+  "strength": 1,
+  "edge_radius": 3,
+  "spill_tolerance": 0.15,
+  "minimum_saturation": 0.1,
+  "changed_pixels": 40276,
+  "decontaminated_pixels": 40276,
+  "spill_suppressed_pixels": 40276,
+  "rejected_pixels": 0,
+  "changed_by_cell": {
+    "r0c2": 3436,
+    "r0c4": 3434,
+    "r0c1": 3434,
+    "r0c3": 3429,
+    "r0c5": 3394,
+    "r0c6": 3349,
+    "r0c0": 3349,
+    "r0c7": 3314,
+    "r0c11": 3302,
+    "r0c10": 3292,
+    "r0c9": 3290,
+    "r0c8": 3253
+  },
+  "alpha_preserved": true
+}

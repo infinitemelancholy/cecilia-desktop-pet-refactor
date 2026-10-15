@@ -1,0 +1,54 @@
+{
+  "originalImageGenPath": "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-a8df-76e2-a6e5-5394410b188c\\exec-b7d6a1c3-6fd1-437f-8924-46e539b5680c.png",
+  "sourceArchive": "work/art-runs/cafe/q/sources/bean-raw.png",
+  "prompt": "work/art-runs/cafe/prompts/q-bean.txt",
+  "transparentBackground": true,
+  "poseReference": "outputs/cecilia-qpet/art/outfits/classic/bean-strip.png",
+  "costumeSource": "work/references/official/episode-06-01.png",
+  "description": "green eyes\u2192dot eyes\u2192tilt/clasp\u2192eager fists\u2192smile\u2192green eyes",
+  "visualWarnings": [],
+  "actualFrames": 6,
+  "bundledFrameInspection": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\bean\\review.json",
+  "inspectionPassed": true,
+  "normalSizeContact": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\bean\\contact.png",
+  "motionPreview": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\bean\\preview.gif",
+  "finalCellBboxes": [
+    [
+      29,
+      4,
+      162,
+      202
+    ],
+    [
+      31,
+      5,
+      160,
+      202
+    ],
+    [
+      28,
+      6,
+      163,
+      202
+    ],
+    [
+      28,
+      19,
+      163,
+      202
+    ],
+    [
+      30,
+      16,
+      161,
+      202
+    ],
+    [
+      28,
+      15,
+      163,
+      202
+    ]
+  ],
+  "registration": "One bundled family scale, no per-pose resize. Grounded poses translated to shared floor; hop vertical displacement preserved."
+}

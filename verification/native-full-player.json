@@ -1,0 +1,1638 @@
+{
+  "passed": true,
+  "method": "Native pet integration API and renderer-owned PNG canvas; temporary task attribute probes restored.",
+  "selectedOutfits": [
+    "classic",
+    "travel",
+    "cafe"
+  ],
+  "limitations": [
+    "Actual operating-system display-scale changes and full Codex exit/reopen require manual lifecycle verification."
+  ],
+  "installSeconds": 1.062999999994645,
+  "initialActualTask": {
+    "status": {
+      "stopped": false,
+      "mode": "task",
+      "renderFrames": 3,
+      "slowFrames": 0,
+      "clip": "running",
+      "elapsed": 434.09999999962747,
+      "phase": "dance",
+      "outfit": "classic",
+      "danceId": null,
+      "duo": false,
+      "lookDirection": null,
+      "measurementWidth": 224
+    },
+    "state": {
+      "version": 2,
+      "outfit": "classic",
+      "visibleMs": 435.90000000596046,
+      "nextOutfitAt": 419365.7821406415,
+      "phase": "dance",
+      "phaseElapsed": 0,
+      "danceId": "tiptoe-clap",
+      "danceBag": [
+        "small-sway",
+        "op-turn"
+      ],
+      "lastDance": "tiptoe-clap",
+      "scene": null,
+      "sceneBag": [],
+      "outfitBag": [],
+      "lastScene": null,
+      "lastMode": "task",
+      "lastTask": "running",
+      "taskElapsed": 434.09999999962747,
+      "recoveryRemaining": 1200,
+      "resume": null
+    },
+    "stopReason": null,
+    "canvasCount": 1,
+    "visiblePixels": 19561,
+    "task": "running",
+    "layout": {
+      "hostWidth": 224,
+      "hostHeight": 243,
+      "left": 620,
+      "top": 362
+    },
+    "devicePixelRatio": 1,
+    "screen": {
+      "width": 1920,
+      "height": 1080
+    },
+    "spriteVisibility": "hidden"
+  },
+  "tasks": [
+    {
+      "status": {
+        "stopped": false,
+        "mode": "task",
+        "renderFrames": 4,
+        "slowFrames": 0,
+        "clip": "waiting",
+        "elapsed": 133.59999999962747,
+        "phase": "dance",
+        "outfit": "classic",
+        "danceId": null,
+        "duo": false,
+        "lookDirection": null,
+        "measurementWidth": 224
+      },
+      "state": {
+        "version": 2,
+        "outfit": "classic",
+        "visibleMs": 569.5000000055879,
+        "nextOutfitAt": 419365.7821406415,
+        "phase": "dance",
+        "phaseElapsed": 0,
+        "danceId": "tiptoe-clap",
+        "danceBag": [
+          "small-sway",
+          "op-turn"
+        ],
+        "lastDance": "tiptoe-clap",
+        "scene": null,
+        "sceneBag": [],
+        "outfitBag": [],
+        "lastScene": null,
+        "lastMode": "task",
+        "lastTask": "waiting",
+        "taskElapsed": 133.59999999962747,
+        "recoveryRemaining": 1200,
+        "resume": null
+      },
+      "stopReason": null,
+      "canvasCount": 1,
+      "visiblePixels": 17972,
+      "task": "waiting",
+      "layout": {
+        "hostWidth": 224,
+        "hostHeight": 243,
+        "left": 620,
+        "top": 362
+      },
+      "devicePixelRatio": 1,
+      "screen": {
+        "width": 1920,
+        "height": 1080
+      },
+      "spriteVisibility": "hidden"
+    },
+    {
+      "status": {
+        "stopped": false,
+        "mode": "task",
+        "renderFrames": 5,
+        "slowFrames": 0,
+        "clip": "failed",
+        "elapsed": 133.59999999962747,
+        "phase": "dance",
+        "outfit": "classic",
+        "danceId": null,
+        "duo": false,
+        "lookDirection": null,
+        "measurementWidth": 224
+      },
+      "state": {
+        "version": 2,
+        "outfit": "classic",
+        "visibleMs": 703.1000000052154,
+        "nextOutfitAt": 419365.7821406415,
+        "phase": "dance",
+        "phaseElapsed": 0,
+        "danceId": "tiptoe-clap",
+        "danceBag": [
+          "small-sway",
+          "op-turn"
+        ],
+        "lastDance": "tiptoe-clap",
+        "scene": null,
+        "sceneBag": [],
+        "outfitBag": [],
+        "lastScene": null,
+        "lastMode": "task",
+        "lastTask": "failed",
+        "taskElapsed": 133.59999999962747,
+        "recoveryRemaining": 1200,
+        "resume": null
+      },
+      "stopReason": null,
+      "canvasCount": 1,
+      "visiblePixels": 17562,
+      "task": "failed",
+      "layout": {
+        "hostWidth": 224,
+        "hostHeight": 243,
+        "left": 620,
+        "top": 362
+      },
+      "devicePixelRatio": 1,
+      "screen": {
+        "width": 1920,
+        "height": 1080
+      },
+      "spriteVisibility": "hidden"
+    },
+    {
+      "status": {
+        "stopped": false,
+        "mode": "task",
+        "renderFrames": 6,
+        "slowFrames": 0,
+        "clip": "review",
+        "elapsed": 133.60000000149012,
+        "phase": "dance",
+        "outfit": "classic",
+        "danceId": null,
+        "duo": false,
+        "lookDirection": null,
+        "measurementWidth": 224
+      },
+      "state": {
+        "version": 2,
+        "outfit": "classic",
+        "visibleMs": 836.7000000067055,
+        "nextOutfitAt": 419365.7821406415,
+        "phase": "dance",
+        "phaseElapsed": 0,
+        "danceId": "tiptoe-clap",
+        "danceBag": [
+          "small-sway",
+          "op-turn"
+        ],
+        "lastDance": "tiptoe-clap",
+        "scene": null,
+        "sceneBag": [],
+        "outfitBag": [],
+        "lastScene": null,
+        "lastMode": "task",
+        "lastTask": "review",
+        "taskElapsed": 133.60000000149012,
+        "recoveryRemaining": 1200,
+        "resume": null
+      },
+      "stopReason": null,
+      "canvasCount": 1,
+      "visiblePixels": 19631,
+      "task": "review",
+      "layout": {
+        "hostWidth": 224,
+        "hostHeight": 243,
+        "left": 620,
+        "top": 362
+      },
+      "devicePixelRatio": 1,
+      "screen": {
+        "width": 1920,
+        "height": 1080
+      },
+      "spriteVisibility": "hidden"
+    },
+    {
+      "status": {
+        "stopped": false,
+        "mode": "task",
+        "renderFrames": 7,
+        "slowFrames": 0,
+        "clip": "running",
+        "elapsed": 116.69999999925494,
+        "phase": "dance",
+        "outfit": "classic",
+        "danceId": null,
+        "duo": false,
+        "lookDirection": null,
+        "measurementWidth": 224
+      },
+      "state": {
+        "version": 2,
+        "outfit": "classic",
+        "visibleMs": 953.4000000059605,
+        "nextOutfitAt": 419365.7821406415,
+        "phase": "dance",
+        "phaseElapsed": 0,
+        "danceId": "tiptoe-clap",
+        "danceBag": [
+          "small-sway",
+          "op-turn"
+        ],
+        "lastDance": "tiptoe-clap",
+        "scene": null,
+        "sceneBag": [],
+        "outfitBag": [],
+        "lastScene": null,
+        "lastMode": "task",
+        "lastTask": "running",
+        "taskElapsed": 116.69999999925494,
+        "recoveryRemaining": 1200,
+        "resume": null
+      },
+      "stopReason": null,
+      "canvasCount": 1,
+      "visiblePixels": 19487,
+      "task": "running",
+      "layout": {
+        "hostWidth": 224,
+        "hostHeight": 243,
+        "left": 620,
+        "top": 362
+      },
+      "devicePixelRatio": 1,
+      "screen": {
+        "width": 1920,
+        "height": 1080
+      },
+      "spriteVisibility": "hidden"
+    }
+  ],
+  "outfitsAndDuos": [
+    {
+      "status": {
+        "stopped": false,
+        "mode": "daily",
+        "renderFrames": 13,
+        "slowFrames": 0,
+        "clip": "lawrence-care",
+        "elapsed": 2286.800000000745,
+        "phase": "interlude",
+        "outfit": "classic",
+        "danceId": null,
+        "duo": true,
+        "lookDirection": null,
+        "measurementWidth": 448
+      },
+      "state": {
+        "version": 2,
+        "outfit": "classic",
+        "visibleMs": 3107.800000006333,
+        "nextOutfitAt": 419365.7821406415,
+        "phase": "interlude",
+        "phaseElapsed": 2286.800000000745,
+        "danceId": "tiptoe-clap",
+        "danceBag": [
+          "small-sway",
+          "op-turn"
+        ],
+        "lastDance": "tiptoe-clap",
+        "scene": "lawrence-care",
+        "sceneBag": [],
+        "outfitBag": [],
+        "lastScene": null,
+        "lastMode": "daily",
+        "lastTask": "running",
+        "taskElapsed": 116.69999999925494,
+        "recoveryRemaining": 0,
+        "resume": null
+      },
+      "stopReason": "stopped",
+      "canvasCount": 1,
+      "visiblePixels": 35244,
+      "task": "idle",
+      "layout": {
+        "hostWidth": 448,
+        "hostHeight": 243,
+        "left": 508,
+        "top": 436
+      },
+      "devicePixelRatio": 1,
+      "screen": {
+        "width": 1920,
+        "height": 1080
+      },
+      "spriteVisibility": "hidden"
+    },
+    {
+      "status": {
+        "stopped": false,
+        "mode": "daily",
+        "renderFrames": 14,
+        "slowFrames": 0,
+        "clip": "lawrence-sleeve",
+        "elapsed": 2269.4000000003725,
+        "phase": "interlude",
+        "outfit": "classic",
+        "danceId": null,
+        "duo": true,
+        "lookDirection": null,
+        "measurementWidth": 448
+      },
+      "state": {
+        "version": 2,
+        "outfit": "classic",
+        "visibleMs": 3073.9000000059605,
+        "nextOutfitAt": 419365.7821406415,
+        "phase": "interlude",
+        "phaseElapsed": 2269.4000000003725,
+        "danceId": "tiptoe-clap",
+        "danceBag": [
+          "small-sway",
+          "op-turn"
+        ],
+        "lastDance": "tiptoe-clap",
+        "scene": "lawrence-sleeve",
+        "sceneBag": [],
+        "outfitBag": [],
+        "lastScene": null,
+        "lastMode": "daily",
+        "lastTask": "running",
+        "taskElapsed": 116.69999999925494,
+        "recoveryRemaining": 0,
+        "resume": null
+      },
+      "stopReason": "stopped",
+      "canvasCount": 1,
+      "visiblePixels": 38441,
+      "task": "idle",
+      "layout": {
+        "hostWidth": 448,
+        "hostHeight": 243,
+        "left": 508,
+        "top": 436
+      },
+      "devicePixelRatio": 1,
+      "screen": {
+        "width": 1920,
+        "height": 1080
+      },
+      "spriteVisibility": "hidden"
+    },
+    {
+      "status": {
+        "stopped": false,
+        "mode": "daily",
+        "renderFrames": 14,
+        "slowFrames": 1,
+        "clip": "hazelita-chat",
+        "elapsed": 2303.10000000149,
+        "phase": "interlude",
+        "outfit": "classic",
+        "danceId": null,
+        "duo": true,
+        "lookDirection": null,
+        "measurementWidth": 448
+      },
+      "state": {
+        "version": 2,
+        "outfit": "classic",
+        "visibleMs": 3107.5000000074506,
+        "nextOutfitAt": 419365.7821406415,
+        "phase": "interlude",
+        "phaseElapsed": 2303.10000000149,
+        "danceId": "tiptoe-clap",
+        "danceBag": [
+          "small-sway",
+          "op-turn"
+        ],
+        "lastDance": "tiptoe-clap",
+        "scene": "hazelita-chat",
+        "sceneBag": [],
+        "outfitBag": [],
+        "lastScene": null,
+        "lastMode": "daily",
+        "lastTask": "running",
+        "taskElapsed": 116.69999999925494,
+        "recoveryRemaining": 0,
+        "resume": null
+      },
+      "stopReason": "stopped",
+      "canvasCount": 1,
+      "visiblePixels": 38444,
+      "task": "idle",
+      "layout": {
+        "hostWidth": 448,
+        "hostHeight": 243,
+        "left": 508,
+        "top": 436
+      },
+      "devicePixelRatio": 1,
+      "screen": {
+        "width": 1920,
+        "height": 1080
+      },
+      "spriteVisibility": "hidden"
+    },
+    {
+      "status": {
+        "stopped": false,
+        "mode": "daily",
+        "renderFrames": 13,
+        "slowFrames": 0,
+        "clip": "hazelita-showcase",
+        "elapsed": 2286.4000000003725,
+        "phase": "interlude",
+        "outfit": "classic",
+        "danceId": null,
+        "duo": true,
+        "lookDirection": null,
+        "measurementWidth": 448
+      },
+      "state": {
+        "version": 2,
+        "outfit": "classic",
+        "visibleMs": 3090.800000006333,
+        "nextOutfitAt": 419365.7821406415,
+        "phase": "interlude",
+        "phaseElapsed": 2286.4000000003725,
+        "danceId": "tiptoe-clap",
+        "danceBag": [
+          "small-sway",
+          "op-turn"
+        ],
+        "lastDance": "tiptoe-clap",
+        "scene": "hazelita-showcase",
+        "sceneBag": [],
+        "outfitBag": [],
+        "lastScene": null,
+        "lastMode": "daily",
+        "lastTask": "running",
+        "taskElapsed": 116.69999999925494,
+        "recoveryRemaining": 0,
+        "resume": null
+      },
+      "stopReason": "stopped",
+      "canvasCount": 1,
+      "visiblePixels": 41552,
+      "task": "idle",
+      "layout": {
+        "hostWidth": 448,
+        "hostHeight": 243,
+        "left": 508,
+        "top": 436
+      },
+      "devicePixelRatio": 1,
+      "screen": {
+        "width": 1920,
+        "height": 1080
+      },
+      "spriteVisibility": "hidden"
+    },
+    {
+      "status": {
+        "stopped": false,
+        "mode": "daily",
+        "renderFrames": 14,
+        "slowFrames": 0,
+        "clip": "lawrence-care",
+        "elapsed": 2286.5,
+        "phase": "interlude",
+        "outfit": "travel",
+        "danceId": null,
+        "duo": true,
+        "lookDirection": null,
+        "measurementWidth": 448
+      },
+      "state": {
+        "version": 2,
+        "outfit": "travel",
+        "visibleMs": 3090.8000000081956,
+        "nextOutfitAt": 419365.7821406415,
+        "phase": "interlude",
+        "phaseElapsed": 2286.5,
+        "danceId": "tiptoe-clap",
+        "danceBag": [
+          "small-sway",
+          "op-turn"
+        ],
+        "lastDance": "tiptoe-clap",
+        "scene": "lawrence-care",
+        "sceneBag": [],
+        "outfitBag": [],
+        "lastScene": null,
+        "lastMode": "daily",
+        "lastTask": "running",
+        "taskElapsed": 116.69999999925494,
+        "recoveryRemaining": 0,
+        "resume": null
+      },
+      "stopReason": "stopped",
+      "canvasCount": 1,
+      "visiblePixels": 34805,
+      "task": "idle",
+      "layout": {
+        "hostWidth": 448,
+        "hostHeight": 243,
+        "left": 508,
+        "top": 436
+      },
+      "devicePixelRatio": 1,
+      "screen": {
+        "width": 1920,
+        "height": 1080
+      },
+      "spriteVisibility": "hidden"
+    },
+    {
+      "status": {
+        "stopped": false,
+        "mode": "daily",
+        "renderFrames": 13,
+        "slowFrames": 1,
+        "clip": "lawrence-sleeve",
+        "elapsed": 2286.60000000149,
+        "phase": "interlude",
+        "outfit": "travel",
+        "danceId": null,
+        "duo": true,
+        "lookDirection": null,
+        "measurementWidth": 448
+      },
+      "state": {
+        "version": 2,
+        "outfit": "travel",
+        "visibleMs": 3107.5000000074506,
+        "nextOutfitAt": 419365.7821406415,
+        "phase": "interlude",
+        "phaseElapsed": 2286.60000000149,
+        "danceId": "tiptoe-clap",
+        "danceBag": [
+          "small-sway",
+          "op-turn"
+        ],
+        "lastDance": "tiptoe-clap",
+        "scene": "lawrence-sleeve",
+        "sceneBag": [],
+        "outfitBag": [],
+        "lastScene": null,
+        "lastMode": "daily",
+        "lastTask": "running",
+        "taskElapsed": 116.69999999925494,
+        "recoveryRemaining": 0,
+        "resume": null
+      },
+      "stopReason": "stopped",
+      "canvasCount": 1,
+      "visiblePixels": 39633,
+      "task": "idle",
+      "layout": {
+        "hostWidth": 448,
+        "hostHeight": 243,
+        "left": 508,
+        "top": 436
+      },
+      "devicePixelRatio": 1,
+      "screen": {
+        "width": 1920,
+        "height": 1080
+      },
+      "spriteVisibility": "hidden"
+    },
+    {
+      "status": {
+        "stopped": false,
+        "mode": "daily",
+        "renderFrames": 13,
+        "slowFrames": 0,
+        "clip": "hazelita-chat",
+        "elapsed": 2286.4000000003725,
+        "phase": "interlude",
+        "outfit": "travel",
+        "danceId": null,
+        "duo": true,
+        "lookDirection": null,
+        "measurementWidth": 448
+      },
+      "state": {
+        "version": 2,
+        "outfit": "travel",
+        "visibleMs": 3090.7000000067055,
+        "nextOutfitAt": 419365.7821406415,
+        "phase": "interlude",
+        "phaseElapsed": 2286.4000000003725,
+        "danceId": "tiptoe-clap",
+        "danceBag": [
+          "small-sway",
+          "op-turn"
+        ],
+        "lastDance": "tiptoe-clap",
+        "scene": "hazelita-chat",
+        "sceneBag": [],
+        "outfitBag": [],
+        "lastScene": null,
+        "lastMode": "daily",
+        "lastTask": "running",
+        "taskElapsed": 116.69999999925494,
+        "recoveryRemaining": 0,
+        "resume": null
+      },
+      "stopReason": "stopped",
+      "canvasCount": 1,
+      "visiblePixels": 38005,
+      "task": "idle",
+      "layout": {
+        "hostWidth": 448,
+        "hostHeight": 243,
+        "left": 508,
+        "top": 436
+      },
+      "devicePixelRatio": 1,
+      "screen": {
+        "width": 1920,
+        "height": 1080
+      },
+      "spriteVisibility": "hidden"
+    },
+    {
+      "status": {
+        "stopped": false,
+        "mode": "daily",
+        "renderFrames": 13,
+        "slowFrames": 0,
+        "clip": "hazelita-showcase",
+        "elapsed": 2286.5999999996275,
+        "phase": "interlude",
+        "outfit": "travel",
+        "danceId": null,
+        "duo": true,
+        "lookDirection": null,
+        "measurementWidth": 448
+      },
+      "state": {
+        "version": 2,
+        "outfit": "travel",
+        "visibleMs": 3090.7000000067055,
+        "nextOutfitAt": 419365.7821406415,
+        "phase": "interlude",
+        "phaseElapsed": 2286.5999999996275,
+        "danceId": "tiptoe-clap",
+        "danceBag": [
+          "small-sway",
+          "op-turn"
+        ],
+        "lastDance": "tiptoe-clap",
+        "scene": "hazelita-showcase",
+        "sceneBag": [],
+        "outfitBag": [],
+        "lastScene": null,
+        "lastMode": "daily",
+        "lastTask": "running",
+        "taskElapsed": 116.69999999925494,
+        "recoveryRemaining": 0,
+        "resume": null
+      },
+      "stopReason": "stopped",
+      "canvasCount": 1,
+      "visiblePixels": 36268,
+      "task": "idle",
+      "layout": {
+        "hostWidth": 448,
+        "hostHeight": 243,
+        "left": 508,
+        "top": 436
+      },
+      "devicePixelRatio": 1,
+      "screen": {
+        "width": 1920,
+        "height": 1080
+      },
+      "spriteVisibility": "hidden"
+    },
+    {
+      "status": {
+        "stopped": false,
+        "mode": "daily",
+        "renderFrames": 14,
+        "slowFrames": 0,
+        "clip": "lawrence-care",
+        "elapsed": 2269.7999999988824,
+        "phase": "interlude",
+        "outfit": "cafe",
+        "danceId": null,
+        "duo": true,
+        "lookDirection": null,
+        "measurementWidth": 448
+      },
+      "state": {
+        "version": 2,
+        "outfit": "cafe",
+        "visibleMs": 3074.000000005588,
+        "nextOutfitAt": 419365.7821406415,
+        "phase": "interlude",
+        "phaseElapsed": 2269.7999999988824,
+        "danceId": "tiptoe-clap",
+        "danceBag": [
+          "small-sway",
+          "op-turn"
+        ],
+        "lastDance": "tiptoe-clap",
+        "scene": "lawrence-care",
+        "sceneBag": [],
+        "outfitBag": [],
+        "lastScene": null,
+        "lastMode": "daily",
+        "lastTask": "running",
+        "taskElapsed": 116.69999999925494,
+        "recoveryRemaining": 0,
+        "resume": null
+      },
+      "stopReason": "stopped",
+      "canvasCount": 1,
+      "visiblePixels": 30971,
+      "task": "idle",
+      "layout": {
+        "hostWidth": 448,
+        "hostHeight": 243,
+        "left": 508,
+        "top": 436
+      },
+      "devicePixelRatio": 1,
+      "screen": {
+        "width": 1920,
+        "height": 1080
+      },
+      "spriteVisibility": "hidden"
+    },
+    {
+      "status": {
+        "stopped": false,
+        "mode": "daily",
+        "renderFrames": 14,
+        "slowFrames": 0,
+        "clip": "lawrence-sleeve",
+        "elapsed": 2253.099999997765,
+        "phase": "interlude",
+        "outfit": "cafe",
+        "danceId": null,
+        "duo": true,
+        "lookDirection": null,
+        "measurementWidth": 448
+      },
+      "state": {
+        "version": 2,
+        "outfit": "cafe",
+        "visibleMs": 3074.1000000052154,
+        "nextOutfitAt": 419365.7821406415,
+        "phase": "interlude",
+        "phaseElapsed": 2253.099999997765,
+        "danceId": "tiptoe-clap",
+        "danceBag": [
+          "small-sway",
+          "op-turn"
+        ],
+        "lastDance": "tiptoe-clap",
+        "scene": "lawrence-sleeve",
+        "sceneBag": [],
+        "outfitBag": [],
+        "lastScene": null,
+        "lastMode": "daily",
+        "lastTask": "running",
+        "taskElapsed": 116.69999999925494,
+        "recoveryRemaining": 0,
+        "resume": null
+      },
+      "stopReason": "stopped",
+      "canvasCount": 1,
+      "visiblePixels": 37105,
+      "task": "idle",
+      "layout": {
+        "hostWidth": 448,
+        "hostHeight": 243,
+        "left": 508,
+        "top": 436
+      },
+      "devicePixelRatio": 1,
+      "screen": {
+        "width": 1920,
+        "height": 1080
+      },
+      "spriteVisibility": "hidden"
+    },
+    {
+      "status": {
+        "stopped": false,
+        "mode": "daily",
+        "renderFrames": 13,
+        "slowFrames": 0,
+        "clip": "hazelita-chat",
+        "elapsed": 2286.2000000011176,
+        "phase": "interlude",
+        "outfit": "cafe",
+        "danceId": null,
+        "duo": true,
+        "lookDirection": null,
+        "measurementWidth": 448
+      },
+      "state": {
+        "version": 2,
+        "outfit": "cafe",
+        "visibleMs": 3090.600000007078,
+        "nextOutfitAt": 419365.7821406415,
+        "phase": "interlude",
+        "phaseElapsed": 2286.2000000011176,
+        "danceId": "tiptoe-clap",
+        "danceBag": [
+          "small-sway",
+          "op-turn"
+        ],
+        "lastDance": "tiptoe-clap",
+        "scene": "hazelita-chat",
+        "sceneBag": [],
+        "outfitBag": [],
+        "lastScene": null,
+        "lastMode": "daily",
+        "lastTask": "running",
+        "taskElapsed": 116.69999999925494,
+        "recoveryRemaining": 0,
+        "resume": null
+      },
+      "stopReason": "stopped",
+      "canvasCount": 1,
+      "visiblePixels": 34171,
+      "task": "idle",
+      "layout": {
+        "hostWidth": 448,
+        "hostHeight": 243,
+        "left": 508,
+        "top": 436
+      },
+      "devicePixelRatio": 1,
+      "screen": {
+        "width": 1920,
+        "height": 1080
+      },
+      "spriteVisibility": "hidden"
+    },
+    {
+      "status": {
+        "stopped": false,
+        "mode": "daily",
+        "renderFrames": 14,
+        "slowFrames": 0,
+        "clip": "hazelita-showcase",
+        "elapsed": 2253.0999999996275,
+        "phase": "interlude",
+        "outfit": "cafe",
+        "danceId": null,
+        "duo": true,
+        "lookDirection": null,
+        "measurementWidth": 448
+      },
+      "state": {
+        "version": 2,
+        "outfit": "cafe",
+        "visibleMs": 3074.100000007078,
+        "nextOutfitAt": 419365.7821406415,
+        "phase": "interlude",
+        "phaseElapsed": 2253.0999999996275,
+        "danceId": "tiptoe-clap",
+        "danceBag": [
+          "small-sway",
+          "op-turn"
+        ],
+        "lastDance": "tiptoe-clap",
+        "scene": "hazelita-showcase",
+        "sceneBag": [],
+        "outfitBag": [],
+        "lastScene": null,
+        "lastMode": "daily",
+        "lastTask": "running",
+        "taskElapsed": 116.69999999925494,
+        "recoveryRemaining": 0,
+        "resume": null
+      },
+      "stopReason": "stopped",
+      "canvasCount": 1,
+      "visiblePixels": 34825,
+      "task": "idle",
+      "layout": {
+        "hostWidth": 448,
+        "hostHeight": 243,
+        "left": 508,
+        "top": 436
+      },
+      "devicePixelRatio": 1,
+      "screen": {
+        "width": 1920,
+        "height": 1080
+      },
+      "spriteVisibility": "hidden"
+    }
+  ],
+  "danceCombos": [
+    {
+      "outfit": "classic",
+      "dance": "op-turn",
+      "passed": true,
+      "visiblePixels": 23121
+    },
+    {
+      "outfit": "classic",
+      "dance": "small-sway",
+      "passed": true,
+      "visiblePixels": 21338
+    },
+    {
+      "outfit": "classic",
+      "dance": "tiptoe-clap",
+      "passed": true,
+      "visiblePixels": 21335
+    },
+    {
+      "outfit": "travel",
+      "dance": "op-turn",
+      "passed": true,
+      "visiblePixels": 21961
+    },
+    {
+      "outfit": "travel",
+      "dance": "small-sway",
+      "passed": true,
+      "visiblePixels": 21353
+    },
+    {
+      "outfit": "travel",
+      "dance": "tiptoe-clap",
+      "passed": true,
+      "visiblePixels": 22870
+    },
+    {
+      "outfit": "cafe",
+      "dance": "op-turn",
+      "passed": true,
+      "visiblePixels": 18132
+    },
+    {
+      "outfit": "cafe",
+      "dance": "small-sway",
+      "passed": true,
+      "visiblePixels": 21649
+    },
+    {
+      "outfit": "cafe",
+      "dance": "tiptoe-clap",
+      "passed": true,
+      "visiblePixels": 21678
+    }
+  ],
+  "gaze": [
+    {
+      "outfit": "classic",
+      "direction": 0,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "classic",
+      "direction": 1,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "classic",
+      "direction": 2,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "classic",
+      "direction": 3,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "classic",
+      "direction": 4,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "classic",
+      "direction": 5,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "classic",
+      "direction": 6,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "classic",
+      "direction": 7,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "classic",
+      "direction": 8,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "classic",
+      "direction": 9,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "classic",
+      "direction": 10,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "classic",
+      "direction": 11,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "classic",
+      "direction": 12,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "classic",
+      "direction": 13,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "classic",
+      "direction": 14,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "classic",
+      "direction": 15,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "travel",
+      "direction": 0,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "travel",
+      "direction": 1,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "travel",
+      "direction": 2,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "travel",
+      "direction": 3,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "travel",
+      "direction": 4,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "travel",
+      "direction": 5,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "travel",
+      "direction": 6,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "travel",
+      "direction": 7,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "travel",
+      "direction": 8,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "travel",
+      "direction": 9,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "travel",
+      "direction": 10,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "travel",
+      "direction": 11,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "travel",
+      "direction": 12,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "travel",
+      "direction": 13,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "travel",
+      "direction": 14,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "travel",
+      "direction": 15,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "cafe",
+      "direction": 0,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "cafe",
+      "direction": 1,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "cafe",
+      "direction": 2,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "cafe",
+      "direction": 3,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "cafe",
+      "direction": 4,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "cafe",
+      "direction": 5,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "cafe",
+      "direction": 6,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "cafe",
+      "direction": 7,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "cafe",
+      "direction": 8,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "cafe",
+      "direction": 9,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "cafe",
+      "direction": 10,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "cafe",
+      "direction": 11,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "cafe",
+      "direction": 12,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "cafe",
+      "direction": 13,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "cafe",
+      "direction": 14,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    },
+    {
+      "outfit": "cafe",
+      "direction": 15,
+      "passed": true,
+      "method": "Native cursor message channel; real mouse movement covered by proximity wrapper/unit checks."
+    }
+  ],
+  "nativeClickCostume": [
+    {
+      "outfit": "classic",
+      "passed": true,
+      "mode": "native",
+      "atlasDataLength": 4137737
+    },
+    {
+      "outfit": "travel",
+      "passed": true,
+      "mode": "native",
+      "atlasDataLength": 4158437
+    },
+    {
+      "outfit": "cafe",
+      "passed": true,
+      "mode": "native",
+      "atlasDataLength": 3960009
+    }
+  ],
+  "lastDanceProbe": {
+    "status": {
+      "stopped": false,
+      "mode": "daily",
+      "renderFrames": 14,
+      "slowFrames": 0,
+      "clip": "dance",
+      "elapsed": 243.25,
+      "phase": "dance",
+      "outfit": "cafe",
+      "danceId": "tiptoe-clap",
+      "duo": false,
+      "lookDirection": null,
+      "measurementWidth": 224
+    },
+    "state": {
+      "version": 2,
+      "outfit": "cafe",
+      "visibleMs": 3090.7000000067055,
+      "nextOutfitAt": 419365.7821406415,
+      "phase": "dance",
+      "phaseElapsed": 486.5,
+      "danceId": "tiptoe-clap",
+      "danceBag": [],
+      "lastDance": "tiptoe-clap",
+      "scene": null,
+      "sceneBag": [],
+      "outfitBag": [],
+      "lastScene": null,
+      "lastMode": "daily",
+      "lastTask": "running",
+      "taskElapsed": 116.69999999925494,
+      "recoveryRemaining": 0,
+      "resume": null
+    },
+    "stopReason": "stopped",
+    "canvasCount": 1,
+    "visiblePixels": 21678,
+    "task": "idle",
+    "layout": {
+      "hostWidth": 224,
+      "hostHeight": 243,
+      "left": 620,
+      "top": 436
+    },
+    "devicePixelRatio": 1,
+    "screen": {
+      "width": 1920,
+      "height": 1080
+    },
+    "spriteVisibility": "hidden"
+  },
+  "beforeGaze": {
+    "exists": true,
+    "status": {
+      "stopped": false,
+      "mode": "daily",
+      "renderFrames": 14,
+      "slowFrames": 0,
+      "clip": "dance",
+      "elapsed": 226.6499999994412,
+      "phase": "dance",
+      "outfit": "cafe",
+      "danceId": "tiptoe-clap",
+      "duo": false,
+      "lookDirection": null,
+      "measurementWidth": 224
+    }
+  },
+  "latestDuoProbe": {
+    "status": {
+      "stopped": false,
+      "mode": "daily",
+      "renderFrames": 14,
+      "slowFrames": 0,
+      "clip": "hazelita-showcase",
+      "elapsed": 2253.0999999996275,
+      "phase": "interlude",
+      "outfit": "cafe",
+      "danceId": null,
+      "duo": true,
+      "lookDirection": null,
+      "measurementWidth": 448
+    },
+    "state": {
+      "version": 2,
+      "outfit": "cafe",
+      "visibleMs": 3074.100000007078,
+      "nextOutfitAt": 419365.7821406415,
+      "phase": "interlude",
+      "phaseElapsed": 2253.0999999996275,
+      "danceId": "tiptoe-clap",
+      "danceBag": [
+        "small-sway",
+        "op-turn"
+      ],
+      "lastDance": "tiptoe-clap",
+      "scene": "hazelita-showcase",
+      "sceneBag": [],
+      "outfitBag": [],
+      "lastScene": null,
+      "lastMode": "daily",
+      "lastTask": "running",
+      "taskElapsed": 116.69999999925494,
+      "recoveryRemaining": 0,
+      "resume": null
+    },
+    "stopReason": "stopped",
+    "canvasCount": 1,
+    "visiblePixels": 34825,
+    "task": "idle",
+    "layout": {
+      "hostWidth": 448,
+      "hostHeight": 243,
+      "left": 508,
+      "top": 436
+    },
+    "devicePixelRatio": 1,
+    "screen": {
+      "width": 1920,
+      "height": 1080
+    },
+    "spriteVisibility": "hidden"
+  },
+  "naturalDuoExitProbe": {
+    "status": {
+      "stopped": false,
+      "mode": "daily",
+      "renderFrames": 97,
+      "slowFrames": 0,
+      "clip": "idle",
+      "elapsed": 10786.099999999627,
+      "phase": "interlude",
+      "outfit": "classic",
+      "danceId": null,
+      "duo": false,
+      "lookDirection": null,
+      "measurementWidth": 224
+    },
+    "state": {
+      "version": 2,
+      "outfit": "classic",
+      "visibleMs": 11607.100000005215,
+      "nextOutfitAt": 419365.7821406415,
+      "phase": "interlude",
+      "phaseElapsed": 10786.099999999627,
+      "danceId": "tiptoe-clap",
+      "danceBag": [
+        "small-sway",
+        "op-turn"
+      ],
+      "lastDance": "tiptoe-clap",
+      "scene": "lawrence-care",
+      "sceneBag": [],
+      "outfitBag": [],
+      "lastScene": null,
+      "lastMode": "daily",
+      "lastTask": "running",
+      "taskElapsed": 116.69999999925494,
+      "recoveryRemaining": 0,
+      "resume": null
+    },
+    "stopReason": "stopped",
+    "canvasCount": 1,
+    "visiblePixels": 19389,
+    "task": "idle",
+    "layout": {
+      "hostWidth": 224,
+      "hostHeight": 243,
+      "left": 620,
+      "top": 436
+    },
+    "devicePixelRatio": 1,
+    "screen": {
+      "width": 1920,
+      "height": 1080
+    },
+    "spriteVisibility": "hidden"
+  },
+  "naturalDuoExit": {
+    "status": {
+      "stopped": false,
+      "mode": "daily",
+      "renderFrames": 97,
+      "slowFrames": 0,
+      "clip": "idle",
+      "elapsed": 10786.099999999627,
+      "phase": "interlude",
+      "outfit": "classic",
+      "danceId": null,
+      "duo": false,
+      "lookDirection": null,
+      "measurementWidth": 224
+    },
+    "state": {
+      "version": 2,
+      "outfit": "classic",
+      "visibleMs": 11607.100000005215,
+      "nextOutfitAt": 419365.7821406415,
+      "phase": "interlude",
+      "phaseElapsed": 10786.099999999627,
+      "danceId": "tiptoe-clap",
+      "danceBag": [
+        "small-sway",
+        "op-turn"
+      ],
+      "lastDance": "tiptoe-clap",
+      "scene": "lawrence-care",
+      "sceneBag": [],
+      "outfitBag": [],
+      "lastScene": null,
+      "lastMode": "daily",
+      "lastTask": "running",
+      "taskElapsed": 116.69999999925494,
+      "recoveryRemaining": 0,
+      "resume": null
+    },
+    "stopReason": "stopped",
+    "canvasCount": 1,
+    "visiblePixels": 19389,
+    "task": "idle",
+    "layout": {
+      "hostWidth": 224,
+      "hostHeight": 243,
+      "left": 620,
+      "top": 436
+    },
+    "devicePixelRatio": 1,
+    "screen": {
+      "width": 1920,
+      "height": 1080
+    },
+    "spriteVisibility": "hidden"
+  },
+  "latestSingleAfterTask": {
+    "status": {
+      "stopped": false,
+      "mode": "task",
+      "renderFrames": 17,
+      "slowFrames": 0,
+      "clip": "waiting",
+      "elapsed": 434.59999999962747,
+      "phase": "interlude",
+      "outfit": "cafe",
+      "danceId": null,
+      "duo": false,
+      "lookDirection": null,
+      "measurementWidth": 224
+    },
+    "state": {
+      "version": 2,
+      "outfit": "cafe",
+      "visibleMs": 3508.7000000067055,
+      "nextOutfitAt": 419365.7821406415,
+      "phase": "interlude",
+      "phaseElapsed": 2253.0999999996275,
+      "danceId": "tiptoe-clap",
+      "danceBag": [
+        "small-sway",
+        "op-turn"
+      ],
+      "lastDance": "tiptoe-clap",
+      "scene": "hazelita-showcase",
+      "sceneBag": [],
+      "outfitBag": [],
+      "lastScene": null,
+      "lastMode": "task",
+      "lastTask": "waiting",
+      "taskElapsed": 434.59999999962747,
+      "recoveryRemaining": 1200,
+      "resume": null
+    },
+    "stopReason": "stopped",
+    "canvasCount": 1,
+    "visiblePixels": 18953,
+    "task": "waiting",
+    "layout": {
+      "hostWidth": 224,
+      "hostHeight": 243,
+      "left": 620,
+      "top": 436
+    },
+    "devicePixelRatio": 1,
+    "screen": {
+      "width": 1920,
+      "height": 1080
+    },
+    "spriteVisibility": "hidden"
+  },
+  "visibilityPause": {
+    "passed": true,
+    "method": "Actual player heartbeat visible=false, not OS hide-button automation",
+    "before": 3708.7000000067055,
+    "after": 3708.7000000067055
+  },
+  "reinstallRestoresState": {
+    "passed": true,
+    "outfit": "cafe"
+  },
+  "heartbeatFallback": {
+    "status": null,
+    "state": null,
+    "stopReason": "helper heartbeat lost",
+    "canvasCount": 0,
+    "visiblePixels": 0,
+    "task": "idle",
+    "layout": {
+      "hostWidth": 224,
+      "hostHeight": 243,
+      "left": 620,
+      "top": 436
+    },
+    "devicePixelRatio": 1,
+    "screen": {
+      "width": 1920,
+      "height": 1080
+    },
+    "spriteVisibility": ""
+  },
+  "completeBundle": true
+}

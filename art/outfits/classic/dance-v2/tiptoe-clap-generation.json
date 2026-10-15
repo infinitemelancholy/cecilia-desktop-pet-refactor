@@ -1,0 +1,23 @@
+{
+  "tool": "image_gen__imagegen (built-in)",
+  "version": 2,
+  "asset": "art/outfits/classic/dance-v2/tiptoe-clap-keyposes.png",
+  "character": "classic",
+  "animation": "tiptoe-clap",
+  "imagegen_session_id": "01a11fbb-4dec-71d3-b688-58f8910b9890",
+  "original_paths": [
+    "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11fbb-4dec-71d3-b688-58f8910b9890\\exec-ebb87f54-230f-4f50-922c-4d850e0312a4.png",
+    "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11fbb-4dec-71d3-b688-58f8910b9890\\exec-bc1875d5-354e-4185-a4f1-80289fde2833.png"
+  ],
+  "references": [
+    "references/current-pet.png",
+    "references/cecilia-canonical.png"
+  ],
+  "prompt_summary": "24 key poses in a 6x4 transparent sheet; keep Cecilia recognizable, preserve the specified official costume silhouette, stable head size and warm skin tone, small readable chibi movement, no stray marks or background.",
+  "processing": {
+    "method": "fixed-size cell extraction, transparent-edge cleanup, centered to 192x208, FFmpeg minterpolate to 144 frames at 24.4284 fps",
+    "runtime_frames": 144,
+    "runtime_fps": 24.4284
+  },
+  "sha256": "750a8770f0d194ce1b7eb453a1ea4aef518c3433a85b5b4429ef9f33f81c165b"
+}

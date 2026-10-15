@@ -1,0 +1,22 @@
+{
+  "tool": "image_gen__imagegen (built-in)",
+  "version": 2,
+  "asset": "art/outfits/cafe/dance-v2/small-sway-keyposes.png",
+  "character": "cafe",
+  "animation": "small-sway",
+  "imagegen_session_id": "01a11fbb-4dec-71d3-b688-58f8910b9890",
+  "original_paths": [
+    "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11fbb-4dec-71d3-b688-58f8910b9890\\exec-7a7bf652-bb50-4ac0-9415-0a102812c6c4.png"
+  ],
+  "references": [
+    "references/current-pet.png",
+    "references/official/episode-06-01.png"
+  ],
+  "prompt_summary": "24 key poses in a 6x4 transparent sheet; keep Cecilia recognizable, preserve the specified official costume silhouette, stable head size and warm skin tone, small readable chibi movement, no stray marks or background.",
+  "processing": {
+    "method": "fixed-size cell extraction, transparent-edge cleanup, centered to 192x208, FFmpeg minterpolate to 144 frames at 24.4284 fps",
+    "runtime_frames": 144,
+    "runtime_fps": 24.4284
+  },
+  "sha256": "6164ac246fd9d2dcd88e3955b27312f2f12d8f57ad5e9ed3ea03060c5844b712"
+}

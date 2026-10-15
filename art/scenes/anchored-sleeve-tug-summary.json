@@ -1,0 +1,50 @@
+[
+  {
+    "outfit": "classic",
+    "ok": true,
+    "warnings": [],
+    "frame00_separable": false,
+    "translations_px": [
+      -66,
+      -61,
+      -66,
+      -63,
+      -67,
+      -64
+    ],
+    "minimum_solid_margin_px": 6,
+    "output": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\scenes\\classic\\sleeve-tug\\anchored-left"
+  },
+  {
+    "outfit": "travel",
+    "ok": true,
+    "warnings": [],
+    "frame00_separable": false,
+    "translations_px": [
+      -67,
+      -62,
+      -66,
+      -64,
+      -64,
+      -63
+    ],
+    "minimum_solid_margin_px": 6,
+    "output": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\scenes\\travel\\sleeve-tug\\anchored-left"
+  },
+  {
+    "outfit": "cafe",
+    "ok": true,
+    "warnings": [],
+    "frame00_separable": true,
+    "translations_px": [
+      -67,
+      -64,
+      -68,
+      -67,
+      -69,
+      -67
+    ],
+    "minimum_solid_margin_px": 4,
+    "output": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\scenes\\cafe\\sleeve-tug\\anchored-left"
+  }
+]

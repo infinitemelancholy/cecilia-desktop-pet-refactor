@@ -1,0 +1,422 @@
+{
+  "passed": true,
+  "petId": "pet_6ac71429ba50819188d4388111562bbd",
+  "assets": {
+    "references_current-pet.png": {
+      "path": "references/current-pet.png",
+      "sha256": "c9815a9ee8b7a077a5dbc26c059135ff2de6ab925da028cd5acf311814fe2b14",
+      "bytes": 3103280,
+      "size": [
+        1536,
+        2288
+      ]
+    },
+    "art_runtime_classic-failed.png": {
+      "path": "art/runtime/classic-failed.png",
+      "sha256": "227758863de3fc3b418727bf686849a5ba9d878b1e62a0c5704af9d1bf6ad5e8",
+      "bytes": 448426,
+      "size": [
+        1536,
+        208
+      ]
+    },
+    "art_runtime_classic-waiting.png": {
+      "path": "art/runtime/classic-waiting.png",
+      "sha256": "6f3e004a0b4d73bf5c13178089ccd5285c1956b20cdd39b88180154d126589c5",
+      "bytes": 332722,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_classic-running.png": {
+      "path": "art/runtime/classic-running.png",
+      "sha256": "637a785628086bd5c68f0d53300e66ba6b1afaaf4c9d091c22700aa780ff8588",
+      "bytes": 335898,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_classic-review.png": {
+      "path": "art/runtime/classic-review.png",
+      "sha256": "5d06a3072a56947b8b4f1520668438595ac577c058e8117e779cc9e3bb02818f",
+      "bytes": 307011,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_classic-dance.png": {
+      "path": "art/runtime/classic-dance.png",
+      "sha256": "6ee14d44678894e94124c289e72f79f41b06fb269e6f7c19873d0f5f0c9dc5e6",
+      "bytes": 5417638,
+      "size": [
+        20736,
+        208
+      ]
+    },
+    "art_runtime_classic-bean.png": {
+      "path": "art/runtime/classic-bean.png",
+      "sha256": "b8cc020de23ea67fbc22146133b4606794f3f5dfbcad019d10ef1f9aed105363",
+      "bytes": 275374,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_classic-pout.png": {
+      "path": "art/runtime/classic-pout.png",
+      "sha256": "b7a6301df6aec343ee94d3d2f9a688459e4aa25bdd4e774a414bc60cf63cce28",
+      "bytes": 275737,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_classic-shy.png": {
+      "path": "art/runtime/classic-shy.png",
+      "sha256": "3756d324f819dabf3fcb7e7a3ab93658c1070be7a43bc7c0c24e1fa8f89fb0bf",
+      "bytes": 290805,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_classic-hop.png": {
+      "path": "art/runtime/classic-hop.png",
+      "sha256": "de9dcab61371be8b584156f381040d823f5e52801800ab0b124c4c9a3bc95faf",
+      "bytes": 303966,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_classic-sleepy.png": {
+      "path": "art/runtime/classic-sleepy.png",
+      "sha256": "260b6d7fd7551b3c24e0e801994daee802d97c73acad99046dff7f07eb67ce4c",
+      "bytes": 272413,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_classic-lie.png": {
+      "path": "art/runtime/classic-lie.png",
+      "sha256": "83b385191cbeb60b8eba532745796803f2b158cf2d32af5bd2ae2438a5c6777e",
+      "bytes": 217397,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_classic-lump.png": {
+      "path": "art/runtime/classic-lump.png",
+      "sha256": "5c1f173d2936513bcabd61e1a7d62d1a20f144550e08c15f5468571cb24b7d20",
+      "bytes": 281459,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_lawrence-poses.png": {
+      "path": "art/runtime/lawrence-poses.png",
+      "sha256": "a5be14bffc0464201a45cbc7b4ab123bb8456a9742207cb64b2b4b6bab89f905",
+      "bytes": 115705,
+      "size": [
+        768,
+        208
+      ]
+    },
+    "art_runtime_hazelita-poses.png": {
+      "path": "art/runtime/hazelita-poses.png",
+      "sha256": "7e7bb41c3e61d175ad02041b8d143f2345a738382827c102f48ecb93aad2971d",
+      "bytes": 157112,
+      "size": [
+        768,
+        208
+      ]
+    },
+    "art_runtime_classic-sleeve.png": {
+      "path": "art/runtime/classic-sleeve.png",
+      "sha256": "4ed6215a41fecb6d2c2c8d84578b03e1bd79a73579c82a46c8b99e33149412c4",
+      "bytes": 482819,
+      "size": [
+        2304,
+        208
+      ]
+    },
+    "art_outfits_travel_spritesheet-v2.png": {
+      "path": "art/outfits/travel/spritesheet-v2.png",
+      "sha256": "86c9f14b1604daf30c7af18c603688873aa5d7a6ef2f273999bb5efbdf12c9de",
+      "bytes": 3118806,
+      "size": [
+        1536,
+        2288
+      ]
+    },
+    "art_runtime_travel-dance.png": {
+      "path": "art/runtime/travel-dance.png",
+      "sha256": "ae2f60fb1434a79974fd230ba4ed6af45c1e332a5f4d9fc4c5c315ad9b091778",
+      "bytes": 4617942,
+      "size": [
+        20736,
+        208
+      ]
+    },
+    "art_runtime_travel-bean.png": {
+      "path": "art/runtime/travel-bean.png",
+      "sha256": "247d58382969bdedac103756a5c437f33fae6ad7b84a9d317952a3eb7885256f",
+      "bytes": 232971,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_travel-pout.png": {
+      "path": "art/runtime/travel-pout.png",
+      "sha256": "d5ef9d1f7e810a638e62b29bd19d4bc7332a937b127e632851e724fa7afc0b25",
+      "bytes": 244296,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_travel-shy.png": {
+      "path": "art/runtime/travel-shy.png",
+      "sha256": "db0f6afe3791b0af5a48d2f97701dcbce00cf8fdef1aa7aee80c73c5882f0ece",
+      "bytes": 224173,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_travel-hop.png": {
+      "path": "art/runtime/travel-hop.png",
+      "sha256": "c260369099b235f5be1f71fc28d5e2420c74194b02a3c30de1c142cc0dd71dde",
+      "bytes": 244686,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_travel-sleepy.png": {
+      "path": "art/runtime/travel-sleepy.png",
+      "sha256": "81aecc16959f4eef6625638addf8bb1f3f4bc36af32b482fdd04927e275bf6cc",
+      "bytes": 235600,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_travel-lie.png": {
+      "path": "art/runtime/travel-lie.png",
+      "sha256": "3ec33d2f6bb45d96a1a6a5a5cef857ae7c6a1a32a3a830c9da6c4fb0fc323287",
+      "bytes": 236480,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_travel-lump.png": {
+      "path": "art/runtime/travel-lump.png",
+      "sha256": "6eab30c6115c5d61c777be0361c2b83df272efce90d88e6da5738ae5a00db926",
+      "bytes": 233857,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_travel-sleeve.png": {
+      "path": "art/runtime/travel-sleeve.png",
+      "sha256": "1306a717fe203c4768f84a1723ad460f6085fcbae6c895ba0e2e973fa303eb9a",
+      "bytes": 453388,
+      "size": [
+        2304,
+        208
+      ]
+    },
+    "art_outfits_cafe_spritesheet-v2.png": {
+      "path": "art/outfits/cafe/spritesheet-v2.png",
+      "sha256": "72f81f9edbe8038225f30668de96262bac447921fee661cf851946cbd358436a",
+      "bytes": 2969985,
+      "size": [
+        1536,
+        2288
+      ]
+    },
+    "art_runtime_cafe-dance.png": {
+      "path": "art/runtime/cafe-dance.png",
+      "sha256": "c4da26d39157c6b91fa380e86489008b97f0993db1f32b2d85664fc203b087a1",
+      "bytes": 4659804,
+      "size": [
+        20736,
+        208
+      ]
+    },
+    "art_runtime_cafe-bean.png": {
+      "path": "art/runtime/cafe-bean.png",
+      "sha256": "3123f4df49bf433a229f8a68e8455289a47d5766109cdcc149a271a47cd5565e",
+      "bytes": 267254,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_cafe-pout.png": {
+      "path": "art/runtime/cafe-pout.png",
+      "sha256": "9f62e4a1e849edcb359abaf149b61df6210dc7e9fadc44e68e805ce3a198b061",
+      "bytes": 261909,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_cafe-shy.png": {
+      "path": "art/runtime/cafe-shy.png",
+      "sha256": "dcb4905940eb3b2731d152ed6ee035070ef698f3b4c3c8b9e6c4bccb340b4b7b",
+      "bytes": 238805,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_cafe-hop.png": {
+      "path": "art/runtime/cafe-hop.png",
+      "sha256": "cc3dc3839e9966a055f38fc87452154cb48cf389a0560ce619cfe9921445bab2",
+      "bytes": 269708,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_cafe-sleepy.png": {
+      "path": "art/runtime/cafe-sleepy.png",
+      "sha256": "536ae524f8238ef19dd35f8741ec29bc23036577d8e15ee8c9547aedbdf8e6c0",
+      "bytes": 252606,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_cafe-lie.png": {
+      "path": "art/runtime/cafe-lie.png",
+      "sha256": "5642fa9c2118f1c62bffc3182cd1e5d2aadbdfd08179a3cb58bbc7ea6e976bd4",
+      "bytes": 189080,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_cafe-lump.png": {
+      "path": "art/runtime/cafe-lump.png",
+      "sha256": "9179b1fa9fc3b2059072a54eff4d3e65cf70d8dce2239d3ff8f9ac73a1edd746",
+      "bytes": 241915,
+      "size": [
+        1152,
+        208
+      ]
+    },
+    "art_runtime_cafe-sleeve.png": {
+      "path": "art/runtime/cafe-sleeve.png",
+      "sha256": "67e1a370c571d86cdcfc96bc941f6e97e19d6a8d2947379b1ac18ea171cacc09",
+      "bytes": 439067,
+      "size": [
+        2304,
+        208
+      ]
+    }
+  },
+  "outfits": {
+    "classic": {
+      "authoredFrames": 108,
+      "distinctRasterFrames": 108,
+      "limitation": "Raster uniqueness does not prove smooth limb motion; inspect the normal-size animation.",
+      "cycleMs": 4421.083333334835,
+      "playMs": 8842.16666666967,
+      "authoredAverageFps": 24.42840178688406,
+      "gazeDirections": 16,
+      "clips": [
+        "idle",
+        "failed",
+        "waiting",
+        "running",
+        "review",
+        "dance",
+        "showcase",
+        "bean",
+        "pout",
+        "shy",
+        "hop",
+        "sleepy",
+        "lie",
+        "lump",
+        "lawrence-care",
+        "lawrence-sleeve",
+        "hazelita-chat",
+        "hazelita-showcase"
+      ],
+      "officialSource": "https://shiroseijyo-anime.com/character/"
+    },
+    "travel": {
+      "authoredFrames": 108,
+      "distinctRasterFrames": 108,
+      "limitation": "Raster uniqueness does not prove smooth limb motion; inspect the normal-size animation.",
+      "cycleMs": 4421.083333334835,
+      "playMs": 8842.16666666967,
+      "authoredAverageFps": 24.42840178688406,
+      "gazeDirections": 16,
+      "clips": [
+        "idle",
+        "failed",
+        "waiting",
+        "running",
+        "review",
+        "dance",
+        "showcase",
+        "bean",
+        "pout",
+        "shy",
+        "hop",
+        "sleepy",
+        "lie",
+        "lump",
+        "lawrence-care",
+        "lawrence-sleeve",
+        "hazelita-chat",
+        "hazelita-showcase"
+      ],
+      "officialSource": "https://shiroseijyo-anime.com/story/?id=05"
+    },
+    "cafe": {
+      "authoredFrames": 108,
+      "distinctRasterFrames": 108,
+      "limitation": "Raster uniqueness does not prove smooth limb motion; inspect the normal-size animation.",
+      "cycleMs": 4421.083333334835,
+      "playMs": 8842.16666666967,
+      "authoredAverageFps": 24.42840178688406,
+      "gazeDirections": 16,
+      "clips": [
+        "idle",
+        "failed",
+        "waiting",
+        "running",
+        "review",
+        "dance",
+        "showcase",
+        "bean",
+        "pout",
+        "shy",
+        "hop",
+        "sleepy",
+        "lie",
+        "lump",
+        "lawrence-care",
+        "lawrence-sleeve",
+        "hazelita-chat",
+        "hazelita-showcase"
+      ],
+      "officialSource": "https://shiroseijyo-anime.com/story/?id=06"
+    }
+  }
+}

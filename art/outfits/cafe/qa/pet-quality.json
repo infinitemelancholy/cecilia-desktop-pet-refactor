@@ -1,0 +1,72 @@
+{
+  "ok": true,
+  "atlas": "<本机路径已省略>\\xia\\work\\art-runs\\cafe\\final\\spritesheet-v2.png",
+  "encoded_bytes": 2969985,
+  "sha256": "72f81f9edbe8038225f30668de96262bac447921fee661cf851946cbd358436a",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      201,
+      201,
+      173,
+      195,
+      202
+    ],
+    "airborne_lift_pixels": 29,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      94.0,
+      93.5,
+      94.5,
+      93.5,
+      93.5,
+      94.0,
+      90.5,
+      96.5,
+      95.5,
+      94.0,
+      95.0,
+      94.5,
+      96.0,
+      94.0,
+      94.5,
+      95.5
+    ],
+    "look_widths": [
+      118,
+      121,
+      117,
+      119,
+      119,
+      120,
+      119,
+      115,
+      125,
+      124,
+      122,
+      123,
+      122,
+      122,
+      123,
+      123
+    ],
+    "maximum_center_drift_pixels": 5.5,
+    "maximum_width_ratio": 1.0869565217391304
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 022.5 accepted with a reviewed warning",
+    "look direction 045 accepted with a reviewed warning",
+    "look direction 157.5 accepted with a reviewed warning",
+    "look direction 202.5 accepted with a reviewed warning",
+    "look direction 337.5 accepted with a reviewed warning",
+    "000 has transparent interior hole rows (y=170)",
+    "022.5 has transparent interior hole rows (y=168, y=169)",
+    "135 has transparent interior hole rows (y=168)",
+    "247.5 has transparent interior hole rows (y=168)",
+    "337.5 has transparent interior hole rows (y=168, y=169)"
+  ]
+}

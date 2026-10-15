@@ -1,0 +1,215 @@
+{
+  "originalTask": "running",
+  "before": {
+    "player": null,
+    "state": null,
+    "stopReason": "stopped",
+    "canvasCount": 0,
+    "visiblePixels": 0,
+    "task": "running",
+    "layout": {
+      "width": 224,
+      "height": 243
+    }
+  },
+  "afterIdleSet": {
+    "player": null,
+    "state": null,
+    "stopReason": "stopped",
+    "canvasCount": 0,
+    "visiblePixels": 0,
+    "task": "idle",
+    "layout": {
+      "width": 224,
+      "height": 243
+    }
+  },
+  "singleBeforeRelease": {
+    "player": {
+      "stopped": false,
+      "mode": "daily",
+      "renderFrames": 2,
+      "slowFrames": 0,
+      "clip": "dance",
+      "elapsed": 81.5500000026077,
+      "phase": "dance",
+      "outfit": "cafe",
+      "danceId": "tiptoe-clap",
+      "duo": false,
+      "lookDirection": null,
+      "measurementWidth": 224
+    },
+    "state": {
+      "version": 2,
+      "outfit": "cafe",
+      "visibleMs": 163.1000000052154,
+      "nextOutfitAt": 349604.816533013,
+      "phase": "dance",
+      "phaseElapsed": 163.1000000052154,
+      "danceId": "tiptoe-clap",
+      "danceBag": [
+        "op-turn",
+        "small-sway"
+      ],
+      "lastDance": "tiptoe-clap",
+      "scene": null,
+      "sceneBag": [],
+      "outfitBag": [],
+      "lastScene": null,
+      "lastMode": "daily",
+      "lastTask": null,
+      "taskElapsed": 0,
+      "recoveryRemaining": 0,
+      "resume": null
+    },
+    "stopReason": null,
+    "canvasCount": 1,
+    "visiblePixels": 21404,
+    "task": "idle",
+    "layout": {
+      "width": 224,
+      "height": 243
+    }
+  },
+  "singleAfterRelease": {
+    "player": {
+      "stopped": false,
+      "mode": "daily",
+      "renderFrames": 4,
+      "slowFrames": 0,
+      "clip": "idle",
+      "elapsed": 116.90000000037253,
+      "phase": "dance",
+      "outfit": "cafe",
+      "danceId": null,
+      "duo": false,
+      "lookDirection": null,
+      "measurementWidth": 224
+    },
+    "state": {
+      "version": 2,
+      "outfit": "cafe",
+      "visibleMs": 597.2000000067055,
+      "nextOutfitAt": 349604.816533013,
+      "phase": "dance",
+      "phaseElapsed": 179.70000000670552,
+      "danceId": "tiptoe-clap",
+      "danceBag": [
+        "op-turn",
+        "small-sway"
+      ],
+      "lastDance": "tiptoe-clap",
+      "scene": null,
+      "sceneBag": [],
+      "outfitBag": [],
+      "lastScene": null,
+      "lastMode": "daily",
+      "lastTask": null,
+      "taskElapsed": 0,
+      "recoveryRemaining": 1083.0999999996275,
+      "resume": null
+    },
+    "stopReason": null,
+    "canvasCount": 1,
+    "visiblePixels": 18854,
+    "task": "idle",
+    "layout": {
+      "width": 224,
+      "height": 243
+    }
+  },
+  "singleAfterIdleAgain": {
+    "player": {
+      "stopped": false,
+      "mode": "daily",
+      "renderFrames": 5,
+      "slowFrames": 0,
+      "clip": "idle",
+      "elapsed": 334,
+      "phase": "dance",
+      "outfit": "cafe",
+      "danceId": null,
+      "duo": false,
+      "lookDirection": null,
+      "measurementWidth": 224
+    },
+    "state": {
+      "version": 2,
+      "outfit": "cafe",
+      "visibleMs": 814.300000006333,
+      "nextOutfitAt": 349604.816533013,
+      "phase": "dance",
+      "phaseElapsed": 179.70000000670552,
+      "danceId": "tiptoe-clap",
+      "danceBag": [
+        "op-turn",
+        "small-sway"
+      ],
+      "lastDance": "tiptoe-clap",
+      "scene": null,
+      "sceneBag": [],
+      "outfitBag": [],
+      "lastScene": null,
+      "lastMode": "daily",
+      "lastTask": null,
+      "taskElapsed": 0,
+      "recoveryRemaining": 866,
+      "resume": null
+    },
+    "stopReason": null,
+    "canvasCount": 1,
+    "visiblePixels": 19210,
+    "task": "idle",
+    "layout": {
+      "width": 224,
+      "height": 243
+    }
+  },
+  "duoAfterAckWindow": {
+    "player": {
+      "stopped": false,
+      "mode": "daily",
+      "renderFrames": 18,
+      "slowFrames": 1,
+      "clip": "dance",
+      "elapsed": 726.3499999996275,
+      "phase": "dance",
+      "outfit": "cafe",
+      "danceId": "small-sway",
+      "duo": false,
+      "lookDirection": null,
+      "measurementWidth": 224
+    },
+    "state": {
+      "version": 2,
+      "outfit": "cafe",
+      "visibleMs": 1452.699999999255,
+      "nextOutfitAt": 393636.4713937059,
+      "phase": "dance",
+      "phaseElapsed": 1452.699999999255,
+      "danceId": "small-sway",
+      "danceBag": [
+        "op-turn",
+        "tiptoe-clap"
+      ],
+      "lastDance": "small-sway",
+      "scene": null,
+      "sceneBag": [],
+      "outfitBag": [],
+      "lastScene": null,
+      "lastMode": "daily",
+      "lastTask": null,
+      "taskElapsed": 0,
+      "recoveryRemaining": 0,
+      "resume": null
+    },
+    "stopReason": "stopped",
+    "canvasCount": 1,
+    "visiblePixels": 24335,
+    "task": "idle",
+    "layout": {
+      "width": 224,
+      "height": 243
+    }
+  }
+}

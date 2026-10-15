@@ -1,0 +1,608 @@
+{
+  "passed": true,
+  "clips": [
+    {
+      "outfit": "classic",
+      "action": "idle",
+      "samples": 154,
+      "playMs": 1279.9999999999998,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "classic",
+      "action": "failed",
+      "samples": 202,
+      "playMs": 1680.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "classic",
+      "action": "waiting",
+      "samples": 192,
+      "playMs": 1600.0000000000002,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "classic",
+      "action": "running",
+      "samples": 164,
+      "playMs": 1360.0000000000002,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "classic",
+      "action": "review",
+      "samples": 231,
+      "playMs": 1920.0000000000005,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "classic",
+      "action": "bean",
+      "samples": 164,
+      "playMs": 1360.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "classic",
+      "action": "pout",
+      "samples": 173,
+      "playMs": 1439.9999999999995,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "classic",
+      "action": "shy",
+      "samples": 180,
+      "playMs": 1500.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "classic",
+      "action": "hop",
+      "samples": 144,
+      "playMs": 1200.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "classic",
+      "action": "sleepy",
+      "samples": 264,
+      "playMs": 2200.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "classic",
+      "action": "lie",
+      "samples": 504,
+      "playMs": 4200.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "classic",
+      "action": "lump",
+      "samples": 360,
+      "playMs": 3000.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "classic",
+      "action": "showcase",
+      "samples": 288,
+      "playMs": 2400.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "classic",
+      "action": "lawrence-care",
+      "samples": 528,
+      "playMs": 4400.0,
+      "rasterSize": [
+        1152,
+        624
+      ]
+    },
+    {
+      "outfit": "classic",
+      "action": "hazelita-chat",
+      "samples": 432,
+      "playMs": 3600.0,
+      "rasterSize": [
+        1152,
+        624
+      ]
+    },
+    {
+      "outfit": "classic",
+      "action": "hazelita-showcase",
+      "samples": 528,
+      "playMs": 4400.0,
+      "rasterSize": [
+        1152,
+        624
+      ]
+    },
+    {
+      "outfit": "classic",
+      "action": "lawrence-sleeve",
+      "samples": 250,
+      "playMs": 2080.0,
+      "rasterSize": [
+        1152,
+        624
+      ]
+    },
+    {
+      "outfit": "classic",
+      "action": "op-turn",
+      "samples": 480,
+      "playMs": 4000.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "classic",
+      "action": "small-sway",
+      "samples": 360,
+      "playMs": 3000.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "classic",
+      "action": "tiptoe-clap",
+      "samples": 288,
+      "playMs": 2400.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "travel",
+      "action": "idle",
+      "samples": 154,
+      "playMs": 1279.9999999999998,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "travel",
+      "action": "failed",
+      "samples": 202,
+      "playMs": 1680.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "travel",
+      "action": "waiting",
+      "samples": 192,
+      "playMs": 1600.0000000000002,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "travel",
+      "action": "running",
+      "samples": 164,
+      "playMs": 1360.0000000000002,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "travel",
+      "action": "review",
+      "samples": 231,
+      "playMs": 1919.9999999999998,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "travel",
+      "action": "bean",
+      "samples": 164,
+      "playMs": 1360.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "travel",
+      "action": "pout",
+      "samples": 173,
+      "playMs": 1440.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "travel",
+      "action": "shy",
+      "samples": 180,
+      "playMs": 1500.0000000000002,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "travel",
+      "action": "hop",
+      "samples": 144,
+      "playMs": 1200.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "travel",
+      "action": "sleepy",
+      "samples": 264,
+      "playMs": 2200.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "travel",
+      "action": "lie",
+      "samples": 504,
+      "playMs": 4200.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "travel",
+      "action": "lump",
+      "samples": 360,
+      "playMs": 3000.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "travel",
+      "action": "showcase",
+      "samples": 288,
+      "playMs": 2400.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "travel",
+      "action": "lawrence-care",
+      "samples": 528,
+      "playMs": 4400.0,
+      "rasterSize": [
+        1152,
+        624
+      ]
+    },
+    {
+      "outfit": "travel",
+      "action": "hazelita-chat",
+      "samples": 432,
+      "playMs": 3600.0,
+      "rasterSize": [
+        1152,
+        624
+      ]
+    },
+    {
+      "outfit": "travel",
+      "action": "hazelita-showcase",
+      "samples": 528,
+      "playMs": 4400.0,
+      "rasterSize": [
+        1152,
+        624
+      ]
+    },
+    {
+      "outfit": "travel",
+      "action": "lawrence-sleeve",
+      "samples": 250,
+      "playMs": 2080.0,
+      "rasterSize": [
+        1152,
+        624
+      ]
+    },
+    {
+      "outfit": "travel",
+      "action": "op-turn",
+      "samples": 480,
+      "playMs": 4000.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "travel",
+      "action": "small-sway",
+      "samples": 360,
+      "playMs": 3000.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "travel",
+      "action": "tiptoe-clap",
+      "samples": 288,
+      "playMs": 2400.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "cafe",
+      "action": "idle",
+      "samples": 154,
+      "playMs": 1279.9999999999998,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "cafe",
+      "action": "failed",
+      "samples": 202,
+      "playMs": 1680.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "cafe",
+      "action": "waiting",
+      "samples": 192,
+      "playMs": 1600.0000000000002,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "cafe",
+      "action": "running",
+      "samples": 164,
+      "playMs": 1360.0000000000002,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "cafe",
+      "action": "review",
+      "samples": 231,
+      "playMs": 1920.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "cafe",
+      "action": "bean",
+      "samples": 164,
+      "playMs": 1360.0000000000005,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "cafe",
+      "action": "pout",
+      "samples": 173,
+      "playMs": 1439.9999999999995,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "cafe",
+      "action": "shy",
+      "samples": 180,
+      "playMs": 1499.9999999999998,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "cafe",
+      "action": "hop",
+      "samples": 144,
+      "playMs": 1200.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "cafe",
+      "action": "sleepy",
+      "samples": 264,
+      "playMs": 2200.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "cafe",
+      "action": "lie",
+      "samples": 504,
+      "playMs": 4200.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "cafe",
+      "action": "lump",
+      "samples": 360,
+      "playMs": 3000.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "cafe",
+      "action": "showcase",
+      "samples": 288,
+      "playMs": 2400.0000000000005,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "cafe",
+      "action": "lawrence-care",
+      "samples": 528,
+      "playMs": 4400.0,
+      "rasterSize": [
+        1152,
+        624
+      ]
+    },
+    {
+      "outfit": "cafe",
+      "action": "hazelita-chat",
+      "samples": 432,
+      "playMs": 3600.0,
+      "rasterSize": [
+        1152,
+        624
+      ]
+    },
+    {
+      "outfit": "cafe",
+      "action": "hazelita-showcase",
+      "samples": 528,
+      "playMs": 4400.0,
+      "rasterSize": [
+        1152,
+        624
+      ]
+    },
+    {
+      "outfit": "cafe",
+      "action": "lawrence-sleeve",
+      "samples": 250,
+      "playMs": 2080.0,
+      "rasterSize": [
+        1152,
+        624
+      ]
+    },
+    {
+      "outfit": "cafe",
+      "action": "op-turn",
+      "samples": 480,
+      "playMs": 4000.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "cafe",
+      "action": "small-sway",
+      "samples": 360,
+      "playMs": 3000.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    },
+    {
+      "outfit": "cafe",
+      "action": "tiptoe-clap",
+      "samples": 288,
+      "playMs": 2400.0,
+      "rasterSize": [
+        576,
+        624
+      ]
+    }
+  ],
+  "assets": 132,
+  "method": "Actual PNG headers and every source/motion rectangle; original wall-clock contracts retained",
+  "limitation": "Geometry/clock validity alone does not prove absence of internal texture artifacts"
+}

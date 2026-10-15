@@ -1,0 +1,11 @@
+{
+  "size": [2172, 724],
+  "mode": "RGBA",
+  "transparent_fraction": 0.5346060610685469,
+  "frame_count": 6,
+  "frame_sequence": ["normal open green eyes", "round dark green bean eyes and tiny o mouth", "bean eyes, gentle head tilt and joined hands", "bean-eye surprise with raised hands", "closed-eye happy smile", "normal open green eyes restored"],
+  "visible_main_component_bounds_alpha_32": [[28,120,360,648], [394,120,723,648], [762,123,1087,649], [1106,120,1433,648], [1460,120,1787,648], [1816,120,2147,648]],
+  "identity": "Mint long hair, cream lace veil and cape, navy pleated skirt and cream lace hem, dark stockings and dark shoes consistent with the canonical pet.",
+  "composition": "Six full-body figures in one row, all complete and inside canvas; consistent scale and baseline within one pixel at the shoes. Faces independently drawn.",
+  "caveat": "Generated source retains tiny colored/white alpha residue outside the principal character components. Use the bundled extraction foreground cleanup and inspect frames. Equal six-way cuts are not ideal: frame 3 extends one pixel across its nominal right cell boundary; component-based extraction is preferred."
+}

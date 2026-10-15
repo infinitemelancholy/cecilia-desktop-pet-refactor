@@ -1,0 +1,8 @@
+{
+  "tool": "built-in ImageGen",
+  "prompt": "Cecilia OP dance segment04. Twelve complete CHIBI full-body poses, TWO ROWS of SIX, chronological top then bottom. True transparent, each full silhouette isolated with wide gutters including all long mint hair, white saint head veil, navy/ivory skirt and shoes; identical head and body drawing scale. Original existing pet and previous strip preserve identity/style/costume. Last reference shows ACTUAL OP turn sequence. Ignore background, flower graphics, captions and large foreground chibi head; use ONLY dancerCecilia. Frames0-4: front-facing, small forward/side lean, hands low and begin opening toward viewer-left. Frame5: start turning toward viewer-left, hands extend forward/left at about waist-to-chest height. Frame6: clear viewer-left profile with arms extended, momentum in hair. Frames7-10: continue leftward rotation into three-quarter-back then rear facing; head veil/hair/skirt flow with spin, face naturally occluded on true rear views. Frame11: continue to opposite profile, beginning to reveal face as turn completes next segment. Densely draw intervening angles rather than abrupt facing flips, over0.487sec. Keep short chibi limbs/shoes, supporting knees conservative where video hidesfeet. Hair/skirt trail coherently. Start pose must connect to previous approved strip's final forward lean, with same head size. Don't add jump/flashes/flowers. No text, grid, ground, shadow or extra persons.",
+  "accepted": false,
+  "reason": "Top row last poses turn toward screen-right, then bottom row abruptly faces screen-left, reversing the original turn sequence. Rightmost arms also approach canvas boundary.",
+  "source": "references/user-op/dance-grid-04.jpg",
+  "output": "segment-04-turn-rejected.png"
+}

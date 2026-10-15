@@ -1,0 +1,41 @@
+[
+  {
+    "outfit": "classic",
+    "all18_integrity_subset": true,
+    "baseline_all_unchanged": true,
+    "max_anchor_error": 0.43,
+    "minimum_solid_margin": 6,
+    "preview_size": [
+      448,
+      243
+    ],
+    "preview_nframes": 6,
+    "layers": false
+  },
+  {
+    "outfit": "travel",
+    "all18_integrity_subset": true,
+    "baseline_all_unchanged": true,
+    "max_anchor_error": 0.49,
+    "minimum_solid_margin": 6,
+    "preview_size": [
+      448,
+      243
+    ],
+    "preview_nframes": 6,
+    "layers": false
+  },
+  {
+    "outfit": "cafe",
+    "all18_integrity_subset": true,
+    "baseline_all_unchanged": true,
+    "max_anchor_error": 0.44,
+    "minimum_solid_margin": 4,
+    "preview_size": [
+      448,
+      243
+    ],
+    "preview_nframes": 6,
+    "layers": true
+  }
+]

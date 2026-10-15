@@ -1,0 +1,162 @@
+{
+  "state": "cafe-sleepy",
+  "expected_frames": 6,
+  "actual_frames": 6,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\sleepy\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15567,
+      "bbox": [
+        30,
+        4,
+        162,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\sleepy\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 15059,
+      "bbox": [
+        32,
+        4,
+        160,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\sleepy\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 14776,
+      "bbox": [
+        31,
+        8,
+        161,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\sleepy\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 12861,
+      "bbox": [
+        32,
+        40,
+        159,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\sleepy\\04.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 13681,
+      "bbox": [
+        34,
+        24,
+        158,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "outputs\\cecilia-qpet\\art\\outfits\\cafe\\sleepy\\05.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 14797,
+      "bbox": [
+        31,
+        17,
+        161,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ],
+  "source_bounds": [
+    [
+      155,
+      12,
+      457,
+      468
+    ],
+    [
+      694,
+      14,
+      983,
+      467
+    ],
+    [
+      1214,
+      24,
+      1506,
+      467
+    ],
+    [
+      1897,
+      95,
+      2186,
+      464
+    ],
+    [
+      2416,
+      61,
+      2698,
+      467
+    ],
+    [
+      2931,
+      44,
+      3223,
+      468
+    ]
+  ],
+  "source_files": [
+    "work/art-runs/cafe/q/sources/sleepy-raw.png"
+  ],
+  "strict_contour_chroma_pixels_removed": 3887,
+  "source_row_registration": {
+    "gap_cut_y": 475,
+    "top_row_shift_y": 0,
+    "bottom_row_shift_y": 37,
+    "source_ground_baselines": [
+      468,
+      906
+    ],
+    "method": "Whole rows moved only; no per-character scaling or cropping"
+  },
+  "grounded_pose_y_adjustments": [
+    -1,
+    -1,
+    -1,
+    0,
+    -1,
+    -1
+  ],
+  "shared_registration": "bundled fit_registered_component_groups; one scale for complete row; vertical displacement preserved"
+}

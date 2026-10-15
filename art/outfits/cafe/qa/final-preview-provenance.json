@@ -1,0 +1,16 @@
+{
+  "atlas": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\cafe\\spritesheet-v2.png",
+  "sha256": "72f81f9edbe8038225f30668de96262bac447921fee661cf851946cbd358436a",
+  "allPreviewsFromExactEncodedAtlas": true,
+  "cellSize": [
+    192,
+    208
+  ],
+  "normalPreviewSize": [
+    224,
+    244
+  ],
+  "mp4Fps": 30,
+  "mp4Timing": "Quantized QA preview durations; not an animation-generation frame-rate claim.",
+  "finalIndependentReview": "Parent visually checked all sixteen directions, fixed ponytail, costume, foot registration; passed."
+}

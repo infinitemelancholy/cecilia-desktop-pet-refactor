@@ -1,0 +1,23 @@
+{
+  "selected_raw": "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11ff4-6d0e-78e3-85ab-a12f726b91c7\\exec-6086c45c-0545-453b-aa9f-84d0910eb749.png",
+  "clean_source": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\dance\\segment-04-grid.png",
+  "actual_pipeline": "work/process_dance_source.py with bundled component extraction/inspect/despill",
+  "authored_frame_count": 12,
+  "distinct_frame_sha256": [
+    "4376942002ef1064d48a6b369db8180918e9e3e1aa4e88e11455cc7998f2d359",
+    "83e3ff783547cf086b41b94ad5eb3bab8ba0b00a334251eff84c32fce2e56a97",
+    "9f43824f9799786d7f554721fd25e03862488bd56b5d0a90f4686ee4bc62e3d8",
+    "d1ff12ffdfb49246dd19d61088c385eb7813bb156857ee31cf7f590486fc2830",
+    "c39274eb74725bb761e5768344ee4058762cec005389d7261420e4d6ea85c7eb",
+    "8f840313800585536fad591ee8801c91f2a43b0dc8fdefd38e7020cb969f3938",
+    "4b4d64d89eaebfafe91141094455daa13dc1e08fca735191831d828f90616a76",
+    "f81e1f7823d5db636de34d804559605aa8a497bf1e277fcfb1244ef0f522a864",
+    "65d0f6de08c8fd2f26f0b59191847579f60ef89fa0bdda6fecdd9911c7222a46",
+    "60bec1d245d5cdba740e799b38b5388928968c277d39fe64e3829350bd9f509a",
+    "03e208699db41a22998950ef32b1a46cc9ce5d9feb8786bbc22f8ef675575f95",
+    "69321d974ab079389ea2eb3bba3ffcf0ad9c3ef50bb44fbb0527e276ba0b630d"
+  ],
+  "program_character_drawing": false,
+  "per_pose_scaling": false,
+  "visual_review": "pending; inspect qa/native-contact.png and preview.gif before acceptance"
+}

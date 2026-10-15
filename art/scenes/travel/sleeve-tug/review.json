@@ -1,0 +1,317 @@
+{
+  "state": "travel-sleeve-tug",
+  "expected_frames": 6,
+  "actual_frames": 6,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "outputs\\cecilia-qpet\\art\\scenes\\travel\\sleeve-tug\\00.png",
+      "width": 384,
+      "height": 208,
+      "nontransparent_pixels": 28266,
+      "bbox": [
+        83,
+        4,
+        298,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "outputs\\cecilia-qpet\\art\\scenes\\travel\\sleeve-tug\\01.png",
+      "width": 384,
+      "height": 208,
+      "nontransparent_pixels": 29518,
+      "bbox": [
+        79,
+        5,
+        303,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "outputs\\cecilia-qpet\\art\\scenes\\travel\\sleeve-tug\\02.png",
+      "width": 384,
+      "height": 208,
+      "nontransparent_pixels": 29631,
+      "bbox": [
+        81,
+        5,
+        302,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "outputs\\cecilia-qpet\\art\\scenes\\travel\\sleeve-tug\\03.png",
+      "width": 384,
+      "height": 208,
+      "nontransparent_pixels": 30320,
+      "bbox": [
+        79,
+        4,
+        304,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 4,
+      "file": "outputs\\cecilia-qpet\\art\\scenes\\travel\\sleeve-tug\\04.png",
+      "width": 384,
+      "height": 208,
+      "nontransparent_pixels": 30229,
+      "bbox": [
+        79,
+        4,
+        303,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 5,
+      "file": "outputs\\cecilia-qpet\\art\\scenes\\travel\\sleeve-tug\\05.png",
+      "width": 384,
+      "height": 208,
+      "nontransparent_pixels": 29628,
+      "bbox": [
+        80,
+        4,
+        303,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ],
+  "source_file": "outputs\\cecilia-qpet\\art\\scenes\\travel\\sleeve-tug\\source.png",
+  "source_bounds": [
+    [
+      14,
+      60,
+      487,
+      492
+    ],
+    [
+      510,
+      61,
+      1001,
+      492
+    ],
+    [
+      1023,
+      61,
+      1505,
+      492
+    ],
+    [
+      10,
+      545,
+      504,
+      979
+    ],
+    [
+      511,
+      546,
+      1000,
+      979
+    ],
+    [
+      1032,
+      547,
+      1519,
+      979
+    ]
+  ],
+  "registered_bounds": [
+    [
+      14,
+      60,
+      487,
+      492
+    ],
+    [
+      510,
+      61,
+      1001,
+      492
+    ],
+    [
+      1023,
+      61,
+      1505,
+      492
+    ],
+    [
+      1546,
+      58,
+      2040,
+      492
+    ],
+    [
+      2047,
+      59,
+      2536,
+      492
+    ],
+    [
+      2568,
+      60,
+      3055,
+      492
+    ]
+  ],
+  "source_component_areas": [
+    [
+      80588,
+      51363
+    ],
+    [
+      84254,
+      53731
+    ],
+    [
+      138802
+    ],
+    [
+      142191
+    ],
+    [
+      141565
+    ],
+    [
+      83937,
+      54473
+    ]
+  ],
+  "source_row_registration": {
+    "whole_row_y_shift": [
+      0,
+      -487
+    ],
+    "original_floor_y": [
+      492,
+      979
+    ],
+    "method": "Complete generated connected actors grouped into complete pairs; entire second row translated to first row ground; no slot slicing and no independent actor resizing"
+  },
+  "shared_fit": {
+    "viewport": [
+      502,
+      442
+    ],
+    "scale": 0.4479638009049774,
+    "whole_pair_floor_y": 202,
+    "whole_pair_y_adjustments": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ]
+  },
+  "strict_contour_chroma_removed": 0,
+  "format": "custom scene 384x208, not a standard v2 sprite row",
+  "visual_qa": {
+    "identity": "Approved Cecilia mint hair/green eyes and Lawrence brown hair/eyes dark cassock/gold cross maintained",
+    "side_order": "Cecilia left and Lawrence right, no temporal reversal",
+    "sleeve_contact": "Frames02-04 show thumb/index physically pinching near dark sleeve fabric;05 releases. Frame03 native and zoom visually checked.",
+    "clothing_source": "Official episode05 red travel cloak",
+    "cecilia_source_full_heights_px": [
+      431,
+      429,
+      431,
+      434,
+      433,
+      432
+    ],
+    "cecilia_shared_fit_heights_px_estimate": [
+      193.07,
+      192.18,
+      193.07,
+      194.42,
+      193.97,
+      193.52
+    ],
+    "minimum_cecilia_height_px_estimate": 192.18,
+    "relative_size": "Lawrence actually crouches/leans to her level, drawn by ImageGen; no independently scaled actor",
+    "ground": "Both soles share source baseline; each complete pair translates to output floor202",
+    "alpha": "True alpha with transparent final corners; hazy/colored detached source background excluded",
+    "edge": "Native384x208 frame03 reviewed against black/white/gray; no broad fringe or cropped hair, sleeves, skirt or shoes",
+    "size": "Custom384x208 RGBA paired frames,448x243 normal desktop preview",
+    "scope": "Local visual source and frames; desktop integration and scene entry/exit remain parent work"
+  },
+  "native_edge_checks": [
+    {
+      "index": 0,
+      "bright_yellow_contour_pixels": 0,
+      "bright_blue_contour_pixels": 0
+    },
+    {
+      "index": 1,
+      "bright_yellow_contour_pixels": 0,
+      "bright_blue_contour_pixels": 0
+    },
+    {
+      "index": 2,
+      "bright_yellow_contour_pixels": 0,
+      "bright_blue_contour_pixels": 0
+    },
+    {
+      "index": 3,
+      "bright_yellow_contour_pixels": 0,
+      "bright_blue_contour_pixels": 0
+    },
+    {
+      "index": 4,
+      "bright_yellow_contour_pixels": 0,
+      "bright_blue_contour_pixels": 0
+    },
+    {
+      "index": 5,
+      "bright_yellow_contour_pixels": 0,
+      "bright_blue_contour_pixels": 0
+    }
+  ],
+  "registration_anchor_measurements": [
+    {
+      "index": 0,
+      "cecilia_blue_shoe_center_x_px": 162.69
+    },
+    {
+      "index": 1,
+      "cecilia_blue_shoe_center_x_px": 158.14
+    },
+    {
+      "index": 2,
+      "cecilia_blue_shoe_center_x_px": 161.52
+    },
+    {
+      "index": 3,
+      "cecilia_blue_shoe_center_x_px": 160.35
+    },
+    {
+      "index": 4,
+      "cecilia_blue_shoe_center_x_px": 159.75
+    },
+    {
+      "index": 5,
+      "cecilia_blue_shoe_center_x_px": 159.49
+    }
+  ]
+}

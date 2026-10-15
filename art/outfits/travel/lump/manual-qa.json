@@ -1,0 +1,28 @@
+{
+  "reviewer": "lawrence_canonical",
+  "status": "accepted",
+  "frame_count": 6,
+  "unique_generated_poses_used": 5,
+  "neutral_reused": [
+    0,
+    5
+  ],
+  "source_original_retained": true,
+  "method": "Manual native-size six-pose contact and black/white/gray edge-preview inspection, backed by bundled numeric-only frame inspection.",
+  "poses": "Full standing neutral, knees-up seated crouch, compact folded-leg bun, closed-eye bun blink, unfolding crouch, full standing neutral closure.",
+  "identity_and_proportions": "Large head remains visually consistent with normal standing, while independently drawn knees, skirt, cloak and arms fold into a compact little body. Long mint hair curls beside the folded body. No whole-person shrinking or raster deformation.",
+  "continuity": "The compact pose is a real folded seated form, not a scaled copy of the standing character. All grounded shapes touch 202. Final neutral repeats first.",
+  "alpha_edges": "Complete hair, cape, hands, skirt and shoes visible; no clipping, colored matte debris or detached effects seen on black, white and gray composites. True transparent RGBA cells, never a checkerboard picture.",
+  "rejected_source_or_pose": "Generated final recovery is preserved in unaccepted/05-generated-recovery.png; it is not used for neutral closure.",
+  "first_last_solid_standing_height_px": [
+    194,
+    194
+  ],
+  "min_solid_edge_distance_px": 6,
+  "neutral_identical_pixels": true,
+  "inspection_ok": true,
+  "inspection_warnings": [],
+  "normal_preview": "preview-224x243.gif",
+  "transparent_preview": "preview.webp",
+  "duration_ms": 1660
+}

@@ -1,0 +1,5 @@
+Use case: background-extraction. Edit target is image 1. Precisely clean this transparent chibi Cecilia cafe-maid desktop-pet sprite.
+Keep the entire character, every pose, all proportions, hairstyle, face, green eyes, the red pinstripe maid uniform, white apron, small shoes, placement and transparent canvas size unchanged. Remove the unwanted bright yellow/lime chroma fringe, tiny detached colored specks and jagged matte artifacts along the hair/headband/skirts outer silhouette. The clean edges should be natural mint hair tones and delicate dark outline with smooth genuine transparent alpha and clean antialiasing. No yellow halo, no white halo, no black halo, no added background, no ground shadow. Do not regenerate, redesign or recolor the character's actual interior. Preserve the existing 75% subject height and feet at 88% canvas baseline. The final is one single complete full-body figure on truly transparent background.
+
+Refinement generated source: <本机参考路径已省略>
+Selection: Original generated character retained after deterministic chroma-edge cleanup, because the ImageGen refinement did not fully remove the fringe.

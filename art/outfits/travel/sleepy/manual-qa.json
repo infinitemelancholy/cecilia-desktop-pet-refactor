@@ -1,0 +1,28 @@
+{
+  "reviewer": "lawrence_canonical",
+  "status": "accepted",
+  "frame_count": 6,
+  "unique_generated_poses_used": 5,
+  "neutral_reused": [
+    0,
+    5
+  ],
+  "source_original_retained": true,
+  "method": "Manual native-size six-pose contact and black/white/gray edge-preview inspection, backed by bundled numeric-only frame inspection.",
+  "poses": "Alert neutral, heavy half lids, closed-eye gentle bow with hands together, deepest nod, half-open recovery, neutral closure.",
+  "identity_and_proportions": "Bare mint-green hair/green eyes, raspberry-red travel cape, white blouse/blue tie/navy simple hem remain consistent. The head retains recognizable size while chin/face visibility changes with actual nodding posture.",
+  "continuity": "All poses grounded at 202; no walking or jump substituted. Five nod/recovery drawings plus repeated neutral closure, not six claimed unique drawings.",
+  "alpha_edges": "Complete hair, cape, hands, skirt and shoes visible; no clipping, colored matte debris or detached effects seen on black, white and gray composites. True transparent RGBA cells, never a checkerboard picture.",
+  "rejected_source_or_pose": "source-v1-touching.png: generator chose one horizontal row and adjacent hair became connected; extraction-v1-rejected.json records the real failure. Replaced with an actual two-row redraw; no hair-cut splitting.",
+  "first_last_solid_standing_height_px": [
+    196,
+    196
+  ],
+  "min_solid_edge_distance_px": 5,
+  "neutral_identical_pixels": true,
+  "inspection_ok": true,
+  "inspection_warnings": [],
+  "normal_preview": "preview-224x243.gif",
+  "transparent_preview": "preview.webp",
+  "duration_ms": 1700
+}

@@ -1,0 +1,10 @@
+{
+  "size": [1254, 1254],
+  "mode": "RGBA",
+  "alpha_extrema": [0, 255],
+  "transparent_fraction": 0.7593379018083123,
+  "visible_alpha_bbox_threshold_8": [378, 29, 866, 1229],
+  "identity": "Short brown hair, brown eyes, high collar long dark cassock, gold cross pendant and black shoes verified visually against the official reference.",
+  "composition": "Single full body front view; hair and both shoes have safe margins; neutral gentle smile; no second character, words or scenery.",
+  "caveat": "Extremely faint alpha below 8 exists outside the visible silhouette. Preserve original alpha; use visible-alpha bounds when aligning the actor."
+}

@@ -1,0 +1,55 @@
+{
+  "state": "idle",
+  "frames": 6,
+  "unique_pixel_hashes": 6,
+  "frame_size": [
+    192,
+    208
+  ],
+  "alpha_bboxes": [
+    [
+      36,
+      5,
+      156,
+      203
+    ],
+    [
+      35,
+      5,
+      157,
+      203
+    ],
+    [
+      35,
+      5,
+      157,
+      203
+    ],
+    [
+      35,
+      5,
+      157,
+      203
+    ],
+    [
+      35,
+      5,
+      157,
+      203
+    ],
+    [
+      36,
+      5,
+      156,
+      203
+    ]
+  ],
+  "baseline_bottom_range": [
+    203,
+    203
+  ],
+  "common_scale": "bundled components extractor uses a row-wide viewport and common scale; no individual frame resizing",
+  "visual": "All six silhouettes complete and separate. Subtle breathing/hair sway and half-lidded/closed-eye blink. First and last open-eye poses visually close. No added props, labels or guide lines.",
+  "accepted_source": "exec-1ed0b687-1d33-4f7c-b9cd-4c131e092724.png",
+  "rejected_source": "exec-a514d895-eba5-4af4-a578-63c84387bb2b.png: leftmost ponytail touched canvas edge"
+}

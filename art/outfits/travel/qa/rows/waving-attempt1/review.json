@@ -1,0 +1,88 @@
+{
+  "ok": false,
+  "frames_root": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames",
+  "states": [
+    "waving"
+  ],
+  "errors": [
+    "waving frame 01 is empty or too sparse (0 pixels)",
+    "waving frame 02 is empty or too sparse (3 pixels)",
+    "waving frame 03 is empty or too sparse (0 pixels)"
+  ],
+  "warnings": [
+    "waving frame 00 is much larger than the row median (8873 vs 2)",
+    "waving frame 01 is much smaller than the row median (0 vs 2)",
+    "waving frame 03 is much smaller than the row median (0 vs 2)"
+  ],
+  "rows": [
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": false,
+      "errors": [
+        "waving frame 01 is empty or too sparse (0 pixels)",
+        "waving frame 02 is empty or too sparse (3 pixels)",
+        "waving frame 03 is empty or too sparse (0 pixels)"
+      ],
+      "warnings": [
+        "waving frame 00 is much larger than the row median (8873 vs 2)",
+        "waving frame 01 is much smaller than the row median (0 vs 2)",
+        "waving frame 03 is much smaller than the row median (0 vs 2)"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8873,
+          "bbox": [
+            5,
+            69,
+            187,
+            139
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 0,
+          "bbox": null,
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 3,
+          "bbox": [
+            95,
+            124,
+            97,
+            126
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\frames\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 0,
+          "bbox": null,
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    }
+  ]
+}

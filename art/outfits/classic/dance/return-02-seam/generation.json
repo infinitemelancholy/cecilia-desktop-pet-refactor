@@ -1,0 +1,10 @@
+{
+  "key": "seamReturn02",
+  "prompt": "Exactly TWELVE independently drawn animation frames in 2 rows of 6 evenly spaced full-body figures, transparent RGBA, wide 3:1 canvas. Same chibi Cecilia classic ivory hood, mint long hair, green eyes, navy/ivory saint skirt. Keep EXACT SAME head size and body scale as the FIRST reference, no shrink! Native body 193–196px high in 192x208 cell. Long hair must fall mostly DOWN in a compact silhouette instead of fanning broadly to the sides, leave wide transparent gaps between ALL figures. Every figure isolated and complete; no texts/shadows. Same camera/ground plane. Real gradual limb/head/hair drawings, no repeated low-FPS pose padding. FIRST reference is the EXACT target neutral ending figure. Every frame MUST have SAME head/body dimensions as FIRST, including final hood top and foot baseline, unlike small-head SECOND reference. Start right arm(viewer-left) at shoulder-height horizontal, opposite hand relaxed low, feet parallel. Smoothly lower that right arm through descending diagonal → down by side, progressively straighten head/collar/body. Hair hangs compactly vertically like FIRST, never broad horizontal fan. Final THREE frames match FIRST reference upright neutral stance with relaxed sides hands and identical head/hood size, facial expression (gentle open green eyes) and feet; the last frame should visually match FIRST precisely for looping. SECOND reference only gives order of twelve arm motions, do not copy its undersized character or excessively wide hair. Preserve single consistent proportions at every frame.",
+  "refs": [
+    "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\entry\\00.png",
+    "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\classic\\dance\\return-02-grid.png"
+  ],
+  "accepted": true,
+  "continuityReview": "qa-continuous/manual-review.json"
+}

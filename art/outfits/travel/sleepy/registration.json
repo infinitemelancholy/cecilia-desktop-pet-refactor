@@ -1,0 +1,180 @@
+{
+  "method": "Bundled shared fit followed by whole-frame integer-Y grounding only; no per-frame or person-specific scaling. Final neutral repeats generated first neutral under parent authorization.",
+  "unique_generated_poses_used": 5,
+  "rendered_frames": 6,
+  "neutral_reuse": {
+    "from": 0,
+    "to": 5,
+    "archived_original": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\outfits\\travel\\sleepy\\unaccepted\\05-generated-recovery.png"
+  },
+  "registrations": [
+    {
+      "index": 0,
+      "whole_frame_integer_y": 0,
+      "scale_after_extraction": 1,
+      "grounded": true
+    },
+    {
+      "index": 1,
+      "whole_frame_integer_y": 0,
+      "scale_after_extraction": 1,
+      "grounded": true
+    },
+    {
+      "index": 2,
+      "whole_frame_integer_y": 0,
+      "scale_after_extraction": 1,
+      "grounded": true
+    },
+    {
+      "index": 3,
+      "whole_frame_integer_y": 0,
+      "scale_after_extraction": 1,
+      "grounded": true
+    },
+    {
+      "index": 4,
+      "whole_frame_integer_y": 0,
+      "scale_after_extraction": 1,
+      "grounded": true
+    },
+    {
+      "index": 5,
+      "whole_frame_integer_y": 0,
+      "scale_after_extraction": 1,
+      "grounded": true,
+      "reused_pose": 0
+    }
+  ],
+  "stats": [
+    {
+      "index": 0,
+      "solid_bbox_xywh": [
+        14,
+        5,
+        164,
+        196
+      ],
+      "alpha0_bbox": [
+        13,
+        4,
+        179,
+        202
+      ],
+      "alpha0_floor": 202,
+      "solid_height": 196,
+      "solid_width": 164,
+      "solid_min_edge_distance": 5
+    },
+    {
+      "index": 1,
+      "solid_bbox_xywh": [
+        17,
+        7,
+        158,
+        194
+      ],
+      "alpha0_bbox": [
+        15,
+        4,
+        177,
+        202
+      ],
+      "alpha0_floor": 202,
+      "solid_height": 194,
+      "solid_width": 158,
+      "solid_min_edge_distance": 7
+    },
+    {
+      "index": 2,
+      "solid_bbox_xywh": [
+        18,
+        10,
+        155,
+        191
+      ],
+      "alpha0_bbox": [
+        16,
+        8,
+        176,
+        202
+      ],
+      "alpha0_floor": 202,
+      "solid_height": 191,
+      "solid_width": 155,
+      "solid_min_edge_distance": 7
+    },
+    {
+      "index": 3,
+      "solid_bbox_xywh": [
+        17,
+        18,
+        158,
+        183
+      ],
+      "alpha0_bbox": [
+        15,
+        16,
+        177,
+        202
+      ],
+      "alpha0_floor": 202,
+      "solid_height": 183,
+      "solid_width": 158,
+      "solid_min_edge_distance": 7
+    },
+    {
+      "index": 4,
+      "solid_bbox_xywh": [
+        18,
+        13,
+        156,
+        187
+      ],
+      "alpha0_bbox": [
+        15,
+        11,
+        177,
+        202
+      ],
+      "alpha0_floor": 202,
+      "solid_height": 187,
+      "solid_width": 156,
+      "solid_min_edge_distance": 8
+    },
+    {
+      "index": 5,
+      "solid_bbox_xywh": [
+        14,
+        5,
+        164,
+        196
+      ],
+      "alpha0_bbox": [
+        13,
+        4,
+        179,
+        202
+      ],
+      "alpha0_floor": 202,
+      "solid_height": 196,
+      "solid_width": 164,
+      "solid_min_edge_distance": 5
+    }
+  ],
+  "durations_ms": [
+    240,
+    260,
+    300,
+    400,
+    260,
+    240
+  ],
+  "total_duration_ms": 1700,
+  "manual_review_status": "accepted",
+  "one_shared_source_scale": 0.391304347826087,
+  "source_viewport_px": [
+    424,
+    506
+  ]
+}

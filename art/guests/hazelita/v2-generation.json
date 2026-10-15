@@ -1,0 +1,23 @@
+{
+  "tool": "image_gen__imagegen (built-in)",
+  "version": 2,
+  "asset": "art/guests/hazelita/v2-motion-sheet.png",
+  "character": "hazelita",
+  "animation": "12-frame guest motion sheet",
+  "imagegen_session_id": "01a11fbb-4dec-71d3-b688-58f8910b9890",
+  "original_paths": [
+    "C:\\Users\\Jiang Haoyu\\.codex\\generated_images\\01a11fbb-4dec-71d3-b688-58f8910b9890\\exec-36fab5cd-177b-4210-8d1e-4a4e12f352ad.png"
+  ],
+  "references": [
+    "references/current-pet.png",
+    "references/hazelita-official.png",
+    "references/cecilia-canonical.png"
+  ],
+  "prompt_summary": "12 distinct transparent full-body guest poses in a 4x3 sheet; preserve official identity and costume, animate small head/eye/hand/body gestures at pet scale.",
+  "processing": {
+    "method": "fixed-size cell extraction, transparent-edge cleanup, centered to 192x208, FFmpeg minterpolate to 144 frames at 24.4284 fps",
+    "runtime_frames": 12,
+    "runtime_fps": 12
+  },
+  "sha256": "986db45d6878dc2a9238da7e74f8448f2845405fbe48e56bc179da71bd85d729"
+}

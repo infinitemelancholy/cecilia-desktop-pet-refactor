@@ -1,0 +1,71 @@
+{
+  "state": "poses-left",
+  "expected_frames": 4,
+  "actual_frames": 4,
+  "extraction_method": "components",
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "frames": [
+    {
+      "index": 0,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\guests\\lawrence\\poses-left\\00.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 10802,
+      "bbox": [
+        45,
+        4,
+        147,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 1,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\guests\\lawrence\\poses-left\\01.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 10488,
+      "bbox": [
+        49,
+        4,
+        141,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 2,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\guests\\lawrence\\poses-left\\02.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 10855,
+      "bbox": [
+        54,
+        4,
+        137,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    },
+    {
+      "index": 3,
+      "file": "<本机路径已省略>\\xia\\outputs\\cecilia-qpet\\art\\guests\\lawrence\\poses-left\\03.png",
+      "width": 192,
+      "height": 208,
+      "nontransparent_pixels": 11135,
+      "bbox": [
+        46,
+        4,
+        146,
+        202
+      ],
+      "edge_pixels": 0,
+      "chroma_adjacent_pixels": 0
+    }
+  ]
+}
